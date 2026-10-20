@@ -1,0 +1,677 @@
+@@ a11-unbestimmt
+level: A1.1
+title: حرف تعریف نامعین (ein, eine) و منفی آن (kein)
+de: Der unbestimmte Artikel und der Negativartikel „kein“
+tags: ein, eine, kein, keine, حرف تعریف نامعین, یک, نکره, unbestimmter Artikel, Negativartikel, بدون حرف تعریف, Nullartikel
+summary: «یک کتاب» یا «کتابی» در آلمانی می‌شود `ein Buch`. منفی آن («هیچ کتابی/کتابی نه») با `kein` ساخته می‌شود. و اینکه چه وقت اصلاً حرف تعریف نمی‌آید.
+---
+## ein و eine {#ein}
+
+حرف تعریف نامعین (معادل a/an در انگلیسی) وقتی به کار می‌رود که دربارهٔ چیزی **نامشخص** یا برای **اولین بار** صحبت می‌کنیم. فقط دو شکل در حالت فاعلی دارد:
+
+| جنس | معین | نامعین | مثال |
+|---|---|---|---|
+| مذکر | {m|der} | {m|ein} | {m|ein Tisch} |
+| مؤنث | {f|die} | {f|eine} | {f|eine Lampe} |
+| خنثی | {n|das} | {n|ein} | {n|ein Buch} |
+| جمع | {p|die} | — (بدون حرف تعریف) | {p|Bücher} |
+
+:::rule
+- مذکر و خنثی: `ein`
+- مؤنث: `eine`
+- جمع: **هیچ** حرف تعریف نامعینی ندارد (چون «یک» با جمع معنی ندارد).
+:::
+
+> Das ist **ein** Stuhl. **Der** Stuhl ist bequem. = این یک صندلی است. صندلی راحت است.
+> Hier ist **eine** Apotheke. = اینجا یک داروخانه هست.
+> Ich habe **ein** Auto. = من یک ماشین دارم.
+> Das sind Äpfel. = این‌ها سیب هستند.
+
+:::fa مقایسه با فارسی
+فارسی نکره را با «یک» یا «ـی» نشان می‌دهد: «یک کتاب»، «کتابی»، «یک کتابی». این دقیقاً همان `ein Buch` است. اما فارسی برای **معرفه** نشانه‌ای ندارد («کتاب روی میز است»)، در حالی که آلمانی معرفه را هم با `der/die/das` علامت می‌زند ([[a11-genus]]).
+
+نکته: «یک» فارسی هم عدد است و هم حرف تعریف؛ آلمانی هم همین‌طور: `ein` هم یعنی «یک (عدد)» و هم «یک (نامعین)». برای تأکید روی عدد، در گفتار روی `ein` تکیه می‌کنند: `Ich habe nur **EIN** Kind.`
+:::
+
+## معین یا نامعین؟ {#wann}
+
+| موقعیت | حرف تعریف | مثال |
+|---|---|---|
+| بار اول، نامشخص، «یکی از…» | ein/eine | Ich sehe **einen** Hund. |
+| بار دوم، مشخص، شناخته‌شده | der/die/das | **Der** Hund ist groß. |
+| چیز یگانه (فقط یکی هست) | der/die/das | **Die** Sonne scheint. |
+| تعریف کردن «این چیست؟» | ein/eine | Das ist **ein** Handy. |
+
+## بدون حرف تعریف (Nullartikel) {#null}
+
+در این موارد معمولاً **هیچ** حرف تعریفی نمی‌آید:
+
+| مورد | مثال | معنی |
+|---|---|---|
+| جمعِ نامعین | Ich kaufe Tomaten. | گوجه می‌خرم. |
+| چیزهای غیرقابل‌شمارش (مواد) | Ich trinke Wasser. | آب می‌نوشم. |
+| شغل، ملیت، دین بعد از sein/werden | Sie ist Ärztin. | او پزشک است. |
+| اسم شهرها، اکثر کشورها، اسم افراد | Ich wohne in Berlin. | در برلین زندگی می‌کنم. |
+| چیزهای انتزاعی کلی | Ich habe Zeit / Hunger / Angst. | وقت دارم / گرسنه‌ام / می‌ترسم. |
+| زبان‌ها | Ich lerne Deutsch. | آلمانی یاد می‌گیرم. |
+
+:::warn
+فارسی‌زبان‌هایی که انگلیسی بلدند گاهی می‌گویند ~~Ich bin ein Student~~ (به‌خاطر «I am a student»). در آلمانی شغل بدون حرف تعریف است: `Ich bin Student.` (همان‌طور که در [[a11-sein#gebrauch]] دیدیم.)
+:::
+
+## kein: منفیِ ein {#kein}
+
+:::rule
+`kein` = «هیچ … نه / … ندارم / … نیست». شکل منفیِ `ein` و منفیِ «بدون حرف تعریف» است. صرفش دقیقاً مثل `ein` است، با این تفاوت که **جمع هم دارد**: `keine`.
+:::
+
+| جنس | مثبت | منفی | مثال |
+|---|---|---|---|
+| مذکر | {m|ein} | {m|kein} | Das ist **kein** Tisch. |
+| مؤنث | {f|eine} | {f|keine} | Das ist **keine** Lampe. |
+| خنثی | {n|ein} | {n|kein} | Das ist **kein** Buch. |
+| جمع | — | {p|keine} | Das sind **keine** Bücher. |
+
+> Ist das ein Hund? – Nein, das ist **kein** Hund, das ist eine Katze. = این سگ است؟ – نه، سگ نیست، گربه است.
+> Ich habe **keine** Zeit. = وقت ندارم.
+> Wir haben **keine** Kinder. = بچه نداریم.
+> Er trinkt **kein** Bier. = او آبجو نمی‌نوشد.
+
+:::fa منفی کردن در فارسی و آلمانی
+در فارسی تقریباً همیشه **فعل** منفی می‌شود: «وقت **ن**دارم». در آلمانی با اسم‌های نامعین، منفی‌کننده روی **اسم** می‌نشیند: `Ich habe **keine** Zeit` (لفظاً: «من هیچ‌وقتی دارم»). فعل `habe` مثبت می‌ماند!
+
+نگویید ~~Ich habe nicht Zeit~~ یا ~~Ich habe nicht eine Zeit~~. قاعدهٔ کامل انتخاب بین `nicht` و `kein` در درس [[a11-negation]] آمده است.
+:::
+
+:::tip ترفند k + ein
+`kein` = `k` + `ein`. پس هر جا `ein` یا «هیچ‌چیز» (بدون حرف تعریف) بود و خواستید منفی کنید، یک `k` بگذارید:
+- `ein Auto → kein Auto`
+- `Zeit → keine Zeit`
+- `Kinder → keine Kinder`
+:::
+
+## نگاهی به جلو: ein در حالت‌های دیگر {#kasus}
+
+`ein` و `kein` در حالت‌های دیگر پسوند می‌گیرند (`einen`، `einem`، `einer` …). مثلاً مفعول مذکر: `Ich habe **einen** Bruder.` این‌ها را در [[a11-akkusativ]] و [[a12-dativ]] می‌خوانید. همهٔ «کلمه‌های خانوادهٔ ein» (یعنی `ein`، `kein`، و صفت‌های ملکی مثل `mein`) دقیقاً یک‌جور صرف می‌شوند ([[a11-possessiv]]).
+
+## خودآزمایی {#quiz}
+
+?? `Das ist ___ Tasche.` (نامعین) => `eine` (die Tasche)
+?? منفی کنید: `Ich habe ein Fahrrad.` => `Ich habe kein Fahrrad.`
+?? منفی کنید: `Wir haben Zeit.` => `Wir haben keine Zeit.`
+?? غلط را درست کنید: `Er ist ein Arzt.` (فقط شغل) => `Er ist Arzt.`
+?? `Das sind ___ Äpfel, das sind Birnen.` => `keine`
+
+@@ a11-plural
+level: A1.1
+title: جمع بستن اسم‌ها
+de: Der Plural der Nomen
+tags: جمع, Plural, ها, ان, -e, -er, -n, -en, -s, اوملاوت, جمع اسم, die
+summary: آلمانی پنج روش اصلی برای جمع بستن دارد. با چند قاعدهٔ سرانگشتی می‌شود جمع بیشتر اسم‌ها را حدس زد. خبر خوب: حرف تعریف جمع همیشه `die` است.
+---
+## حرف تعریف جمع {#artikel}
+
+:::rule
+در جمع، جنس اهمیتی ندارد: حرف تعریف معین **همیشه** `die` است. حرف تعریف نامعین ندارد و منفی‌اش `keine` است.
+:::
+
+> {m|der Tisch} → {p|die Tische}
+> {f|die Lampe} → {p|die Lampen}
+> {n|das Buch} → {p|die Bücher}
+
+## پنج نوع جمع {#typen}
+
+| نوع | پسوند | مثال مفرد | جمع |
+|---|---|---|---|
+| ۱ | ‎-e‎ (گاهی با اوملاوت) | der Tag / der Stuhl | die Tag**e** / die St**ü**hl**e** |
+| ۲ | ‎-er‎ (همیشه با اوملاوت اگر ممکن باشد) | das Kind / das Buch | die Kind**er** / die B**ü**ch**er** |
+| ۳ | ‎-n‎ / ‎-en‎ | die Lampe / die Frau | die Lampe**n** / die Frau**en** |
+| ۴ | ‎-s‎ | das Auto / das Handy | die Auto**s** / die Handy**s** |
+| ۵ | بدون پسوند (گاهی فقط اوملاوت) | der Lehrer / der Vater | die Lehrer / die V**ä**ter |
+
+## قاعده‌های سرانگشتی {#regeln}
+
+### اسم‌های مؤنث
+- **بیشتر** مؤنث‌ها `-(e)n` می‌گیرند: `die Zeitung → die Zeitungen`، `die Tür → die Türen`.
+- پسوند `-in` → `-innen` (حرف n دوبار): `die Lehrerin → die Lehrerinnen`.
+- استثنای پرکاربرد: `die Hand → die Hände`، `die Stadt → die Städte`، `die Nacht → die Nächte`، `die Mutter → die Mütter`، `die Tochter → die Töchter`.
+
+### اسم‌های مذکر و خنثی ختم به ‎-er‎، ‎-el‎، ‎-en‎، ‎-chen‎، ‎-lein‎
+- **بدون پسوند** (گاهی اوملاوت): `der Lehrer → die Lehrer`، `der Löffel → die Löffel`، `der Wagen → die Wagen`، `das Mädchen → die Mädchen`، `der Apfel → die Äpfel`، `der Bruder → die Brüder`.
+
+### اسم‌های مذکر تک‌هجایی
+- معمولاً `-e`، اغلب با اوملاوت: `der Tag → die Tage`، `der Zug → die Züge`، `der Arzt → die Ärzte`.
+
+### اسم‌های خنثی تک‌هجایی
+- اغلب `-er` با اوملاوت: `das Haus → die Häuser`، `das Land → die Länder`، `das Glas → die Gläser`.
+- یا `-e`: `das Jahr → die Jahre`، `das Spiel → die Spiele`.
+
+### کلمه‌های خارجی، مخفف‌ها، کلمه‌های ختم به واکه (غیر از ‎-e‎)
+- `-s`: `das Hotel → die Hotels`، `das Kino → die Kinos`، `die Oma → die Omas`، `der PKW → die PKWs`.
+
+### اسم‌های ختم به ‎-ung، ‎-heit، ‎-keit، ‎-schaft، ‎-ion، ‎-tät
+- همیشه `-en`: `die Wohnung → die Wohnungen`، `die Universität → die Universitäten`.
+
+:::tip روش مطمئن
+در دیکشنری‌ها جمع با این علامت‌ها نوشته می‌شود؛ آن را بخوانید:
+| علامت در دیکشنری | یعنی | مثال |
+|---|---|---|
+| Tag, der; -e | Tage | die Tage |
+| Buch, das; ¨-er | Bücher | die Bücher |
+| Lampe, die; -n | Lampen | die Lampen |
+| Lehrer, der; - | Lehrer | die Lehrer |
+| Vater, der; ¨- | Väter | die Väter |
+| Auto, das; -s | Autos | die Autos |
+
+پس اسم را همیشه به شکل سه‌تایی یاد بگیرید: **حرف تعریف + مفرد + جمع**: `der Tisch, die Tische`.
+:::
+
+## اسم‌هایی که فقط مفرد یا فقط جمع‌اند {#nur}
+
+| فقط جمع | معنی | فقط مفرد (معمولاً) | معنی |
+|---|---|---|---|
+| die Eltern | والدین | die Milch | شیر |
+| die Leute | مردم | das Obst | میوه |
+| die Ferien | تعطیلات | das Gemüse | سبزیجات |
+| die Geschwister | خواهر و برادرها | der Zucker | شکر |
+| die Kosten | هزینه‌ها | die Polizei | پلیس |
+| die Lebensmittel | مواد غذایی | das Geld | پول |
+
+:::warn die Polizei و das Obst
+`Die Polizei **kommt**.` (فعل مفرد!) و `Das Obst **ist** frisch.` در فارسی می‌گوییم «میوه‌ها تازه‌اند» اما در آلمانی `Obst` مفرد است.
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+۱. فارسی تقریباً همیشه با «ـها» (و در متن رسمی «ـان») جمع می‌بندد و نشانه‌اش منظم است. آلمانی پنج الگو دارد و جمع را باید با کلمه یاد گرفت.
+
+۲. **بعد از عدد:** فارسی بعد از عدد اسم را مفرد می‌آورد: «سه **کتاب**». آلمانی (مثل انگلیسی) جمع می‌آورد: `drei **Bücher**`. نگویید ~~drei Buch~~.
+
+استثنا: واحدهای اندازه‌گیری مذکر و خنثی بعد از عدد مفرد می‌مانند: `zwei Kilo`، `drei Glas Wasser`، `fünf Euro`، `100 Gramm`. (اما مؤنث‌ها جمع می‌شوند: `zwei Flaschen`، `drei Tassen`.)
+
+۳. فارسی گاهی با جمع احترام می‌گذارد («ایشان تشریف آوردند»)؛ آلمانی این کار را با `Sie` انجام می‌دهد ([[a11-sein#pronomen]]) نه با جمع بستن اسم.
+:::
+
+## جمع در حالت‌های دیگر {#kasus}
+
+جمع در Nominativ و Akkusativ یکسان است. فقط در حالت Dativ یک `-n` اضافه می‌گیرد (اگر نداشته باشد): `mit den Kinder**n**`. این را در [[a12-dativ]] می‌بینید.
+
+## خودآزمایی {#quiz}
+
+?? جمع `die Frau`؟ => `die Frauen`
+?? جمع `das Kind`؟ => `die Kinder`
+?? جمع `der Lehrer`؟ => `die Lehrer` (بدون تغییر)
+?? جمع `das Foto`؟ => `die Fotos`
+?? جمع `die Studentin`؟ => `die Studentinnen`
+?? به آلمانی: «چهار سیب» => `vier Äpfel`
+?? جمع `der Stuhl`؟ => `die Stühle`
+
+@@ a11-negation
+level: A1.1
+title: منفی کردن جمله با nicht و kein
+de: Negation mit „nicht“ und „kein“
+tags: منفی, نفی, nicht, kein, نه, نیست, nie, niemand, nichts, noch nicht, nicht mehr, kein mehr, نفی مضاعف, Negation
+summary: آلمانی دو ابزار اصلی برای منفی کردن دارد: `kein` برای اسم‌های نامعین و `nicht` برای بقیه. همچنین «هیچ‌وقت»، «هیچ‌کس»، «هیچ‌چیز» و «هنوز نه / دیگر نه».
+---
+## nicht یا kein؟ {#wahl}
+
+:::rule قاعدهٔ انتخاب
+- **kein**: وقتی اسمی که منفی می‌شود حرف تعریف **نامعین** (`ein/eine`) دارد یا **بدون حرف تعریف** است.
+- **nicht**: در همهٔ موارد دیگر: فعل، صفت، قید، اسم با حرف تعریف **معین**، اسم با صفت ملکی، اسم خاص، گروه حرف اضافه‌ای.
+:::
+
+| جملهٔ مثبت | منفی | چرا؟ |
+|---|---|---|
+| Ich habe **ein** Auto. | Ich habe **kein** Auto. | ein → kein |
+| Ich trinke Kaffee. | Ich trinke **keinen** Kaffee. | بدون حرف تعریف |
+| Wir haben Kinder. | Wir haben **keine** Kinder. | جمع نامعین |
+| Ich kaufe **das** Auto. | Ich kaufe das Auto **nicht**. | حرف تعریف معین |
+| Das ist **mein** Handy. | Das ist **nicht** mein Handy. | صفت ملکی |
+| Ich komme. | Ich komme **nicht**. | فعل |
+| Er ist müde. | Er ist **nicht** müde. | صفت |
+| Das ist Anna. | Das ist **nicht** Anna. | اسم خاص |
+| Ich wohne in Köln. | Ich wohne **nicht** in Köln. | حرف اضافه |
+
+:::note
+`kein` مثل `ein` صرف می‌شود ([[a11-unbestimmt#kein]]). پس در Akkusativ مذکر می‌شود `keinen` (`Ich habe keinen Bruder`)؛ این را در [[a11-akkusativ]] می‌بینید.
+:::
+
+## جایگاه nicht: قواعد پایه {#position}
+
+| وقتی… | nicht کجا می‌آید؟ | مثال |
+|---|---|---|
+| کل جمله/فعل منفی می‌شود | معمولاً **آخر جمله** | Ich verstehe das **nicht**. |
+| صفت یا قید (بعد از sein) | **قبل** از آن | Das Essen ist **nicht** gut. |
+| گروه حرف اضافه‌ای (مکان، جهت) | **قبل** از آن | Er wohnt **nicht** in Berlin. |
+| فعل دوبخشی (پیشوند، مصدر، اسم مفعول) | **قبل** از بخش دوم | Ich kann heute **nicht** kommen. |
+| فقط یک بخش خاص (تقابل) | **قبل** از همان بخش (+ sondern) | **Nicht** ich, sondern er hat das gemacht. |
+
+> Ich rufe dich morgen **nicht** an. = فردا بهت زنگ نمی‌زنم.
+> Wir fahren **nicht** mit dem Bus, sondern mit dem Zug. = با اتوبوس نمی‌رویم، بلکه با قطار.
+
+:::tip ساده‌ترین قانون برای شروع
+اگر شک دارید، `nicht` را **آخر** جمله بگذارید؛ مگر اینکه آخر جمله صفت، مکان یا بخش دوم فعل باشد. در آن صورت `nicht` را **قبل** از آن بگذارید. جزئیات کامل در [[b12-nicht-position]].
+:::
+
+## سایر کلمه‌های منفی {#andere}
+
+| مثبت | منفی | فارسی | مثال |
+|---|---|---|---|
+| immer / oft | nie / niemals | هرگز، هیچ‌وقت | Ich rauche **nie**. |
+| jemand | niemand | هیچ‌کس | **Niemand** ist hier. |
+| etwas / alles | nichts | هیچ‌چیز | Ich sehe **nichts**. |
+| irgendwo | nirgendwo / nirgends | هیچ‌جا | Ich finde es **nirgendwo**. |
+| schon | noch nicht | هنوز نه | Er ist **noch nicht** da. |
+| noch | nicht mehr | دیگر نه | Ich wohne **nicht mehr** hier. |
+| noch ein / noch | kein … mehr | دیگر … نه | Ich habe **kein** Geld **mehr**. |
+
+:::fa نفی مضاعف: مهم‌ترین تفاوت با فارسی
+در فارسی معمولاً **دو بار** منفی می‌کنیم: «**هیچ‌کس ن**یامد»، «**هیچ‌چیز ن**می‌بینم»، «**هرگز ن**می‌روم». در آلمانی کلمهٔ منفی **یک بار** کافی است و فعل مثبت می‌ماند:
+
+> Niemand **ist** gekommen. = هیچ‌کس نیامد. (لفظاً: هیچ‌کس آمد)
+> Ich sehe nichts. = هیچ‌چیز نمی‌بینم.
+> Ich gehe nie dorthin. = هرگز آنجا نمی‌روم.
+
+نگویید ~~Ich sehe nicht nichts~~ یا ~~Niemand kommt nicht~~: دو منفی در آلمانی یکدیگر را خنثی می‌کنند و معنی **مثبت** می‌شود!
+:::
+
+:::fa جایگاه منفی
+در فارسی منفی روی **فعل** است (پیشوند «نـ»/«نمی‌»). در آلمانی کلمهٔ منفی یک کلمهٔ جداست که جایش در جمله تغییر می‌کند و می‌تواند فقط بخشی از جمله را منفی کند: `**Nicht** heute, sondern morgen` (نه امروز، بلکه فردا). این شبیه «نه» در فارسی است: «**نه** امروز، فردا».
+:::
+
+## جواب به سؤال منفی: doch {#doch}
+
+به یاد بیاورید ([[a11-janein#antwort]]): اگر سؤال منفی بود و جواب مثبت است، به‌جای `ja` می‌گوییم `doch`.
+
+> Kommst du **nicht**? – **Doch**! = نمی‌آیی؟ – چرا!
+> Hast du **keine** Zeit? – **Doch**, ich habe Zeit. = وقت نداری؟ – چرا، دارم.
+
+## sondern: «بلکه» {#sondern}
+
+بعد از جملهٔ منفی، برای تصحیح از `sondern` استفاده می‌کنیم (نه `aber`):
+
+> Das ist **kein** Tee, **sondern** Kaffee. = این چای نیست، بلکه قهوه است.
+> Ich komme **nicht** heute, **sondern** morgen. = امروز نمی‌آیم، بلکه فردا.
+
+جزئیات در [[a12-konnektoren]].
+
+## خودآزمایی {#quiz}
+
+?? منفی کنید: `Ich verstehe die Frage.` => `Ich verstehe die Frage nicht.`
+?? منفی کنید: `Er hat ein Fahrrad.` => `Er hat kein Fahrrad.`
+?? منفی کنید: `Das Zimmer ist groß.` => `Das Zimmer ist nicht groß.`
+?? به آلمانی: «هیچ‌کس نمی‌داند.» (wissen → weiß) => `Niemand weiß das.` / `Niemand weiß es.`
+?? به آلمانی: «دیگر سیگار نمی‌کشم.» (rauchen) => `Ich rauche nicht mehr.`
+?? به آلمانی: «او هنوز اینجا نیست.» => `Er ist noch nicht hier.`
+?? به آلمانی: «دیگر وقت ندارم.» => `Ich habe keine Zeit mehr.`
+
+@@ a11-possessiv
+level: A1.1
+title: صفت‌های ملکی (mein, dein, sein …)
+de: Possessivartikel im Nominativ
+tags: ملکی, mein, dein, sein, ihr, unser, euer, Ihr, مال من, ـم, ـت, ـش, Possessivartikel, صفت ملکی, ضمیر ملکی
+summary: «کتابم»، «خانه‌ات»، «پدرش»: آلمانی به‌جای پسوند، کلمهٔ جداگانه‌ای قبل از اسم می‌گذارد. این کلمه‌ها مثل `ein` صرف می‌شوند.
+---
+## صفت‌های ملکی اصلی {#tabelle}
+
+| ضمیر شخصی | صفت ملکی | فارسی |
+|---|---|---|
+| ich | mein | ـَم / مالِ من |
+| du | dein | ـَت / مالِ تو |
+| er | sein | ـَش (مرد) |
+| sie | ihr | ـَش (زن) |
+| es | sein | ـَش (خنثی) |
+| wir | unser | ـِمان |
+| ihr | euer | ـِتان (جمع خودمانی) |
+| sie | ihr | ـِشان |
+| Sie | Ihr | ـِتان (محترمانه؛ با I بزرگ) |
+
+:::fa مقایسه با فارسی
+فارسی مالکیت را با **پسوند** (کتاب**م**، کتاب**ت**) یا با **اضافه** (کتابِ **من**) نشان می‌دهد و این‌ها **بعد** از اسم می‌آیند. آلمانی کلمهٔ ملکی را **قبل** از اسم می‌گذارد، دقیقاً جای حرف تعریف: `**mein** Buch` = «کتابم».
+
+نکتهٔ مهم: فارسی برای «ـش» فرق نمی‌گذارد مال مرد است یا زن («کتابش»). آلمانی فرق می‌گذارد: کتابِ او (مرد) = `**sein** Buch`؛ کتابِ او (زن) = `**ihr** Buch`.
+:::
+
+## پسوند صفت ملکی: بسته به اسمِ بعدی {#endung}
+
+صفت ملکی دو «تصمیم» جداگانه دارد:
+1. **ریشه** (`mein`، `sein`، `ihr` …) را **مالک** تعیین می‌کند.
+2. **پسوند** را **جنس و تعداد چیزِ تملک‌شده** تعیین می‌کند (مثل `ein`/`eine`).
+
+:::rule پسوندها در حالت فاعلی (Nominativ)
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| ein | ein | ein**e** | ein | — |
+| kein | kein | kein**e** | kein | kein**e** |
+| mein | {m|mein} Vater | {f|mein**e**} Mutter | {n|mein} Kind | {p|mein**e**} Eltern |
+| dein | dein | dein**e** | dein | dein**e** |
+| sein | sein | sein**e** | sein | sein**e** |
+| ihr | ihr | ihr**e** | ihr | ihr**e** |
+| unser | unser | unser**e** | unser | unser**e** |
+| euer | euer | eur**e** | euer | eur**e** |
+| Ihr | Ihr | Ihr**e** | Ihr | Ihr**e** |
+:::
+
+> **Mein** Bruder heißt Ali. = برادرم علی نام دارد.
+> **Meine** Schwester wohnt in Shiraz. = خواهرم در شیراز زندگی می‌کند.
+> Ist das **dein** Handy? = این گوشی توست؟
+> Das ist Herr Klein und das ist **seine** Frau. = این آقای کلاین است و این همسرش است.
+> Das ist Frau Klein und das ist **ihr** Mann. = این خانم کلاین است و این همسرش است.
+> Wie ist **Ihr** Name? = اسم شما چیست؟
+
+:::warn ترکیب مالک و جنس
+`seine Tochter` = دختر **او (مرد)**؛ پسوند `-e` به‌خاطر مؤنث بودن `Tochter` است، نه به‌خاطر مالک.
+`ihr Sohn` = پسر **او (زن)**؛ `ihr` به‌خاطر مالکِ زن است و بی‌پسوند بودنش به‌خاطر مذکر بودن `Sohn`.
+
+جدول فکری:
+| | پسر (der Sohn) | دختر (die Tochter) |
+|---|---|---|
+| مالک مرد | sein Sohn | sein**e** Tochter |
+| مالک زن | ihr Sohn | ihr**e** Tochter |
+:::
+
+:::warn euer → eure
+وقتی `euer` پسوند می‌گیرد، `e` وسطش می‌افتد: ~~euere~~ → `eure`: `eure Wohnung`، `eure Kinder`.
+:::
+
+## سه معنی ihr/Ihr {#ihr}
+
+| کلمه | معنی | مثال |
+|---|---|---|
+| ihr (ضمیر) | شما (جمع خودمانی) | **Ihr** seid nett. |
+| ihr (ملکی) | ـَش (زن) / ـِشان | Das ist **ihr** Auto. |
+| Ihr (ملکی) | ـِتان (محترمانه) | Ist das **Ihr** Auto? |
+
+## صفت ملکی برای اشیا {#sachen}
+
+صفت ملکی از **جنس دستوری** مالک پیروی می‌کند، حتی اگر مالک شیء باشد:
+
+> Das Auto ist alt. **Sein** Motor ist kaputt. = ماشین قدیمی است. موتورش خراب است. (das Auto → sein)
+> Die Stadt ist schön. **Ihre** Altstadt ist berühmt. = شهر زیباست. بافت قدیمی‌اش مشهور است. (die Stadt → ihr)
+
+## در حالت‌های دیگر {#kasus}
+
+در Akkusativ و Dativ همان پسوندهای `ein/kein` اضافه می‌شود (`meinen`، `meinem`، `meiner` …). جدول کامل: [[a11-akkusativ#possessiv]] و [[a12-dativ]]. همهٔ حالت‌ها یک‌جا در ضمیمهٔ [[x-deklination]].
+
+## خودآزمایی {#quiz}
+
+?? «مادرم» => `meine Mutter`
+?? «پدرِ او (زن)» => `ihr Vater`
+?? «خانهٔ ما» (das Haus) => `unser Haus`
+?? «بچه‌های شما (جمع خودمانی)» => `eure Kinder`
+?? «اسم شما (محترمانه)؟» => `Ihr Name?` / `Wie ist Ihr Name?`
+?? «ماشینِ او (مرد)» (das Auto) => `sein Auto`
+
+@@ a11-vokalwechsel
+level: A1.1
+title: فعل haben و فعل‌های با تغییر واکه
+de: „haben“ und Verben mit Vokalwechsel
+tags: haben, داشتن, hast, hat, Vokalwechsel, تغییر واکه, a ä, e i, e ie, fahren, essen, lesen, sehen, sprechen, nehmen, schlafen, wissen, فعل بی‌قاعده, starke Verben
+summary: دومین فعل مهم آلمانی (`haben` = داشتن) و گروه بزرگی از فعل‌ها که در «تو» و «او» واکهٔ ریشه‌شان عوض می‌شود: `fahren → du fährst`، `essen → er isst`.
+---
+## صرف haben {#haben}
+
+| ضمیر | haben | فارسی |
+|---|---|---|
+| ich | habe | دارم |
+| du | **hast** | داری |
+| er/sie/es | **hat** | دارد |
+| wir | haben | داریم |
+| ihr | habt | دارید |
+| sie/Sie | haben | دارند/دارید |
+
+:::tip
+`haben` فقط در `du` و `er/sie/es` بی‌قاعده است: حرف `b` می‌افتد (`hast`، `hat`). بقیه کاملاً باقاعده‌اند.
+:::
+
+## کاربردهای haben {#gebrauch}
+
+### ۱. داشتن و مالکیت
+> Ich **habe** einen Bruder. = یک برادر دارم.
+> **Hast** du ein Auto? = ماشین داری؟
+
+### ۲. حالت‌های جسمی و روحی (بسیار مهم!)
+| آلمانی | لفظاً | فارسی طبیعی |
+|---|---|---|
+| Ich habe Hunger. | گرسنگی دارم | گرسنه‌ام |
+| Ich habe Durst. | تشنگی دارم | تشنه‌ام |
+| Ich habe Angst. | ترس دارم | می‌ترسم |
+| Ich habe Zeit. | وقت دارم | وقت دارم |
+| Ich habe Lust. | میل دارم | حوصله/دلم می‌خواهد |
+| Ich habe Kopfschmerzen. | سردرد دارم | سرم درد می‌کند |
+| Ich habe Fieber. | تب دارم | تب دارم |
+| Ich habe Recht. | حق دارم | حق با من است |
+
+:::fa
+فارسی برای این حالت‌ها اغلب از صفت + «بودن» استفاده می‌کند («گرسنه‌ام»)، اما آلمانی از اسم + `haben`. نگویید ~~Ich bin Hunger~~. البته صفت هم دارند (`Ich bin hungrig`) اما کمتر رایج است.
+
+برعکس: **سن** با `sein` است، نه `haben`: `Ich bin 30.` (درس [[a11-sein#gebrauch]])
+:::
+
+### ۳. فعل کمکی گذشته
+`haben` مهم‌ترین فعل کمکی برای ساختن زمان گذشتهٔ Perfekt است: `Ich **habe** gegessen` (خورده‌ام). این را در [[a12-perfekt-haben]] می‌بینید.
+
+## فعل‌های با تغییر واکه {#vokalwechsel}
+
+گروهی از فعل‌ها (به آن‌ها «فعل‌های قوی» می‌گویند) در زمان حال **فقط در شخص du و er/sie/es** واکهٔ ریشه‌شان را تغییر می‌دهند. شناسه‌ها همان شناسه‌های همیشگی‌اند ([[a11-praesens#endungen]]).
+
+:::rule سه الگوی اصلی
+| الگو | مثال | ich | du | er/sie/es | wir | ihr |
+|---|---|---|---|---|---|---|
+| a ← ä | fahren | fahre | f**ä**hrst | f**ä**hrt | fahren | fahrt |
+| e ← i | sprechen | spreche | spr**i**chst | spr**i**cht | sprechen | sprecht |
+| e ← ie | lesen | lese | l**ie**st | l**ie**st | lesen | lest |
+:::
+
+:::warn ihr تغییر نمی‌کند!
+تغییر واکه **فقط** در `du` و `er/sie/es` است. `ihr fahrt` (نه ~~ihr fährt~~)، `ihr sprecht`، `ihr lest`.
+:::
+
+### a ← ä (و au ← äu)
+| مصدر | معنی | du | er/sie/es |
+|---|---|---|---|
+| fahren | رفتن با وسیله، رانندگی | fährst | fährt |
+| schlafen | خوابیدن | schläfst | schläft |
+| tragen | حمل کردن، پوشیدن | trägst | trägt |
+| waschen | شستن | wäschst | wäscht |
+| fallen | افتادن | fällst | fällt |
+| halten | نگه داشتن، ایستادن | hältst | hält |
+| lassen | گذاشتن، اجازه دادن | lässt | lässt |
+| laufen | دویدن، پیاده رفتن | läufst | läuft |
+| gefallen | خوش آمدن | gefällst | gefällt |
+| einladen | دعوت کردن | lädst … ein | lädt … ein |
+
+### e ← i
+| مصدر | معنی | du | er/sie/es |
+|---|---|---|---|
+| sprechen | صحبت کردن | sprichst | spricht |
+| essen | خوردن | **isst** | **isst** |
+| geben | دادن | gibst | gibt |
+| helfen | کمک کردن | hilfst | hilft |
+| nehmen | برداشتن، گرفتن | **nimmst** | **nimmt** |
+| treffen | ملاقات کردن | triffst | trifft |
+| vergessen | فراموش کردن | vergisst | vergisst |
+| werfen | انداختن | wirfst | wirft |
+| sterben | مردن | stirbst | stirbt |
+| werden | شدن | **wirst** | **wird** |
+
+### e ← ie
+| مصدر | معنی | du | er/sie/es |
+|---|---|---|---|
+| lesen | خواندن | liest | liest |
+| sehen | دیدن | siehst | sieht |
+| empfehlen | توصیه کردن | empfiehlst | empfiehlt |
+| stehlen | دزدیدن | stiehlst | stiehlt |
+
+:::note شکل‌های کمی عجیب
+- `nehmen`: علاوه بر تغییر واکه، `h` به `m` تبدیل می‌شود: `du nimmst`، `er nimmt`.
+- `essen` و `lesen` و `vergessen`: چون ریشه به `s` ختم می‌شود، در `du` فقط `-t` می‌آید ([[a11-praesens#stamm-s]]): `du isst`، `du liest`.
+- `halten`: `du hältst`، اما `er hält` (بدون ‎-et‎ اضافه؛ استثنا بر قاعدهٔ [[a11-praesens#stamm-t]]).
+:::
+
+## فعل wissen (دانستن) {#wissen}
+
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| weiß | weißt | weiß | wissen | wisst | wissen |
+
+> Ich **weiß** es nicht. = نمی‌دانم.
+> **Weißt** du, wo er wohnt? = می‌دانی کجا زندگی می‌کند؟
+
+:::note
+`wissen` الگوی افعال وجهی را دارد: `ich` و `er` یکسان‌اند و بدون شناسه (`ich weiß`، `er weiß`). این را دوباره در [[a11-modal1]] می‌بینید.
+:::
+
+:::fa مقایسه با فارسی
+فارسی هم فعل‌هایی دارد که «بن»‌شان عوض می‌شود: «رفتن → رو»، «دیدن → بین»، «خواستن → خواه». اما در فارسی تغییر بین گذشته و حال است. در آلمانی (زمان حال) تغییر فقط بین **اشخاص** است. با این حال ذهن شما به حفظ کردن بن‌های بی‌قاعده عادت دارد!
+:::
+
+:::tip چطور بفهمم فعلی تغییر واکه دارد؟
+از ظاهر مصدر نمی‌شود فهمید (`gehen`، `kommen` و `stehen` تغییر نمی‌کنند). باید یاد بگیرید. در دیکشنری‌ها معمولاً جلوی فعل نوشته شده: `fahren (fährt, fuhr, ist gefahren)`. فهرست کامل در ضمیمهٔ [[x-verben]].
+:::
+
+## خودآزمایی {#quiz}
+
+?? `du` + `fahren` => `du fährst`
+?? `er` + `essen` => `er isst`
+?? `ihr` + `sprechen` => `ihr sprecht` (بدون تغییر!)
+?? `sie` (او زن) + `nehmen` => `sie nimmt`
+?? `du` + `lesen` => `du liest`
+?? به آلمانی: «تشنه‌ام.» => `Ich habe Durst.`
+?? به آلمانی: «او (مرد) زیاد می‌خوابد.» => `Er schläft viel.`
+
+@@ a11-akkusativ
+level: A1.1
+title: حالت مفعولی (Akkusativ)
+de: Der Akkusativ
+tags: Akkusativ, مفعول, مفعول مستقیم, را, den, einen, keinen, meinen, wen, was, حالت, Kasus, حالت دستوری
+summary: وقتی اسمی «مفعول مستقیم» جمله است، در حالت Akkusativ قرار می‌گیرد. خبر خوب: فقط حرف تعریف مذکر تغییر می‌کند (`der → den`). این حالت شباهت جالبی به «را» در فارسی دارد.
+---
+## حالت (Kasus) چیست؟ {#kasus}
+
+در آلمانی هر اسم بسته به **نقشش در جمله** یکی از چهار «حالت» را دارد. این نقش با شکل **حرف تعریف** (و گاهی صفت و خود اسم) نشان داده می‌شود:
+
+| حالت | نقش | سؤال | درس |
+|---|---|---|---|
+| Nominativ | فاعل | wer? / was? | تا اینجا همه‌جا |
+| **Akkusativ** | مفعول مستقیم | wen? / was? | همین درس |
+| Dativ | مفعول غیرمستقیم | wem? | [[a12-dativ]] |
+| Genitiv | مالکیت | wessen? | [[b11-genitiv]] |
+
+## صرف حرف تعریف در Akkusativ {#tabelle}
+
+:::rule فقط مذکر عوض می‌شود!
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | {m|der} / {m|ein} | {f|die} / {f|eine} | {n|das} / {n|ein} | {p|die} / — |
+| **Akkusativ** | {m|**den**} / {m|**einen**} | {f|die} / {f|eine} | {n|das} / {n|ein} | {p|die} / — |
+| منفی (Akk.) | {m|**keinen**} | {f|keine} | {n|kein} | {p|keine} |
+:::
+
+> **Der** Mann ist hier. → Ich sehe **den** Mann. = مرد اینجاست ← مرد را می‌بینم.
+> Das ist **ein** Tisch. → Ich kaufe **einen** Tisch. = این یک میز است ← یک میز می‌خرم.
+> Ich sehe **die** Frau. = زن را می‌بینم. (بدون تغییر)
+> Ich lese **das** Buch. = کتاب را می‌خوانم. (بدون تغییر)
+> Ich habe **keinen** Hunger. = گرسنه نیستم. (der Hunger)
+
+:::tip ترفند: «n» برای مفعول مذکر
+هر وقت مفعول مستقیم **مذکر** بود، به حرف تعریفش یک `n` اضافه کنید: `der → de**n**`، `ein → ein**en**`، `kein → kein**en**`، `mein → mein**en**`. در بقیهٔ جنس‌ها هیچ تغییری نیست.
+:::
+
+## مفعول مستقیم را چطور پیدا کنیم؟ {#finden}
+
+مفعول مستقیم کسی یا چیزی است که فعل مستقیماً روی آن انجام می‌شود. سؤالش `wen?` (چه کسی را؟) یا `was?` (چه چیزی را؟) است:
+
+> Ich trinke **einen Kaffee**. → Was trinkst du? = چه می‌نوشی؟ – یک قهوه.
+> Ich besuche **meinen Opa**. → Wen besuchst du? = به دیدن چه کسی می‌روی؟ – پدربزرگم.
+
+| سؤال | Nominativ (فاعل) | Akkusativ (مفعول) |
+|---|---|---|
+| شخص | wer? (چه کسی؟) | **wen?** (چه کسی را؟) |
+| چیز | was? (چه چیزی؟) | was? (چه چیزی را؟) |
+
+## مقایسه با «را» در فارسی {#ra}
+
+:::fa Akkusativ و «را»
+فارسی هم مفعول مستقیم را علامت می‌زند: با «**را**». آلمانی آن را با تغییر حرف تعریف علامت می‌زند.
+
+| فارسی | آلمانی |
+|---|---|
+| مرد **را** می‌بینم. | Ich sehe **den** Mann. |
+| کتاب **را** می‌خوانم. | Ich lese das Buch. |
+| یک میز می‌خرم. | Ich kaufe **einen** Tisch. |
+
+تفاوت مهم: «را» فقط برای مفعولِ **معین** می‌آید («یک میز را» نمی‌گوییم). اما Akkusativ آلمانی برای **هر** مفعول مستقیمی است، معین یا نامعین: `einen Tisch`.
+
+شباهت مهم: همان‌طور که در فارسی «را» به ما اجازه می‌دهد ترتیب کلمات را عوض کنیم («کتاب را علی خرید»)، Akkusativ هم به آلمانی این آزادی را می‌دهد. پایین‌تر ببینید.
+:::
+
+## آزادی ترتیب کلمات {#reihenfolge}
+
+چون حالت را حرف تعریف نشان می‌دهد، مفعول می‌تواند اول جمله بیاید (برای تأکید) و باز معنی روشن است:
+
+> **Der** Hund sieht **den** Mann. = سگ مرد را می‌بیند.
+> **Den** Mann sieht **der** Hund. = مرد را سگ می‌بیند. (همان معنا، تأکید روی مرد)
+
+:::warn در مؤنث و خنثی ابهام هست
+`Die Frau sieht das Kind.` معمولاً به ترتیب طبیعی خوانده می‌شود: زن بچه را می‌بیند. چون `die` و `das` در دو حالت یکسان‌اند، ترتیب طبیعی (فاعل اول) را رعایت کنید تا ابهام پیش نیاید.
+:::
+
+## فعل‌های پرکاربرد با Akkusativ {#verben}
+
+بیشتر فعل‌هایی که مفعول مستقیم دارند Akkusativ می‌گیرند:
+
+| فعل | مثال | فارسی |
+|---|---|---|
+| haben | Ich habe einen Hund. | یک سگ دارم. |
+| brauchen | Ich brauche einen Stift. | یک خودکار لازم دارم. |
+| kaufen | Er kauft den Mantel. | او پالتو را می‌خرد. |
+| suchen | Wir suchen einen Parkplatz. | دنبال جای پارک می‌گردیم. |
+| sehen | Siehst du den Bus? | اتوبوس را می‌بینی؟ |
+| essen / trinken | Ich esse einen Apfel. | یک سیب می‌خورم. |
+| möchten | Ich möchte einen Tee. | یک چای می‌خواهم. |
+| nehmen | Ich nehme den Fisch. | ماهی را برمی‌دارم (سفارش می‌دهم). |
+| finden | Ich finde den Film gut. | به نظرم فیلم خوب است. |
+| besuchen | Sie besucht ihren Vater. | به دیدن پدرش می‌رود. |
+| es gibt | Es gibt einen Park hier. | اینجا یک پارک هست. ([[a11-esgibt-man]]) |
+
+:::warn sein + Nominativ
+بعد از `sein` (و `werden`، `heißen`، `bleiben`) مفعول نداریم، بلکه «مسند» داریم که **Nominativ** است: `Das ist **ein** Hund` (نه ~~einen~~). `Er ist **der** Chef.`
+:::
+
+## صفت‌های ملکی در Akkusativ {#possessiv}
+
+قاعده همان قاعدهٔ `ein` است: فقط مذکر `-en` می‌گیرد.
+
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | mein | meine | mein | meine |
+| **Akkusativ** | **meinen** | meine | mein | meine |
+| | deinen، seinen، ihren، unseren، euren، Ihren | | | |
+
+> Ich suche **meinen** Schlüssel. = دنبال کلیدم می‌گردم.
+> Hast du **deine** Tasche? = کیفت را داری؟
+> Wir besuchen **unseren** Onkel. = به دیدن عمو/دایی‌مان می‌رویم.
+
+## اسم‌هایی که خودشان هم تغییر می‌کنند {#n-dekl}
+
+گروه کوچکی از اسم‌های مذکر در Akkusativ پسوند `-(e)n` می‌گیرند: `der Student → den Student**en**`، `der Junge → den Junge**n**`، `der Herr → den Herr**n**`، `der Kollege → den Kollege**n**`. این گروه (n-Deklination) را در [[b11-n-dekl]] کامل می‌خوانید؛ فعلاً همین چند کلمه را بشناسید.
+
+> Kennst du **den Studenten**? = آن دانشجو را می‌شناسی؟
+
+## نگاهی به جلو {#weiter}
+
+- ضمایر مفعولی (مرا، تو را، او را: `mich`، `dich`، `ihn`) در [[a12-akk-pronomen]].
+- حروف اضافه‌ای که همیشه Akkusativ می‌گیرند (`für`، `ohne`، `durch` …) در [[a12-praep-akk]].
+- جدول همهٔ حالت‌ها در [[a12-kasus]] و ضمیمهٔ [[x-deklination]].
+
+## خودآزمایی {#quiz}
+
+?? `Ich habe ___ Bruder.` (ein) => `einen`
+?? `Sie kauft ___ Lampe.` (die) => `die` (مؤنث بدون تغییر)
+?? `Wir brauchen ___ Auto.` (kein) => `kein` (خنثی بدون تغییر)
+?? `Er sucht ___ Schlüssel.` (sein) => `seinen`
+?? `Das ist ___ Computer.` (ein) => `ein`؛ بعد از sein حالت Nominativ است.
+?? سؤال بسازید برای: `Ich besuche meine Tante.` => `Wen besuchst du?`
+?? «من چای را نمی‌خورم (نمی‌نوشم).» (der Tee) => `Ich trinke den Tee nicht.`

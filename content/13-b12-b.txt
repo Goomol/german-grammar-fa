@@ -1,0 +1,419 @@
+@@ b12-nicht-position
+level: B1.2
+title: جایگاه دقیق nicht در جمله
+de: Die Position von „nicht“
+tags: nicht, جایگاه nicht, Negation, Satznegation, Teilnegation, نفی جمله, نفی جزئی, منفی کردن, sondern, Mittelfeld
+summary: قاعده‌های کامل جایگاه `nicht`: کِی آخر جمله، کِی قبل از کلمه‌ای خاص، و تفاوت «نفی کل جمله» با «نفی یک جزء».
+---
+## دو نوع نفی {#arten}
+
+| نوع | معنی | جایگاه nicht |
+|---|---|---|
+| نفی کل جمله (Satznegation) | کل رویداد منفی است | تا جای ممکن **آخر** میانهٔ جمله |
+| نفی جزئی (Teilnegation) | فقط یک جزء منفی است (اغلب + sondern) | **درست قبل از** همان جزء |
+
+> Ich habe den Brief **nicht** geschrieben. = نامه را ننوشتم. (کل)
+> **Nicht ich** habe den Brief geschrieben, sondern mein Bruder. = من نامه را ننوشتم، برادرم نوشت. (جزئی)
+> Ich habe **nicht den Brief** geschrieben, sondern die E-Mail. = نامه را ننوشتم، ایمیل را نوشتم. (جزئی)
+
+## نفی کل جمله: قاعدهٔ تفصیلی {#satz}
+
+:::rule nicht **بعد از** این‌ها می‌آید
+- فاعل و ضمیرها
+- مفعول‌های **معین** (Dativ و Akkusativ با der/die/das، ملکی، اسم خاص)
+- قیدهای **زمان** (heute، morgen، gestern…)
+- قیدهای **علت** (deshalb، wegen…)
+:::
+
+:::rule nicht **قبل از** این‌ها می‌آید
+- بخش دوم فعل (اسم مفعول، مصدر، پیشوند جداشدنی)
+- مسند بعد از sein/werden/bleiben (صفت یا اسم)
+- قید **روش** (gut، schnell، gern…)
+- مکان/جهتِ **لازم** (in Berlin، nach Hause)
+- **مفعول حرف‌اضافه‌ای** فعل (auf dich، an ihn)
+:::
+
+| مثال | توضیح |
+|---|---|
+| Ich kenne ihn **nicht**. | بعد از ضمیر، آخر جمله |
+| Ich kaufe das Auto heute **nicht**. | بعد از مفعول معین و قید زمان |
+| Ich kann heute **nicht** kommen. | قبل از مصدر |
+| Er ist **nicht** gekommen. | قبل از اسم مفعول |
+| Ich rufe dich morgen **nicht** an. | قبل از پیشوند جداشدنی |
+| Das Essen ist **nicht** gut. | قبل از مسند (صفت) |
+| Er ist **nicht** Arzt. | قبل از مسند (اسم) |
+| Sie singt **nicht** gut. | قبل از قید روش |
+| Wir wohnen **nicht** in München. | قبل از مکان لازم |
+| Ich warte **nicht** auf dich. | قبل از مفعول حرف‌اضافه‌ای |
+| Ich gehe heute **nicht** gern ins Kino. | قبل از قید روش (gern) |
+
+:::tip قاعدهٔ یک‌خطی
+`nicht` می‌رود تا **آخر** میانهٔ جمله، اما قبل از «چیزهایی که با فعل یک واحد معنایی می‌سازند» می‌ایستد: بخش دوم فعل، مسند، مکان، مفعول حرف‌اضافه‌ای، قید روش. ([[a22-mittelfeld#gesamt]])
+:::
+
+## nicht یا kein؟ (یادآوری) {#kein}
+
+اسم نامعین یا بدون حرف تعریف ← `kein` ([[a11-negation#wahl]]):
+> Ich habe ~~nicht ein Auto~~ → **kein** Auto.
+اما: `Ich habe **nicht ein** einziges Mal gefehlt.` (تأکید: حتی یک بار هم نه)
+
+## nicht + Adverb {#adverb}
+
+| ترکیب | معنی |
+|---|---|
+| nicht mehr | دیگر نه |
+| noch nicht | هنوز نه |
+| nicht nur … sondern auch | نه‌تنها … بلکه |
+| gar nicht / überhaupt nicht | اصلاً نه |
+| nicht einmal | حتی … هم نه |
+| nicht immer / nicht oft | نه همیشه / نه زیاد |
+| immer nicht | (= noch immer nicht) هنوز هم نه |
+
+:::warn nicht immer ≠ immer nicht
+- `Er kommt **nicht immer** pünktlich.` = همیشه سر وقت نمی‌آید (گاهی می‌آید).
+- `Er ist **immer noch nicht** da.` = هنوز هم نیامده.
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+در فارسی منفی‌کننده (نـ/نمی‌) تقریباً همیشه به **فعل** می‌چسبد و جایش ثابت است: «نامه را دیروز **نـ**نوشتم». برای نفی جزئی از «نه» یا تأکید لحنی استفاده می‌کنیم: «**نه من**، برادرم نوشت».
+
+در آلمانی `nicht` کلمهٔ مستقلی است که جایش **معنا** را عوض می‌کند. خبر خوب: در نفی کل جمله، `nicht` معمولاً به همان جایی می‌رود که فعل فارسی هست (آخر)، یا درست قبل از بخش دوم فعل:
+«من امروز **نمی‌**آیم» ← `Ich komme heute **nicht**.`
+«من نمی‌توانم بیایم» ← `Ich kann **nicht** kommen.`
+:::
+
+## خودآزمایی {#quiz}
+
+?? منفی کنید: `Ich habe die Hausaufgaben gemacht.` => `Ich habe die Hausaufgaben nicht gemacht.`
+?? منفی کنید: `Er fährt nach Hause.` => `Er fährt nicht nach Hause.`
+?? منفی کنید: `Ich denke an dich.` => `Ich denke nicht an dich.`
+?? منفی کنید: `Sie kommt heute.` => `Sie kommt heute nicht.`
+?? نفی جزئی: «امروز نه، فردا می‌آیم.» => `Ich komme nicht heute, sondern morgen.`
+?? منفی کنید: `Der Kaffee ist heiß.` => `Der Kaffee ist nicht heiß.`
+
+@@ b12-wortbildung
+level: B1.2
+title: واژه‌سازی: پسوندها و پیشوندها
+de: Wortbildung: Suffixe und Präfixe
+tags: واژه‌سازی, Wortbildung, پسوند, پیشوند, -ung, -heit, -keit, -schaft, -bar, -lich, -los, -voll, un-, Nominalisierung, اسم‌سازی, صفت‌سازی, ver-, er-, ent-, zer-, پذیر, بی, نا
+summary: با شناختن چند پسوند و پیشوند، از هر کلمه چند کلمهٔ تازه می‌فهمید: `frei → Freiheit` (آزادی)، `machbar` (شدنی)، `arbeitslos` (بیکار)، `unmöglich`.
+---
+## ساختن اسم {#nomen}
+
+| پسوند | از | جنس | مثال‌ها | معادل فارسی |
+|---|---|---|---|---|
+| ‎-ung‎ | فعل | die | wohnen → die Wohnung، lösen → die Lösung، erklären → die Erklärung | ـِش، مصدر (حل، توضیح) |
+| ‎-heit‎ | صفت | die | frei → die Freiheit، gesund → die Gesundheit، krank → die Krankheit | ـی (آزادی، سلامتی) |
+| ‎-keit‎ | صفت (‎-ig، ‎-lich، ‎-bar…) | die | möglich → die Möglichkeit، freundlich → die Freundlichkeit | ـی (امکان، مهربانی) |
+| ‎-schaft‎ | اسم | die | Freund → die Freundschaft، Mann → die Mannschaft | ـی (دوستی) |
+| ‎-er‎ | فعل | der | lehren → der Lehrer، fahren → der Fahrer، spielen → der Spieler | ـنده، ـگر (راننده) |
+| ‎-in‎ | اسم مذکر | die | der Lehrer → die Lehrerin | — |
+| ‎-ling‎ | | der | lehren → der Lehrling، früh → der Frühling | |
+| ‎-nis‎ | فعل/صفت | das/die | erleben → das Erlebnis، erlauben → die Erlaubnis | |
+| ‎-tum‎ | | das | reich → der Reichtum (استثنا)، das Eigentum | |
+| مصدر | فعل | das | das Essen، das Lesen، das Schwimmen | مصدر (خوردن، خواندن) |
+| ریشهٔ فعل (اغلب با تغییر واکه) | فعل | der | gehen → der Gang، sprechen → der Spruch، fliegen → der Flug | |
+
+(قاعده‌های جنسِ این پسوندها را در [[a11-genus#regeln]] دیدید.)
+
+## ساختن صفت {#adjektiv}
+
+| پسوند | معنی | مثال‌ها | معادل فارسی |
+|---|---|---|---|
+| ‎-bar‎ | قابلِ … شدن | machbar، essbar، lesbar، trinkbar | ـپذیر، شدنی (امکان‌پذیر، خوردنی) |
+| ‎-lich‎ | مربوط به، دارای ویژگی | freundlich، täglich، gefährlich، verständlich | ـانه، ـی (دوستانه، روزانه) |
+| ‎-ig‎ | دارای | lustig، sonnig، eilig، wichtig | ـی (آفتابی) |
+| ‎-isch‎ | مربوط به (اغلب ملیت/علوم) | iranisch، politisch، typisch | ـی (ایرانی، سیاسی) |
+| ‎-los‎ | بدونِ | arbeitslos، kostenlos، hoffnungslos، sinnlos | بی‌… (بیکار، بی‌هزینه، ناامید) |
+| ‎-voll‎ | پر از | hoffnungsvoll، wertvoll، humorvoll | ‌…مند، پر… (امیدوار، ارزشمند) |
+| ‎-reich‎ | سرشار از | erfolgreich، kinderreich | پر… (موفق) |
+| ‎-frei‎ | بدون (مثبت) | alkoholfrei، zuckerfrei، rauchfrei | بدون… |
+| ‎-sam‎ | گرایش به | sparsam، langsam، einsam | |
+| ‎-haft‎ | شبیه | kindhaft، fehlerhaft | |
+
+:::fa فارسی هم همین ابزارها را دارد
+| آلمانی | فارسی |
+|---|---|
+| arbeit**s**los | **بی**‌کار |
+| kosten**los** | **بی**‌هزینه، رایگان |
+| mach**bar** | امکان**‌پذیر**، شدنی |
+| wert**voll** | ارزش**مند** |
+| frei**heit** | آزاد**ی** |
+| Fahr**er** | ران**نده** |
+| **un**möglich | **نا**ممکن، **غیر**ممکن |
+
+پس وقتی کلمهٔ آلمانی ناآشنایی دیدید، پسوندش را جدا کنید و مثل فارسی معنی را حدس بزنید: `hoffnungslos` = hoffnung (امید) + los (بی) = «**ناامید**».
+:::
+
+## پیشوند un- (و miss-) {#un}
+
+`un-` معنی را منفی می‌کند (مثل «نا/بی/غیر» فارسی):
+`möglich → **un**möglich`، `freundlich → **un**freundlich`، `bekannt → **un**bekannt`، `das Glück → das **Un**glück`، `die Ruhe → die **Un**ruhe`
+`miss-`: «بد/غلط»: `verstehen → **miss**verstehen`، `der Erfolg → der **Miss**erfolg`
+
+## پیشوندهای فعل و معنی‌شان {#verbpraefixe}
+
+پیشوندهای جدانشدنی ([[a11-trennbar#untrennbar]]) معنای تقریبی دارند:
+
+| پیشوند | معنی کلی | مثال |
+|---|---|---|
+| ver- | تغییر، اشتباه، تمام شدن | verkaufen (فروختن ← kaufen)، verschlafen (خواب ماندن)، sich verlaufen (گم شدن)، verbrauchen (مصرف کردن) |
+| er- | رسیدن به نتیجه | erreichen (رسیدن)، erkennen (تشخیص دادن)، erarbeiten |
+| ent- | جدا شدن، برداشتن | entfernen (برداشتن)، entdecken (کشف کردن)، entwickeln |
+| zer- | خرد کردن، از هم پاشیدن | zerbrechen، zerstören، zerreißen |
+| be- | متعدی کردن | antworten auf → beantworten (+ Akk)، wohnen in → bewohnen |
+| miss- | نادرست | missbrauchen، missverstehen |
+
+:::tip
+`ver-` گاهی فعل را «بد» می‌کند: `sich ver**sprechen**` (اشتباهی گفتن، زبان در رفتن)، `sich ver**fahren**` (با ماشین گم شدن)، `ver**salzen**` (زیادی شور کردن).
+:::
+
+پیشوندهای دوگانه (جدا/جدانشدنی با دو معنی): `um**fahren**` (دور زدن) / `**um**fahren` (زیر گرفتن)، `über**setzen**` (ترجمه کردن) / `**über**setzen` (از رودخانه عبور دادن)، `wieder**holen**` (تکرار کردن) / `**wieder**holen` (دوباره آوردن).
+
+## خودآزمایی {#quiz}
+
+?? اسم از `entscheiden` (تصمیم گرفتن) => `die Entscheidung`
+?? اسم از `schön` => `die Schönheit`
+?? اسم از `ehrlich` (صادق) => `die Ehrlichkeit`
+?? «بی‌معنی» (der Sinn) => `sinnlos`
+?? «خوردنی/قابل خوردن» (essen) => `essbar`
+?? معنی `unvergesslich`؟ => فراموش‌نشدنی (un + vergessen + lich)
+?? «بدون الکل» => `alkoholfrei`
+
+@@ b12-brauchen
+level: B1.2
+title: brauchen … zu، haben … zu، sein … zu
+de: „brauchen … zu“, „haben … zu“, „sein … zu“
+tags: brauchen zu, nicht brauchen zu, nur brauchen zu, haben zu, sein zu, لازم نیست, فقط کافی است, باید, قابل, ist zu machen, hat zu tun, modal Infinitiv
+summary: سه ساختار با `zu` که جای افعال وجهی را می‌گیرند: «لازم نیست»، «باید» و «قابلِ … است / باید … شود».
+---
+## nicht/nur brauchen + zu {#brauchen}
+
+:::rule
+- `nicht brauchen … zu` = `nicht müssen` = «**لازم نیست**»
+- `nur brauchen … zu` = `nur müssen` = «**فقط کافی است**»
+:::
+
+> Du **brauchst** heute **nicht zu** kommen. = لازم نیست امروز بیایی.
+> Sie **brauchen** keine Angst **zu** haben. = لازم نیست بترسید.
+> Du **brauchst nur** auf den Knopf **zu** drücken. = فقط کافی است دکمه را فشار دهی.
+
+:::tip
+این بهترین جایگزین برای `nicht müssen` است و دام «نباید» را از بین می‌برد ([[a12-modal2#falle]]). در گفتار گاهی `zu` حذف می‌شود (`Du brauchst nicht kommen`)؛ در نوشتار آن را بگذارید.
+:::
+
+## haben + zu {#haben}
+
+`haben … zu` = `müssen` (اغلب برای وظیفه و کار):
+> Ich **habe** noch viel **zu** tun. = هنوز کار زیادی دارم (که باید انجام دهم).
+> Sie **haben** den Antrag bis Montag ab**zu**geben. = باید درخواست را تا دوشنبه تحویل دهید.
+> Du **hast** hier nichts **zu** sagen! = تو اینجا حق حرف زدن نداری!
+
+## sein + zu (معنای مجهول) {#sein}
+
+`sein … zu` = «**می‌شود** … کرد» یا «**باید** … شود» (مجهول + können/müssen):
+| sein + zu | = | فارسی |
+|---|---|---|
+| Das Problem **ist** leicht **zu** lösen. | kann leicht gelöst werden | این مشکل به‌راحتی **قابل حل** است. |
+| Die Rechnung **ist** sofort **zu** bezahlen. | muss sofort bezahlt werden | صورت‌حساب **باید** فوراً پرداخت شود. |
+| Er **ist** nicht **zu** erreichen. | kann nicht erreicht werden | **نمی‌شود** با او تماس گرفت. |
+| Das **ist** nicht **zu** glauben! | | **باورکردنی** نیست! |
+
+:::note
+`sein + zu` یکی از جایگزین‌های Passiv است (همراه با `-bar`، `sich lassen` و…) که در [[b21-passiversatz]] کامل می‌آید. معنی «می‌شود» یا «باید» را از بافت بفهمید: در دستورالعمل‌ها و اطلاعیه‌های رسمی معمولاً «باید» است.
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| آلمانی | فارسی |
+|---|---|
+| nicht brauchen zu | لازم نیست |
+| nur brauchen zu | فقط کافی است / فقط باید |
+| haben zu | باید / کار داشتن («کار دارم») |
+| ist zu lösen | **قابل** حل است / حل**‌شدنی** است |
+| ist zu bezahlen | باید پرداخت **شود** |
+| nicht zu glauben | باور**نکردنی** |
+
+ساختار «قابل … است» و «…‌شدنی/…‌کردنی» فارسی (خوردنی، دیدنی، باورکردنی) نزدیک‌ترین معادل `sein + zu` است.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «لازم نیست نگران باشی.» (sich Sorgen machen) => `Du brauchst dir keine Sorgen zu machen.`
+?? «فقط کافی است بپرسی.» => `Du brauchst nur zu fragen.`
+?? «امروز کار زیادی دارم.» (haben zu) => `Ich habe heute viel zu tun.`
+?? «این متن به‌راحتی قابل فهم است.» (sein zu) => `Der Text ist leicht zu verstehen.`
+?? با sein + zu بازنویسی کنید: `Das Formular muss ausgefüllt werden.` => `Das Formular ist auszufüllen.`
+
+@@ b12-inf-ohne-zu
+level: B1.2
+title: مصدر بدون zu: gehen، sehen، hören، bleiben، lernen
+de: Infinitiv ohne „zu“: Verben der Wahrnehmung und Bewegung
+tags: Infinitiv ohne zu, مصدر بدون zu, sehen, hören, fühlen, gehen, fahren, kommen, bleiben, lernen, helfen, Ich gehe einkaufen, Ich höre ihn singen, sitzen bleiben, schwimmen lernen
+summary: «می‌روم **خرید کنم**»، «شنیدم **آواز می‌خواند**»، «**شنا** یاد گرفتم»: چند فعل (جز افعال وجهی) که مصدر را بدون `zu` می‌گیرند.
+---
+## کدام فعل‌ها؟ {#welche}
+
+:::rule
+| گروه | فعل‌ها | مثال |
+|---|---|---|
+| افعال وجهی | können، müssen، dürfen، wollen، sollen، mögen | Ich muss **arbeiten**. |
+| werden | (آینده، Konj. II) | Ich werde **kommen**. |
+| lassen | | Ich lasse das Auto **reparieren**. |
+| حس | sehen، hören، fühlen، spüren | Ich höre dich **singen**. |
+| حرکت | gehen، fahren، kommen | Ich gehe **schwimmen**. |
+| bleiben | | Bleib **sitzen**! |
+| lernen، helfen، lehren (اختیاری) | | Ich lerne **schwimmen**. |
+:::
+
+## فعل‌های حس: «دیدم که … می‌کند» {#wahrnehmung}
+
+:::rule
+**sehen/hören/fühlen + مفعول (Akk) + مصدر**
+:::
+
+> Ich **sehe** die Kinder im Garten **spielen**. = می‌بینم بچه‌ها در باغ بازی می‌کنند.
+> Ich **höre** jemanden **kommen**. = می‌شنوم کسی می‌آید.
+> Er **fühlte** sein Herz schneller **schlagen**. = حس کرد قلبش تندتر می‌زند.
+
+## فعل‌های حرکت: «رفتن برای کاری» {#bewegung}
+
+> Ich **gehe** heute **einkaufen**. = امروز می‌روم خرید.
+> Am Wochenende **gehen** wir **Ski fahren**. = آخر هفته می‌رویم اسکی.
+> Kommst du mit **essen**? = با ما می‌آیی غذا بخوریم؟
+> Ich **gehe** **schlafen**. = می‌روم بخوابم.
+
+## bleiben و lernen {#bleiben}
+
+> **Bleiben** Sie bitte **sitzen**. = لطفاً بنشینید (بلند نشوید).
+> Die Uhr ist **stehen geblieben**. = ساعت از کار افتاد (ایستاد).
+> Mein Sohn **lernt** **schwimmen**. = پسرم شنا یاد می‌گیرد.
+
+## Perfekt {#perfekt}
+
+| فعل | Perfekt | مثال |
+|---|---|---|
+| gehen، fahren | **ist** … gegangen | Ich **bin** einkaufen **gegangen**. |
+| bleiben | **ist** … geblieben | Er **ist** sitzen **geblieben**. (اینجا یعنی «مردود شد») |
+| lernen | hat … gelernt | Ich **habe** schwimmen **gelernt**. |
+| sehen، hören | hat … sehen / gesehen (هر دو) | Ich **habe** ihn kommen **sehen** / **gesehen**. |
+| lassen | hat … lassen | Ich **habe** das Auto reparieren **lassen**. ([[a22-lassen#perfekt]]) |
+
+(«دو مصدر» بعد از `sehen`/`hören` در Perfekt را در [[b22-ersatzinf]] می‌بینید.)
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| آلمانی | فارسی |
+|---|---|
+| Ich gehe **einkaufen**. | می‌روم **خرید** (کنم). |
+| Ich höre ihn **singen**. | می‌شنوم (که) آواز **می‌خواند**. |
+| Ich sehe dich **kommen**. | می‌بینمت (که) **می‌آیی**. |
+| Ich lerne **schwimmen**. | **شنا** یاد می‌گیرم. |
+| Bleib **sitzen**! | **بنشین** (از جایت تکان نخور)! |
+
+فارسی بعد از فعل‌های حس اغلب «که + فعل صرف‌شده» می‌آورد؛ آلمانی مصدر را آخر جمله می‌گذارد و فاعلِ کار دوم را مفعول (Akk) فعل اول می‌کند: «او را می‌شنوم که آواز می‌خواند» ← `Ich höre **ihn** singen.`
+:::
+
+## خودآزمایی {#quiz}
+
+?? «می‌روم بخوابم.» => `Ich gehe schlafen.`
+?? «او را دیدم که از خانه بیرون آمد.» (aus dem Haus kommen، حال) => `Ich sehe ihn aus dem Haus kommen.`
+?? «پسرم دارد دوچرخه‌سواری یاد می‌گیرد.» (Fahrrad fahren) => `Mein Sohn lernt Fahrrad fahren.`
+?? «دیروز رفتیم شنا.» (Perfekt) => `Gestern sind wir schwimmen gegangen.`
+?? `Ich höre die Vögel ___.` (singen) => `singen`
+
+@@ b12-konnektoren
+level: B1.2
+title: جدول جامع حروف ربط بر اساس معنا
+de: Übersicht: Konnektoren nach Bedeutung und Satzstellung
+tags: حروف ربط, Konnektoren, Konjunktionen, Subjunktionen, Konjunktionaladverbien, جدول جامع, weil, obwohl, deshalb, trotzdem, wegen, trotz, damit, um zu, falls, sonst, während, جایگاه فعل, مرور
+summary: یک صفحهٔ مرجع: همهٔ ابزارهای ربط (حرف ربط هم‌پایه، پیرو، قید ربطی، حرف اضافه) کنار هم بر اساس **معنا** و **جایگاه فعل**.
+---
+## چهار نوع ابزار ربط {#typen}
+
+:::rule
+| نوع | جایگاه فعل در بخش دوم | مثال |
+|---|---|---|
+| **هم‌پایه** (جایگاه ۰) | ۲، بدون تغییر | …, **denn** ich **bin** müde. |
+| **پیرو** (Subjunktion) | **آخر** | …, **weil** ich müde **bin**. |
+| **قید ربطی** (جایگاه ۱) | ۲، **وارونگی** | …, **deshalb bin** ich müde. |
+| **حرف اضافه** | (گروه اسمی، بدون فعل) | **Wegen der** Müdigkeit … |
+:::
+
+## جدول بر اساس معنا {#tabelle}
+
+| معنا | هم‌پایه (۰) | پیرو (فعل آخر) | قید (وارونگی) | حرف اضافه |
+|---|---|---|---|---|
+| علت | denn | weil، da | nämlich (وسط جمله) | wegen + G، aufgrund + G |
+| نتیجه | — | sodass، so … dass | deshalb، deswegen، darum، daher، also، folglich | — |
+| تضاد (با وجود) | aber، doch | obwohl، obgleich | trotzdem، dennoch | trotz + G |
+| تقابل | aber، sondern | während، wohingegen | dagegen، jedoch، hingegen | im Gegensatz zu + D |
+| شرط | — | wenn، falls، sofern | sonst (شرط منفی) | bei + D، im Falle + G |
+| هدف | — | damit، um … zu | — | für + A، zu + D |
+| زمان: هم‌زمان | — | während، als، wenn | währenddessen، gleichzeitig | während + G، bei + D |
+| زمان: قبل | — | bevor، ehe | vorher، davor | vor + D |
+| زمان: بعد | — | nachdem، sobald | danach، dann، anschließend | nach + D |
+| زمان: آغاز | — | seit(dem) | seitdem | seit + D |
+| زمان: پایان | — | bis | bis dahin | bis + A، bis zu + D |
+| روش، وسیله | — | indem، dadurch dass | dadurch، so | durch + A، mit + D |
+| جایگزین | — | (an)statt dass، (an)statt … zu | stattdessen | (an)statt + G |
+| بدون | — | ohne dass، ohne … zu | — | ohne + A |
+| افزودن | und | — | außerdem، zudem، auch | neben + D |
+| انتخاب | oder | — | — | — |
+| مقایسه غیرواقعی | — | als ob، als wenn | — | — |
+
+## مثال: یک معنا، چهار شکل {#beispiel}
+
+علت:
+> Ich bleibe zu Hause, **denn** ich **bin** krank.
+> Ich bleibe zu Hause, **weil** ich krank **bin**.
+> Ich bin krank, **deshalb bleibe** ich zu Hause. (نتیجه)
+> **Wegen meiner Krankheit** bleibe ich zu Hause.
+
+تضاد:
+> Es regnet, **aber** wir **gehen** spazieren.
+> **Obwohl** es **regnet**, gehen wir spazieren.
+> Es regnet, **trotzdem gehen** wir spazieren.
+> **Trotz des Regens** gehen wir spazieren.
+
+## لینک درس‌ها {#links}
+
+| موضوع | درس |
+|---|---|
+| und، aber، oder، denn، sondern | [[a12-konnektoren]] |
+| weil | [[a21-weil]] |
+| dass | [[a21-dass]] |
+| wenn (شرط) | [[a21-wenn]] |
+| als / wenn (زمان) | [[a22-als-wenn]] |
+| ob و سؤال غیرمستقیم | [[a22-indirekte-frage]] |
+| deshalb، trotzdem، sonst | [[a22-deshalb-trotzdem]] |
+| obwohl | [[a22-obwohl]] |
+| bevor، während، bis، seit، sobald | [[b11-temporal]] |
+| nachdem | [[b11-plusquam#nachdem]] |
+| um … zu، damit | [[b11-umzu-damit]] |
+| statt … zu، ohne … zu | [[b11-statt-ohne]] |
+| حروف ربط دوبخشی | [[b11-zweiteilig]] |
+| sodass، so … dass | [[b12-konsekutiv]] |
+| indem، dadurch dass | [[b21-modalsatz]] |
+| während (تقابل)، wohingegen | [[b21-adversativ]] |
+| falls، شرط بدون wenn | [[b21-konditional]] |
+| als ob | [[b21-als-ob]] |
+| zumal، insofern، es sei denn | [[b22-konnektoren-b2]] |
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی برای تقریباً همهٔ این معانی هم حرف ربط دارد («چون، با اینکه، برای همین، با این حال، به خاطرِ، با وجودِ…») و **هیچ‌کدام ترتیب کلمات را عوض نمی‌کنند**. در آلمانی **نوع** ابزار ربط تعیین می‌کند فعل کجا برود. پیشنهاد تمرین: برای هر معنا، هر چهار شکل را با یک جملهٔ ثابت بسازید (مثل بخش بالا) تا جایگاه فعل در ذهنتان «خودکار» شود.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «به خاطر ترافیک دیر رسیدم.» (حرف اضافه) => `Wegen des Staus bin ich zu spät gekommen.`
+?? همان با weil => `Ich bin zu spät gekommen, weil es Stau gab.`
+?? همان با deshalb => `Es gab Stau, deshalb bin ich zu spät gekommen.`
+?? «با وجود سرماخوردگی کار کرد.» (trotz) => `Trotz der Erkältung hat er gearbeitet.`
+?? نوع `nämlich`؟ => قید (وسط جمله)، معنی «آخه/چون»: `Ich komme nicht. Ich bin nämlich krank.`

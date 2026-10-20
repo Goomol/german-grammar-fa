@@ -1,0 +1,654 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#faf8ff">
+<title>گرامر آلمانی به فارسی</title>
+<style>
+@font-face{font-family:"Vazirmatn";src:url(data:font/woff2;base64,__FONT_B64__) format("woff2");font-weight:100 900;font-display:swap}
+:root{
+  --primary:#34589b;--on-primary:#fff;--primary-container:#d9e2ff;--on-primary-container:#001a45;
+  --secondary:#575e71;--on-secondary:#fff;--secondary-container:#dce2f9;--on-secondary-container:#141b2c;
+  --tertiary:#8a4a62;--tertiary-container:#ffd9e3;--on-tertiary-container:#3a0720;
+  --error:#ba1a1a;--error-container:#ffdad6;--on-error-container:#410002;
+  --green:#2f6a3c;--green-container:#c7efd0;--on-green-container:#00210c;
+  --surface:#faf8ff;--surface-dim:#dad9e0;--sc-lowest:#fff;--sc-low:#f4f3fa;--sc:#eeedf4;--sc-high:#e8e7ef;--sc-highest:#e3e2e9;
+  --on-surface:#1a1b21;--on-surface-variant:#44464f;--outline:#757780;--outline-variant:#c5c6d0;
+  --scrim:rgba(0,0,0,.32);--shadow:0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
+  --shadow3:0 4px 8px 3px rgba(0,0,0,.15),0 1px 3px rgba(0,0,0,.3);
+  --g-m:#1858b8;--g-f:#c0262d;--g-n:#23793a;--g-p:#a35a00;
+  --lv-a1:#2f6a3c;--lv-a1c:#c7efd0;--lv-a2:#006a63;--lv-a2c:#b6f0e7;--lv-b1:#34589b;--lv-b1c:#d9e2ff;--lv-b2:#6b4f9e;--lv-b2c:#ebddff;--lv-x:#6b5d3f;--lv-xc:#f4e1bb;
+  --fs:17px;--topbar:64px;--drawer:304px;--toc:248px;
+  --de-font:"Roboto Flex",Roboto,"Segoe UI",system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --primary:#afc6ff;--on-primary:#002c6f;--primary-container:#18407f;--on-primary-container:#d9e2ff;
+  --secondary:#c0c6dc;--on-secondary:#2a3042;--secondary-container:#40465a;--on-secondary-container:#dce2f9;
+  --tertiary:#ffb0c9;--tertiary-container:#6e3349;--on-tertiary-container:#ffd9e3;
+  --error:#ffb4ab;--error-container:#93000a;--on-error-container:#ffdad6;
+  --green:#9bd5a6;--green-container:#16512a;--on-green-container:#c7efd0;
+  --surface:#121318;--surface-dim:#121318;--sc-lowest:#0d0e13;--sc-low:#1a1b21;--sc:#1e1f25;--sc-high:#292a2f;--sc-highest:#33343a;
+  --on-surface:#e3e2e9;--on-surface-variant:#c5c6d0;--outline:#8f9099;--outline-variant:#44464f;
+  --scrim:rgba(0,0,0,.55);--g-m:#8db4ff;--g-f:#ff9a94;--g-n:#7fd492;--g-p:#ffb867;
+  --lv-a1:#9bd5a6;--lv-a1c:#16512a;--lv-a2:#7ad6cb;--lv-a2c:#00504a;--lv-b1:#afc6ff;--lv-b1c:#18407f;--lv-b2:#d3bbff;--lv-b2c:#523785;--lv-x:#dcc59b;--lv-xc:#524629;
+  color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --primary:#afc6ff;--on-primary:#002c6f;--primary-container:#18407f;--on-primary-container:#d9e2ff;
+  --secondary:#c0c6dc;--on-secondary:#2a3042;--secondary-container:#40465a;--on-secondary-container:#dce2f9;
+  --tertiary:#ffb0c9;--tertiary-container:#6e3349;--on-tertiary-container:#ffd9e3;
+  --error:#ffb4ab;--error-container:#93000a;--on-error-container:#ffdad6;
+  --green:#9bd5a6;--green-container:#16512a;--on-green-container:#c7efd0;
+  --surface:#121318;--surface-dim:#121318;--sc-lowest:#0d0e13;--sc-low:#1a1b21;--sc:#1e1f25;--sc-high:#292a2f;--sc-highest:#33343a;
+  --on-surface:#e3e2e9;--on-surface-variant:#c5c6d0;--outline:#8f9099;--outline-variant:#44464f;
+  --scrim:rgba(0,0,0,.55);--g-m:#8db4ff;--g-f:#ff9a94;--g-n:#7fd492;--g-p:#ffb867;
+  --lv-a1:#9bd5a6;--lv-a1c:#16512a;--lv-a2:#7ad6cb;--lv-a2c:#00504a;--lv-b1:#afc6ff;--lv-b1c:#18407f;--lv-b2:#d3bbff;--lv-b2c:#523785;--lv-x:#dcc59b;--lv-xc:#524629;
+  color-scheme:dark;
+}
+:root.fs-s{--fs:15px}:root.fs-l{--fs:19px}:root.fs-xl{--fs:21px}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:calc(var(--topbar) + 16px)}
+body{margin:0;background:var(--surface);color:var(--on-surface);font-family:"Vazirmatn",var(--de-font);font-size:var(--fs);line-height:1.9;-webkit-font-smoothing:antialiased;overflow-wrap:break-word}
+a{color:inherit}
+button{font:inherit;color:inherit}
+.ic{display:inline-block;width:24px;height:24px;flex:none;background:currentColor;-webkit-mask:var(--i) center/contain no-repeat;mask:var(--i) center/contain no-repeat}
+.ic.flip,[dir=rtl] .ic-arrow_back,[dir=rtl] .ic-arrow_forward{transform:scaleX(-1)}
+/*__ICONS_CSS__*/
+.de{font-family:var(--de-font);unicode-bidi:isolate;letter-spacing:.005em}
+.de b{color:var(--primary);font-weight:700}
+.de.nw{white-space:nowrap}
+.g-m{color:var(--g-m);font-weight:600}.g-f{color:var(--g-f);font-weight:600}.g-n{color:var(--g-n);font-weight:600}.g-p{color:var(--g-p);font-weight:600}
+s.wrong{color:var(--error);text-decoration-thickness:2px}
+mark.hit{background:color-mix(in srgb,var(--tertiary-container) 85%,transparent);color:inherit;border-radius:4px;padding:0 2px}
+
+/* ---------- Top app bar ---------- */
+.topbar{position:fixed;inset:0 0 auto 0;height:var(--topbar);display:flex;align-items:center;gap:4px;padding:0 8px;background:var(--surface);z-index:30;transition:background .2s}
+.topbar.raised{background:var(--sc)}
+.icon-btn{width:48px;height:48px;border-radius:50%;border:0;background:transparent;display:grid;place-items:center;cursor:pointer;color:var(--on-surface-variant);position:relative;flex:none}
+.icon-btn:hover{background:color-mix(in srgb,var(--on-surface-variant) 8%,transparent)}
+.icon-btn:active{background:color-mix(in srgb,var(--on-surface-variant) 12%,transparent)}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:700;font-size:1.15rem;white-space:nowrap;padding-inline:4px;color:var(--on-surface)}
+.brand .logo{width:34px;height:34px;border-radius:10px;background:var(--primary);color:var(--on-primary);display:grid;place-items:center;font-family:var(--de-font);font-weight:800;font-size:15px;letter-spacing:-.5px}
+.brand small{display:block;font-size:.72rem;font-weight:400;color:var(--on-surface-variant);line-height:1.2}
+.brand span{line-height:1.25}
+.searchbar{flex:1;max-width:620px;margin-inline:auto;height:48px;border-radius:24px;background:var(--sc-high);display:flex;align-items:center;gap:4px;padding-inline:4px 12px;position:relative}
+.searchbar .ic{color:var(--on-surface-variant);margin-inline:8px 4px}
+.searchbar input{flex:1;min-width:0;border:0;outline:0;background:transparent;font:inherit;font-size:1rem;color:var(--on-surface);height:100%}
+.searchbar input::-webkit-search-cancel-button,.searchbar input::-webkit-search-decoration{-webkit-appearance:none;appearance:none;display:none}
+.searchbar input::placeholder{color:var(--on-surface-variant)}
+.searchbar:focus-within{background:var(--sc-highest);box-shadow:inset 0 0 0 2px var(--primary)}
+.kbd{font-family:var(--de-font);font-size:.75rem;border:1px solid var(--outline-variant);border-radius:6px;padding:0 6px;color:var(--on-surface-variant)}
+.spacer{flex:1}
+#searchOpen{display:none}
+
+/* ---------- Layout ---------- */
+.layout{padding-top:var(--topbar);min-height:100vh}
+.drawer{position:fixed;top:var(--topbar);bottom:0;inset-inline-start:0;width:var(--drawer);overflow-y:auto;padding:8px 12px 32px;background:var(--surface);z-index:25;overscroll-behavior:contain;scrollbar-width:thin}
+main{margin-inline-start:var(--drawer);padding:16px 32px 120px;min-width:0}
+.toc{display:none}
+@media (min-width:1280px){
+  .toc{display:block;position:fixed;top:calc(var(--topbar) + 16px);inset-inline-end:16px;width:var(--toc);max-height:calc(100vh - var(--topbar) - 32px);overflow-y:auto;scrollbar-width:thin}
+  main.has-toc{margin-inline-end:calc(var(--toc) + 16px)}
+  main.has-toc .toc-inline{display:none}
+}
+.scrim{position:fixed;inset:0;background:var(--scrim);z-index:24;opacity:0;pointer-events:none;transition:opacity .2s}
+@media (max-width:899px){
+  :root{--topbar:64px}
+  .drawer{top:0;width:min(360px,86vw);background:var(--sc-low);border-start-end-radius:16px;border-end-end-radius:16px;transform:translateX(105%);transition:transform .28s cubic-bezier(.2,0,0,1);z-index:40;padding-top:12px;box-shadow:none}
+  [dir=ltr] .drawer{transform:translateX(-105%)}
+  body.drawer-open .drawer{transform:none;box-shadow:var(--shadow3)}
+  body.drawer-open .scrim{opacity:1;pointer-events:auto;z-index:39}
+  main{margin-inline-start:0;padding:8px 16px 120px}
+  .drawer .d-head{display:flex}
+}
+@media (min-width:900px){#menuBtn{display:none}.drawer .d-head{display:none}}
+@media (max-width:719px){
+  .searchbar{display:none}
+  #searchOpen{display:grid}
+  .brand small{display:none}
+  body.search-open .searchbar{display:flex;position:fixed;inset:0 0 auto 0;height:var(--topbar);max-width:none;border-radius:0;background:var(--sc-high);z-index:61;padding-inline:4px 8px;box-shadow:none}
+  body.search-open .searchbar:focus-within{box-shadow:none}
+  .searchbar .kbd{display:none}
+}
+
+/* ---------- Drawer ---------- */
+.d-head{align-items:center;justify-content:space-between;padding:4px 4px 8px 4px}
+.d-head b{font-size:1rem;padding-inline-start:12px}
+.d-home{display:flex;align-items:center;gap:12px;height:52px;padding-inline:16px;border-radius:26px;text-decoration:none;color:var(--on-surface-variant);font-weight:500;margin-bottom:4px}
+.d-home:hover{background:color-mix(in srgb,var(--on-surface) 8%,transparent)}
+.d-home.active{background:var(--secondary-container);color:var(--on-secondary-container)}
+.d-lv{border-top:1px solid var(--outline-variant);padding:4px 0}
+.d-lv summary{list-style:none;display:flex;align-items:center;gap:10px;min-height:52px;padding-inline:16px 12px;border-radius:26px;cursor:pointer;user-select:none;font-weight:600}
+.d-lv summary::-webkit-details-marker{display:none}
+.d-lv summary:hover{background:color-mix(in srgb,var(--on-surface) 8%,transparent)}
+.d-lv summary .cnt{margin-inline-start:auto;font-size:.8rem;color:var(--on-surface-variant);font-weight:400}
+.d-lv summary .ic-expand_more{transition:transform .2s;color:var(--on-surface-variant)}
+.d-lv[open] summary .ic-expand_more{transform:rotate(180deg)}
+.lvdot{width:34px;height:24px;border-radius:8px;display:grid;place-items:center;font-family:var(--de-font);font-size:.72rem;font-weight:700;background:var(--lvbg);color:var(--lvfg);flex:none}
+.lv-A1\.1,.lv-A1\.2{--lvfg:var(--lv-a1);--lvbg:var(--lv-a1c)}
+.lv-A2\.1,.lv-A2\.2{--lvfg:var(--lv-a2);--lvbg:var(--lv-a2c)}
+.lv-B1\.1,.lv-B1\.2{--lvfg:var(--lv-b1);--lvbg:var(--lv-b1c)}
+.lv-B2\.1,.lv-B2\.2{--lvfg:var(--lv-b2);--lvbg:var(--lv-b2c)}
+.lv-X{--lvfg:var(--lv-x);--lvbg:var(--lv-xc)}
+.d-list{list-style:none;margin:0;padding:0 0 6px}
+.d-list a{display:flex;align-items:center;gap:10px;min-height:44px;padding:6px 16px 6px 12px;border-radius:22px;text-decoration:none;color:var(--on-surface-variant);font-size:.9rem;line-height:1.5}
+.d-list a:hover{background:color-mix(in srgb,var(--on-surface) 8%,transparent)}
+.d-list a.active{background:var(--secondary-container);color:var(--on-secondary-container);font-weight:600}
+.d-list .n{min-width:26px;text-align:center;font-size:.78rem;opacity:.75}
+.d-list .t{flex:1}
+.d-list .ic{width:18px;height:18px;color:var(--green)}
+
+/* ---------- Common components ---------- */
+.chip{display:inline-flex;align-items:center;gap:6px;height:32px;padding-inline:12px;border-radius:8px;border:1px solid var(--outline-variant);background:transparent;text-decoration:none;font-size:.85rem;color:var(--on-surface-variant);cursor:pointer;white-space:nowrap;line-height:1}
+.chip:hover{background:color-mix(in srgb,var(--on-surface-variant) 8%,transparent)}
+.chip.lv{border:0;background:var(--lvbg);color:var(--lvfg);font-family:var(--de-font);font-weight:700}
+.chip .ic{width:18px;height:18px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;height:44px;padding-inline:24px;border-radius:22px;border:0;font-weight:600;font-size:.95rem;cursor:pointer;text-decoration:none;white-space:nowrap}
+.btn .ic{width:20px;height:20px}
+.btn.filled{background:var(--primary);color:var(--on-primary)}
+.btn.filled:hover{box-shadow:var(--shadow)}
+.btn.tonal{background:var(--secondary-container);color:var(--on-secondary-container)}
+.btn.outlined{background:transparent;border:1px solid var(--outline);color:var(--primary)}
+.btn.text{background:transparent;color:var(--primary);padding-inline:12px}
+.btn.done{background:var(--green-container);color:var(--on-green-container)}
+.card{background:var(--sc-low);border-radius:16px;padding:20px}
+.card.outlined{background:var(--surface);border:1px solid var(--outline-variant)}
+.card.filled{background:var(--sc-highest)}
+.progress{height:4px;border-radius:2px;background:var(--sc-highest);overflow:hidden}
+.progress i{display:block;height:100%;background:var(--primary);border-radius:2px;transition:width .3s}
+
+/* ---------- Home ---------- */
+.wrap{max-width:1100px;margin:0 auto}
+.hero{border-radius:28px;padding:40px 40px 36px;background:var(--primary-container);color:var(--on-primary-container);position:relative;overflow:hidden;margin-top:8px}
+.hero h1{font-size:2.2rem;line-height:1.35;margin:0 0 8px;font-weight:800}
+.hero p{margin:0 0 24px;max-width:640px;opacity:.9}
+.hero .acts{display:flex;flex-wrap:wrap;gap:12px}
+.hero .bg{position:absolute;inset-inline-end:-10px;bottom:-46px;font-family:var(--de-font);font-weight:900;font-size:150px;line-height:1;opacity:.06;letter-spacing:-6px;pointer-events:none;direction:ltr}
+.stats{display:flex;flex-wrap:wrap;gap:24px;margin:24px 0 0;font-size:.9rem}
+.stats b{display:block;font-size:1.5rem;line-height:1.2}
+.sec-title{font-size:1.35rem;font-weight:700;margin:40px 0 16px;display:flex;align-items:center;gap:10px}
+.lv-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.lv-card{display:flex;flex-direction:column;gap:10px;text-decoration:none;color:inherit;background:var(--sc-low);border-radius:16px;padding:18px;transition:background .15s,box-shadow .15s;border:1px solid transparent}
+.lv-card:hover{background:var(--sc);box-shadow:var(--shadow)}
+.lv-card .top{display:flex;align-items:center;gap:10px}
+.lv-card .top .lvdot{width:52px;height:32px;font-size:.9rem;border-radius:10px}
+.lv-card .top span{font-size:.82rem;color:var(--on-surface-variant)}
+.lv-card p{margin:0;font-size:.9rem;line-height:1.75;color:var(--on-surface-variant);flex:1}
+.legend{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.legend .card p{margin:6px 0 0;font-size:.92rem;color:var(--on-surface-variant);line-height:1.8}
+.legend .card h3{margin:0;font-size:1rem;display:flex;align-items:center;gap:8px}
+
+/* ---------- Level page ---------- */
+.lv-head{display:flex;align-items:center;gap:16px;margin:16px 0 8px}
+.lv-head .lvdot{width:72px;height:44px;font-size:1.15rem;border-radius:14px}
+.lv-head h1{margin:0;font-size:1.8rem}
+.lessons{display:grid;gap:10px;margin-top:20px}
+.lcard{display:flex;gap:16px;align-items:flex-start;text-decoration:none;color:inherit;background:var(--sc-low);border-radius:16px;padding:16px 18px;transition:background .15s}
+.lcard:hover{background:var(--sc)}
+.lcard .num{width:40px;height:40px;border-radius:20px;display:grid;place-items:center;background:var(--sc-highest);font-weight:700;flex:none;font-size:.95rem}
+.lcard.isdone .num{background:var(--green-container);color:var(--on-green-container)}
+.lcard h3{margin:0;font-size:1.05rem;line-height:1.6}
+.lcard .de{color:var(--on-surface-variant);font-size:.85rem;display:block;text-align:right}
+.lcard p{margin:6px 0 0;font-size:.9rem;line-height:1.75;color:var(--on-surface-variant)}
+
+/* ---------- Lesson ---------- */
+.lesson{max-width:820px;margin:0 auto}
+.l-meta{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:12px 0 8px;color:var(--on-surface-variant);font-size:.88rem}
+.lesson h1{font-size:2rem;line-height:1.45;margin:4px 0 4px;font-weight:800}
+.l-de{font-family:var(--de-font);font-size:1.1rem;color:var(--primary);font-weight:500;text-align:right;margin-bottom:12px}
+.l-sum{font-size:1.02rem;color:var(--on-surface-variant);margin:0 0 16px}
+.refs{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0}
+.refs .lab{font-size:.85rem;color:var(--on-surface-variant);margin-inline-end:4px;display:flex;align-items:center;gap:6px}
+.refs .chip{white-space:normal;height:auto;min-height:32px;padding-block:4px;line-height:1.5}
+.toc-inline{margin:16px 0 8px;background:var(--sc-low);border-radius:16px}
+.toc-inline summary{list-style:none;display:flex;align-items:center;gap:10px;padding:12px 16px;cursor:pointer;font-weight:600}
+.toc-inline summary::-webkit-details-marker{display:none}
+.toc-inline summary .ic-expand_more{margin-inline-start:auto;transition:transform .2s}
+.toc-inline[open] summary .ic-expand_more{transform:rotate(180deg)}
+.toc-list{list-style:none;margin:0;padding:0 8px 10px}
+.toc-list a{display:block;padding:6px 12px;border-radius:12px;text-decoration:none;color:var(--on-surface-variant);font-size:.9rem;line-height:1.6;border-inline-start:3px solid transparent}
+.toc-list a:hover{background:color-mix(in srgb,var(--on-surface) 6%,transparent)}
+.toc-list a.on{color:var(--primary);font-weight:600;border-inline-start-color:var(--primary);border-radius:0 12px 12px 0}
+[dir=rtl] .toc-list a.on{border-radius:12px 0 0 12px}
+.toc h4{margin:4px 12px 8px;font-size:.85rem;color:var(--on-surface-variant);font-weight:600}
+.l-body h2{font-size:1.45rem;line-height:1.5;margin:44px 0 12px;padding-top:4px;font-weight:750;display:flex;gap:10px;align-items:baseline}
+.l-body h2::before{content:"";width:6px;height:22px;border-radius:3px;background:var(--primary);flex:none;transform:translateY(3px)}
+.l-body h3{font-size:1.15rem;margin:28px 0 8px;font-weight:700}
+.l-body p{margin:10px 0}
+.l-body ul,.l-body ol{margin:10px 0;padding-inline-start:26px}
+.l-body li{margin:4px 0}
+.l-body li::marker{color:var(--primary)}
+.l-body ol{list-style-type:persian}
+td.fa{min-width:6.5em}
+.l-body .de{font-weight:500}
+a.xref{color:var(--primary);font-weight:600;text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:5px;text-decoration-color:color-mix(in srgb,var(--primary) 40%,transparent)}
+a.xref:hover{text-decoration-color:var(--primary)}
+a.xref::before{content:"";display:inline-block;width:.95em;height:.95em;margin-inline-end:3px;vertical-align:-.12em;background:currentColor;-webkit-mask:var(--i) center/contain no-repeat;mask:var(--i) center/contain no-repeat;--i:var(--link-i)}
+/* tables */
+.tw{overflow-x:auto;margin:16px 0;border-radius:16px;border:1px solid var(--outline-variant);background:var(--surface);-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font-size:.95rem;line-height:1.7}
+th,td{padding:9px 14px;text-align:right;vertical-align:top;border-bottom:1px solid var(--outline-variant)}
+th{background:var(--sc-high);font-weight:700;font-size:.9rem;white-space:nowrap}
+tr:last-child td{border-bottom:0}
+tbody tr:nth-child(even) td{background:color-mix(in srgb,var(--sc-low) 70%,transparent)}
+td .de,th .de{display:inline-block;text-align:left;white-space:nowrap}
+td.long .de{white-space:normal;min-width:13em}
+td:first-child{font-weight:600}
+/* examples */
+.ex{margin:14px 0;background:var(--sc-low);border-radius:16px;padding:6px}
+.ex-r{display:flex;gap:10px;align-items:flex-start;padding:8px 8px;border-radius:12px}
+.ex-r+.ex-r{border-top:1px dashed var(--outline-variant);border-radius:0}
+.ex-t{flex:1;min-width:0}
+.ex-t .de{display:block;text-align:right;font-size:1.04rem;font-weight:500;line-height:1.7}
+.ex-fa{color:var(--on-surface-variant);font-size:.93rem;line-height:1.75;margin-top:2px}
+.spk{width:36px;height:36px;border-radius:18px;border:0;background:var(--sc-highest);color:var(--primary);display:grid;place-items:center;cursor:pointer;flex:none;margin-top:1px}
+.spk svg{width:20px;height:20px;fill:currentColor}
+.spk:hover{background:var(--primary-container)}
+.spk.on{background:var(--primary);color:var(--on-primary)}
+.no-tts .spk{display:none}
+/* callouts */
+.co{margin:18px 0;border-radius:16px;padding:14px 18px 6px;background:var(--sc);}
+.co-h{display:flex;align-items:center;gap:8px;font-weight:700;font-size:.95rem;margin-bottom:2px}
+.co-h .ic{width:20px;height:20px}
+.co-b>p:first-child{margin-top:4px}
+.co-b{font-size:.97rem}
+.co .ex{background:color-mix(in srgb,var(--surface) 55%,transparent)}
+.co .tw{background:color-mix(in srgb,var(--surface) 70%,transparent)}
+.co-tip{background:var(--tertiary-container);color:var(--on-tertiary-container)}
+.co-tip .co-h{color:var(--tertiary)}
+.co-fa{background:var(--green-container);color:var(--on-green-container)}
+.co-fa .co-h{color:var(--green)}
+.co-warn{background:var(--error-container);color:var(--on-error-container)}
+.co-warn .co-h{color:var(--error)}
+.co-rule{background:var(--primary-container);color:var(--on-primary-container)}
+.co-rule .co-h{color:var(--primary)}
+.co-note{background:var(--sc-high)}
+.co-note .co-h{color:var(--on-surface-variant)}
+.co-remember{background:transparent;border:1.5px dashed var(--outline)}
+.co-remember .co-h{color:var(--secondary)}
+.co .de b{color:inherit;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px}
+.co-fa .ex-fa,.co-tip .ex-fa,.co-warn .ex-fa,.co-rule .ex-fa{color:inherit;opacity:.85}
+.co a.xref{color:inherit}
+/* quiz */
+.qzs{display:grid;gap:8px;margin:14px 0}
+.qz{border:1px solid var(--outline-variant);border-radius:14px;background:var(--surface);overflow:hidden}
+.qz summary{list-style:none;display:flex;gap:12px;align-items:center;justify-content:space-between;padding:10px 16px;cursor:pointer}
+.qz summary::-webkit-details-marker{display:none}
+.qz-hint{font-size:.78rem;color:var(--primary);border:1px solid var(--outline-variant);border-radius:8px;padding:2px 10px;white-space:nowrap;flex:none}
+.qz[open] .qz-hint{opacity:.4}
+.qz-a{background:var(--tertiary-container);color:var(--on-tertiary-container);padding:10px 16px;font-size:.95rem}
+.qz-a .de b{color:inherit;text-decoration:underline}
+/* footer of lesson */
+.l-done{display:flex;justify-content:center;margin:48px 0 16px}
+.pn{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:8px}
+.pn a{display:flex;flex-direction:column;gap:2px;padding:14px 18px;border-radius:16px;border:1px solid var(--outline-variant);text-decoration:none;min-width:0}
+.pn a:hover{background:var(--sc-low)}
+.pn small{color:var(--on-surface-variant);font-size:.8rem;display:flex;align-items:center;gap:4px}
+.pn small .ic{width:16px;height:16px}
+.pn b{font-size:.95rem;line-height:1.6}
+.pn .nx{text-align:left;align-items:flex-end}
+.backrefs{margin-top:40px;border-top:1px solid var(--outline-variant);padding-top:16px}
+
+/* ---------- Search panel ---------- */
+.sp{position:fixed;top:calc(var(--topbar) - 4px);left:50%;transform:translateX(-50%);width:min(680px,calc(100vw - 32px));max-height:min(72vh,720px);overflow-y:auto;background:var(--sc-high);border-radius:24px;box-shadow:var(--shadow3);z-index:60;display:none;padding:8px;overscroll-behavior:contain}
+body.search-open .sp{display:block}
+@media (min-width:900px){.sp{left:auto;transform:none;inset-inline-start:calc(var(--drawer) + (100vw - var(--drawer) - min(680px,calc(100vw - 32px)))/2)}}
+@media (max-width:719px){.sp{inset:var(--topbar) 0 0 0;width:auto;max-height:none;transform:none;border-radius:0;box-shadow:none;background:var(--surface)}}
+.sp-info{padding:10px 14px;color:var(--on-surface-variant);font-size:.88rem}
+.sp-group{padding:6px 0}
+.sp-lesson{display:flex;align-items:center;gap:8px;padding:6px 12px 2px;font-size:.82rem;color:var(--on-surface-variant);font-weight:600}
+.sp a{display:block;padding:10px 14px;border-radius:16px;text-decoration:none;color:inherit}
+.sp a:hover,.sp a.sel{background:var(--secondary-container);color:var(--on-secondary-container)}
+.sp a b{display:block;font-size:.97rem;line-height:1.6}
+.sp a span{display:block;font-size:.85rem;color:var(--on-surface-variant);line-height:1.75;margin-top:2px}
+.sp a.sel span,.sp a:hover span{color:inherit;opacity:.85}
+.sp .sugg{display:flex;flex-wrap:wrap;gap:8px;padding:4px 12px 12px}
+
+/* ---------- FAB / snackbar ---------- */
+.fab{position:fixed;bottom:24px;inset-inline-end:24px;z-index:35;height:56px;border-radius:16px;border:0;background:var(--tertiary-container);color:var(--on-tertiary-container);display:none;align-items:center;gap:10px;padding-inline:16px 20px;box-shadow:var(--shadow3);cursor:pointer;font-weight:600;max-width:calc(100vw - 48px)}
+.fab span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fab.show{display:flex}
+.snack{position:fixed;bottom:24px;left:50%;transform:translate(-50%,120px);background:var(--on-surface);color:var(--surface);padding:14px 20px;border-radius:8px;z-index:70;transition:transform .25s;max-width:calc(100vw - 32px);font-size:.92rem;box-shadow:var(--shadow3)}
+.snack.show{transform:translate(-50%,0)}
+.flash{animation:flash 1.6s ease}
+@keyframes flash{0%,40%{background:var(--tertiary-container)}100%{background:transparent}}
+@media (max-width:599px){
+  .hero{padding:28px 22px;border-radius:24px}
+  .hero h1{font-size:1.6rem}
+  .hero .bg{font-size:96px}
+  .lesson h1{font-size:1.55rem}
+  .l-body h2{font-size:1.25rem;margin-top:36px}
+  th,td{padding:8px 10px}
+  table.wide td.fa{min-width:9.5em}
+  td.fa{min-width:7.5em}
+  .co{padding:12px 14px 4px;margin-inline:-4px}
+  .ex{margin-inline:-4px}
+  .pn{grid-template-columns:1fr}
+  .pn .nx{text-align:right;align-items:flex-start}
+  .fab{bottom:16px;inset-inline-end:16px}
+  .lcard{padding:14px}
+}
+@media print{.topbar,.drawer,.toc,.fab,.l-done,.pn,.spk{display:none!important}main{margin:0!important;padding:0!important}.layout{padding:0}}
+</style>
+</head>
+<body>
+<header class="topbar" id="topbar">
+  <button class="icon-btn" id="menuBtn" aria-label="فهرست درس‌ها"><i class="ic ic-menu"></i></button>
+  <a class="brand" href="#/"><span class="logo">DE</span><span>گرامر آلمانی<small>A1.1 تا B2.2 · به زبان فارسی</small></span></a>
+  <div class="searchbar" id="searchbar">
+    <button class="icon-btn" id="searchBack" aria-label="بستن جست‌وجو" style="display:none"><i class="ic ic-arrow_back"></i></button>
+    <i class="ic ic-search" id="searchIc"></i>
+    <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="جست‌وجو: Akkusativ، صفت ملکی، weil، شدن…" aria-label="جست‌وجو">
+    <button class="icon-btn" id="qClear" aria-label="پاک کردن" style="display:none;width:40px;height:40px"><i class="ic ic-close"></i></button>
+    <span class="kbd" title="میان‌بر">/</span>
+  </div>
+  <span class="spacer" id="spacer" style="display:none"></span>
+  <button class="icon-btn" id="searchOpen" aria-label="جست‌وجو"><i class="ic ic-search"></i></button>
+  <button class="icon-btn" id="sizeBtn" aria-label="اندازه متن" title="اندازه متن"><i class="ic ic-format_size"></i></button>
+  <button class="icon-btn" id="themeBtn" aria-label="حالت تیره/روشن" title="حالت تیره/روشن"><i class="ic ic-dark_mode"></i></button>
+</header>
+<div class="layout">
+  <nav class="drawer" id="drawer" aria-label="فهرست درس‌ها"></nav>
+  <main id="main"></main>
+  <aside class="toc" id="toc"></aside>
+</div>
+<div class="scrim" id="scrim"></div>
+<div class="sp" id="sp" role="listbox"></div>
+<button class="fab" id="fab"><i class="ic ic-arrow_back"></i><span></span></button>
+<div class="snack" id="snack"></div>
+<script id="data" type="application/json">__DATA_JSON__</script>
+<script>
+(function(){
+"use strict";
+const D = JSON.parse(document.getElementById('data').textContent);
+const LS = D.lessons, LV = D.levels, byId = {};
+LS.forEach((l,i)=>{l.i=i;byId[l.id]=l;});
+const $ = s=>document.querySelector(s);
+const main=$('#main'), drawer=$('#drawer'), tocEl=$('#toc'), sp=$('#sp'), q=$('#q'), fab=$('#fab'), root=document.documentElement;
+const faDigits = s=>String(s).replace(/\d/g,d=>'۰۱۲۳۴۵۶۷۸۹'[d]);
+const escH = s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const store={get(k,d){try{const v=localStorage.getItem('gg:'+k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set(k,v){try{localStorage.setItem('gg:'+k,JSON.stringify(v));}catch(e){}}};
+let done=new Set(store.get('done',[]));
+const lvName=k=>(LV.find(x=>x.k===k)||{name:k}).name;
+const lvCls=k=>'lv-'+k.replace('.','\\.');
+
+/* ---------- theme & size ---------- */
+function applyTheme(t){ if(t) root.setAttribute('data-theme',t); else root.removeAttribute('data-theme');
+  const dark = t? t==='dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  $('#themeBtn i').className='ic '+(dark?'ic-light_mode':'ic-dark_mode');
+  document.querySelector('meta[name=theme-color]').content = dark?'#121318':'#faf8ff'; }
+applyTheme(store.get('theme',null));
+$('#themeBtn').onclick=()=>{const dark=root.getAttribute('data-theme')? root.getAttribute('data-theme')==='dark' : matchMedia('(prefers-color-scheme: dark)').matches; const t=dark?'light':'dark'; store.set('theme',t); applyTheme(t);};
+const SIZES=['fs-s','','fs-l','fs-xl']; let size=store.get('size',1);
+function applySize(){SIZES.forEach(c=>c&&root.classList.remove(c)); if(SIZES[size]) root.classList.add(SIZES[size]);}
+applySize();
+$('#sizeBtn').onclick=()=>{size=(size+1)%SIZES.length; store.set('size',size); applySize(); snack(['متن کوچک','متن معمولی','متن بزرگ','متن خیلی بزرگ'][size]);};
+
+/* ---------- snackbar ---------- */
+let snT; function snack(msg){const s=$('#snack'); s.textContent=msg; s.classList.add('show'); clearTimeout(snT); snT=setTimeout(()=>s.classList.remove('show'),2600);}
+
+/* ---------- drawer ---------- */
+function buildDrawer(){
+  let h='<div class="d-head"><b>فهرست درس‌ها</b><button class="icon-btn" id="dClose" aria-label="بستن"><i class="ic ic-close"></i></button></div>';
+  h+='<a class="d-home" href="#/" data-home><i class="ic ic-home"></i>صفحه اصلی</a>';
+  LV.forEach(v=>{
+    const ls=LS.filter(l=>l.lv===v.k); if(!ls.length) return;
+    const dn=ls.filter(l=>done.has(l.id)).length;
+    h+=`<details class="d-lv" data-lv="${v.k}"><summary><span class="lvdot lv-${v.k}">${v.k==='X'?'＋':v.k}</span><span>${v.k==='X'?'ضمیمه‌ها':'سطح '+v.name}</span><span class="cnt">${faDigits(dn)}/${faDigits(ls.length)}</span><i class="ic ic-expand_more"></i></summary><ul class="d-list">`;
+    ls.forEach(l=>{h+=`<li><a href="#/l/${l.id}" data-id="${l.id}"><span class="n">${faDigits(l.n)}</span><span class="t">${escH(l.t)}</span>${done.has(l.id)?'<i class="ic ic-check_circle"></i>':''}</a></li>`;});
+    h+='</ul></details>';
+  });
+  drawer.innerHTML=h;
+  $('#dClose').onclick=closeDrawer;
+}
+function markDrawer(id){
+  drawer.querySelectorAll('a.active').forEach(a=>a.classList.remove('active'));
+  if(!id){ drawer.querySelector('[data-home]').classList.add('active'); return; }
+  const a=drawer.querySelector(`a[data-id="${id}"]`);
+  if(a){a.classList.add('active'); const d=a.closest('details'); if(d && !d.open) d.open=true;
+    const r=a.getBoundingClientRect(), dr=drawer.getBoundingClientRect();
+    if(r.top<dr.top+60||r.bottom>dr.bottom-20) drawer.scrollTop+= r.top-dr.top-dr.height/3; }
+}
+function openDrawer(){document.body.classList.add('drawer-open'); const a=drawer.querySelector('a.active'); if(a) setTimeout(()=>a.scrollIntoView({block:'center'}),50);}
+function closeDrawer(){document.body.classList.remove('drawer-open');}
+$('#menuBtn').onclick=openDrawer; $('#scrim').onclick=()=>{closeDrawer();closeSearch();};
+
+/* ---------- views ---------- */
+function setTitle(t){document.title = t? t+' · گرامر آلمانی' : 'گرامر آلمانی به فارسی';}
+function lvCard(v){
+  const ls=LS.filter(l=>l.lv===v.k); const dn=ls.filter(l=>done.has(l.id)).length;
+  return `<a class="lv-card" href="#/v/${v.k}"><div class="top"><span class="lvdot lv-${v.k}">${v.k==='X'?'＋':v.k}</span><div><b>${v.k==='X'?'ضمیمه‌ها':'سطح '+v.name}</b><br><span>${faDigits(ls.length)} درس${dn?' · '+faDigits(dn)+' خوانده‌شده':''}</span></div></div><p>${escH(v.d)}</p><div class="progress"><i style="width:${ls.length?dn/ls.length*100:0}%"></i></div></a>`;
+}
+function showHome(){
+  const last=byId[store.get('last','')];
+  const total=LS.filter(l=>l.lv!=='X').length;
+  main.className=''; tocEl.innerHTML='';
+  main.innerHTML=`<div class="wrap">
+  <section class="hero"><div class="bg">Grammatik</div>
+   <h1>گرامر زبان آلمانی، درس به درس به فارسی</h1>
+   <p>از صفرِ صفر (A1.1) تا پایان B2.2، با ترتیبی هماهنگ با کتاب‌های رایج مثل Menschen، Momente و Linie 1. هر نکته با جدول، مثالِ صوتی، مقایسه با دستور زبان فارسی و ارجاع به درس‌های قبلی توضیح داده شده است.</p>
+   <div class="acts">${last?`<a class="btn filled" href="#/l/${last.id}"><i class="ic ic-play flip"></i>ادامه: ${escH(last.t)}</a><a class="btn tonal" href="#/l/${LS[0].id}">از اول</a>`:`<a class="btn filled" href="#/l/${LS[0].id}"><i class="ic ic-play flip"></i>شروع از درس اول</a>`}
+   <button class="btn tonal" id="heroSearch"><i class="ic ic-search"></i>جست‌وجو در درس‌ها</button></div>
+   <div class="stats"><div><b>${faDigits(total)}</b>درس گرامر</div><div><b>${faDigits(LV.length-1)}</b>زیرسطح</div><div><b>${faDigits(done.size)}</b>درس خوانده‌شده</div></div>
+  </section>
+  <h2 class="sec-title"><i class="ic ic-school"></i>سطح‌ها</h2>
+  <div class="lv-grid">${LV.map(lvCard).join('')}</div>
+  <h2 class="sec-title"><i class="ic ic-book"></i>راهنمای خواندن درس‌ها</h2>
+  <div class="legend">
+   <div class="card co-rule" style="border-radius:16px"><h3><i class="ic ic-rule"></i>قاعده</h3><p>خلاصهٔ قانون اصلی هر نکته؛ اگر وقت کم دارید همین کادرها را بخوانید.</p></div>
+   <div class="card co-fa" style="border-radius:16px"><h3><i class="ic ic-translate"></i>مقایسه با فارسی</h3><p>هر ساختار آلمانی را کنار معادل فارسی‌اش می‌گذارد تا شباهت‌ها و تفاوت‌ها را ببینید.</p></div>
+   <div class="card co-tip" style="border-radius:16px"><h3><i class="ic ic-lightbulb"></i>ترفند</h3><p>راه‌های میان‌بر و روش‌های حفظ کردن.</p></div>
+   <div class="card co-warn" style="border-radius:16px"><h3><i class="ic ic-warning"></i>دام رایج</h3><p>اشتباه‌هایی که فارسی‌زبان‌ها زیاد مرتکب می‌شوند. شکل غلط با <s class="wrong">خط‌خورده</s> نشان داده می‌شود.</p></div>
+   <div class="card" style="border:1.5px dashed var(--outline)"><h3><i class="ic ic-history"></i>یادآوری و <a class="xref" href="#/l/${LS[0].id}">لینک به درس قبلی</a></h3><p>هر جا نکته‌ای به درس‌های قبل برمی‌گردد، لینک آن درس آمده است. با دکمهٔ «بازگشت» پایین صفحه به همان‌جا برمی‌گردید.</p></div>
+   <div class="card"><h3><i class="ic ic-volume"></i>رنگ‌ها و تلفظ</h3><p>جنس اسم‌ها: <span class="g-m de">der</span> مذکر، <span class="g-f de">die</span> مؤنث، <span class="g-n de">das</span> خنثی، <span class="g-p de">die (Pl.)</span> جمع. کنار هر مثال دکمهٔ بلندگو هست (اگر مرورگر صدای آلمانی داشته باشد).</p></div>
+  </div></div>`;
+  $('#heroSearch').onclick=openSearch;
+  setTitle(''); markDrawer(null);
+}
+function showLevel(k){
+  const v=LV.find(x=>x.k===k); const ls=LS.filter(l=>l.lv===k);
+  const dn=ls.filter(l=>done.has(l.id)).length;
+  main.className=''; tocEl.innerHTML='';
+  main.innerHTML=`<div class="wrap" style="max-width:860px"><div class="lv-head"><span class="lvdot lv-${k}">${k==='X'?'＋':k}</span><div><h1>${k==='X'?'ضمیمه‌ها':'سطح '+v.name}</h1><div style="color:var(--on-surface-variant)">${faDigits(ls.length)} درس · ${faDigits(dn)} خوانده‌شده</div></div></div>
+  <p style="color:var(--on-surface-variant)">${escH(v.d)}</p><div class="progress"><i style="width:${ls.length?dn/ls.length*100:0}%"></i></div>
+  <div class="lessons">${ls.map(l=>`<a class="lcard${done.has(l.id)?' isdone':''}" href="#/l/${l.id}"><span class="num">${done.has(l.id)?'<i class="ic ic-check"></i>':faDigits(l.n)}</span><div><h3>${escH(l.t)}</h3><span class="de" dir="ltr">${escH(l.de)}</span><p>${l.sumh}</p></div></a>`).join('')}</div></div>`;
+  setTitle(k==='X'?'ضمیمه‌ها':'سطح '+v.name); markDrawer(null);
+  drawer.querySelector('[data-home]').classList.remove('active');
+  const d=drawer.querySelector(`details[data-lv="${k}"]`); if(d) d.open=true;
+}
+let cur=null, io=null;
+function refChips(ids){return ids.map(id=>{const r=byId[id];return `<a class="chip" href="#/l/${id}" data-x="1"><span class="lvdot ${'lv-'+r.lv}" style="width:auto;padding:0 6px;height:20px;font-size:.66rem">${r.lv==='X'?'＋':r.lv}</span>${escH(r.t)}</a>`;}).join('');}
+function showLesson(l, anc){
+  if(cur!==l.id){
+    cur=l.id;
+    const prev=LS[l.i-1], next=LS[l.i+1];
+    const tocItems=l.secs.map(s=>`<li><a href="#/l/${l.id}/${s.a}" data-a="${s.a}">${escH(s.t)}</a></li>`).join('');
+    main.className='has-toc';
+    main.innerHTML=`<article class="lesson">
+     <div class="l-meta"><a class="chip lv ${'lv-'+l.lv}" href="#/v/${l.lv}">${l.lv==='X'?'ضمیمه':l.lv}</a><span>درس ${faDigits(l.n)} از ${faDigits(LS.length)}</span>${done.has(l.id)?'<span class="chip" style="border:0;background:var(--green-container);color:var(--on-green-container)"><i class="ic ic-check"></i>خوانده‌شده</span>':''}</div>
+     <h1>${escH(l.t)}</h1>
+     <div class="l-de" dir="ltr" lang="de">${escH(l.de)}</div>
+     <p class="l-sum">${l.sumh}</p>
+     ${l.prev.length?`<div class="refs"><span class="lab"><i class="ic ic-history"></i>پیش‌نیاز / مرور:</span>${refChips(l.prev)}</div>`:''}
+     <details class="toc-inline"><summary><i class="ic ic-toc"></i>فهرست این درس (${faDigits(l.secs.length)} بخش)<i class="ic ic-expand_more"></i></summary><ul class="toc-list">${tocItems}</ul></details>
+     <div class="l-body">${l.html}</div>
+     ${l.back.length?`<div class="backrefs"><div class="refs"><span class="lab"><i class="ic ic-link"></i>این مبحث بعداً در این درس‌ها ادامه پیدا می‌کند:</span>${refChips(l.back)}</div></div>`:''}
+     <div class="l-done"><button class="btn ${done.has(l.id)?'done':'filled'}" id="doneBtn"><i class="ic ${done.has(l.id)?'ic-check_circle':'ic-check'}"></i>${done.has(l.id)?'این درس را خوانده‌ام':'علامت‌گذاری به‌عنوان خوانده‌شده'}</button></div>
+     <nav class="pn">${prev?`<a href="#/l/${prev.id}"><small><i class="ic ic-arrow_forward"></i>درس قبلی</small><b>${escH(prev.t)}</b></a>`:'<span></span>'}${next?`<a class="nx" href="#/l/${next.id}"><small>درس بعدی<i class="ic ic-arrow_back"></i></small><b>${escH(next.t)}</b></a>`:'<span></span>'}</nav>
+    </article>`;
+    tocEl.innerHTML=`<h4>در این درس</h4><ul class="toc-list">${tocItems}</ul>`;
+    $('#doneBtn').onclick=()=>{ if(done.has(l.id)) done.delete(l.id); else done.add(l.id); store.set('done',[...done]); buildDrawer(); cur=null; const y=scrollY; showLesson(l); markDrawer(l.id); scrollTo(0,y); if(done.has(l.id)) snack('آفرین! درس به‌عنوان خوانده‌شده ثبت شد.'); };
+    // xref titles
+    main.querySelectorAll('a.xref').forEach(a=>{const r=byId[a.dataset.l]; if(r) a.title=`درس ${faDigits(r.n)} (${r.lv}): ${r.t}`; a.dataset.x='1';});
+    setupSpy(l);
+    store.set('last',l.id);
+    setTitle(l.t);
+  }
+  markDrawer(l.id);
+  if(anc){ const el=document.getElementById(l.id+'--'+anc); if(el){ requestAnimationFrame(()=>{el.scrollIntoView({block:'start'}); el.classList.remove('flash'); void el.offsetWidth; el.classList.add('flash');}); return true; } }
+  return false;
+}
+function setupSpy(l){
+  if(io) io.disconnect();
+  const links=[...document.querySelectorAll('.toc-list a')];
+  const hs=[...main.querySelectorAll('.l-body h2')];
+  io=new IntersectionObserver(es=>{
+    let top=null; hs.forEach(h=>{const r=h.getBoundingClientRect(); if(r.top<innerHeight*0.35) top=h;});
+    links.forEach(a=>a.classList.toggle('on', top && a.dataset.a===top.dataset.a));
+  },{rootMargin:'0px 0px -60% 0px',threshold:[0,1]});
+  hs.forEach(h=>io.observe(h));
+}
+
+/* ---------- router & scroll memory ---------- */
+const memo={}; let navKind=null, retStack=[];
+addEventListener('scroll',()=>{memo[location.hash||'#/']=scrollY; $('#topbar').classList.toggle('raised',scrollY>4);},{passive:true});
+document.addEventListener('click',e=>{
+  const a=e.target.closest('a[href^="#/"]'); if(!a) return;
+  navKind='link';
+  if(a.dataset.x && cur && a.getAttribute('href').split('/')[2]!==cur){ retStack.push({hash:location.hash, t:byId[cur].t, y:scrollY}); pendingRet=true; }
+  else pendingRet=false;
+},true);
+let pendingRet=false, lastQuery=null;
+function route(){
+  const h=decodeURIComponent(location.hash.slice(1))||'/';
+  const p=h.split('/').filter(Boolean);
+  closeDrawer(); closeSearch(true);
+  let scrolled=false;
+  if(p[0]==='l' && byId[p[1]]){ const same=cur===p[1]; scrolled=showLesson(byId[p[1]],p[2]); if(same && !p[2] && navKind==='link'){scrollTo(0,0);scrolled=true;} if(same&&navKind==='link'&&p[2]) {navKind=null; updFab(); return;} }
+  else { cur=null; if(io) io.disconnect(); if(p[0]==='v' && LV.find(x=>x.k===p[1])) showLevel(p[1]); else showHome(); }
+  if(!scrolled){ if(navKind==='link') scrollTo(0,0); else scrollTo(0, memo[location.hash||'#/']||0); }
+  if(lastQuery && cur){ highlight(lastQuery); lastQuery=null; }
+  updFab();
+  navKind=null;
+}
+function updFab(){
+  if(navKind==='link' && !pendingRet) retStack=[];
+  if(navKind!=='link' && retStack.length && retStack[retStack.length-1].hash===location.hash) retStack.pop();
+  pendingRet=false;
+  const r=retStack[retStack.length-1];
+  if(r){ fab.querySelector('span').textContent='بازگشت به: '+r.t; fab.classList.add('show'); } else fab.classList.remove('show');
+}
+fab.onclick=()=>{ history.back(); };
+addEventListener('hashchange',route);
+
+/* ---------- speech ---------- */
+let deVoice=null;
+if(!('speechSynthesis' in window)) document.body.classList.add('no-tts');
+else { const pick=()=>{const vs=speechSynthesis.getVoices(); deVoice=vs.find(v=>/^de(-|_)DE/i.test(v.lang))||vs.find(v=>/^de/i.test(v.lang))||null;}; pick(); speechSynthesis.onvoiceschanged=pick; }
+main.addEventListener('click',e=>{
+  const b=e.target.closest('.spk'); if(!b) return;
+  if(!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel();
+  document.querySelectorAll('.spk.on').forEach(x=>x.classList.remove('on'));
+  const u=new SpeechSynthesisUtterance(b.dataset.say); u.lang='de-DE'; if(deVoice) u.voice=deVoice; u.rate=.88;
+  u.onend=u.onerror=()=>b.classList.remove('on'); b.classList.add('on');
+  speechSynthesis.speak(u);
+  if(!deVoice && speechSynthesis.getVoices().length) snack('صدای آلمانی روی این دستگاه پیدا نشد؛ ممکن است تلفظ دقیق نباشد.');
+});
+
+/* ---------- search ---------- */
+const MAP={'ي':'ی','ى':'ی','ك':'ک','ة':'ه','ۀ':'ه','أ':'ا','إ':'ا','ٱ':'ا','ؤ':'و','ä':'a','ö':'o','ü':'u','ß':'s','‌':' ','‏':' ','‎':' ','„':'"','“':'"','”':'"','ـ':' '};
+function norm(s){let o='';for(const c of s.toLowerCase()) o+= (MAP[c]!==undefined?MAP[c]:(c.length===1?c:c[0])); return o;}
+const IDX=D.search.map(e=>({li:e[0],si:e[1],t:e[2],x:e[3],nt:null,nx:null}));
+function ensure(e){ if(e.nt===null){e.nt=norm(e.t); e.nx=norm(e.x);} }
+function tokVars(qs){return norm(qs).split(/[\s,،؛:;!?؟.()«»"]+/).filter(t=>t.length>0).map(v=>{const out=[v];let w=v.replace(/ae/g,'a').replace(/oe/g,'o').replace(/ue/g,'u');if(w.length>4)w=w.replace(/ss/g,'s');if(w!==v)out.push(w);return out;});}
+function tokens(qs){const s=new Set();tokVars(qs).forEach(a=>a.forEach(x=>s.add(x)));return [...s];}
+const isW=c=>c!==undefined&&/[\p{L}\p{N}]/u.test(c);
+function findAll(h,t,strict){const out=[];let i=0;if(strict===undefined) strict=t.length<=2;while((i=h.indexOf(t,i))!==-1){if(!strict||(!isW(h[i-1])&&!isW(h[i+t.length]))) out.push(i);i+=1;if(out.length>40)break;}return out;}
+function whole(h,t){let i=0;while((i=h.indexOf(t,i))!==-1){if(!isW(h[i-1])&&!isW(h[i+t.length]))return true;i+=1;}return false;}
+function sub(h,t){return t.length<=2? whole(h,t) : h.indexOf(t)!==-1;}
+function search(qs){
+  const tv=tokVars(qs); if(!tv.length) return [];
+  const tk=tokens(qs); const phrase=norm(qs.trim());
+  const res=[];
+  for(const e of IDX){
+    ensure(e); const L=LS[e.li]; if(L._nl===undefined) L._nl=norm(L.t+' '+L.de);
+    let sc=0, ok=true;
+    for(const vars of tv){
+      let best=-1;
+      for(const t of vars){
+        const wT=whole(e.nt,t), sT=wT||sub(e.nt,t);
+        const wL=whole(L._nl,t), sL=wL||sub(L._nl,t);
+        const occ=findAll(e.nx,t).length; const occW=occ?findAll(e.nx,t,true).length:0;
+        if(!sT && !sL && !occ) continue;
+        const dens=wT?findAll(e.nt,t,true).length*t.length/Math.max(12,e.nt.length):0;
+        const s=(wT?14+dens*12:sT?2:0) + (wL?5:sL?1:0) + (occW?4+Math.min(2,occW*.25):occ?.5:0);
+        if(s>best) best=s;
+      }
+      if(best<0){ok=false;break;}
+      sc+=best;
+    }
+    if(!ok) continue;
+    if(tk.length>1 && (e.nt.includes(phrase)||e.nx.includes(phrase))) sc+=15;
+    if(e.si===-1 && L.k0 && norm(L.k0)===phrase) sc+=10;
+    if(e.si===-1) sc+=2.5+(tv.every(vs=>vs.some(x=>whole(L._nl,x)))?4:0);
+    res.push({e,sc});
+  }
+  res.sort((a,b)=>b.sc-a.sc || a.e.li-b.e.li || a.e.si-b.e.si);
+  return res;
+}
+function hl(text,tk){
+  const nt=norm(text); const marks=new Array(text.length).fill(false);
+  tk.forEach(t=>{findAll(nt,t).forEach(i=>{for(let k=i;k<i+t.length;k++)marks[k]=true;});});
+  let o='',on=false; for(let k=0;k<text.length;k++){ if(marks[k]&&!on){o+='<mark class="hit">';on=true;} if(!marks[k]&&on){o+='</mark>';on=false;} o+=escH(text[k]); } if(on)o+='</mark>'; return o;
+}
+function snippet(text,tk){
+  const nt=norm(text); let pos=-1; for(const t of tk){const f=findAll(nt,t); const i=f.length?f[0]:-1; if(i!==-1&&(pos===-1||i<pos)) pos=i;}
+  if(pos===-1) return hl(text.slice(0,150),tk)+(text.length>150?'…':'');
+  let s=Math.max(0,pos-60), en=Math.min(text.length,pos+120);
+  while(s>0 && text[s]!==' ') s--; while(en<text.length && text[en]!==' ') en++;
+  return (s>0?'…':'')+hl(text.slice(s,en).trim(),tk)+(en<text.length?'…':'');
+}
+let sel=-1, results=[];
+const SUGG=['Akkusativ','حرف تعریف','weil','Perfekt','صفت','Passiv','dass','حروف اضافه','Konjunktiv II','جمله موصولی','um zu','ضمیر'];
+function renderSearch(){
+  const qs=q.value; $('#qClear').style.display=qs?'grid':'none';
+  if(!qs.trim()){ sp.innerHTML=`<div class="sp-info">چیزی بنویسید — به فارسی یا آلمانی. مثلاً:</div><div class="sugg">${SUGG.map(s=>`<button class="chip" data-s="${escH(s)}">${escH(s)}</button>`).join('')}</div>`; results=[]; sel=-1; return; }
+  const tk=tokens(qs); const r=search(qs); results=r.slice(0,60); sel=results.length?0:-1;
+  if(!r.length){ sp.innerHTML=`<div class="sp-info">نتیجه‌ای برای «${escH(qs)}» پیدا نشد. املای دیگری را امتحان کنید (مثلاً بدون نیم‌فاصله یا به آلمانی).</div>`; return; }
+  let h=`<div class="sp-info">${faDigits(r.length)} نتیجه${r.length>60?' (۶۰ مورد اول)':''}</div>`; let lastL=-1;
+  results.forEach((x,k)=>{ const L=LS[x.e.li];
+    if(x.e.li!==lastL){ if(lastL!==-1) h+='</div>'; h+=`<div class="sp-group"><div class="sp-lesson"><span class="lvdot lv-${L.lv}" style="width:auto;padding:0 6px;height:20px;font-size:.66rem">${L.lv==='X'?'＋':L.lv}</span>درس ${faDigits(L.n)} · ${escH(L.t)}</div>`; lastL=x.e.li; }
+    const sec=x.e.si===-1?null:L.secs[x.e.si];
+    const href=`#/l/${L.id}`+(sec?'/'+sec.a:'');
+    h+=`<a href="${href}" data-k="${k}"${k===sel?' class="sel"':''}><b>${hl(sec?sec.t:L.t,tk)}</b><span>${snippet(x.e.x,tk)}</span></a>`;
+  });
+  sp.innerHTML=h+'</div>';
+}
+sp.addEventListener('click',e=>{const c=e.target.closest('[data-s]'); if(c){q.value=c.dataset.s; renderSearch(); q.focus(); return;}
+  const a=e.target.closest('a'); if(a){ lastQuery=tokens(q.value); }});
+function openSearch(){document.body.classList.add('search-open'); if(innerWidth<720){$('#searchBack').style.display='grid';$('#searchIc').style.display='none';} renderSearch(); setTimeout(()=>q.focus(),30);}
+function closeSearch(keep){document.body.classList.remove('search-open'); $('#searchBack').style.display='none';$('#searchIc').style.display=''; if(document.activeElement===q) q.blur();}
+q.addEventListener('focus',()=>{ if(!document.body.classList.contains('search-open')) openSearch(); });
+q.addEventListener('input',renderSearch);
+q.addEventListener('keydown',e=>{
+  if(e.key==='ArrowDown'||e.key==='ArrowUp'){ e.preventDefault(); if(!results.length) return; sel=(sel+(e.key==='ArrowDown'?1:-1)+results.length)%results.length; sp.querySelectorAll('a[data-k]').forEach(a=>a.classList.toggle('sel',+a.dataset.k===sel)); const s=sp.querySelector('a.sel'); if(s) s.scrollIntoView({block:'nearest'}); }
+  else if(e.key==='Enter'){ const s=sp.querySelector('a.sel'); if(s){ lastQuery=tokens(q.value); navKind='link'; location.hash=s.getAttribute('href'); } }
+  else if(e.key==='Escape'){ closeSearch(); }
+});
+$('#qClear').onclick=()=>{q.value='';renderSearch();q.focus();};
+$('#searchOpen').onclick=openSearch; $('#searchBack').onclick=()=>closeSearch();
+document.addEventListener('keydown',e=>{ if(e.key==='/' && document.activeElement!==q && !/input|textarea/i.test(document.activeElement.tagName)){e.preventDefault(); q.focus();} if(e.key==='Escape'){closeDrawer();}});
+document.addEventListener('click',e=>{ if(document.body.classList.contains('search-open') && !e.target.closest('#sp,#searchbar,#searchOpen,#heroSearch')) closeSearch(); });
+function highlight(tk){
+  const body=main.querySelector('.l-body'); if(!body||!tk.length) return;
+  const walker=document.createTreeWalker(body,NodeFilter.SHOW_TEXT,null); const nodes=[]; let n;
+  while((n=walker.nextNode())) if(n.nodeValue.trim()) nodes.push(n);
+  let count=0;
+  nodes.forEach(node=>{ const t=node.nodeValue, nt=norm(t); const ranges=[];
+    tk.forEach(k=>{ findAll(nt,k).forEach(i=>ranges.push([i,i+k.length])); });
+    if(!ranges.length) return; ranges.sort((a,b)=>a[0]-b[0]);
+    const frag=document.createDocumentFragment(); let p=0;
+    ranges.forEach(([s,e])=>{ if(s<p) return; frag.appendChild(document.createTextNode(t.slice(p,s))); const m=document.createElement('mark'); m.className='hit'; m.textContent=t.slice(s,e); frag.appendChild(m); p=e; count++; });
+    frag.appendChild(document.createTextNode(t.slice(p))); node.parentNode.replaceChild(frag,node);
+  });
+}
+
+buildDrawer();
+route();
+})();
+</script>
+</body>
+</html>

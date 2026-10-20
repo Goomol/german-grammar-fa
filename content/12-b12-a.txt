@@ -1,0 +1,403 @@
+@@ b12-konj2-verg
+level: B1.2
+title: Konjunktiv II گذشته: «اگر می‌دانستم، می‌آمدم»
+de: Konjunktiv II der Vergangenheit
+tags: Konjunktiv II Vergangenheit, hätte gemacht, wäre gegangen, شرط غیرواقعی گذشته, پشیمانی, کاش, hätte kommen sollen, hätte machen können, باید می‌آمدم, می‌توانستی, irreal Vergangenheit
+summary: برای چیزهایی که در **گذشته** اتفاق **نیفتاد**: «اگر **می‌دانستم**، **می‌آمدم**»، «**باید** زودتر **می‌آمدم**»، «کاش گفته بودی».
+---
+## ساختار {#struktur}
+
+:::rule
+**hätte / wäre + Partizip II**
+انتخاب `hätte` یا `wäre` مثل Perfekt است ([[a12-perfekt-sein#regel]]).
+:::
+
+| Indikativ (واقعی) | Konjunktiv II گذشته |
+|---|---|
+| Ich **habe** es **gewusst**. | Ich **hätte** es **gewusst**. |
+| Er **ist gekommen**. | Er **wäre gekommen**. |
+
+## شرط غیرواقعی در گذشته {#bedingung}
+
+> **Wenn** ich das **gewusst hätte**, **wäre** ich **gekommen**. = اگر این را می‌دانستم، می‌آمدم. (اما نمی‌دانستم، پس نیامدم)
+> **Wenn** du früher **aufgestanden wärst**, **hättest** du den Bus nicht **verpasst**. = اگر زودتر بیدار شده بودی، اتوبوس را از دست نمی‌دادی.
+> **Hätte** ich mehr **gelernt**, **hätte** ich die Prüfung **bestanden**. = اگر بیشتر درس خوانده بودم، امتحان را قبول می‌شدم.
+
+### شرط مختلط: گذشته ← حال
+> **Wenn** ich damals Medizin **studiert hätte**, **wäre** ich jetzt Ärztin. = اگر آن موقع پزشکی خوانده بودم، الان پزشک بودم.
+
+## آرزو و پشیمانی {#wunsch}
+
+> **Hätte** ich **doch** auf dich **gehört**! = کاش به حرفت گوش داده بودم!
+> **Wenn** ich **nur** nicht so viel **gegessen hätte**! = کاش این‌قدر نخورده بودم!
+> Ich **wünschte**, ich **wäre** zu Hause **geblieben**. = کاش خانه مانده بودم.
+
+## با افعال وجهی: «باید می‌…»، «می‌توانستی …» {#modal}
+
+:::rule
+**hätte + … + مصدر فعل اصلی + مصدر فعل وجهی** («دو مصدر»)
+:::
+
+| آلمانی | فارسی |
+|---|---|
+| Ich **hätte** früher **kommen sollen**. | باید زودتر می‌آمدم. (نیامدم؛ کار اشتباهی بود) |
+| Du **hättest** mich **anrufen können**. | می‌توانستی به من زنگ بزنی. (نزدی!) |
+| Wir **hätten** das nicht **machen dürfen**. | نباید این کار را می‌کردیم. |
+| Er **hätte** nicht **arbeiten müssen**. | لازم نبود کار کند. (اما کرد) |
+
+> Das **hättest** du mir früher **sagen müssen**! = باید زودتر این را به من می‌گفتی!
+
+در جملهٔ پیرو، `hätte` **قبل از** دو مصدر می‌آید (نه آخر): `…, dass ich früher **hätte** kommen sollen.` ([[b22-ersatzinf]])
+
+## مقایسه با فارسی {#fa}
+
+:::fa ابهام فارسی، دقت آلمانی
+فارسی در محاوره برای غیرواقعیِ **حال** و **گذشته** اغلب یک شکل دارد: «اگر **می‌دانستم**، **می‌آمدم**» (می‌تواند دربارهٔ الان باشد یا دیروز). آلمانی این دو را جدا می‌کند:
+| معنی | آلمانی |
+|---|---|
+| الان نمی‌دانم ← اگر می‌دانستم، می‌آمدم | Wenn ich es **wüsste**, **würde** ich **kommen**. ([[b11-konj2]]) |
+| دیروز نمی‌دانستم ← اگر می‌دانستم، می‌آمدم | Wenn ich es **gewusst hätte**, **wäre** ich **gekommen**. |
+
+در فارسی رسمی‌تر، شکل دوم «اگر **دانسته بودم**، **آمده بودم**» است که مستقیماً با `gewusst hätte` / `gekommen wäre` تطبیق دارد.
+
+دام «باید می‌رفتم» (که در [[a21-praet-modal#fa]] دیدیم):
+- «**مجبور بودم** بروم» (رفتم) ← `Ich **musste** gehen.`
+- «باید می‌رفتم» (نرفتم، پشیمانم) ← `Ich **hätte** gehen **müssen/sollen**.`
+:::
+
+## خودآزمایی {#quiz}
+
+?? «اگر وقت داشتم (دیروز)، کمکت می‌کردم.» => `Wenn ich Zeit gehabt hätte, hätte ich dir geholfen.`
+?? «اگر با قطار رفته بودیم، زودتر رسیده بودیم.» => `Wenn wir mit dem Zug gefahren wären, wären wir früher angekommen.`
+?? «کاش به آن مهمانی نرفته بودم!» => `Wäre ich doch nicht zu der Party gegangen!`
+?? «باید بیشتر درس می‌خواندی.» => `Du hättest mehr lernen sollen/müssen.`
+?? «می‌توانستیم با هم برویم.» (اما نرفتیم) => `Wir hätten zusammen gehen können.`
+
+@@ b12-partizip-adj
+level: B1.2
+title: اسم فاعل و مفعول در نقش صفت (Partizip I و II)
+de: Partizip I und Partizip II als Adjektiv
+tags: Partizip I, Partizip II, صفت فعلی, اسم فاعل, اسم مفعول, weinend, das weinende Kind, die geschlossene Tür, das gekochte Ei, گریان, خندان, بسته, پخته, -end
+summary: «بچهٔ **گریان**»، «درِ **بسته**»، «تخم‌مرغِ **پخته**»: از هر فعل دو صفت ساخته می‌شود. یکی معنای فعال و هم‌زمان (`-end`) و دیگری معنای مجهول یا تمام‌شده.
+---
+## Partizip I: ‎-end‎ (در حال انجام، فعال) {#p1}
+
+:::rule
+**مصدر + ‎-d‎** ← `weinen → weinen**d**`، `lachen → lachen**d**`، `kommen → kommen**d**`
+معنی: کاری که **هم‌زمان** در حال انجام است و فاعل خودش انجامش می‌دهد.
+:::
+
+> das **weinende** Kind = بچهٔ گریان (بچه‌ای که گریه می‌کند)
+> die **steigenden** Preise = قیمت‌های در حال افزایش
+> in der **kommenden** Woche = در هفتهٔ آینده
+> ein **schlafender** Hund = سگی خوابیده (که در حال خواب است)
+> **fließendes** Wasser = آب روان (لوله‌کشی)
+
+به‌عنوان قید (بدون پسوند):
+> Er kam **lachend** ins Zimmer. = خندان وارد اتاق شد.
+> Sie spricht **fließend** Deutsch. = روان آلمانی صحبت می‌کند.
+
+## Partizip II: (انجام‌شده، مجهول) {#p2}
+
+:::rule
+همان اسم مفعول (`gemacht`، `geschlossen`) ([[a12-perfekt-sein#uebersicht]]).
+معنی: با فعل‌های متعدی **مجهول و تمام‌شده** («…شده»)؛ با فعل‌های حرکتی/تغییر حالت (sein) **فعال و تمام‌شده**.
+:::
+
+> die **geschlossene** Tür = درِ بسته (بسته‌شده)
+> das **gekochte** Ei = تخم‌مرغ آب‌پز (پخته‌شده)
+> ein **gebrauchtes** Auto = ماشین دست‌دوم (استفاده‌شده)
+> die **gestohlene** Tasche = کیف دزدیده‌شده
+> der **angekommene** Zug = قطارِ رسیده (sein ← فعال)
+> die **gefallenen** Blätter = برگ‌های افتاده
+
+## مقایسه I و II {#vergleich}
+
+| Partizip I | Partizip II |
+|---|---|
+| das **kochende** Wasser (آب در حال جوش) | das **gekochte** Wasser (آب جوشیده) |
+| der **lesende** Mann (مرد در حال خواندن) | das **gelesene** Buch (کتاب خوانده‌شده) |
+| die **schließende** Tür (درِ در حال بسته شدن) | die **geschlossene** Tür (درِ بسته) |
+| ein **überzeugender** Grund (دلیل قانع‌کننده) | ein **überzeugter** Vegetarier (گیاه‌خوار متعهد/قانع‌شده) |
+
+## پسوند {#endungen}
+
+مثل هر صفت دیگری صرف می‌شوند ([[a21-adj-best]]، [[a21-adj-unbest]]، [[a22-adj-null]]):
+> der **reparierte** Computer / ein **reparierter** Computer / mit **reparierten** Computern
+
+## صفت‌های فعلی رایج که «صفت معمولی» شده‌اند {#lexikalisiert}
+
+`spannend` (هیجان‌انگیز)، `anstrengend` (خسته‌کننده)، `überraschend` (غافلگیرکننده)، `dringend` (فوری)، `entspannt` (آسوده)، `verheiratet` (متأهل)، `bekannt` (معروف)، `interessiert` (علاقه‌مند)، `verletzt` (زخمی)، `aufgeregt` (هیجان‌زده)
+
+:::warn spannend یا gespannt؟
+- `Der Film ist **spannend**.` = فیلم هیجان‌انگیز است. (فیلم هیجان می‌دهد ← I)
+- `Ich bin **gespannt**.` = مشتاقم/کنجکاوم. (من هیجان گرفته‌ام ← II)
+همین‌طور `langweilig` / `gelangweilt`، `anstrengend` / `angestrengt`.
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa فارسی هم همین دو صفت را دارد!
+| آلمانی | فارسی | نوع |
+|---|---|---|
+| weinend | گری**ان** | صفت فاعلی (بن مضارع + ان) |
+| lachend | خند**ان** | |
+| laufend | دو**ان** | |
+| fließend | رو**ان** | |
+| geschlossen | بست**ه** | صفت مفعولی (بن ماضی + ه) |
+| gekocht | پخت**ه** | |
+| gebraucht | استفاده‌**شده** / دست‌دوم | |
+
+پسوند «ـان» فارسی (گریان، خندان، روان) دقیقاً معادل `-end` و پسوند «ـه» یا «ـشده» معادل Partizip II است. فرق فقط این است که در آلمانی این صفت‌ها **قبل** از اسم می‌آیند و **پسوند صرفی** می‌گیرند: «بچهٔ گریان» → `das weinend**e** Kind`.
+
+صفت‌های فعلی می‌توانند خیلی «گسترده» شوند: `die von meiner Mutter gekochte Suppe` («سوپی که مادرم پخته»). این را در [[b21-partizipialattribut]] می‌خوانید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «آب جوشان» (kochen، در حال جوش) => `kochendes Wasser`
+?? «پنجرهٔ باز» (öffnen، بازشده) => `das geöffnete Fenster`
+?? «بچهٔ خوابیده (در حال خواب)» => `das schlafende Kind`
+?? «ماشین تعمیرشده» => `das reparierte Auto`
+?? «او خندان وارد شد.» (lachen، قید) => `Er kam lachend herein.`
+?? `Der Film war sehr ___.` (spannen) => `spannend`
+
+@@ b12-adj-nomen
+level: B1.2
+title: صفت‌هایی که اسم شده‌اند (der Deutsche، das Neue)
+de: Nominalisierte Adjektive und Partizipien
+tags: صفت اسم‌شده, nominalisiertes Adjektiv, der Deutsche, ein Deutscher, der Bekannte, der Verwandte, der Erwachsene, der Jugendliche, der Kranke, der Angestellte, das Gute, etwas Neues, nichts Besonderes, alles Gute
+summary: «یک **آلمانی**»، «یک **آشنا**»، «**بزرگسالان**»، «**چیز تازه**ای»: صفت‌ها اسم می‌شوند، با حرف بزرگ نوشته می‌شوند اما **مثل صفت صرف می‌شوند**.
+---
+## اصل {#prinzip}
+
+وقتی صفتی (یا صفت فعلی) به‌جای «آدم» یا «چیز» می‌نشیند، اسم می‌شود:
+- با **حرف بزرگ** نوشته می‌شود.
+- اما **مثل صفت صرف می‌شود** (اسم بعدش «حذف» شده است).
+
+> der **deutsche** Mann → der **Deutsche** = (مرد) آلمانی
+> ein **deutscher** Mann → ein **Deutscher**
+> die **deutsche** Frau → die **Deutsche**
+> **deutsche** Leute → **Deutsche**
+
+## جدول صرف (der/ein Deutsche) {#tabelle}
+
+:::rule
+| | بعد از der | بعد از ein | بدون حرف تعریف |
+|---|---|---|---|
+| مذکر Nom. | der Deutsch**e** | ein Deutsch**er** | — |
+| مذکر Akk. | den Deutsch**en** | einen Deutsch**en** | — |
+| مذکر Dat. | dem Deutsch**en** | einem Deutsch**en** | — |
+| مؤنث Nom./Akk. | die Deutsch**e** | eine Deutsch**e** | — |
+| جمع Nom./Akk. | die Deutsch**en** | — | Deutsch**e** |
+| جمع Dat. | den Deutsch**en** | — | Deutsch**en** |
+همان پسوندهای صفت ([[a21-adj-best]]، [[a21-adj-unbest]]، [[a22-adj-null]]).
+:::
+
+> Mein Nachbar ist **ein Deutscher**, seine Frau ist **eine Deutsche**. = همسایه‌ام آلمانی است، همسرش هم آلمانی است.
+> Ich habe **mit dem Deutschen** gesprochen. = با آن (مرد) آلمانی صحبت کردم.
+> Viele **Deutsche** reisen gern. = بسیاری از آلمانی‌ها سفر را دوست دارند.
+
+:::warn der Deutsche اما der Iraner!
+فقط `Deutsch-` اینگونه است. ملیت‌های دیگر اسم معمولی‌اند: `der Iraner, ein Iraner, die Iraner`؛ `der Franzose` (n-Deklination: [[b11-n-dekl]]).
+:::
+
+## پرکاربردترین‌ها برای آدم‌ها {#personen}
+
+| اسم | از صفت/فعل | معنی |
+|---|---|---|
+| der/die Bekannte | bekannt | آشنا |
+| der/die Verwandte | verwandt | خویشاوند |
+| der/die Erwachsene | erwachsen | بزرگسال |
+| der/die Jugendliche | jugendlich | نوجوان |
+| der/die Kranke | krank | بیمار |
+| der/die Arbeitslose | arbeitslos | بیکار |
+| der/die Angestellte | angestellt | کارمند |
+| der/die Selbstständige | selbstständig | خویش‌فرما |
+| der/die Reisende | reisend | مسافر |
+| der/die Vorsitzende | vorsitzend | رئیس (جلسه/حزب) |
+| der/die Verletzte | verletzt | مجروح |
+| der/die Fremde | fremd | غریبه |
+| der/die Alte | alt | پیرمرد / پیرزن |
+| der/die Obdachlose | obdachlos | بی‌خانمان |
+| der/die Auszubildende (Azubi) | | کارآموز |
+
+> Ein **Bekannter** von mir arbeitet bei BMW. = یکی از آشنایانم در BMW کار می‌کند.
+> **Erwachsene** zahlen 10 Euro, **Jugendliche** 5 Euro. = بزرگسالان ۱۰ یورو، نوجوانان ۵ یورو می‌پردازند.
+
+:::note
+`der Beamte` (کارمند دولت) هم همین‌طور: `ein Beamter`؛ اما مؤنثش `die Beamtin` است.
+:::
+
+## خنثی: برای «چیز» و مفهوم {#neutrum}
+
+| ساختار | مثال | معنی |
+|---|---|---|
+| das + صفت ‎-e‎ | das Gute، das Neue، das Wichtigste | (چیزِ) خوب، تازه، مهم‌ترین |
+| etwas + صفت ‎-es‎ | etwas Neues، etwas Schönes | چیز تازه‌ای، چیز قشنگی |
+| nichts + صفت ‎-es‎ | nichts Besonderes، nichts Neues | چیز خاصی نه، خبر تازه‌ای نیست |
+| viel / wenig + ‎-es‎ | viel Gutes | خوبی‌های زیاد |
+| alles + ‎-e‎ | Alles Gute! | همه‌چیز خوب (تبریک) |
+
+> Gibt es **etwas Neues**? – Nein, **nichts Besonderes**. = خبر تازه‌ای هست؟ – نه، چیز خاصی نیست.
+> **Alles Gute** zum Geburtstag! = تولدت مبارک!
+> **Das Wichtigste** ist die Gesundheit. = مهم‌ترین چیز سلامتی است.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی هم صفت را به‌راحتی اسم می‌کند: «**بیماران**»، «**جوانان**»، «**آشنا**یی از من»، «**ثروتمندان**»، «**تازه**‌ها». تفاوت این است که در فارسی وقتی صفت اسم شد، مثل اسم جمع بسته می‌شود («ـان/ـها»). در آلمانی صفتِ اسم‌شده **همچنان مثل صفت** پسوند می‌گیرد:
+- «یک آشنا» ← `ein Bekannt**er**` (مرد) / `eine Bekannt**e**` (زن)
+- «آشنایان» ← `die Bekannt**en**` / `Bekannt**e**`
+
+«چیزی تازه» ← `etwas Neu**es**`؛ «هیچ چیز خاصی» → `nichts Besonder**es**`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «او (مرد) یک آلمانی است.» => `Er ist ein Deutscher.`
+?? «با خویشاوندانم به سفر می‌روم.» => `Ich fahre mit meinen Verwandten in Urlaub.`
+?? «یک آشنا (زن) به من کمک کرد.» => `Eine Bekannte hat mir geholfen.`
+?? «چیز جالبی خواندم.» (interessant) => `Ich habe etwas Interessantes gelesen.`
+?? «بهترین (چیز) را برایت آرزو می‌کنم.» => `Ich wünsche dir alles Gute.`
+?? `Die ___ müssen hier warten.` (reisend، جمع) => `Reisenden`
+
+@@ b12-zustandspassiv
+level: B1.2
+title: مجهول حالتی (Zustandspassiv): sein + Partizip II
+de: Das Zustandspassiv
+tags: Zustandspassiv, مجهول حالتی, sein Partizip, ist geschlossen, ist geöffnet, wird geschlossen, Vorgangspassiv, حالت, نتیجه, بسته است, بسته می‌شود
+summary: «در **بسته می‌شود**» (فرایند) در برابر «در **بسته است**» (حالت): آلمانی برای حالتِ نتیجه از `sein` + اسم مفعول استفاده می‌کند.
+---
+## دو نوع مجهول {#zwei}
+
+:::rule
+| نوع | ساختار | معنی | مثال |
+|---|---|---|---|
+| مجهول فرایندی (Vorgangspassiv) | **werden** + P II | کاری **در حال انجام** است | Die Tür **wird geschlossen**. |
+| مجهول حالتی (Zustandspassiv) | **sein** + P II | **نتیجهٔ** کار، حالت فعلی | Die Tür **ist geschlossen**. |
+:::
+
+> Das Geschäft **wird** um 18 Uhr **geschlossen**. = مغازه ساعت ۱۸ بسته می‌شود. (عمل بستن)
+> Das Geschäft **ist** jetzt **geschlossen**. = مغازه الان بسته است. (حالت)
+
+> Der Tisch **wird gedeckt**. → Der Tisch **ist gedeckt**. = میز چیده می‌شود ← میز چیده شده است.
+> Das Auto **wird repariert**. → Das Auto **ist repariert**. = ماشین تعمیر می‌شود ← ماشین تعمیر شده (و حالا سالم است).
+
+(مجهول فرایندی را در [[a22-passiv-praesens]] و [[b11-passiv]] دیدید.)
+
+## زمان‌ها {#zeiten}
+
+| زمان | Zustandspassiv |
+|---|---|
+| حال | Die Tür **ist** geschlossen. |
+| گذشته | Die Tür **war** geschlossen. |
+| با فعل وجهی | Die Tür **muss** geschlossen **sein**. |
+
+:::warn Perfekt Passiv یا Zustandspassiv؟
+- `Die Tür **ist geschlossen worden**.` = در بسته شده است (کسی آن را بسته؛ تأکید بر **عمل** در گذشته)
+- `Die Tür **ist geschlossen**.` = در بسته است (**حالت** الان)
+تفاوت فقط یک کلمه است: `worden`.
+:::
+
+## کاربردهای رایج {#gebrauch}
+
+تابلوها و اطلاعیه‌ها:
+> **Geöffnet** von 9 bis 18 Uhr. = باز از ۹ تا ۱۸.
+> Der Platz **ist reserviert**. = جا رزرو شده است.
+> Rauchen **ist verboten**. = سیگار کشیدن ممنوع است.
+> Die Straße **ist gesperrt**. = خیابان بسته است.
+> Ich **bin verheiratet**. = متأهلم.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی هم دقیقاً همین تمایز را دارد:
+| فارسی | آلمانی | نوع |
+|---|---|---|
+| در بسته **می‌شود** | Die Tür **wird** geschlossen. | فرایند (werden ← شدن) |
+| در بسته **است** | Die Tür **ist** geschlossen. | حالت (sein ← بودن) |
+| در بسته **شد** | Die Tür **wurde** geschlossen. | فرایند گذشته |
+| در بسته **بود** | Die Tür **war** geschlossen. | حالت گذشته |
+
+پس `werden` = «شدن» و `sein` = «بودن» حتی در مجهول هم کاملاً با فارسی تطبیق دارند!
+
+دام: «در بسته **شده است**» در فارسی معمولاً معنی **حالت** می‌دهد (= در بسته است)، اما ترجمهٔ لفظی‌اش `ist geschlossen worden` در آلمانی بر **عمل** تأکید دارد. برای حالت، ساده‌تر بگویید: `ist geschlossen`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? حالت بسازید: `Die Fenster werden geputzt.` => `Die Fenster sind geputzt.`
+?? «بانک امروز بسته است.» => `Die Bank ist heute geschlossen.`
+?? «غذا آماده (پخته) است.» (kochen) => `Das Essen ist gekocht.` (طبیعی‌تر: `Das Essen ist fertig.`)
+?? فرایند یا حالت؟ `Das Haus wird renoviert.` => فرایند
+?? «همهٔ بلیت‌ها فروخته شده است (تمام شده).» => `Alle Karten sind verkauft.`
+
+@@ b12-konsekutiv
+level: B1.2
+title: بیان نتیجه: sodass، so … dass، zu … um zu
+de: Konsekutivsätze: „sodass“, „so … dass“, „zu … um zu“
+tags: sodass, so dass, so … dass, آن‌قدر که, طوری که, در نتیجه, zu um zu, zu … als dass, نتیجه, Konsekutivsatz, folglich, deshalb
+summary: «**آن‌قدر** خسته بود **که** فوراً خوابش برد»: جمله‌های نتیجه با `sodass` و `so … dass`. و «**خیلی** … **برای**» با `zu … um zu`.
+---
+## sodass: «طوری که / در نتیجه» {#sodass}
+
+> Es hat stark geregnet, **sodass** das Fußballspiel abgesagt **wurde**. = باران شدیدی آمد، طوری که (در نتیجه) مسابقه لغو شد.
+> Der Zug hatte Verspätung, **sodass** ich zu spät **kam**. = قطار تأخیر داشت، در نتیجه دیر رسیدم.
+
+`sodass` (یا `so dass`) جملهٔ پیرو می‌سازد (فعل آخر) و همیشه **بعد از** جملهٔ اصلی می‌آید.
+
+## so … dass: «آن‌قدر … که» {#so-dass}
+
+:::rule
+**so + صفت/قید** در جملهٔ اصلی، **dass** در جملهٔ نتیجه
+:::
+
+> Er war **so** müde, **dass** er sofort **einschlief**. = آن‌قدر خسته بود که فوراً خوابش برد.
+> Sie spricht **so** schnell, **dass** ich sie nicht **verstehe**. = آن‌قدر تند حرف می‌زند که نمی‌فهمم.
+> Es gab **so viele** Leute, **dass** wir keinen Platz **fanden**. = آن‌قدر آدم بود که جایی پیدا نکردیم.
+
+همین‌طور: `**solch** ein / **so** ein … , dass`: `Es war **so ein** schöner Tag, **dass** wir ans Meer gefahren sind.`
+
+## zu … um zu: «خیلی … برای (اینکه)» {#zu-um-zu}
+
+نتیجهٔ **منفی** (چیزی بیش از حد است و کار انجام نمی‌شود):
+> Er ist **zu** jung, **um** Auto **zu fahren**. = برای رانندگی خیلی جوان است. (پس نمی‌تواند)
+> Das Wasser ist **zu** kalt, **um** darin **zu schwimmen**. = آب برای شنا کردن خیلی سرد است.
+
+با فاعل متفاوت: `zu … , als dass` + Konj. II (B2): `Der Text ist **zu** schwer, **als dass** ich ihn verstehen **könnte**.`
+
+جمع‌بندی:
+| | معنی | مثال |
+|---|---|---|
+| so … dass | آن‌قدر … که (نتیجه اتفاق افتاد) | Er ist **so** stark, **dass** er das tragen kann. |
+| zu … um zu | بیش از حد … که بشود (نتیجه اتفاق نمی‌افتد) | Er ist **zu** schwach, **um** das **zu** tragen. |
+| genug … um zu | به اندازهٔ کافی … که | Er ist alt **genug**, **um** allein **zu** reisen. |
+
+## قیدهای نتیجه (یادآوری) {#adverbien}
+
+`deshalb`، `deswegen`، `darum`، `daher`، `also`، `folglich`، `infolgedessen` (رسمی): جایگاه ۱ با وارونگی ([[a22-deshalb-trotzdem]]).
+> Der Zug hatte Verspätung. **Folglich kam** ich zu spät.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| فارسی | آلمانی |
+|---|---|
+| **آن‌قدر** خسته بود **که** … | Er war **so** müde, **dass** … |
+| … **طوری که / به‌طوری که** … | …, **sodass** … |
+| **در نتیجه** / برای همین | folglich / deshalb |
+| **خیلی** سرد است **برای** شنا | **zu** kalt, **um** zu schwimmen |
+
+ساختار فارسی «آن‌قدر … که» با `so … dass` تقریباً لفظ‌به‌لفظ یکی است.
+
+دام: «خیلی» فارسی هم به معنای `sehr` (very) است و هم `zu` (too). «این چای **خیلی** داغ است» می‌تواند `sehr heiß` (فقط داغ) یا `zu heiß` (آن‌قدر داغ که نمی‌شود خورد) باشد. اگر منظورتان «بیش از حد» است، `zu` بگویید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? با so … dass: `Ich war müde. Ich bin eingeschlafen.` => `Ich war so müde, dass ich eingeschlafen bin.`
+?? با sodass: `Es war laut. Wir konnten nicht schlafen.` => `Es war laut, sodass wir nicht schlafen konnten.`
+?? «این چمدان برای حمل کردن خیلی سنگین است.» => `Der Koffer ist zu schwer, um ihn zu tragen.`
+?? «او به اندازهٔ کافی بزرگ است که تنها سفر کند.» => `Er ist alt genug, um allein zu reisen.`
+?? `sehr` یا `zu`؟ `Die Hose ist ___ groß, ich kann sie nicht tragen.` => `zu`

@@ -1,0 +1,331 @@
+@@ b21-als-ob
+level: B2.1
+title: مقایسهٔ غیرواقعی: als ob، als wenn، als
+de: Irreale Vergleichssätze: als ob, als wenn, als
+tags: als ob, als wenn, als, انگار, مثل اینکه, گویی, Konjunktiv II, Vergleichssatz, irreal, so tun als ob, Es sieht aus, als
+summary: «**انگار** همه‌چیز را می‌داند»: مقایسه با چیزی که واقعی نیست، با Konjunktiv II.
+---
+## سه شکل {#formen}
+
+:::rule
+| شکل | جایگاه فعل | مثال |
+|---|---|---|
+| als ob + … + فعل | آخر | Er tut so, **als ob** er krank **wäre**. |
+| als wenn + … + فعل | آخر | Er tut so, **als wenn** er krank **wäre**. |
+| als + فعل + … | **بلافاصله بعد از als** | Er tut so, **als wäre** er krank. |
+همه با **Konjunktiv II** (در نوشتار رسمی گاهی Konjunktiv I).
+:::
+
+> Sie spricht Deutsch, **als ob** sie in Deutschland geboren **wäre**. = طوری آلمانی صحبت می‌کند انگار در آلمان به دنیا آمده.
+> Er sieht aus, **als hätte** er tagelang nicht geschlafen. = به نظر می‌رسد انگار چند روز است نخوابیده.
+> Tu nicht so, **als ob** du nichts **wüsstest**! = خودت را به آن راه نزن (طوری رفتار نکن انگار هیچ‌چیز نمی‌دانی)!
+
+## زمان‌ها {#zeiten}
+
+| هم‌زمان (حال) | قبل‌تر (گذشته) |
+|---|---|
+| als ob er krank **wäre** | als ob er krank **gewesen wäre** |
+| als ob er alles **wüsste** | als ob er alles **gewusst hätte** |
+| als ob es **regnen würde** | als ob es **geregnet hätte** |
+
+## عبارت‌های رایج قبل از als ob {#ausdruecke}
+
+`so tun, als ob` (وانمود کردن)، `aussehen, als ob` (به نظر رسیدن)، `es scheint, als ob` (به نظر می‌رسد)، `sich fühlen, als ob` (احساس کردن)، `Es kommt mir vor, als ob` (به نظرم می‌آید)
+
+:::note واقعی یا غیرواقعی؟
+اگر احتمال واقعی بودن هست، در گفتار Indikativ هم می‌آید: `Es sieht aus, als ob es **regnet**.` (احتمالاً باران می‌آید). با Konjunktiv II فاصله و غیرواقعی بودن پررنگ‌تر است.
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| آلمانی | فارسی |
+|---|---|
+| als ob / als wenn / als | **انگار** (که) / **مثل اینکه** / **گویی** / **طوری که انگار** |
+| so tun, als ob | **وانمود کردن** / خود را به … زدن |
+
+فارسی بعد از «انگار» معمولاً فعل عادی می‌آورد («انگار همه‌چیز را **می‌داند**»)؛ آلمانی Konjunktiv II می‌گذارد تا غیرواقعی بودن را نشان دهد. ساختار سوم (`als wäre er…`) شبیه این است که «انگار» مستقیماً به فعل بچسبد.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «طوری رفتار می‌کند انگار رئیس است.» => `Er tut so, als ob er der Chef wäre.`
+?? همان با als => `Er tut so, als wäre er der Chef.`
+?? «انگار روح دیده.» (ein Gespenst sehen، گذشته) => `Er sieht aus, als ob er ein Gespenst gesehen hätte.`
+?? «احساس می‌کنم انگار سال‌هاست تو را می‌شناسم.» => `Ich habe das Gefühl, als würde ich dich schon seit Jahren kennen.`
+
+@@ b21-modalsatz
+level: B2.1
+title: بیان روش: indem، dadurch dass، ohne dass، statt dass
+de: Modalsätze: indem, dadurch dass, ohne dass, (an)statt dass
+tags: indem, dadurch dass, ohne dass, statt dass, anstatt dass, روش, Modalsatz, wie, با, از این طریق که, با انجام دادن, durch, Instrumental
+summary: «**با** تمرین زیاد یاد می‌گیری»: `indem` و `dadurch, dass` روش و وسیله را بیان می‌کنند.
+---
+## indem {#indem}
+
+:::rule
+`indem` + … + فعل (آخر) = «**با** (انجام دادنِ) …» / «از این راه که»
+پاسخ به سؤال: `Wie?` (چطور؟) یا `Wodurch?` (از چه راهی؟)
+:::
+
+> Man lernt eine Sprache am besten, **indem** man viel **spricht**. = بهترین راه یادگیری زبان این است که زیاد صحبت کنی.
+> Er hat abgenommen, **indem** er jeden Tag Sport **gemacht hat**. = با ورزش روزانه وزن کم کرد.
+> **Indem** wir Energie **sparen**, **schützen** wir die Umwelt. = با صرفه‌جویی در انرژی از محیط زیست محافظت می‌کنیم.
+
+## dadurch, dass {#dadurch}
+
+هم‌معنی `indem` با تأکید بیشتر روی «وسیله/علت»؛ `dadurch` در جملهٔ اصلی و `dass` در جملهٔ پیرو:
+> Er hat abgenommen, **dadurch dass** er weniger gegessen hat.
+> Er hat **dadurch** abgenommen, **dass** er weniger gegessen hat.
+
+:::note
+در `indem` فاعل هر دو جمله معمولاً **یکی** است. `dadurch, dass` اجازهٔ فاعل متفاوت را می‌دهد: `Die Situation verbesserte sich **dadurch, dass** die Regierung eingriff.`
+:::
+
+## با حرف اضافه: durch {#durch}
+
+نسخهٔ اسمی (سبک اسمی B2: [[b22-nominalstil]]):
+> **Durch** regelmäßiges Training hat er abgenommen. = با تمرین منظم وزن کم کرد.
+
+## ohne dass / (an)statt dass {#ohnedass}
+
+(به یاد بیاورید [[b11-statt-ohne]]):
+| ساختار | فاعل | مثال |
+|---|---|---|
+| ohne … zu | یکی | Er ging, **ohne** sich **zu** verabschieden. |
+| ohne dass | متفاوت | Er ging, **ohne dass** ihn jemand **sah**. |
+| (an)statt … zu | یکی | **Statt** zu lernen, spielt er. |
+| (an)statt dass | متفاوت | **Statt dass** er lernt, muss ich alles erklären. |
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| آلمانی | فارسی |
+|---|---|
+| indem man übt | **با** تمرین کردن / **با این کار که** تمرین کنی |
+| dadurch, dass … | **از این طریق که** … / **به این وسیله که** … |
+| durch + اسم | **با** / **از طریقِ** … |
+| ohne dass | **بدون اینکه** |
+| statt dass | **به جای اینکه** |
+
+فارسی معمولاً از «**با** + مصدر» استفاده می‌کند («با ورزش کردن لاغر شد»). آلمانی یا جملهٔ کامل با `indem`، یا اسم با `durch`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? با indem: `Er spart Geld. Er fährt mit dem Fahrrad.` => `Er spart Geld, indem er mit dem Fahrrad fährt.`
+?? «با گوش دادن به پادکست آلمانی‌ام را بهتر کردم.» (indem) => `Ich habe mein Deutsch verbessert, indem ich Podcasts gehört habe.`
+?? با durch: همان جمله => `Durch das Hören von Podcasts habe ich mein Deutsch verbessert.`
+?? «بدون اینکه کسی بفهمد، خانه را ترک کرد.» => `Er verließ das Haus, ohne dass jemand es merkte.`
+
+@@ b21-adversativ
+level: B2.1
+title: بیان تقابل: während، wohingegen، jedoch، dagegen
+de: Adversative Konnektoren: während, wohingegen, jedoch, dagegen, hingegen
+tags: während, wohingegen, jedoch, dagegen, hingegen, im Gegensatz zu, تقابل, در حالی که, اما, برعکس, Adversativsatz, Gegensatz
+summary: «من قهوه دوست دارم، **در حالی که** او چای ترجیح می‌دهد»: ابزارهای مقایسهٔ دو چیز متضاد.
+---
+## während و wohingegen (پیرو) {#waehrend}
+
+:::rule
+`während` / `wohingegen` + … + فعل (آخر) = «**در حالی که** (برعکسِ آن)»
+:::
+
+> Mein Bruder ist sehr sportlich, **während** ich lieber auf dem Sofa **liege**. = برادرم خیلی ورزشکار است، در حالی که من ترجیح می‌دهم روی مبل دراز بکشم.
+> Im Norden regnet es, **wohingegen** im Süden die Sonne **scheint**. = در شمال باران می‌آید، در حالی که در جنوب آفتاب است.
+
+:::warn دو معنی während
+- زمانی: «در همان حین/در طول» ← `Während ich koche, hört er Musik.` ([[b11-temporal#waehrend]])
+- تقابلی: «در حالی که (برعکس)» ← `Ich koche gern, während er nie kocht.`
+معنی را از بافت بفهمید. `wohingegen` فقط تقابلی است.
+:::
+
+## jedoch (جایگاه ۰ یا ۱) {#jedoch}
+
+`jedoch` = «اما، با این حال» (رسمی‌تر از `aber`). هم می‌تواند جایگاه ۰ باشد، هم ۱، هم وسط جمله:
+> Das Angebot ist gut, **jedoch** **ist** es zu teuer. (جایگاه ۱، وارونگی)
+> Das Angebot ist gut, **jedoch** es **ist** zu teuer. (جایگاه ۰)
+> Das Angebot ist gut, es ist **jedoch** zu teuer. (وسط)
+
+## dagegen، hingegen (قید) {#dagegen}
+
+> In der Stadt ist es laut. Auf dem Land **dagegen** ist es ruhig. = در شهر شلوغ است. برعکس، در روستا آرام است.
+> Er ist sehr ordentlich, seine Schwester **hingegen** ist chaotisch. = او خیلی مرتب است، خواهرش برعکس شلخته است.
+
+## حرف اضافه: im Gegensatz zu {#gegensatz}
+
+> **Im Gegensatz zu** seinem Bruder ist er sehr ruhig. = برخلاف برادرش، خیلی آرام است.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| آلمانی | فارسی |
+|---|---|
+| während / wohingegen | **در حالی که** |
+| jedoch | **اما**، **با این حال** |
+| dagegen / hingegen | **برعکس**، **در مقابل** |
+| im Gegensatz zu | **برخلافِ** / **در مقایسه با** |
+
+«در حالی که» فارسی هم مثل `während` دو معنی دارد (زمانی و تقابلی)! پس منطق کاملاً آشناست.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «من صبح‌ها کار می‌کنم، در حالی که همسرم شب‌ها کار می‌کند.» => `Ich arbeite morgens, während meine Frau nachts arbeitet.`
+?? با dagegen: `Hamburg ist groß. Lübeck ist klein.` => `Hamburg ist groß. Lübeck dagegen ist klein.`
+?? «برخلاف تو، من اسپانیایی بلد نیستم.» => `Im Gegensatz zu dir spreche ich kein Spanisch.`
+?? معنی `während` در این جمله؟ `Während ich schlief, hat jemand angerufen.` => زمانی (در حینی که خواب بودم)
+
+@@ b21-konditional
+level: B2.1
+title: شرط بدون wenn: falls، sofern، فعل اول، bei، im Falle
+de: Konditionale Ausdrücke: falls, sofern, uneingeleitete Konditionalsätze
+tags: falls, sofern, vorausgesetzt, angenommen, im Falle, bei, شرط, در صورتی که, به شرطی که, اگر احیاناً, Sollten Sie Fragen haben, فعل اول, uneingeleiteter Konditionalsatz, andernfalls
+summary: «**در صورتی که** سؤالی داشتید…»، «**به شرطی که** وقت داشته باشی»: راه‌های دیگر بیان شرط، از جمله شرط بدون `wenn` با فعل در اول جمله.
+---
+## falls و sofern {#falls}
+
+| حرف ربط | معنی | مثال |
+|---|---|---|
+| falls | اگر احیاناً، در صورتی که | **Falls** es regnet, bleiben wir zu Hause. |
+| sofern | به شرط اینکه، تا جایی که | **Sofern** du Zeit hast, kannst du mitkommen. |
+| vorausgesetzt, (dass) | به شرطی که | Wir fahren, **vorausgesetzt, dass** das Wetter gut ist. |
+| angenommen, (dass) | فرض کن که | **Angenommen**, du gewinnst im Lotto – was machst du? |
+| unter der Bedingung, dass | به این شرط که | |
+| es sei denn | مگر اینکه | Ich komme, **es sei denn**, ich bin krank. ([[b22-konnektoren-b2]]) |
+
+`falls` نسبت به `wenn` احتمال کمتری را نشان می‌دهد (اگر **احیاناً**) و هرگز معنی زمانی ندارد.
+
+## شرط بدون wenn (فعل اول) {#verberst}
+
+:::rule
+می‌توان `wenn` را حذف کرد و **فعل صرف‌شده را به اول** جملهٔ شرط آورد. جملهٔ اصلی معمولاً با `dann` یا `so` شروع می‌شود.
+:::
+
+| با wenn | بدون wenn |
+|---|---|
+| Wenn du Zeit **hast**, ruf mich an. | **Hast** du Zeit, (dann) ruf mich an. |
+| Wenn ich das gewusst **hätte**, … | **Hätte** ich das gewusst, … ([[b12-konj2-verg]]) |
+| Wenn Sie Fragen haben **sollten**, … | **Sollten** Sie Fragen haben, … |
+
+:::tip Sollten Sie …
+در نامه‌ها و ایمیل‌های رسمی خیلی رایج است:
+> **Sollten** Sie noch Fragen **haben**, **stehe** ich Ihnen gern zur Verfügung. = در صورتی که سؤالی داشتید، با کمال میل در خدمتتان هستم.
+:::
+
+## حروف اضافهٔ شرطی {#praep}
+
+| حرف اضافه | مثال | = |
+|---|---|---|
+| bei + D | **Bei** Regen fällt das Konzert aus. | Wenn es regnet, … |
+| im Falle + G / im Fall von | **Im Falle eines** Brandes … | Falls es brennt, … |
+| ohne + A | **Ohne** deine Hilfe hätte ich es nicht geschafft. | Wenn du nicht geholfen hättest, … |
+| mit + D | **Mit** etwas Glück schaffen wir es. | Wenn wir Glück haben, … |
+
+## sonst / andernfalls {#sonst}
+
+شرط منفی: «وگرنه» ([[a22-deshalb-trotzdem]]):
+> Wir müssen jetzt gehen, **sonst** / **andernfalls** verpassen wir den Zug.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| آلمانی | فارسی |
+|---|---|
+| falls | **اگر احیاناً** / **در صورتی که** |
+| sofern | **به شرطی که** / **تا جایی که** |
+| angenommen | **فرض کن** / **فرض کنیم** |
+| es sei denn | **مگر اینکه** |
+| Sollten Sie … haben | **چنانچه** … داشتید |
+| bei Regen | **در صورت** بارندگی |
+| im Falle eines Brandes | **در صورت** آتش‌سوزی |
+
+جالب اینکه «**در صورتِ** …» فارسی رسمی (در صورت بارندگی، در صورت لزوم) دقیقاً معادل `bei` و `im Falle` است.
+:::
+
+## خودآزمایی {#quiz}
+
+?? با falls: «اگر احیاناً دیر کردم، منتظرم نمانید.» => `Falls ich mich verspäte, wartet nicht auf mich.`
+?? بدون wenn: `Wenn du Hunger hast, iss etwas.` => `Hast du Hunger, (dann) iss etwas.`
+?? «در صورتی که سؤالی داشتید، به من زنگ بزنید.» (رسمی) => `Sollten Sie Fragen haben, rufen Sie mich an.`
+?? با bei: `Wenn es Glatteis gibt, fahren die Busse nicht.` => `Bei Glatteis fahren die Busse nicht.`
+
+@@ b21-nomen-verb
+level: B2.1
+title: ترکیب‌های اسم-فعل (Nomen-Verb-Verbindungen)
+de: Nomen-Verb-Verbindungen (Funktionsverbgefüge)
+tags: Nomen-Verb-Verbindungen, Funktionsverbgefüge, فعل مرکب, eine Entscheidung treffen, in Frage kommen, zur Verfügung stehen, eine Rolle spielen, Kritik üben, in Anspruch nehmen, تصمیم گرفتن, نقش بازی کردن, سؤال کردن, در نظر گرفتن
+summary: «**تصمیم گرفتن**»، «**نقش داشتن**»، «**مورد استفاده قرار گرفتن**»: ترکیب‌های ثابت اسم + فعل که در آلمانی رسمی بسیار رایج‌اند و فارسی پر از معادل‌هایشان است.
+---
+## چیست؟ {#was}
+
+یک **اسم** معنای اصلی را دارد و یک **فعل** «کم‌معنا» (`machen`، `nehmen`، `stellen`، `bringen`، `kommen`، `stehen`، `treffen` …) فقط آن را به فعل تبدیل می‌کند:
+
+| ترکیب | = فعل ساده | فارسی |
+|---|---|---|
+| eine Entscheidung **treffen** | entscheiden | تصمیم **گرفتن** |
+| eine Frage **stellen** | fragen | سؤال **کردن/پرسیدن** |
+| eine Rolle **spielen** | wichtig sein | نقش **بازی کردن/داشتن** |
+| Kritik **üben** (an) | kritisieren | انتقاد **کردن** |
+| zur Verfügung **stellen** | bereitstellen | در اختیار **گذاشتن** |
+| zur Verfügung **stehen** | verfügbar sein | در اختیار **بودن** |
+| in Anspruch **nehmen** | beanspruchen، nutzen | استفاده **کردن**، (وقت) **گرفتن** |
+| in Frage **kommen** | möglich sein | مطرح **بودن**، ممکن بودن |
+| in Betracht **ziehen** | berücksichtigen | در نظر **گرفتن** |
+| zum Ausdruck **bringen** | ausdrücken | بیان **کردن** |
+| zur Sprache **bringen** | ansprechen | مطرح **کردن** |
+| zu Ende **bringen** / **gehen** | beenden / enden | به پایان **رساندن** / **رسیدن** |
+| Abschied **nehmen** (von) | sich verabschieden | وداع **کردن** |
+| Rücksicht **nehmen** (auf) | berücksichtigen | ملاحظه **کردن** |
+| Bezug **nehmen** (auf) | sich beziehen | اشاره **کردن** |
+| Stellung **nehmen** (zu) | sich äußern | موضع **گرفتن** |
+| Einfluss **nehmen** (auf) | beeinflussen | تأثیر **گذاشتن** |
+| einen Antrag **stellen** | beantragen | درخواست **دادن** |
+| Wert **legen** (auf) | wichtig finden | اهمیت **دادن** |
+| sich Mühe **geben** | sich bemühen | تلاش **کردن** |
+| Bescheid **sagen/geben** | informieren | خبر **دادن** |
+| in Kraft **treten** | gültig werden | به اجرا **درآمدن** |
+| unter Druck **setzen** / **stehen** | | تحت فشار **گذاشتن** / **بودن** |
+| Hilfe **leisten** | helfen | کمک **کردن** |
+| in Ordnung **bringen** | ordnen، reparieren | مرتب **کردن**، درست **کردن** |
+| Anwendung **finden** | angewendet werden | به کار **گرفته شدن** |
+
+## چرا مهم است؟ {#warum}
+
+- در متن‌های **رسمی، اداری، علمی** و خبری بسیار رایج‌اند.
+- گاهی تنها راه بیان دقیق یک معنا هستند (`eine Rolle spielen`).
+- گاهی معنای **مجهول** دارند (`zur Diskussion stehen` = بحث می‌شود) ([[b21-passiversatz#fvg]]).
+- اسم ثابت است و نمی‌شود با مترادف عوضش کرد: ~~eine Entscheidung machen~~.
+
+## نکته‌های دستوری {#grammatik}
+
+- حرف تعریف اغلب ثابت است (یا ندارد): `**zur** Verfügung`، `**in** Frage`، `**eine** Rolle`.
+- منفی کردن: اسم بدون حرف تعریف یا با حرف تعریف معین ← `nicht`: `Das kommt **nicht** in Frage!` (اصلاً مطرح نیست!)؛ اسم با `ein` → `kein`: `Er hat **keine** Entscheidung getroffen.`
+- در جمله، بخش اسمی معمولاً **آخر** می‌آید (مثل بخش دوم فعل): `Er **stellt** mir morgen das Auto **zur Verfügung**.`
+
+## مقایسه با فارسی {#fa}
+
+:::fa فارسی سرزمینِ «فعل مرکب» است!
+این شاید راحت‌ترین مبحث B2 برای فارسی‌زبان‌ها باشد. فارسی بیشتر فعل‌هایش را با «اسم + کردن/دادن/گرفتن/زدن/داشتن» می‌سازد. و گاهی فعل کمکی آلمانی و فارسی **یکی** است:
+
+| آلمانی | لفظی | فارسی |
+|---|---|---|
+| eine Rolle **spielen** | نقش بازی کردن | نقش **بازی کردن** ✓ |
+| in Betracht **ziehen** | در نظر کشیدن | در نظر **گرفتن** |
+| **zu Ende** gehen | به پایان رفتن | به پایان **رسیدن** |
+| Einfluss **nehmen** | تأثیر گرفتن | تأثیر **گذاشتن** |
+| Abschied **nehmen** | وداع گرفتن | وداع **کردن** |
+| eine Entscheidung **treffen** | تصمیم زدن! | تصمیم **گرفتن** |
+| Stellung **nehmen** | موضع گرفتن | موضع **گرفتن** ✓ |
+
+ترفند: هر ترکیب را مثل یک فعل مرکب فارسی، یکجا و با حرف اضافه‌اش حفظ کنید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «باید تصمیم بگیری.» => `Du musst eine Entscheidung treffen.`
+?? «پول نقشی ندارد.» => `Geld spielt keine Rolle.`
+?? «این اصلاً مطرح نیست!» => `Das kommt nicht in Frage!`
+?? «اتاق را در اختیار شما می‌گذاریم.» => `Wir stellen Ihnen das Zimmer zur Verfügung.`
+?? «لطفاً خبرم کن!» => `Sag mir bitte Bescheid!`
+?? فعل ساده برای `eine Frage stellen`؟ => `fragen`

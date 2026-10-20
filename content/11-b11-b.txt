@@ -1,0 +1,473 @@
+@@ b11-n-dekl
+level: B1.1
+title: صرف ضعیف اسم (n-Deklination)
+de: Die n-Deklination
+tags: n-Deklination, صرف ضعیف اسم, den Studenten, dem Kollegen, des Herrn, der Junge, der Mensch, der Nachbar, -ent, -ant, -ist, -e, Name, des Namens, اسم مذکر
+summary: گروهی از اسم‌های **مذکر** در همهٔ حالت‌ها جز Nominativ مفرد `-(e)n` می‌گیرند: `der Student → den Student**en**`، `dem Kunde**n**`.
+---
+## قاعده {#regel}
+
+:::rule
+| | مفرد | جمع |
+|---|---|---|
+| Nominativ | der Student | die Student**en** |
+| Akkusativ | den Student**en** | die Student**en** |
+| Dativ | dem Student**en** | den Student**en** |
+| Genitiv | des Student**en** | der Student**en** |
+یعنی **همه‌جا** `-(e)n`، فقط Nominativ مفرد بدون آن.
+:::
+
+> Ich kenne **den** neu**en** Kolleg**en**. = همکار جدید را می‌شناسم.
+> Kannst du **dem** Kund**en** helfen? = می‌توانی به مشتری کمک کنی؟
+> Das ist das Buch **des** Student**en**. = این کتابِ دانشجوست.
+> Sehr geehrter **Herr** Müller! / Ich habe **Herrn** Müller gesehen. = آقای مولر را دیدم.
+
+(این را در [[a11-akkusativ#n-dekl]] به‌اختصار دیدید.)
+
+## کدام اسم‌ها؟ {#welche}
+
+:::tip چهار گروه (همه مذکر)
+| گروه | مثال‌ها |
+|---|---|
+| ۱. مذکرِ ختم به ‎-e‎ (معمولاً انسان یا حیوان) | der Junge، der Kunde، der Kollege، der Neffe، der Experte، der Zeuge، der Löwe، der Affe، der Hase، der Franzose، der Türke، der Russe، der Grieche |
+| ۲. پسوندهای خارجی ‎-ent، ‎-ant، ‎-ist، ‎-oge، ‎-at، ‎-et، ‎-graf، ‎-nom‎ | der Student، der Präsident، der Praktikant، der Elefant، der Polizist، der Journalist، der Tourist، der Biologe، der Psychologe، der Soldat، der Kandidat، der Planet، der Fotograf، der Astronom |
+| ۳. چند اسم یک‌هجایی/قدیمی | der Mensch، der Herr (‎-n / ‎-en‎)، der Nachbar، der Bauer، der Held، der Bär، der Prinz، der Graf، der Fürst |
+| ۴. چند اسم با Genitiv ‎-ns‎ | der Name ← des Name**ns**، der Gedanke، der Buchstabe، der Glaube، der Wille، der Friede |
+:::
+
+:::warn Herr
+`Herr` در مفرد `-n` می‌گیرد اما در جمع `-en`: `den Herr**n**` / `die Herr**en**` («Meine Damen und Herren»). در نامه: `Sehr geehrter Herr Klein` اما `an Herr**n** Klein`.
+:::
+
+:::note گروه ۴ و das Herz
+اسم‌هایی مثل `der Name` در Genitiv `-ns` می‌گیرند: `des Namens`، `des Gedankens`. و یک اسم **خنثی** هم این رفتار را دارد: `das Herz → des Herz**ens**، dem Herz**en**` (اما Akk: `das Herz`).
+:::
+
+:::warn مذکرِ ‎-e‎ که n-Deklination نیستند
+`der Käse` (پنیر) شیء است و n-Deklination ندارد: `den Käse`. قاعدهٔ گروه ۱ بیشتر برای **موجودات زنده** است.
+:::
+
+## چرا مهم است؟ {#warum}
+
+در گفتار، خطا در n-Deklination معمولاً فهم را مختل نمی‌کند، اما در نوشتار و امتحانات B1 به بالا خطای مشخصی است. همچنین بدون آن، گاهی تشخیص فاعل از مفعول سخت می‌شود: `Den Student**en** sieht der Professor.` (`-en` نشان می‌دهد Student مفعول است.)
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی چنین چیزی ندارد؛ اسم فارسی هرگز تغییر نمی‌کند (جز «ها» برای جمع). این بخش را مثل یک فهرست واژه حفظ کنید. ترفند: بیشتر این اسم‌ها **انسان** (شغل، ملیت، نقش) یا **حیوان**اند. وقتی اسم مذکری برای آدم یا حیوان یاد گرفتید، در دیکشنری نگاه کنید: اگر نوشته بود `der Kollege, -n, -n` (یعنی Genitiv و جمع `-n`)، n-Deklination است.
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Ich frage ___ Polizisten.` (der) => `den` (و Polizist**en**)
+?? `Das ist das Auto ___.` (mein Nachbar, Genitiv) => `meines Nachbarn`
+?? `Wir helfen ___.` (der Junge) => `dem Jungen`
+?? `Wie ist Ihr ___?` (Name, Nom.) => `Name`
+?? `Ich kann mich nicht an ___ erinnern.` (sein Name, Akk.) => `seinen Namen`
+?? `Ich schreibe ___ Müller eine E-Mail.` (Herr) => `Herrn`
+
+@@ b11-relativ2
+level: B1.1
+title: جملهٔ موصولی ۲: dessen/deren، wo، was، wer
+de: Relativsätze (2): Genitiv, wo, was, wer
+tags: جمله موصولی, Relativsatz, dessen, deren, wo, was, wer, alles was, das Beste was, worüber, کسی که, هرکس که, چیزی که, جایی که, که … اش, Relativpronomen Genitiv
+summary: «مردی که ماشین**ش**…» ← `dessen Auto`؛ «شهری که در آن…» → `wo`؛ «هرچه که…» → `alles, was`؛ «هرکس که…» → `wer`.
+---
+## Genitiv: dessen و deren {#genitiv}
+
+:::rule
+| مرجع | ضمیر موصولی Genitiv |
+|---|---|
+| مذکر / خنثی | **dessen** |
+| مؤنث / جمع | **deren** |
+بعد از `dessen/deren` **اسم بدون حرف تعریف** می‌آید.
+:::
+
+> Das ist der Mann, **dessen** Auto gestohlen wurde. = این مردی است که ماشینش دزدیده شد.
+> Die Frau, **deren** Sohn in meiner Klasse ist, ist Ärztin. = زنی که پسرش در کلاس من است، پزشک است.
+> Das Kind, **dessen** Eltern im Urlaub sind, wohnt bei uns. = بچه‌ای که والدینش در تعطیلات‌اند، پیش ما زندگی می‌کند.
+> Die Nachbarn, **deren** Hund so laut ist, sind ausgezogen. = همسایه‌هایی که سگشان این‌قدر سروصدا دارد، رفتند.
+
+:::warn
+`dessen` و `deren` را **مرجع** (اسم قبل از ویرگول) تعیین می‌کند، نه اسمی که بعدشان می‌آید:
+- `der Mann, **dessen** Frau …` (مرجع مذکر ← dessen، حتی اگر Frau مؤنث است)
+- `die Frau, **deren** Mann …` (مرجع مؤنث ← deren)
+:::
+
+:::fa
+فارسی این را با «که» + ضمیر ملکی متصل می‌گوید: «مردی که ماشین**ش**»، «زنی که پسر**ش**». آلمانی آن ضمیر ملکی را با `dessen`/`deren` جایگزین می‌کند و به **اول** جملهٔ موصولی می‌آورد. (به یاد بیاورید: [[a22-relativ#fa]].)
+:::
+
+جدول کامل ضمایر موصولی در [[a22-relativ#tabelle]].
+
+## wo: برای مکان {#wo}
+
+بعد از اسم‌های مکان (و اسم شهر/کشور) به جای «حرف اضافه + ضمیر» می‌شود `wo` گفت:
+> Die Stadt, **in der** ich wohne, … = Die Stadt, **wo** ich wohne, … = شهری که در آن زندگی می‌کنم…
+> Ich fahre nach Shiraz, **wo** meine Eltern leben. = به شیراز می‌روم، جایی که والدینم زندگی می‌کنند.
+
+برای جهت: `wohin` / `woher`: `Das Land, **woher** ich komme, …`
+
+(در گفتار گاهی `wo` برای زمان هم می‌آید: `in dem Moment, wo …`؛ در نوشتار `als` یا `in dem` بهتر است.)
+
+## was: بعد از کلمه‌های نامعین و کل جمله {#was}
+
+:::rule
+بعد از این‌ها ضمیر موصولی **`was`** است (نه `das`):
+- `alles`، `etwas`، `nichts`، `vieles`، `weniges`، `manches`، `das`
+- صفت عالیِ اسم‌شده: `das Beste`، `das Schönste`، `das Erste`
+- **کل جملهٔ قبلی**
+:::
+
+> Das ist **alles**, **was** ich weiß. = این همهٔ چیزی است که می‌دانم.
+> Gibt es **etwas**, **was** ich für dich tun kann? = کاری هست که برایت انجام دهم؟
+> Das ist **das Beste**, **was** ich je gegessen habe. = این بهترین چیزی است که تا حالا خورده‌ام.
+> Er hat die Prüfung bestanden, **was** mich sehr freut. = امتحان را قبول شد، که خیلی خوشحالم می‌کند.
+
+### was با حرف اضافه ← wo(r)-
+> Das ist etwas, **worüber** ich nicht sprechen möchte. = این چیزی است که نمی‌خواهم درباره‌اش صحبت کنم.
+> Es gibt nichts, **wofür** du dich schämen musst. = چیزی نیست که بخواهی از آن خجالت بکشی.
+
+(ترکیب wo + حرف اضافه را در [[a22-wo-da]] دیدید.)
+
+## wer: «هر کس که» {#wer}
+
+`wer` موصول بدون مرجع است (مرجع یک آدمِ کلی است). معمولاً با `der` در جملهٔ اصلی تکرار می‌شود:
+> **Wer** viel lernt, (**der**) weiß viel. = هرکس زیاد یاد بگیرد، زیاد می‌داند.
+> **Wer** zu spät kommt, **den** bestraft das Leben. = هر کس دیر کند، زندگی مجازاتش می‌کند.
+> **Wer** Fragen hat, kann mich anrufen. = هرکس سؤالی دارد، می‌تواند به من زنگ بزند.
+
+همین‌طور `was … (das)`: **Was** du sagst, (**das**) stimmt nicht. = آنچه می‌گویی درست نیست.
+
+:::note
+اگر حالتِ `wer` و ضمیر جملهٔ اصلی متفاوت باشد، ضمیر اصلی (`den`، `dem`) لازم است. اگر یکسان باشد (هر دو Nominativ)، معمولاً حذف می‌شود.
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| فارسی | آلمانی |
+|---|---|
+| مردی که ماشین**ش** | der Mann, **dessen** Auto |
+| جایی که | (der Ort,) **wo** |
+| **هر چه** / آنچه / چیزی که | alles, **was** / **was** / etwas, **was** |
+| **هر کس** که / کسی که | **wer** |
+| چیزی که **درباره‌اش** | etwas, **worüber** |
+
+فارسی برای همهٔ این‌ها «که» دارد؛ آلمانی بسته به مرجع شکل‌های مختلفی دارد.
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Der Schüler, ___ Vater Lehrer ist, ist sehr gut.` => `dessen`
+?? `Die Firma, ___ Chef ich kenne, sucht Mitarbeiter.` => `deren`
+?? `Das ist alles, ___ ich habe.` => `was`
+?? `Das Dorf, ___ ich geboren bin, ist klein.` => `wo` / `in dem`
+?? `___ nicht hören will, muss fühlen.` (ضرب‌المثل) => `Wer`
+?? «این قشنگ‌ترین چیزی است که دیده‌ام.» => `Das ist das Schönste, was ich gesehen habe.`
+
+@@ b11-passiv
+level: B1.1
+title: مجهول (Passiv) در همهٔ زمان‌ها و با افعال وجهی
+de: Das Passiv: alle Zeitformen und mit Modalverben
+tags: Passiv, مجهول, wurde gebaut, ist gebaut worden, worden, muss gemacht werden, kann repariert werden, Passiv Präteritum, Passiv Perfekt, Passiv mit Modalverb, von, durch, Mir wird geholfen
+summary: «ساخته **شد**»، «ساخته **شده است**»، «باید ساخته **شود**»: مجهول در همهٔ زمان‌ها، با یک نکتهٔ کلیدی: `worden` (نه ~~geworden~~).
+---
+## جدول زمان‌ها {#zeiten}
+
+:::rule
+| زمان | ساختار | مثال | فارسی |
+|---|---|---|---|
+| Präsens | wird + P II | Das Haus **wird gebaut**. | ساخته می‌شود |
+| Präteritum | wurde + P II | Das Haus **wurde gebaut**. | ساخته شد |
+| Perfekt | ist + P II + **worden** | Das Haus **ist gebaut worden**. | ساخته شده است |
+| Plusquamperfekt | war + P II + **worden** | Das Haus **war gebaut worden**. | ساخته شده بود |
+| Futur I | wird + P II + werden | Das Haus **wird gebaut werden**. | ساخته خواهد شد |
+:::
+
+:::warn worden، نه geworden
+در Passiv، اسم مفعولِ `werden` به شکل **worden** (بدون ge-) است:
+- `Er ist Arzt **geworden**.` (او پزشک **شد** ← werden به معنی «شدن»)
+- `Das Haus ist gebaut **worden**.` (خانه **ساخته شد** ← Passiv)
+همچنین Perfekt در Passiv همیشه با **sein** است.
+:::
+
+> Das Rathaus **wurde** 1890 **gebaut**. = ساختمان شهرداری در ۱۸۹۰ ساخته شد.
+> Mein Fahrrad **ist gestohlen worden**! = دوچرخه‌ام دزدیده شده!
+> Die Stadt **war** im Krieg **zerstört worden**. = شهر در جنگ ویران شده بود.
+
+:::tip کدام زمان گذشته؟
+در خبر و متن نوشتاری، **Präteritum** (`wurde gebaut`) رایج‌تر است چون کوتاه‌تر است. در گفتار هر دو.
+:::
+
+## Passiv با افعال وجهی {#modal}
+
+:::rule
+**فعل وجهی (صرف‌شده) + … + Partizip II + werden (مصدر)**
+:::
+
+| | مثال |
+|---|---|
+| حال | Das Auto **muss repariert werden**. = ماشین باید تعمیر شود. |
+| گذشته | Das Auto **musste repariert werden**. = ماشین باید تعمیر می‌شد (و شد). |
+| جملهٔ پیرو | …, weil das Auto repariert werden **muss**. |
+
+> Hier **darf** nicht **geraucht werden**. = اینجا نباید سیگار کشیده شود.
+> Das Formular **kann** online **ausgefüllt werden**. = فرم را می‌شود آنلاین پر کرد.
+> Die Rechnung **soll** bis Freitag **bezahlt werden**. = صورت‌حساب باید تا جمعه پرداخت شود.
+
+## در جملهٔ پیرو {#nebensatz}
+
+فعل صرف‌شده آخرین کلمه است:
+> …, dass das Haus **gebaut wird**.
+> …, dass das Haus **gebaut wurde**.
+> …, dass das Haus **gebaut worden ist**.
+> …, dass das Haus **gebaut werden muss**.
+
+## von یا durch؟ {#von-durch}
+
+| | کاربرد | مثال |
+|---|---|---|
+| von + Dat | کنندهٔ کار (شخص، نهاد) | Das Bild wurde **von** Picasso gemalt. |
+| durch + Akk | وسیله، واسطه، علت غیرشخصی | Die Stadt wurde **durch** ein Erdbeben zerstört. |
+
+## Passiv با فعل‌های Dativ {#dativ}
+
+فقط مفعول **Akkusativ** فاعل جملهٔ مجهول می‌شود. مفعول Dativ، Dativ می‌ماند:
+> Man hilft **mir**. → **Mir** wird geholfen. (نه ~~Ich werde geholfen~~)
+> Man hat **dem Kunden** geantwortet. → **Dem Kunden** wurde geantwortet.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+باز هم شباهت کامل با «شدن» ([[a22-passiv-praesens#fa]]):
+| فارسی | آلمانی |
+|---|---|
+| ساخته **می‌شود** | wird gebaut |
+| ساخته **شد** | wurde gebaut |
+| ساخته **شده است** | ist gebaut worden |
+| ساخته **شده بود** | war gebaut worden |
+| ساخته **خواهد شد** | wird gebaut werden |
+| **باید** ساخته **شود** | muss gebaut werden |
+
+ترفند: `worden` همان «**شده**» در «ساخته شده است» است. همان‌طور که در فارسی «ساخته شده است» سه بخش دارد، آلمانی هم سه بخش دارد: `ist` (است) + `gebaut` (ساخته) + `worden` (شده).
+:::
+
+## خودآزمایی {#quiz}
+
+?? Präteritum: `Das Fenster wird geöffnet.` => `Das Fenster wurde geöffnet.`
+?? Perfekt: `Der Brief wird geschrieben.` => `Der Brief ist geschrieben worden.`
+?? «کیف پولم دزدیده شده!» (stehlen) => `Mein Portemonnaie ist gestohlen worden!`
+?? «این مشکل باید سریع حل شود.» (lösen) => `Das Problem muss schnell gelöst werden.`
+?? «به ما کمک شد.» => `Uns wurde geholfen.`
+?? «آمریکا در ۱۴۹۲ کشف شد.» (entdecken) => `Amerika wurde 1492 entdeckt.`
+
+@@ b11-konj2
+level: B1.1
+title: Konjunktiv II حال: شرط غیرواقعی و آرزو
+de: Konjunktiv II der Gegenwart: irreale Bedingungen und Wünsche
+tags: Konjunktiv II, شرط غیرواقعی, irreal, wenn ich wäre, wenn ich hätte, würde, کاش, اگر بودم, آرزو, Wunsch, ich wünschte, käme, ginge, wüsste, gäbe, Vergleichssatz
+summary: «**اگر** پولدار **بودم**، یک خانه **می‌خریدم**»، «**کاش** وقت **داشتم**»: برای چیزهایی که واقعی نیستند.
+---
+## واقعی یا غیرواقعی؟ {#real-irreal}
+
+| | معنی | مثال |
+|---|---|---|
+| شرط واقعی (Indikativ) | ممکن است اتفاق بیفتد | **Wenn** ich Zeit **habe**, **komme** ich. ([[a21-wenn]]) |
+| شرط غیرواقعی (Konjunktiv II) | واقعیت این نیست / بعید است | **Wenn** ich Zeit **hätte**, **würde** ich **kommen**. |
+
+در جملهٔ دوم، واقعیت این است: «وقت ندارم، پس نمی‌آیم.»
+
+## ساختن Konjunktiv II {#formen}
+
+### ۱. شکل‌های خاص (حفظ کنید)
+| مصدر | Konj. II | مثال |
+|---|---|---|
+| sein | wäre | Wenn ich reich **wäre**, … |
+| haben | hätte | Wenn ich ein Auto **hätte**, … |
+| werden | würde | |
+| können | könnte | Wenn ich **könnte**, … |
+| müssen | müsste | |
+| dürfen | dürfte | |
+| sollen | sollte | |
+| wollen | wollte | |
+| wissen | wüsste | Wenn ich das **wüsste**! |
+
+(این‌ها را در [[a22-konj2-hoeflich#formen]] دیدید.)
+
+### ۲. würde + مصدر (برای بیشتر فعل‌ها)
+> Ich **würde** dir **helfen**. = کمکت می‌کردم.
+> Er **würde** gern Arzt **werden**. = دوست داشت پزشک شود.
+
+### ۳. شکل‌های خاص فعل‌های قوی (بیشتر نوشتاری)
+`Präteritum + اوملاوت + ‎-e‎`:
+| مصدر | Präteritum | Konj. II |
+|---|---|---|
+| kommen | kam | k**ä**m**e** |
+| gehen | ging | ging**e** |
+| geben (es gibt) | gab | g**ä**b**e** |
+| bleiben | blieb | blieb**e** |
+| finden | fand | f**ä**nd**e** |
+| lassen | ließ | ließ**e** |
+| tun | tat | t**ä**t**e** |
+
+:::tip قاعدهٔ عملی
+در گفتار: برای `sein`، `haben`، افعال وجهی و `wissen` شکل خاص؛ برای **همهٔ بقیه** `würde + مصدر`. فقط `käme`، `ginge`، `gäbe` (`es gäbe`) را هم بشناسید چون زیاد شنیده می‌شوند.
+:::
+
+## ۱. شرط غیرواقعی {#bedingung}
+
+:::rule
+**Wenn + … + Konj. II (آخر)، Konj. II + …**
+:::
+
+> **Wenn** ich mehr Zeit **hätte**, **würde** ich Spanisch **lernen**. = اگر وقت بیشتری داشتم، اسپانیایی یاد می‌گرفتم.
+> **Wenn** ich du **wäre**, **würde** ich das nicht **machen**. = اگر جای تو بودم، این کار را نمی‌کردم.
+> **Wenn** es nicht so teuer **wäre**, **könnten** wir öfter essen gehen. = اگر این‌قدر گران نبود، می‌توانستیم بیشتر بیرون غذا بخوریم.
+> Ich **wäre** glücklich, **wenn** du **kämst** / **kommen würdest**. = خوشحال می‌شدم اگر می‌آمدی.
+
+:::note بدون wenn
+مثل شرط واقعی، می‌شود `wenn` را انداخت و فعل را اول آورد: `**Hätte** ich mehr Zeit, würde ich Spanisch lernen.` ([[b21-konditional]])
+:::
+
+## ۲. آرزو («کاش») {#wunsch}
+
+| ساختار | مثال |
+|---|---|
+| Wenn … doch / nur + Konj. II! | **Wenn** ich **doch** mehr Zeit **hätte**! = کاش وقت بیشتری داشتم! |
+| فعل اول + doch/nur | **Hätte** ich **nur** mehr Geld! = کاش پول بیشتری داشتم! |
+| Ich wünschte, … | **Ich wünschte**, du **wärst** hier. = کاش اینجا بودی. |
+
+## ۳. مقایسهٔ غیرواقعی (als ob) {#alsob}
+
+> Er tut so, **als ob** er alles **wüsste**. = طوری رفتار می‌کند انگار همه‌چیز را می‌داند.
+
+درس کامل: [[b21-als-ob]].
+
+## ۴. ادب و توصیه {#hoeflich}
+
+`Könnten Sie …?`، `Du solltest …`، `Ich hätte gern …` ← [[a22-konj2-hoeflich]].
+
+## مقایسه با فارسی {#fa}
+
+:::fa «اگر … داشتم، می‌رفتم»
+فارسی شرط غیرواقعیِ حال را با **ماضی** می‌سازد: «اگر وقت **داشتم**، **می‌رفتم**». آلمانی Konjunktiv II به کار می‌برد که **ظاهرش شبیه گذشته** است (`hätte` شبیه `hatte`، `wäre` شبیه `war`). پس منطق دو زبان یکی است: برای غیرواقعی، «یک قدم به گذشته» می‌رویم!
+
+| فارسی | آلمانی |
+|---|---|
+| اگر پولدار **بودم** | wenn ich reich **wäre** |
+| اگر وقت **داشتم** | wenn ich Zeit **hätte** |
+| **می‌خریدم** | ich **würde** kaufen |
+| **کاش** اینجا **بودی** | **Ich wünschte**, du **wärst** hier. / Wärst du **doch** hier! |
+| **می‌توانستم** | ich **könnte** |
+
+برای غیرواقعیِ **گذشته** («اگر وقت **داشتم**، **رفته بودم**» یا «اگر می‌دانستم، می‌آمدم» دربارهٔ دیروز) آلمانی شکل جداگانه‌ای دارد: [[b12-konj2-verg]].
+:::
+
+## خودآزمایی {#quiz}
+
+?? «اگر وقت داشتم، می‌آمدم.» => `Wenn ich Zeit hätte, würde ich kommen.`
+?? «اگر جای تو بودم، به دکتر می‌رفتم.» => `Wenn ich du wäre, würde ich zum Arzt gehen.`
+?? «کاش ماشین داشتم!» => `Wenn ich doch ein Auto hätte!` / `Hätte ich nur ein Auto!`
+?? «کاش جواب را می‌دانستم.» => `Ich wünschte, ich wüsste die Antwort.`
+?? واقعی یا غیرواقعی؟ `Wenn es morgen regnet, bleiben wir zu Hause.` => واقعی (ممکن است باران بیاید)
+?? Konj. II از `geben` در `es gibt` => `es gäbe`
+
+@@ b11-zweiteilig
+level: B1.1
+title: حروف ربط دوبخشی (sowohl … als auch، weder … noch …)
+de: Zweiteilige Konnektoren
+tags: zweiteilige Konjunktionen, sowohl als auch, weder noch, entweder oder, nicht nur sondern auch, zwar aber, je desto, je umso, einerseits andererseits, هم هم, نه نه, یا یا, نه‌تنها بلکه, هرچه تر
+summary: «**هم** … **هم**»، «**نه** … **نه**»، «**یا** … **یا**»، «**نه‌تنها** … **بلکه**»، «**هرچه** … ‌تر، …‌تر»: حروف ربطی که از دو بخش ساخته شده‌اند.
+---
+## جدول {#tabelle}
+
+| حرف ربط | معنی | مثال |
+|---|---|---|
+| sowohl … als auch | هم … هم | Ich spreche **sowohl** Deutsch **als auch** Englisch. |
+| weder … noch | نه … نه | Er trinkt **weder** Kaffee **noch** Tee. |
+| entweder … oder | یا … یا | **Entweder** kommst du mit, **oder** du bleibst hier. |
+| nicht nur … sondern auch | نه‌تنها … بلکه | Sie ist **nicht nur** klug, **sondern auch** sehr nett. |
+| zwar … aber | درست است که … اما | Das Hotel ist **zwar** teuer, **aber** sehr schön. |
+| einerseits … andererseits | از یک طرف … از طرف دیگر | **Einerseits** will ich reisen, **andererseits** habe ich kein Geld. |
+| je … desto / umso | هرچه … ‌تر، …‌تر | **Je** mehr ich übe, **desto** besser spreche ich. |
+
+## sowohl … als auch {#sowohl}
+
+> **Sowohl** meine Mutter **als auch** mein Vater arbeiten. = هم مادرم و هم پدرم کار می‌کنند.
+
+فعل در این حالت **جمع** است (دو فاعل).
+
+## weder … noch {#weder}
+
+:::warn منفی دوبل نه!
+`weder … noch` خودش منفی است؛ `nicht` یا `kein` اضافه نکنید: ~~Ich habe weder keine Zeit noch kein Geld.~~
+> Ich habe **weder** Zeit **noch** Geld. = نه وقت دارم نه پول.
+:::
+
+:::fa
+فارسی هم «نه … نه» دارد و جالب اینکه فعل را معمولاً **مثبت** می‌آورد: «**نه** علی آمد **نه** رضا». این دقیقاً مثل آلمانی است: `**Weder** Ali **noch** Reza **ist** gekommen.` (برخلاف «هیچ‌کس نیامد» که فارسی منفی دوبل دارد؛ [[a11-negation#andere]].)
+:::
+
+## entweder … oder {#entweder}
+
+`entweder` می‌تواند جایگاه ۱ بگیرد (با وارونگی) یا جایگاه ۰:
+> **Entweder kommst** du mit, oder du bleibst zu Hause.
+> **Entweder** du **kommst** mit, oder …
+
+`oder` همیشه جایگاه ۰ است.
+
+## nicht nur … sondern auch {#nichtnur}
+
+> Er spricht **nicht nur** Persisch, **sondern auch** Arabisch. = نه‌تنها فارسی، بلکه عربی هم صحبت می‌کند.
+
+(به یاد بیاورید که `sondern` بعد از منفی می‌آید: [[a12-konnektoren#aber-sondern]].)
+
+## zwar … aber {#zwar}
+
+برای پذیرفتن یک نکته و آوردن نکتهٔ مخالف. `zwar` معمولاً **بعد از فعل** می‌آید:
+> Die Wohnung ist **zwar** klein, **aber** sie ist sehr gemütlich. = آپارتمان درست است که کوچک است، اما خیلی دنج است.
+> Ich habe **zwar** keine Lust, **aber** ich gehe trotzdem. = حوصله ندارم، ولی باز هم می‌روم.
+
+## je … desto / umso {#je}
+
+:::rule
+**Je + Komparativ + … + فعل (آخر)، desto/umso + Komparativ + فعل + فاعل …**
+بخش اول جملهٔ پیرو است (فعل آخر)؛ بخش دوم با `desto` شروع می‌شود و **وارونگی** دارد.
+:::
+
+> **Je** älter ich **werde**, **desto** ruhiger **bin** ich. = هرچه پیرتر می‌شوم، آرام‌تر می‌شوم.
+> **Je** früher du **kommst**, **umso** besser. = هرچه زودتر بیایی، بهتر.
+> **Je** mehr er **verdient**, **desto** mehr **gibt** er aus. = هرچه بیشتر درمی‌آورد، بیشتر خرج می‌کند.
+
+:::fa
+«**هرچه** پیر**تر** می‌شوم، آرام**تر** می‌شوم» ← ساختار فارسی دقیقاً همین است. فقط دقت کنید:
+- بعد از `je`: صفت برتر + … + **فعل آخر**
+- بعد از `desto`: صفت برتر + **فعل بلافاصله** + فاعل
+(صفت برتر را در [[a21-komparativ]] دیدید.)
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| فارسی | آلمانی |
+|---|---|
+| **هم** … **هم** | sowohl … als auch |
+| **نه** … **نه** | weder … noch |
+| **یا** … **یا** | entweder … oder |
+| **نه‌تنها** … **بلکه** … **هم** | nicht nur … sondern auch |
+| درست است که … **اما** | zwar … aber |
+| **از یک طرف** … **از طرف دیگر** | einerseits … andererseits |
+| **هرچه** …تر، …تر | je … desto |
+
+همهٔ این‌ها در فارسی معادل تقریباً لفظ‌به‌لفظ دارند. این درس برای فارسی‌زبان‌ها نسبتاً آسان است؛ فقط به ترتیب کلمات بعد از `je` و `desto` دقت کنید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «نه گرسنه‌ام نه تشنه.» => `Ich habe weder Hunger noch Durst.`
+?? «هم برادرم و هم خواهرم در برلین زندگی می‌کنند.» => `Sowohl mein Bruder als auch meine Schwester wohnen in Berlin.`
+?? «یا الان می‌آیی یا بدون تو می‌رویم.» => `Entweder kommst du jetzt, oder wir gehen ohne dich.`
+?? «هرچه بیشتر بخوابم، خسته‌تر می‌شوم.» => `Je mehr ich schlafe, desto müder werde ich.`
+?? «این فیلم نه‌تنها خنده‌دار، بلکه هیجان‌انگیز هم هست.» => `Der Film ist nicht nur lustig, sondern auch spannend.`
+?? غلط کجاست؟ `Ich kenne weder ihn noch nicht seine Frau.` => `nicht` اضافی است: `Ich kenne weder ihn noch seine Frau.`

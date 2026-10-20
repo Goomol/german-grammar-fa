@@ -1,0 +1,338 @@
+@@ b22-inf-perfekt
+level: B2.2
+title: مصدر گذشته و مصدر مجهول (gemacht haben، gemacht werden)
+de: Infinitiv Perfekt und Infinitiv Passiv
+tags: Infinitiv Perfekt, Infinitiv Passiv, gemacht haben, gegangen sein, gemacht werden, gemacht worden sein, gemacht zu haben, kennengelernt zu haben, مصدر گذشته, مصدر مجهول, zu Infinitiv
+summary: «خوشحالم که با تو **آشنا شده‌ام**» ← `Ich freue mich, dich kennengelernt **zu haben**.` مصدر هم می‌تواند «گذشته» یا «مجهول» باشد.
+---
+## چهار شکل مصدر {#formen}
+
+:::rule
+| | فعال (Aktiv) | مجهول (Passiv) |
+|---|---|---|
+| حال/هم‌زمان | machen / gehen | gemacht werden |
+| گذشته/پیشین | gemacht **haben** / gegangen **sein** | gemacht **worden sein** |
+| با zu: حال | zu machen | gemacht zu werden |
+| با zu: گذشته | gemacht zu **haben** / gegangen zu **sein** | gemacht worden zu sein |
+:::
+
+:::tip قاعدهٔ zu
+`zu` همیشه درست قبل از **آخرین** جزء می‌آید: `gemacht **zu** haben`، `gemacht **zu** werden`، `gemacht worden **zu** sein`.
+:::
+
+## مصدر گذشته با zu: کاری که **قبلاً** انجام شده {#perfekt}
+
+> Ich freue mich, dich **kennengelernt zu haben**. = خوشحالم که با تو آشنا شدم.
+> Er behauptet, nichts **gesehen zu haben**. = ادعا می‌کند چیزی ندیده.
+> Ich bereue es, so früh **gegangen zu sein**. = پشیمانم که آن‌قدر زود رفتم.
+> Ich bin froh, endlich zu Hause **angekommen zu sein**. = خوشحالم که بالاخره به خانه رسیده‌ام.
+
+مقایسه:
+| هم‌زمان | قبل‌تر |
+|---|---|
+| Ich freue mich, dich **zu sehen**. (الان می‌بینمت) | Ich freue mich, dich **gesehen zu haben**. (دیدمت) |
+
+## مصدر مجهول با zu {#passiv}
+
+> Ich hasse es, **kritisiert zu werden**. = از انتقاد شدن متنفرم.
+> Er hofft, zum Gespräch **eingeladen zu werden**. = امیدوار است به مصاحبه دعوت شود.
+> Sie erinnert sich nicht, je **gefragt worden zu sein**. = یادش نمی‌آید که هرگز از او سؤال شده باشد.
+
+## بعد از افعال وجهی (بدون zu) {#modal}
+
+مصدر گذشته بعد از افعال وجهی ذهنی ([[b21-modal-subj#vergangenheit]]) و Futur II ([[b21-futur2]]):
+> Er **muss** den Zug **verpasst haben**. = حتماً قطار را از دست داده.
+> Das **kann** nicht **gewesen sein**. = امکان ندارد این بوده باشد.
+> Die Brücke **soll** 1900 **gebaut worden sein**. = گفته می‌شود پل در ۱۹۰۰ ساخته شده است.
+
+مصدر مجهول بعد از افعال وجهی ([[b11-passiv#modal]]): `Das muss **gemacht werden**.`
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی برای این معانی معمولاً «که + فعل صرف‌شده» یا «از اینکه …» می‌گوید:
+| آلمانی | فارسی |
+|---|---|
+| dich kennengelernt zu haben | (که) با تو **آشنا شدم** / **از آشنایی** با تو |
+| kritisiert zu werden | **مورد انتقاد قرار گرفتن** / اینکه **از من انتقاد شود** |
+| gesehen zu haben | (اینکه) **دیده باشد/دیده است** |
+| muss gegangen sein | **باید رفته باشد** |
+
+«باید رفته باشد» و «ممکن است دیده باشد» در فارسی (ماضی التزامی) معادل دقیق `muss gegangen sein` و `könnte gesehen haben` است.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «خوشحالم که امتحان را قبول شدم.» (bestehen) => `Ich bin froh, die Prüfung bestanden zu haben.`
+?? «او امیدوار است که انتخاب شود.» (wählen) => `Er hofft, gewählt zu werden.`
+?? «او ادعا می‌کند که هرگز آنجا نبوده.» => `Er behauptet, nie dort gewesen zu sein.`
+?? «این خانه باید (حتماً) خیلی وقت پیش ساخته شده باشد.» => `Dieses Haus muss vor langer Zeit gebaut worden sein.`
+
+@@ b22-ersatzinf
+level: B2.2
+title: «دو مصدر» (Ersatzinfinitiv) و ترتیب فعل‌ها در جملهٔ پیرو
+de: Der Ersatzinfinitiv und die Verbstellung im Nebensatz
+tags: Ersatzinfinitiv, دو مصدر, doppelter Infinitiv, habe arbeiten müssen, hat kommen können, habe reparieren lassen, habe ihn kommen sehen, weil ich habe arbeiten müssen, hätte kommen sollen, ترتیب فعل‌ها
+summary: «مجبور شدم کار کنم» در Perfekt: `Ich **habe** arbeiten **müssen**` (نه ~~gemusst~~). و در جملهٔ پیرو یک استثنای مهم: `…, weil ich **habe** arbeiten müssen`.
+---
+## مشکل چیست؟ {#problem}
+
+اسم مفعول افعال وجهی وجود دارد (`gekonnt`، `gemusst`، `gewollt`) اما فقط وقتی فعل وجهی **تنها** است:
+> Ich **habe** das nicht **gekonnt**. = این کار را بلد نبودم/نتوانستم.
+> Er **hat** es so **gewollt**. = خودش این‌طور خواسته بود.
+
+وقتی فعل وجهی **همراه با مصدرِ فعل دیگری** است، به‌جای اسم مفعول، **مصدر** خودش می‌آید:
+
+:::rule
+**haben + … + مصدر فعل اصلی + مصدر فعل وجهی**
+:::
+
+| ✗ | ✓ |
+|---|---|
+| ~~Ich habe arbeiten gemusst.~~ | Ich **habe** arbeiten **müssen**. |
+| ~~Er hat nicht kommen gekonnt.~~ | Er **hat** nicht kommen **können**. |
+| ~~Wir haben es machen gewollt.~~ | Wir **haben** es machen **wollen**. |
+
+به این ساختار «جایگزین مصدر» یا «دو مصدر» می‌گویند. فعل کمکی همیشه `haben` است.
+
+## کدام فعل‌ها؟ {#welche}
+
+| فعل | الزامی؟ | مثال |
+|---|---|---|
+| افعال وجهی (können، müssen، dürfen، wollen، sollen، mögen) | **الزامی** | Ich habe gehen **müssen**. |
+| lassen | **الزامی** | Ich habe das Auto reparieren **lassen**. ([[a22-lassen#perfekt]]) |
+| sehen، hören | رایج (اسم مفعول هم درست) | Ich habe ihn kommen **sehen / gesehen**. |
+| helfen، brauchen | اختیاری | Er hat mir tragen **helfen / geholfen**. |
+
+(در گفتار برای افعال وجهی معمولاً Präteritum ساده‌تر است: `Ich **musste** arbeiten` ← [[a21-praet-modal]].)
+
+## در جملهٔ پیرو: استثنای مهم {#nebensatz}
+
+:::rule
+در جملهٔ پیرو، وقتی «دو مصدر» داریم، فعل کمکی صرف‌شده **قبل** از دو مصدر می‌آید، نه آخر!
+:::
+
+| جملهٔ اصلی | جملهٔ پیرو |
+|---|---|
+| Ich **habe** arbeiten müssen. | …, weil ich **habe** arbeiten müssen. |
+| Er **hat** nicht kommen können. | …, dass er nicht **hat** kommen können. |
+| Ich **habe** das Auto reparieren lassen. | …, weil ich das Auto **habe** reparieren lassen. |
+| Du **hättest** anrufen sollen. | …, dass du **hättest** anrufen sollen. |
+| Er **wird** kommen können. | …, dass er **wird** kommen können. (یا: kommen können wird) |
+
+> Es tut mir leid, dass ich gestern nicht **habe** kommen können. = متأسفم که دیروز نتوانستم بیایم.
+> Ich weiß, dass ich dich **hätte** anrufen sollen. = می‌دانم که باید به تو زنگ می‌زدم.
+
+:::warn
+~~…, weil ich arbeiten müssen habe.~~ غلط است. این تنها جایی است که در جملهٔ پیرو فعل صرف‌شده آخر نمی‌آید.
+:::
+
+## Konjunktiv II گذشته با فعل وجهی {#konj2}
+
+همین ساختار در «باید می‌…»، «می‌توانستی …» ([[b12-konj2-verg#modal]]):
+> Du **hättest** mich fragen **können**. = می‌توانستی از من بپرسی.
+> Wir **hätten** früher losfahren **sollen**. = باید زودتر راه می‌افتادیم.
+
+## خلاصهٔ ترتیب فعل‌ها در آخر جمله {#reihenfolge}
+
+| ساختار | جملهٔ اصلی (آخر) | جملهٔ پیرو (آخر) |
+|---|---|---|
+| Perfekt ساده | … gemacht | … gemacht **hat** |
+| Passiv Perfekt | … gemacht worden | … gemacht worden **ist** |
+| Passiv + Modal | … gemacht werden | … gemacht werden **muss** |
+| Perfekt + Modal | … machen müssen | … **hat** machen müssen |
+| Konj. II گذشته + Modal | … machen sollen | … **hätte** machen sollen |
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی این پیچیدگی را ندارد: «**مجبور شدم** کار کنم»، «**نتوانست** بیاید»، «**باید** زنگ **می‌زدم**». فعل اصلی در فارسی **التزامی** یا **ماضی استمراری** است و فعل وجهی صرف می‌شود.
+
+| فارسی | آلمانی |
+|---|---|
+| مجبور شدم کار کنم | Ich **habe** arbeiten **müssen**. / Ich **musste** arbeiten. |
+| نتوانست بیاید | Er **hat** nicht kommen **können**. / Er **konnte** nicht kommen. |
+| باید زنگ می‌زدم | Ich **hätte** anrufen **sollen**. |
+
+توصیه: در گفتار از Präteritum افعال وجهی استفاده کنید (ساده‌تر)، اما «دو مصدر» را برای Konjunktiv II گذشته («باید می‌…») و برای `lassen` حتماً بلد باشید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? Perfekt: `Ich muss lange warten.` => `Ich habe lange warten müssen.`
+?? Perfekt: `Er kann nicht schlafen.` => `Er hat nicht schlafen können.`
+?? جملهٔ پیرو: `Ich habe das Haus streichen lassen.` (weil) => `…, weil ich das Haus habe streichen lassen.`
+?? «می‌دانم که باید زودتر می‌آمدم.» => `Ich weiß, dass ich früher hätte kommen sollen.`
+?? Perfekt (فعل وجهی تنها): `Ich kann das nicht.` => `Ich habe das nicht gekonnt.`
+
+@@ b22-feldermodell
+level: B2.2
+title: مدل میدان‌ها: ساختار کامل جملهٔ آلمانی
+de: Das topologische Feldermodell
+tags: Feldermodell, مدل میدان‌ها, Vorfeld, Mittelfeld, Nachfeld, Satzklammer, linke Satzklammer, rechte Satzklammer, Ausklammerung, ترتیب کلمات, ساختار جمله, Verbzweit, Verberst, Verbletzt, جمع‌بندی
+summary: کل نحو آلمانی در یک جدول: پیش‌میدان، قاب چپ، میان‌میدان، قاب راست، پس‌میدان. همهٔ قاعده‌های ترتیب کلمات که تا اینجا خواندید، اینجا کنار هم قرار می‌گیرند.
+---
+## پنج میدان {#felder}
+
+:::rule
+| پیش‌میدان (Vorfeld) | قاب چپ (linke Klammer) | میان‌میدان (Mittelfeld) | قاب راست (rechte Klammer) | پس‌میدان (Nachfeld) |
+|---|---|---|---|---|
+| **یک** جزء | فعل صرف‌شده / حرف ربط پیرو | همهٔ بقیه | بخش‌های دیگر فعل | (اختیاری) |
+:::
+
+## سه نوع جمله {#typen}
+
+### ۱. فعل در جایگاه ۲ (V2): جملهٔ خبری، W-Frage
+| Vorfeld | چپ | Mittelfeld | راست | Nachfeld |
+|---|---|---|---|---|
+| Ich | habe | gestern meinem Bruder das Buch | gegeben. | |
+| Gestern | habe | ich meinem Bruder das Buch | gegeben. | |
+| Wann | hast | du ihm das Buch | gegeben? | |
+| Ich | rufe | dich morgen | an. | |
+| Er | muss | heute länger | arbeiten | als gestern. |
+
+### ۲. فعل در جایگاه ۱ (V1): سؤال بله/خیر، امر، شرط بدون wenn
+| Vorfeld | چپ | Mittelfeld | راست |
+|---|---|---|---|
+| — | Hast | du ihm das Buch | gegeben? |
+| — | Ruf | mich morgen | an! |
+| — | Hätte | ich das | gewusst, … |
+
+### ۳. فعل در آخر (VL): جملهٔ پیرو
+| Vorfeld | چپ (حرف ربط) | Mittelfeld | راست (همهٔ فعل‌ها) |
+|---|---|---|---|
+| — | weil | ich ihm das Buch | gegeben habe |
+| — | dass | er morgen | anrufen wird |
+| — | ob | du heute länger | arbeiten musst |
+| — | der (موصولی) | mir gestern | geholfen hat |
+
+## چه چیزی کجا می‌رود؟ {#was}
+
+| میدان | محتوا | درس مربوط |
+|---|---|---|
+| Vorfeld | **دقیقاً یک** جزء: فاعل، مفعول، قید، جملهٔ پیرو، یا `es` جای‌نگه‌دار | [[a11-satzbau#v2]]، [[b22-es#platzhalter]] |
+| قاب چپ | فعل صرف‌شده (V1/V2) یا حرف ربط پیرو (VL) | [[a21-weil]] |
+| Mittelfeld | ضمایر ← اسم‌ها؛ TeKaMoLo؛ nicht | [[a22-mittelfeld]]، [[b12-nicht-position]] |
+| قاب راست | پیشوند جداشدنی، مصدر، اسم مفعول، (در VL) فعل صرف‌شده | [[a11-trennbar]]، [[a11-modal1]]، [[a12-perfekt-haben]] |
+| Nachfeld | مقایسه با als/wie، جملهٔ موصولی، گروه‌های طولانی | پایین |
+
+:::note جایگاه صفر
+حروف ربط هم‌پایه (`und`، `aber`، `oder`، `denn`، `sondern`) **بیرون** از این مدل، قبل از Vorfeld قرار می‌گیرند ([[a12-konnektoren#null]]).
+:::
+
+## پس‌میدان و «بیرون گذاشتن» (Ausklammerung) {#nachfeld}
+
+برای سبک‌تر شدن جمله، بعضی اجزا را **بعد از** قاب راست می‌گذاریم:
+
+| در پس‌میدان | مثال |
+|---|---|
+| جملهٔ پیرو | Ich habe nicht gewusst, **dass du kommst**. |
+| جملهٔ موصولی (به‌جای وسط جمله) | Ich habe den Mann gesehen, **der dir geholfen hat**. |
+| مقایسه با als / wie | Er ist schneller gelaufen **als ich**. |
+| مصدر با zu | Ich habe vergessen, **dich anzurufen**. |
+| گروه حرف‌اضافه‌ای طولانی (گفتار) | Wir haben lange gesprochen **über die Probleme in der Firma**. |
+
+## مقایسه با فارسی {#fa}
+
+:::fa یک دید کلی
+فارسی اساساً **فعل‌آخر** است (SOV). جملهٔ پیروی آلمانی هم فعل‌آخر است، پس همان ترتیب فارسی را دارد. جملهٔ اصلی آلمانی فقط **یک** کار اضافه می‌کند: فعل صرف‌شده را به **جایگاه ۲** می‌برد (و بقیهٔ فعل در آخر می‌ماند).
+
+| | ترتیب |
+|---|---|
+| فارسی | من دیروز به برادرم کتاب را **داده‌ام** |
+| آلمانی پیرو | (weil) ich gestern meinem Bruder das Buch gegeben **habe** ← تقریباً همان ترتیب فارسی! |
+| آلمانی اصلی | Ich **habe** gestern meinem Bruder das Buch **gegeben** ← فقط `habe` به جایگاه ۲ آمده |
+
+پس اگر در ذهنتان جملهٔ آلمانی را اول «فارسی‌وار» (فعل‌آخر) بسازید و بعد فعل صرف‌شده را به جایگاه ۲ بکشید، تقریباً همیشه درست درمی‌آید. این ساده‌ترین «کلید» نحو آلمانی برای فارسی‌زبان‌هاست.
+
+تنها جای واقعاً متفاوت **پس‌میدان** است: فارسی جملهٔ موصولی و «که»دار را هم معمولاً بعد از فعل می‌آورد («دیدم **که** آمد»)؛ آلمانی هم همین کار را با پس‌میدان می‌کند!
+:::
+
+## خودآزمایی {#quiz}
+
+?? میدان‌ها را مشخص کنید: `Morgen kann ich leider nicht kommen.` => Vorfeld: `Morgen`؛ چپ: `kann`؛ Mittelfeld: `ich leider nicht`؛ راست: `kommen`
+?? نوع جمله؟ `Kommst du morgen mit?` => V1 (سؤال بله/خیر)
+?? به پیرو تبدیل کنید (dass): `Er hat das Auto reparieren lassen.` => `…, dass er das Auto hat reparieren lassen.`
+?? بهتر کنید (پس‌میدان): `Ich habe gestern den Mann, der neben uns wohnt, getroffen.` => `Ich habe gestern den Mann getroffen, der neben uns wohnt.`
+
+@@ b22-konnektoren-b2
+level: B2.2
+title: حروف ربط سطح بالا: zumal، insofern، es sei denn، geschweige denn …
+de: Konnektoren auf B2-Niveau
+tags: zumal, insofern als, insoweit, es sei denn, geschweige denn, sowie, wobei, nur dass, außer wenn, soweit, kaum dass, weshalb, weswegen, demnach, somit, zudem, ferner, ohnehin, allerdings, nämlich, به‌خصوص که, مگر اینکه, چه برسد به
+summary: ابزارهای ربط پیشرفته برای نوشتار و بحث: «**به‌خصوص که**»، «**مگر اینکه**»، «**چه برسد به**»، «**که به همین دلیل**».
+---
+## حروف ربط پیرو (فعل آخر) {#subjunktionen}
+
+| حرف ربط | معنی | مثال |
+|---|---|---|
+| zumal | به‌خصوص که، آن هم وقتی که | Ich bleibe zu Hause, **zumal** es regnet. |
+| insofern / insoweit (als) | تا آنجا که، از این نظر که | Das ist richtig, **insofern als** … |
+| soweit / sofern | تا جایی که | **Soweit** ich weiß, kommt er morgen. |
+| es sei denn | مگر اینکه | Ich komme, **es sei denn**, ich bin krank. |
+| außer wenn / außer dass | جز اینکه، مگر وقتی که | |
+| nur dass | فقط اینکه، با این تفاوت که | Das Hotel war schön, **nur dass** es laut war. |
+| wobei | در حالی که، البته | Das ist gut, **wobei** man sagen muss, dass … |
+| kaum dass | به محض اینکه، تا … | **Kaum dass** er da war, ging er wieder. |
+| sowie | به محض اینکه (رسمی) | **Sowie** ich Näheres weiß, melde ich mich. |
+| weshalb / weswegen | که به همین دلیل | Es regnete, **weshalb** wir zu Hause blieben. |
+| umso mehr, als | به‌ویژه از آنجا که | |
+
+:::note es sei denn
+بعد از `es sei denn` معمولاً ترتیب **جملهٔ اصلی** (فعل دوم) می‌آید: `…, es sei denn, **ich bin** krank.` (یا با dass: `es sei denn, dass ich krank bin`)
+:::
+
+:::note weshalb / weswegen
+این‌ها «موصولی» برای کل جملهٔ قبل‌اند (مثل `was` در [[b11-relativ2#was]]) و نتیجه را بیان می‌کنند: فعل آخر.
+:::
+
+## قیدهای ربطی (جایگاه ۱ یا وسط) {#adverbien}
+
+| قید | معنی | مثال |
+|---|---|---|
+| zudem / ferner / darüber hinaus | علاوه بر این | **Zudem** ist die Lage gut. |
+| ohnehin / sowieso | به‌هرحال، در هر صورت | Ich muss **ohnehin** in die Stadt. |
+| demnach / somit / folglich | بنابراین، در نتیجه | **Somit** ist das Problem gelöst. |
+| allerdings | البته، منتها | Das stimmt, **allerdings** … |
+| dennoch | با این حال | Er war krank, **dennoch** kam er. |
+| nämlich (فقط وسط) | آخه، چون (توضیح) | Ich komme nicht. Ich bin **nämlich** krank. |
+| immerhin | دست‌کم، به هر حال | **Immerhin** hast du es versucht. |
+| andernfalls | وگرنه | |
+
+## geschweige denn {#geschweige}
+
+بعد از جملهٔ منفی: «**چه برسد به**»:
+> Er kann kaum laufen, **geschweige denn** rennen. = به‌سختی راه می‌رود، چه برسد به دویدن.
+> Ich habe keine Zeit zum Essen, **geschweige denn** zum Schlafen. = وقت غذا خوردن ندارم، چه برسد به خوابیدن.
+
+## sowie: «و همچنین» {#sowie}
+
+در نوشتار رسمی به معنی «و» برای فهرست‌ها:
+> Wir bieten Kurse in Deutsch, Englisch **sowie** Französisch an. = دوره‌های آلمانی، انگلیسی و همچنین فرانسوی ارائه می‌دهیم.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| آلمانی | فارسی |
+|---|---|
+| zumal | **به‌خصوص که** / **آن هم وقتی که** |
+| es sei denn | **مگر اینکه** |
+| geschweige denn | **چه برسد به** |
+| soweit ich weiß | **تا جایی که** می‌دانم |
+| nur dass | **فقط اینکه** |
+| weshalb | **که به همین دلیل** / **و از همین رو** |
+| zudem / ferner | **ضمناً** / **علاوه بر این** |
+| ohnehin | **به‌هرحال** / **در هر صورت** |
+| nämlich | **آخه** / **چون که** |
+| immerhin | **باز خوبه که** / **دست‌کم** |
+
+این‌ها همه در فارسی رسمی و محاوره معادل دقیق دارند؛ کافی است جایگاه فعل را رعایت کنید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «نمی‌خرمش، به‌خصوص که خیلی گران است.» => `Ich kaufe es nicht, zumal es sehr teuer ist.`
+?? «فردا می‌آیم، مگر اینکه باران بیاید.» => `Ich komme morgen, es sei denn, es regnet.`
+?? «حتی سلام نکرد، چه برسد به تشکر.» (sich bedanken) => `Er hat nicht einmal gegrüßt, geschweige denn sich bedankt.`
+?? «تا جایی که می‌دانم، او متأهل است.» => `Soweit ich weiß, ist er verheiratet.`
+?? «قطار تأخیر داشت، که به همین دلیل دیر رسیدم.» => `Der Zug hatte Verspätung, weshalb ich zu spät kam.`

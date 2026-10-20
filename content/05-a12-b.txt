@@ -1,0 +1,968 @@
+@@ a12-dativ
+level: A1.2
+title: حالت Dativ (مفعول غیرمستقیم)
+de: Der Dativ
+tags: Dativ, دتیو, مفعول غیرمستقیم, به, dem, der, den, einem, einer, wem, helfen, geben, gefallen, gehören, danken, schenken, حالت سوم, Kasus
+summary: «به کسی چیزی دادن»: گیرندهٔ کار در حالت Dativ است. حرف تعریف‌ها در این حالت شکل تازه‌ای می‌گیرند (`dem`، `der`، `den…n`). معادل «به» در فارسی.
+---
+## Dativ چیست؟ {#was}
+
+در جمله‌ای مثل «علی **به مادرش** یک گل می‌دهد»:
+- «علی» فاعل است ← Nominativ
+- «یک گل» مفعول مستقیم (چیزی که داده می‌شود) ← Akkusativ ([[a11-akkusativ]])
+- «به مادرش» گیرنده/مفعول غیرمستقیم ← **Dativ**
+
+> Ali gibt **seiner Mutter** eine Blume. = علی به مادرش یک گل می‌دهد.
+
+سؤال Dativ: `wem?` = «به چه کسی؟»
+
+## صرف حرف تعریف در Dativ {#tabelle}
+
+:::rule
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | {m|der} / {m|ein} | {f|die} / {f|eine} | {n|das} / {n|ein} | {p|die} / — |
+| Akkusativ | {m|den} / {m|einen} | {f|die} / {f|eine} | {n|das} / {n|ein} | {p|die} / — |
+| **Dativ** | {m|**dem**} / {m|**einem**} | {f|**der**} / {f|**einer**} | {n|**dem**} / {n|**einem**} | {p|**den** …**n**} / — |
+:::
+
+:::tip ترفند حفظ کردن Dativ
+- مذکر و خنثی: **‎-m‎** (`dem`، `einem`، `keinem`، `meinem`)
+- مؤنث: **‎-r‎** (`der`، `einer`، `keiner`، `meiner`)
+- جمع: **‎-n‎** روی حرف تعریف **و** روی اسم (`den Kinder**n**`، `meinen Freunde**n**`)
+
+یعنی «m-r-m-n». اگر اسم جمع خودش به `-n` یا `-s` ختم شود، n اضافه نمی‌شود: `den Frauen`، `den Autos`.
+:::
+
+:::warn der در Dativ مؤنث
+`der` در مؤنث Dativ همان شکلِ مذکر Nominativ است. مثلاً در `Ich helfe **der** Frau`، `der` نشانهٔ مذکر نیست، بلکه Dativ مؤنث است. موقعیت و فعل تعیین می‌کنند.
+:::
+
+## فعل‌هایی که Dativ و Akkusativ می‌گیرند {#dat-akk}
+
+«دادن چیزی **به** کسی»: کسی (Dativ) + چیزی (Akkusativ)
+
+| فعل | معنی | مثال |
+|---|---|---|
+| geben | دادن | Ich gebe **dem Kind** einen Apfel. |
+| schenken | هدیه دادن | Er schenkt **seiner Frau** Blumen. |
+| zeigen | نشان دادن | Zeig **mir** das Foto! |
+| bringen | آوردن | Der Kellner bringt **dem Gast** die Suppe. |
+| erklären | توضیح دادن | Der Lehrer erklärt **den Schülern** die Regel. |
+| schicken | فرستادن | Ich schicke **meinem Bruder** eine E-Mail. |
+| sagen | گفتن | Sag **mir** die Wahrheit! |
+| empfehlen | توصیه کردن | Ich empfehle **Ihnen** den Fisch. |
+| kaufen | خریدن (برای کسی) | Ich kaufe **meiner Tochter** ein Eis. |
+| leihen | قرض دادن | Kannst du **mir** dein Fahrrad leihen? |
+| erzählen | تعریف کردن | Oma erzählt **den Kindern** eine Geschichte. |
+
+## فعل‌هایی که فقط Dativ می‌گیرند {#nur-dat}
+
+این فعل‌ها مهم‌اند چون با منطق فارسی یا انگلیسی جور نیستند:
+
+| فعل | معنی | مثال | توجه |
+|---|---|---|---|
+| helfen | کمک کردن | Ich helfe **dir**. | فارسی: «به تو کمک می‌کنم» ✓ |
+| danken | تشکر کردن | Ich danke **Ihnen**. | فارسی: «از شما تشکر می‌کنم» ✗ |
+| gefallen | خوش آمدن | Das Bild gefällt **mir**. | «از این عکس **خوشم** می‌آید» |
+| gehören | تعلق داشتن | Das Buch gehört **mir**. | «کتاب مالِ من است» |
+| passen | اندازه/مناسب بودن | Die Hose passt **mir** nicht. | |
+| stehen | به کسی آمدن (لباس) | Das Kleid steht **dir** gut. | «این لباس بهت میاد» |
+| schmecken | مزه دادن | Schmeckt **dir** das Essen? | |
+| gratulieren | تبریک گفتن | Wir gratulieren **dir**! | فارسی: «به تو تبریک...» ✓ |
+| antworten | جواب دادن (به کسی) | Antworte **mir**! | |
+| glauben | باور کردن (کسی را) | Ich glaube **dir**. | «حرفت را باور می‌کنم» |
+| fehlen | کم بودن، دلتنگ بودن | Du fehlst **mir**. | «دلم برات تنگ شده» |
+| folgen | دنبال کردن | Folgen Sie **mir**! | |
+| zuhören | گوش دادن (به کسی) | Hör **mir** zu! | |
+| wehtun | درد کردن | Der Kopf tut **mir** weh. | «سرم درد می‌کند» |
+| begegnen | برخوردن | Ich bin **ihm** begegnet. | |
+
+:::warn helfen + Dativ
+`Ich helfe **dir**` (نه ~~dich~~). انگلیسی‌دان‌ها به‌خاطر help you اشتباه می‌کنند؛ فارسی‌زبان‌ها با منطق «**به** تو کمک می‌کنم» معمولاً درست می‌گویند!
+:::
+
+## مقایسه با فارسی: Dativ ≈ «به» {#fa}
+
+:::fa
+فارسی گیرنده را با حرف اضافهٔ «**به**» نشان می‌دهد: «**به** علی کتاب دادم». آلمانی برای این کار حرف اضافه ندارد؛ **حالت Dativ** همان کار «به» را می‌کند:
+
+| فارسی | آلمانی |
+|---|---|
+| **به** پدرم کتاب دادم. | Ich habe **meinem Vater** ein Buch gegeben. |
+| **به** بچه‌ها توضیح می‌دهد. | Er erklärt es **den Kindern**. |
+
+یک تفاوت: در فارسی گاهی Dativ آلمانی معادل «از» یا ضمیر متصل است:
+- `Ich danke dir` = «**از** تو تشکر می‌کنم»
+- `Das gefällt mir` = «خوش**م** می‌آید»
+- `Mir ist kalt` = «سرد**م** است» (درس [[a12-dativ-pronomen]])
+:::
+
+## ترتیب Dativ و Akkusativ {#reihenfolge}
+
+:::rule
+- دو اسم: **Dativ قبل از Akkusativ**: `Ich gebe **dem Mann** **den Schlüssel**.`
+- Akkusativ ضمیر باشد: **Akkusativ قبل از Dativ**: `Ich gebe **ihn** **dem Mann**.`
+- هر دو ضمیر: **Akkusativ قبل از Dativ**: `Ich gebe **ihn** **ihm**.`
+:::
+
+جزئیات و تمرین بیشتر در [[a22-mittelfeld]].
+
+## Dativ با صفت ملکی و kein {#possessiv}
+
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| ein | einem | einer | einem | — |
+| kein | keinem | keiner | keinem | keinen …n |
+| mein | meinem | meiner | meinem | meinen …n |
+| unser | unserem | unserer | unserem | unseren …n |
+
+> Ich wohne bei **meinen Eltern**. = پیش پدر و مادرم زندگی می‌کنم.
+> Wir fahren mit **unserem Auto**. = با ماشینمان می‌رویم.
+
+## Dativ بعد از حروف اضافه {#praep}
+
+مهم‌ترین منبع Dativ در جمله‌ها **حروف اضافه** است: `mit`، `bei`، `von`، `zu`، `aus`، `nach`، `seit` همیشه Dativ می‌خواهند ([[a12-praep-dativ]]). و حروف دوحالته مثل `in`، `auf` در جواب `wo?` ([[a21-wechselpraep]]).
+
+## اسم‌هایی که در Dativ تغییر می‌کنند {#n}
+
+اسم‌های گروه n-Deklination (مثل `der Student`، `der Junge`، `der Herr`) در Dativ هم `-(e)n` می‌گیرند: `dem Studenten`، `dem Herrn` ([[b11-n-dekl]]). در متن‌های قدیمی گاهی مذکر و خنثی تک‌هجایی `-e` می‌گیرند: `nach Hause`، `zu Hause`، `im Jahre` (امروز فقط در عبارات ثابت).
+
+## خودآزمایی {#quiz}
+
+?? `Ich helfe ___ Mann.` (der) => `dem`
+?? `Er schenkt ___ Frau eine Kette.` (seine) => `seiner`
+?? `Wir geben ___ Kindern Schokolade.` (die) => `den` (و Kinder**n**)
+?? «این کیف مال من نیست.» => `Die Tasche gehört mir nicht.`
+?? «از شما ممنونم.» => `Ich danke Ihnen.`
+?? «مادرم به بچه یک کتاب می‌دهد.» => `Meine Mutter gibt dem Kind ein Buch.`
+?? `Wem gehört das Auto?` – (به همسایه، der Nachbar) => `Dem Nachbarn.` (n-Deklination)
+
+@@ a12-dativ-pronomen
+level: A1.2
+title: ضمایر در حالت Dativ (mir, dir, ihm …)
+de: Personalpronomen im Dativ
+tags: mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen, به من, ضمیر Dativ, mir ist kalt, سردمه, gefällt mir, ضمیر متصل, Körperteile, Wie geht es dir
+summary: «به من»، «به تو»، «به او»: ضمایر Dativ و ساختارهای پرکاربردی مثل `Mir ist kalt` (سردمه) که شباهت شگفت‌انگیزی با ضمایر متصل فارسی دارند.
+---
+## جدول کامل ضمایر شخصی {#tabelle}
+
+| Nominativ | Akkusativ | Dativ | فارسی (Dativ) |
+|---|---|---|---|
+| ich | mich | **mir** | به من / ـَم |
+| du | dich | **dir** | به تو / ـَت |
+| er | ihn | **ihm** | به او (مرد) / ـَش |
+| sie | sie | **ihr** | به او (زن) / ـَش |
+| es | es | **ihm** | به آن / ـَش |
+| wir | uns | **uns** | به ما / ـِمان |
+| ihr | euch | **euch** | به شما / ـِتان |
+| sie | sie | **ihnen** | به آن‌ها / ـِشان |
+| Sie | Sie | **Ihnen** | به شما (محترمانه) |
+
+:::tip نکته‌های حفظ کردن
+- `uns` و `euch` در Akkusativ و Dativ یکسان‌اند.
+- الگوی سوم‌شخص همان الگوی حرف تعریف است: مذکر/خنثی ‎-m‎ (`ihm` → `dem`)، مؤنث ‎-r‎ (`ihr` → `der`)، جمع ‎-n‎ (`ihnen` → `den`).
+- `mir/dir` (Dativ) با «i» و `mich/dich` (Akkusativ) با «ch». ترفند: **D**ativ ← **D**ir.
+:::
+
+> Kannst du **mir** helfen? = می‌توانی کمکم کنی؟
+> Ich gebe **ihm** das Buch. = کتاب را به او (مرد) می‌دهم.
+> Wie geht es **Ihnen**? = حال شما چطور است؟
+> Das Essen schmeckt **uns** sehr gut. = غذا به ما خیلی خوش‌مزه است.
+
+:::warn ihr سه کاره!
+`ihr` می‌تواند باشد: ضمیر فاعلی «شما» (`ihr seid`)، ضمیر Dativ «به او (زن)» (`Ich helfe ihr`)، یا صفت ملکی «ـَش (زن)» (`ihr Auto`). از جایش در جمله بفهمید.
+:::
+
+## ساختارهای «تجربه‌کننده» با Dativ {#erleben}
+
+در آلمانی برای بیان احساس، حال جسمی و نظر، شخص اغلب در **Dativ** است:
+
+| آلمانی | فارسی |
+|---|---|
+| **Mir** ist kalt / warm. | سرد**م** / گرم**م** است. |
+| **Mir** ist schlecht. | حال**م** بد است (حالت تهوع دارم). |
+| **Mir** ist langweilig. | حوصله**‌ام** سر رفته. |
+| Wie geht es **dir**? – **Mir** geht es gut. | حال**ت** چطور است؟ – حال**م** خوب است. |
+| Das gefällt **mir**. | خوش**م** می‌آید. |
+| Das schmeckt **mir**. | به **من** مزه می‌دهد / خوشم می‌آید. |
+| Der Kopf tut **mir** weh. | سر**م** درد می‌کند. |
+| Du fehlst **mir**. | دل**م** برایت تنگ شده. |
+| Es tut **mir** leid. | متأسف**م**. |
+| Das ist **mir** egal. | برای**م** فرقی نمی‌کند. |
+| **Mir** fällt nichts ein. | چیزی به ذهن**م** نمی‌رسد. |
+
+:::fa شباهت شگفت‌انگیز با ضمیر متصل فارسی
+به ستون فارسی نگاه کنید: تقریباً همهٔ این جمله‌ها در فارسی با **ضمیر متصل** («ـَم»، «ـَت»، «ـَش») ساخته می‌شوند، نه با فاعل: «سرد**م** است»، «خوش**م** می‌آید»، «دل**م** تنگ شده». این ضمیرهای متصل دقیقاً نقش Dativ آلمانی را دارند!
+
+ترفند: هر وقت در فارسی جمله‌ای با «ـَم» گفتید که «من» فاعلش نیست («یادم رفت»، «سردمه»، «خوابم میاد»)، احتمالاً در آلمانی با `mir` ساخته می‌شود:
+- «سردمه» ← `Mir ist kalt` (نه ~~Ich bin kalt~~ که یعنی «من آدم سردی هستم»!)
+:::
+
+:::warn Ich bin kalt؟
+`Ich bin kalt` یعنی «من (از نظر شخصیت یا دمای بدن) سرد هستم» و معنی عجیبی دارد. برای «سردم است» همیشه: `**Mir** ist kalt.` همین‌طور ~~Ich bin langweilig~~ یعنی «من آدم خسته‌کننده‌ای هستم»!
+:::
+
+## بدن و لباس: Dativ به جای صفت ملکی {#koerper}
+
+وقتی کاری روی بدن خود یا دیگری انجام می‌شود، آلمانی معمولاً Dativ + حرف تعریف می‌گذارد، نه صفت ملکی:
+> Ich wasche **mir** die Hände. = دست‌هایم را می‌شویم. (لفظاً: برای خودم دست‌ها را)
+> Sie putzt **sich** die Zähne. = دندان‌هایش را مسواک می‌زند. ([[a21-reflexiv]])
+> Er ist **mir** auf den Fuß getreten. = پایش را روی پایم گذاشت (پایم را لگد کرد).
+
+## جایگاه ضمیر Dativ {#position}
+
+ضمیر Dativ (مثل ضمیر Akkusativ) زود در جمله می‌آید. اگر هر دو ضمیر باشند: **Akkusativ اول**:
+> Ich gebe **dir** das Buch. → Ich gebe **es dir**. = آن را به تو می‌دهم.
+> Zeig **mir** die Fotos! → Zeig **sie mir**! = نشانشان بده به من!
+
+(جزئیات در [[a22-mittelfeld]].)
+
+## بعد از حروف اضافهٔ Dativ {#praep}
+
+> Kommst du **mit mir**? = با من می‌آیی؟
+> Ich wohne **bei ihr**. = پیش او (زن) زندگی می‌کنم.
+> Das ist ein Geschenk **von uns**. = این هدیه‌ای از طرف ماست.
+
+## خودآزمایی {#quiz}
+
+?? «سردمه.» => `Mir ist kalt.`
+?? «این رنگ به تو می‌آید.» (stehen) => `Die Farbe steht dir.`
+?? `Ich helfe ___.` (او – زن) => `ihr`
+?? `Kannst du ___ das erklären?` (ما) => `uns`
+?? «حال شما چطور است؟» => `Wie geht es Ihnen?`
+?? «دلم برای شما (بچه‌ها) تنگ شده.» => `Ihr fehlt mir.`
+?? «آن را (das Buch) به او (مرد) می‌دهم.» => `Ich gebe es ihm.`
+
+@@ a12-praep-dativ
+level: A1.2
+title: حروف اضافهٔ همیشه-Dativ (aus, bei, mit, nach, seit, von, zu)
+de: Präpositionen mit Dativ
+tags: حروف اضافه, Präpositionen, Dativ, aus, bei, mit, nach, seit, von, zu, gegenüber, ab, zum, zur, beim, vom, ادغام, Verschmelzung, با, از, به, پیش
+summary: هفت (هشت) حرف اضافه که همیشه حالت Dativ می‌خواهند، معناهایشان و شکل‌های ادغام‌شده مثل `zum`، `zur`، `beim`، `vom`.
+---
+## فهرست {#liste}
+
+:::rule همیشه Dativ
+`aus` · `bei` · `mit` · `nach` · `seit` · `von` · `zu` · `gegenüber` (و `ab`)
+:::
+
+:::tip ترفند حفظ کردن
+روی آهنگ والس «دانوب آبی» بخوانید: «**aus – bei – mit – nach – seit – von – zu**» (دام‌دام‌دام، دام‌دام…). آلمانی‌زبان‌ها هم همین‌طور یاد می‌گیرند!
+:::
+
+## معناها و کاربردها {#bedeutung}
+
+| حرف اضافه | معنی اصلی | مثال | فارسی |
+|---|---|---|---|
+| **aus** | از (درونِ / اهلِ / جنسِ) | Ich komme **aus dem** Iran. | اهل ایرانم. |
+| | | Er geht **aus dem** Haus. | از خانه بیرون می‌رود. |
+| | | Der Tisch ist **aus** Holz. | میز از چوب است. |
+| **bei** | پیشِ، نزدِ، در (محل کار/شخص) | Ich wohne **bei meinen** Eltern. | پیش والدینم زندگی می‌کنم. |
+| | | Sie arbeitet **bei** Siemens. | در زیمنس کار می‌کند. |
+| | | **beim** Arzt / **beim** Essen | پیش دکتر / هنگام غذا خوردن |
+| **mit** | با | Ich fahre **mit dem** Bus. | با اتوبوس می‌روم. |
+| | | Kaffee **mit** Milch | قهوه با شیر |
+| **nach** | به (شهر/کشور بی‌حرف تعریف)، بعد از | Wir fliegen **nach** Spanien. | به اسپانیا پرواز می‌کنیم. |
+| | | **nach dem** Essen | بعد از غذا |
+| | | **nach** Hause | به خانه |
+| **seit** | از (زمانی تا حالا) | Ich lerne **seit einem** Jahr Deutsch. | یک سال است آلمانی یاد می‌گیرم. |
+| **von** | از (مبدأ، طرفِ)، مالِ | Das ist ein Brief **von meiner** Oma. | این نامه‌ای از مادربزرگم است. |
+| | | **von** 9 **bis** 5 | از ۹ تا ۵ |
+| | | das Auto **von** Peter | ماشینِ پیتر |
+| **zu** | به (نزد شخص، به مکان) | Ich gehe **zum** Arzt. | پیش دکتر می‌روم. |
+| | | Wir gehen **zur** Schule. | به مدرسه می‌رویم. |
+| | | **zu** Hause | در خانه |
+| **gegenüber** | روبه‌روی | Die Bank ist **gegenüber dem** Bahnhof. | بانک روبه‌روی ایستگاه است. |
+| **ab** | از (زمان/مکان به بعد) | **ab** nächster Woche | از هفتهٔ بعد |
+
+:::note gegenüber
+`gegenüber` با ضمیر **بعد** از آن می‌آید: `mir gegenüber` (روبه‌روی من). با اسم، هر دو جایگاه ممکن است.
+:::
+
+## ادغام حرف اضافه و حرف تعریف {#verschmelzung}
+
+:::rule
+| کامل | ادغام‌شده | مثال |
+|---|---|---|
+| zu + dem | **zum** | zum Bahnhof، zum Arzt |
+| zu + der | **zur** | zur Arbeit، zur Post |
+| bei + dem | **beim** | beim Bäcker، beim Arzt |
+| von + dem | **vom** | vom Bahnhof، vom Arzt |
+| (in + dem) | **im** | im Kino (در [[a21-wechselpraep]]) |
+| (an + dem) | **am** | am Montag، am Fenster |
+:::
+
+ادغام **اجباری** نیست اما در گفتار تقریباً همیشه به کار می‌رود. شکل کامل (`zu dem`) فقط وقتی می‌آید که روی حرف تعریف تأکید باشد یا جملهٔ موصولی بعدش بیاید: `Ich gehe zu **dem** Arzt, den du mir empfohlen hast.`
+
+## zu، nach و in: «به» در آلمانی {#zu-nach}
+
+«به» فارسی در آلمانی چند معادل دارد. خلاصه (جدول کامل در [[a12-lokal]]):
+
+| مقصد | حرف اضافه | مثال |
+|---|---|---|
+| شهر، کشور (بی‌حرف تعریف) | nach | nach Berlin، nach Iran |
+| خانه | nach | nach Hause |
+| شخص | zu | zu meiner Freundin، zum Arzt |
+| مکان/نهاد (عمومی) | zu | zum Bahnhof، zur Bank |
+| داخل ساختمان/کشور با حرف تعریف | in + Akk | ins Kino، in die Türkei |
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| فارسی | آلمانی (Dativ) |
+|---|---|
+| با | mit |
+| از (مبدأ مکانی) | aus / von |
+| پیشِ / نزدِ / خانهٔ | bei |
+| به (مقصد) | zu / nach |
+| از … تا حالا | seit |
+| بعد از | nach |
+| روبه‌روی | gegenüber |
+
+`bei` دقیقاً همان «پیشِ» فارسی است: «پیش مادرم هستم» → `Ich bin **bei** meiner Mutter`؛ «پیش دکتر بودم» → `Ich war **beim** Arzt`.
+
+تفاوت اساسی: فارسی بعد از حرف اضافه هیچ تغییری در اسم نمی‌دهد. آلمانی حالت اسم را عوض می‌کند. پس با هر حرف اضافهٔ تازه، **حالت** آن را هم یاد بگیرید.
+:::
+
+:::warn mit dem Bus، نه ~~mit den Bus~~
+بعد از `mit` همیشه Dativ: `mit **dem** Auto`، `mit **der** U-Bahn`، `mit **dem** Fahrrad`. اما پیاده: `zu Fuß`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Ich fahre ___ Zug.` (mit + der Zug) => `mit dem`
+?? `Er kommt ___ Türkei.` (aus + die Türkei) => `aus der`
+?? `Wir gehen ___ Bäcker.` (zu + der Bäcker) => `zum`
+?? `Sie war ___ Arzt.` (bei) => `beim`
+?? «سه ماه است در آلمان زندگی می‌کنم.» => `Ich wohne seit drei Monaten in Deutschland.`
+?? «بعد از کلاس به خانه می‌روم.» (der Kurs) => `Nach dem Kurs gehe ich nach Hause.`
+?? «پیش دوستم (زن) هستم.» => `Ich bin bei meiner Freundin.`
+
+@@ a12-praep-akk
+level: A1.2
+title: حروف اضافهٔ همیشه-Akkusativ (durch, für, gegen, ohne, um)
+de: Präpositionen mit Akkusativ
+tags: حروف اضافه, Präpositionen, Akkusativ, durch, für, gegen, ohne, um, bis, entlang, برای, بدون, علیه, دور, از میان, fürs, ums, durchs
+summary: پنج حرف اضافهٔ اصلی که همیشه Akkusativ می‌خواهند: `durch`، `für`، `gegen`، `ohne`، `um` (و `bis`، `entlang`).
+---
+## فهرست {#liste}
+
+:::rule همیشه Akkusativ
+`durch` · `für` · `gegen` · `ohne` · `um` (و `bis`، `entlang`)
+:::
+
+:::tip ترفند: DOGFU
+حروف اول را کنار هم بگذارید: **D**urch، **O**hne، **G**egen، **F**ür، **U**m = «DOGFU». یا جملهٔ «**Für** mich, **ohne** dich, **gegen** ihn, **durch** den Park, **um** die Ecke».
+:::
+
+## معناها {#bedeutung}
+
+| حرف اضافه | معنی | مثال | فارسی |
+|---|---|---|---|
+| **für** | برای، به مدت | Das Geschenk ist **für meinen** Vater. | هدیه برای پدرم است. |
+| | | Ich fahre **für eine** Woche nach Rom. | برای یک هفته به رم می‌روم. |
+| | | Danke **für den** Tipp! | ممنون بابت توصیه! |
+| **ohne** | بدون | Ich trinke Kaffee **ohne** Zucker. | قهوه را بدون شکر می‌خورم. |
+| | | **Ohne dich** gehe ich nicht. | بدون تو نمی‌روم. |
+| **gegen** | علیه، به (برخورد)، حدودِ (ساعت) | Wir spielen **gegen** Bayern. | با (علیه) بایرن بازی می‌کنیم. |
+| | | Er fährt **gegen einen** Baum. | به درخت می‌خورد. |
+| | | Ich komme **gegen** acht. | حدود ساعت هشت می‌آیم. |
+| **durch** | از میانِ، از وسطِ، به‌وسیلهٔ | Wir gehen **durch den** Park. | از وسط پارک می‌رویم. |
+| **um** | دورِ، ساعتِ (دقیق) | Wir sitzen **um den** Tisch. | دور میز نشسته‌ایم. |
+| | | **um** 8 Uhr | ساعت ۸ ([[a11-zeit#praepositionen]]) |
+| | | **um die** Ecke | سرِ کوچه/پیچ |
+| **bis** | تا | **bis** Montag، **bis** Berlin | تا دوشنبه، تا برلین |
+| **entlang** | در امتدادِ (معمولاً **بعد** از اسم) | Gehen Sie die Straße **entlang**. | در امتداد خیابان بروید. |
+
+> Ich habe **keine** Zeit **für dich**. = برای تو وقت ندارم.
+> Was hast du **gegen meinen** Plan? = با نقشهٔ من چه مشکلی داری؟
+> Er ist **ohne seinen** Hund gekommen. = بدون سگش آمده.
+
+:::note bis
+`bis` معمولاً بدون حرف تعریف می‌آید. اگر حرف تعریف لازم باشد، با یک حرف اضافهٔ دیگر ترکیب می‌شود: `bis **zum** Bahnhof` (Dativ به‌خاطر zu)، `bis **an die** Grenze`.
+:::
+
+## ادغام {#verschmelzung}
+
+در گفتار: `für das → fürs`، `durch das → durchs`، `um das → ums`:
+> Das ist **fürs** Wochenende. = این برای آخر هفته است.
+
+## ضمایر بعد از این حروف {#pronomen}
+
+ضمایر هم Akkusativ می‌شوند ([[a12-akk-pronomen]]):
+> **für mich**، **für dich**، **für ihn**، **für sie**، **für uns**، **für euch**، **für Sie**
+> **ohne mich**، **gegen ihn**
+
+## مقایسه: Akkusativ یا Dativ؟ {#vergleich}
+
+| همیشه Akkusativ | همیشه Dativ | دوحالته |
+|---|---|---|
+| durch, für, gegen, ohne, um, bis, entlang | aus, bei, mit, nach, seit, von, zu, gegenüber | an, auf, hinter, in, neben, über, unter, vor, zwischen |
+| این درس | [[a12-praep-dativ]] | [[a21-wechselpraep]] |
+
+:::warn mit و ohne: متضاد اما با حالت‌های متفاوت!
+`mit` (با) → Dativ: `mit **dem** Hund`
+`ohne` (بدون) → Akkusativ: `ohne **den** Hund`
+این جفت را با هم حفظ کنید.
+:::
+
+:::fa
+فارسی: «برای» = `für`، «بدون» = `ohne`، «علیه/با (در مسابقه)» = `gegen`، «از میان/از وسط» = `durch`، «دور» = `um`، «تا» = `bis`. باز هم فقط باید یادتان باشد که اسم بعدی را در Akkusativ بگذارید (یعنی فقط مذکرها تغییر می‌کنند: `den`، `einen`، `meinen`).
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Das ist ___ meinen Bruder.` (برای) => `für`
+?? `Ich gehe nicht ___ dich.` (بدون) => `ohne`
+?? `Wir laufen ___ den Wald.` (از وسط) => `durch`
+?? `Der Film beginnt ___ 20 Uhr.` => `um`
+?? `Ich habe nichts ___ ihn.` (علیه) => `gegen`
+?? «یک قهوه بدون شیر، لطفاً.» => `Einen Kaffee ohne Milch, bitte.`
+
+@@ a12-lokal
+level: A1.2
+title: کجا؟ به کجا؟ از کجا؟ (wo, wohin, woher)
+de: Lokale Präpositionen: wo? wohin? woher?
+tags: مکان, wo, wohin, woher, in, nach, zu, aus, von, bei, auf, an, zu Hause, nach Hause, in die Türkei, nach Iran, حرف اضافه مکان, کجا, به کجا, از کجا
+summary: جدول کامل حروف اضافهٔ مکانی برای سه سؤال «کجا هستی؟»، «کجا می‌روی؟» و «از کجا می‌آیی؟» بر اساس نوع مکان.
+---
+## سه سؤال، سه حالت {#drei}
+
+| سؤال | معنی | مثال |
+|---|---|---|
+| **wo?** | کجا (ثابت) | Wo bist du? |
+| **wohin?** | به کجا (مقصد) | Wohin gehst du? |
+| **woher?** | از کجا (مبدأ) | Woher kommst du? |
+
+(این سه را در [[a11-satzbau#woerter]] دیدید.)
+
+## جدول بزرگ {#tabelle}
+
+:::rule
+| نوع مکان | wo? (کجا) | wohin? (به کجا) | woher? (از کجا) |
+|---|---|---|---|
+| شهر، کشور بدون حرف تعریف | **in** Berlin | **nach** Berlin | **aus** Berlin |
+| کشور با حرف تعریف | **in der** Schweiz | **in die** Schweiz | **aus der** Schweiz |
+| ساختمان، اتاق، فضای بسته | **im** Kino | **ins** Kino | **aus dem** Kino |
+| شخص | **bei** Anna | **zu** Anna | **von** Anna |
+| مطب، مغازه (به نام صاحب شغل) | **beim** Arzt | **zum** Arzt | **vom** Arzt |
+| خانه (خانهٔ خود) | **zu** Hause | **nach** Hause | **von** zu Hause |
+| مکان عمومی / نهاد | **am / auf dem / im** … | **zum / zur** … | **vom / von der** … |
+| سطح، فضای باز، رویداد | **auf dem** Markt | **auf den** Markt | **vom** Markt |
+| کنارِ آب، لبه | **am** Meer | **ans** Meer | **vom** Meer |
+| کوه (منطقه) | **in den** Bergen | **in die** Berge | **aus den** Bergen |
+:::
+
+:::tip منطق جدول
+- `wo?` با حروف دوحالته (`in`، `auf`، `an`) → **Dativ**؛ `wohin?` با همان‌ها ← **Akkusativ**. منطق کامل در [[a21-wechselpraep]].
+- `zu`، `bei`، `von`، `aus`، `nach` همیشه Dativ‌اند ([[a12-praep-dativ]]).
+- برای `woher?` تقریباً همیشه: داخلِ جایی بودی → `aus`؛ پیشِ کسی/روی چیزی بودی → `von`.
+:::
+
+## مثال‌ها {#beispiele}
+
+> Ich wohne **in** Hamburg. Morgen fahre ich **nach** München. Ich komme **aus** Teheran.
+> Wir sind **im** Supermarkt. Wir gehen **in den** Supermarkt. Wir kommen **aus dem** Supermarkt.
+> Ich bin **bei** meiner Oma. Ich fahre **zu** meiner Oma. Ich komme **von** meiner Oma.
+> Er ist **zu Hause**. Er geht **nach Hause**. Er kommt **von zu Hause**.
+> Sie ist **auf** einer Party. Sie geht **auf** eine Party. Sie kommt **von** einer Party.
+> Wir sind **am** Strand. Wir fahren **an den** Strand. Wir kommen **vom** Strand.
+
+## zu Hause یا nach Hause؟ {#hause}
+
+:::warn
+| | معنی |
+|---|---|
+| Ich bin **zu Hause**. | خانه هستم. (wo?) |
+| Ich gehe **nach Hause**. | به خانه می‌روم. (wohin?) |
+
+`zu` اینجا بر خلاف معمول یعنی «در» (نه «به»)! این یک عبارت ثابت است. (در اتریش و سوئیس: `zuhause`/`nachhause` هم می‌نویسند.)
+:::
+
+## کشورها: nach یا in؟ {#laender}
+
+| کشور | به کجا؟ | کجا؟ | از کجا؟ |
+|---|---|---|---|
+| Deutschland | nach Deutschland | in Deutschland | aus Deutschland |
+| (der) Iran | nach Iran / in den Iran | in Iran / im Iran | aus Iran / aus dem Iran |
+| die Türkei | in die Türkei | in der Türkei | aus der Türkei |
+| die Schweiz | in die Schweiz | in der Schweiz | aus der Schweiz |
+| die USA (Pl.) | in die USA | in den USA | aus den USA |
+| die Niederlande (Pl.) | in die Niederlande | in den Niederlanden | aus den Niederlanden |
+
+:::note ایران
+برای ایران (و عراق) هر دو شکل رایج است. شکل بی‌حرف تعریف (`nach Iran`، `in Iran`) امروز در رسانه‌ها رایج‌تر شده و شکل `in den Iran` / `im Iran` هم کاملاً درست است.
+:::
+
+## zu یا in؟ {#zu-in}
+
+هر دو می‌توانند «به» باشند، با تفاوت ظریف:
+
+| | تأکید | مثال |
+|---|---|---|
+| zu | رفتن **به سمت** یک مکان/نهاد (برای کاری) | Ich gehe **zur** Bank. (برای کار بانکی) |
+| in | رفتن **به داخل** | Ich gehe **in die** Bank. (وارد ساختمان) |
+
+برای سینما، تئاتر، رستوران، موزه، مدرسه، کلاس معمولاً `in` (`ins Kino`، `ins Restaurant`، `in die Schule`). برای ایستگاه، فرودگاه، پست، بانک، داروخانه، دکتر، کار معمولاً `zu` (`zum Bahnhof`، `zur Arbeit`، `zur Post`).
+
+:::fa مقایسه با فارسی
+فارسی تقریباً همه‌چیز را با سه حرف اضافه می‌گوید: «**در** (کجا)»، «**به** (به کجا)»، «**از** (از کجا)»:
+- در تهران / به تهران / از تهران
+- در خانه / به خانه / از خانه
+- پیش دکتر / پیش دکتر / از پیش دکتر
+
+آلمانی بسته به نوع مکان حرف اضافهٔ متفاوت دارد. پیشنهاد: به‌جای ترجمهٔ «به»، هر مکان را با حرف اضافه‌اش حفظ کنید: `ins Kino`، `zum Arzt`، `nach Hause`، `in die Türkei`، `auf den Markt`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «به ایتالیا پرواز می‌کنم.» => `Ich fliege nach Italien.`
+?? «در سوئیس زندگی می‌کند.» => `Er/Sie wohnt in der Schweiz.`
+?? «پیش دکتر بودم.» => `Ich war beim Arzt.`
+?? «به خانه می‌روم.» => `Ich gehe nach Hause.`
+?? «از سر کار می‌آیم.» (die Arbeit) => `Ich komme von der Arbeit.`
+?? «امشب به سینما می‌رویم.» => `Heute Abend gehen wir ins Kino.`
+?? «او (زن) پیش دوستش (مرد) است.» => `Sie ist bei ihrem Freund.`
+
+@@ a12-konnektoren
+level: A1.2
+title: حروف ربط هم‌پایه: und, aber, oder, denn, sondern
+de: Konjunktionen: und, aber, oder, denn, sondern (Position 0)
+tags: حروف ربط, Konjunktionen, und, aber, oder, denn, sondern, و, اما, یا, چون, زیرا, بلکه, جایگاه صفر, Position 0, ADUSO, ویرگول
+summary: پنج حرف ربطی که دو جملهٔ اصلی را به هم وصل می‌کنند و **هیچ جایگاهی نمی‌گیرند**؛ پس ترتیب کلمات جملهٔ دوم عوض نمی‌شود.
+---
+## جایگاه صفر {#null}
+
+:::rule
+`und`، `aber`، `oder`، `denn`، `sondern` در **جایگاه صفر** قرار می‌گیرند: یعنی جایگاه شمرده نمی‌شوند و بعد از آن‌ها جملهٔ عادی (فاعل + فعل در جایگاه ۲) می‌آید.
+| جملهٔ ۱ | ۰ | ۱ | ۲ (فعل) | بقیه |
+|---|---|---|---|---|
+| Ich bin müde, | **denn** | ich | **habe** | schlecht geschlafen. |
+| Er kommt, | **aber** | sie | **bleibt** | zu Hause. |
+| Ich trinke Tee | **und** | mein Mann | **trinkt** | Kaffee. |
+:::
+
+:::tip ترفند ADUSO
+**A**ber، **D**enn، **U**nd، **S**ondern، **O**der = «ADUSO». این پنج تا جایگاه نمی‌گیرند. (`doch` به معنی «اما» هم در همین گروه است.)
+:::
+
+## معناها {#bedeutung}
+
+| حرف ربط | معنی | مثال |
+|---|---|---|
+| und | و | Ich koche **und** du deckst den Tisch. |
+| oder | یا | Kommst du mit **oder** bleibst du hier? |
+| aber | اما، ولی | Das Hotel ist schön, **aber** es ist teuer. |
+| denn | چون، زیرا | Ich bleibe zu Hause, **denn** ich bin krank. |
+| sondern | بلکه (بعد از منفی) | Er ist nicht Lehrer, **sondern** Arzt. |
+
+## aber یا sondern؟ {#aber-sondern}
+
+:::rule
+- `sondern` فقط بعد از جملهٔ **منفی** و برای **تصحیح/جایگزینی** («نه این، بلکه آن»)
+- `aber` برای تضاد/محدودیت («این هست، اما…»)؛ بعد از جملهٔ مثبت یا منفی
+:::
+
+> Ich trinke **keinen** Kaffee, **sondern** Tee. = قهوه نمی‌نوشم، بلکه چای.
+> Ich trinke **keinen** Kaffee, **aber** ich esse gern Kuchen. = قهوه نمی‌نوشم، اما کیک دوست دارم.
+> Das ist **nicht** billig, **aber** gut. = ارزان نیست، اما خوب است.
+
+ساختار ثابت: `nicht nur …, sondern auch …` (نه‌تنها … بلکه …) را در [[b11-zweiteilig]] می‌بینید.
+
+## denn در برابر weil {#denn-weil}
+
+`denn` و `weil` هر دو یعنی «چون»، اما ترتیب کلمات متفاوت است:
+
+| | ترتیب | مثال |
+|---|---|---|
+| denn | جایگاه ۰؛ فعل در جایگاه ۲ | …, **denn** ich **habe** keine Zeit. |
+| weil | جمله‌وارهٔ پیرو؛ فعل در **آخر** | …, **weil** ich keine Zeit **habe**. |
+
+`weil` را در [[a21-weil]] کامل می‌خوانید. `denn` بیشتر نوشتاری است؛ در گفتار `weil` رایج‌تر است. `denn` هرگز اول جمله نمی‌آید.
+
+:::warn denn سؤالی
+`denn` در سؤال‌ها یک «ادات گفتاری» است و معنی «چون» ندارد: `Wo bist du **denn**?` = «حالا کجایی؟» ([[b22-partikeln]]).
+:::
+
+## ویرگول {#komma}
+
+| حرف ربط | ویرگول قبلش؟ |
+|---|---|
+| aber، denn، sondern | **همیشه** |
+| und، oder | معمولاً **نه** (اختیاری بین دو جملهٔ کامل) |
+
+> Ich lerne Deutsch, **aber** es ist schwer.
+> Ich lerne Deutsch **und** meine Schwester lernt Englisch.
+
+## حذف تکرار {#weglassen}
+
+اگر فاعل (و حتی فعل) در هر دو بخش یکی است، بعد از `und`، `oder`، `aber`، `sondern` می‌شود آن را حذف کرد:
+> Ich stehe auf **und** (ich) dusche. = بلند می‌شوم و دوش می‌گیرم.
+> Er ist nicht dumm, **sondern** (er ist) faul. = او احمق نیست، بلکه تنبل است.
+
+:::warn
+اگر بعد از `und` چیزی غیر از فاعل در جایگاه ۱ بیاید، وارونگی لازم است و فاعل **باید** تکرار شود: `Ich stehe auf und **dann dusche ich**.`
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| فارسی | آلمانی |
+|---|---|
+| و | und |
+| یا | oder |
+| اما، ولی | aber |
+| چون، زیرا | denn (جایگاه ۰) / weil (فعل آخر) |
+| بلکه | sondern |
+
+در فارسی ترتیب کلمات بعد از «و/اما/چون» همیشه عادی است. خوشبختانه این پنج حرف ربط آلمانی هم ترتیب را **عوض نمی‌کنند**؛ پس رفتارشان شبیه فارسی است. فقط مراقب باشید `weil` (که در فارسی هم «چون» ترجمه می‌شود) فعل را به آخر می‌فرستد.
+
+«بلکه» در فارسی هم دقیقاً بعد از منفی می‌آید («نه این، بلکه آن»)؛ همان منطق `sondern`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? وصل کنید با denn: `Ich gehe schlafen. Ich bin müde.` => `Ich gehe schlafen, denn ich bin müde.`
+?? `Das ist kein Wasser, ___ Wodka.` => `sondern`
+?? `Ich möchte kommen, ___ ich habe keine Zeit.` => `aber`
+?? `Trinkst du Tee ___ Kaffee?` => `oder`
+?? غلط کجاست؟ `Ich bleibe hier, denn ich bin krank bin.` => `denn` فعل را به آخر نمی‌برد: `…, denn ich bin krank.`
+
+@@ a12-welch-dies
+level: A1.2
+title: welch-، dies- و ضمایر اشاره
+de: Frageartikel „welch-“, Demonstrativartikel „dies-“, „der/die/das“ als Pronomen
+tags: welcher, welche, welches, dieser, diese, dieses, کدام, این, آن, Demonstrativ, ضمیر اشاره, jeder, alle, der hier, der da
+summary: «کدام کتاب؟» ← `Welches Buch?`؛ «این کتاب» → `dieses Buch`. این کلمه‌ها دقیقاً مثل `der/die/das` صرف می‌شوند.
+---
+## welch- (کدام) {#welch}
+
+`welch-` برای پرسیدن **انتخاب از میان چند گزینهٔ معلوم** است و پسوندش مثل حرف تعریف معین است:
+
+:::rule پسوندهای welch- (= پسوندهای der/die/das)
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | welch**er** (der) | welch**e** (die) | welch**es** (das) | welch**e** (die) |
+| Akkusativ | welch**en** (den) | welch**e** | welch**es** | welch**e** |
+| Dativ | welch**em** (dem) | welch**er** (der) | welch**em** | welch**en** (den) |
+:::
+
+:::tip ترفند
+پسوند `welch-` و `dies-` همان **حرف آخر** حرف تعریف معین است: `der → welche**r**`، `den → welche**n**`، `dem → welche**m**`، `das → welche**s**`. (فقط `die → welche`.)
+:::
+
+> **Welcher** Bus fährt zum Bahnhof? = کدام اتوبوس به ایستگاه می‌رود؟
+> **Welche** Farbe magst du? = کدام رنگ را دوست داری؟
+> **Welches** Kleid nimmst du? = کدام لباس را برمی‌داری؟
+> **Welchen** Film sehen wir? = کدام فیلم را ببینیم؟
+> Mit **welchem** Zug fährst du? = با کدام قطار می‌روی؟
+
+:::note welch- یا was für ein-؟
+- `welch-` = کدام (از میان گزینه‌های موجود): `Welches Auto gehört dir?` (از این ماشین‌ها)
+- `was für ein-` = چه جور، چه نوع: `Was für ein Auto hast du?` – `Einen BMW.`
+:::
+
+## dies- (این / آن) {#dies}
+
+`dieser`، `diese`، `dieses` با همان پسوندهای `welch-` صرف می‌شود:
+
+> **Dieser** Tisch ist zu groß. = این میز خیلی بزرگ است.
+> Ich nehme **diese** Jacke. = این کت را برمی‌دارم.
+> **Dieses** Jahr fahren wir nicht in Urlaub. = امسال به تعطیلات نمی‌رویم.
+> Mit **diesem** Handy kann man gut fotografieren. = با این گوشی می‌شود خوب عکس گرفت.
+
+جواب به welch-:
+> **Welcher** Pullover gefällt dir? – **Dieser** hier. = کدام پلیور را دوست داری؟ – این یکی.
+
+## der/die/das به‌عنوان ضمیر اشاره {#demonstrativ}
+
+در گفتار، به‌جای `dieser` یا ضمیر شخصی، خیلی وقت‌ها خود `der/die/das` (با تکیه) به کار می‌رود:
+
+> Wie findest du den Film? – **Den** finde ich super! = فیلم را چطور می‌بینی؟ – اون عالیه!
+> Kennst du Anna? – Ja, **die** kenne ich. = آنا را می‌شناسی؟ – آره، می‌شناسمش.
+> Welche Schuhe? – **Die** hier oder **die** da? = کدام کفش‌ها؟ – این‌ها یا آن‌ها؟
+
+:::note
+`hier` (اینجا) و `da/dort` (آنجا) فاصله را مشخص می‌کنند: `der hier` = این یکی، `der da` = آن یکی. آلمانی امروزی برای «آن» (دور) کلمهٔ مخصوص زیاد به کار نمی‌برد (`jener` ادبی و کهنه است).
+:::
+
+## jeder و alle {#jeder}
+
+`jeder` (هر) هم پسوند der/die/das را دارد و فقط مفرد است؛ جمعش `alle` است:
+> **Jeder** Mensch ist anders. = هر انسانی متفاوت است.
+> Ich gehe **jeden** Tag joggen. = هر روز می‌دوم.
+> **Alle** Kinder spielen. = همهٔ بچه‌ها بازی می‌کنند.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+«کدام»، «این»، «آن»، «هر» در فارسی **هیچ تغییری** نمی‌کنند: «این کتاب، این کتاب را، به این کتاب». در آلمانی مثل حرف تعریف با جنس و حالت تغییر می‌کنند: `dieses Buch` / `diesem Buch`. خبر خوب: اگر صرف `der/die/das` را بلد باشید ([[a12-kasus]])، این‌ها را هم بلدید.
+
+کاربرد گفتاری `der/die/das` به‌عنوان ضمیر خیلی شبیه «اون/این» فارسی محاوره است: «اینو می‌شناسم» → `**Den** kenne ich`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? `___ Zug fährt nach Köln?` (der Zug) => `Welcher`
+?? `___ Tasche gehört dir?` => `Welche`
+?? `Ich nehme ___ Mantel.` (این، Akk.) => `diesen`
+?? `In ___ Haus wohnt mein Freund.` (این، Dativ) => `diesem`
+?? «هر هفته مادرم را می‌بینم.» => `Ich sehe meine Mutter jede Woche.`
+
+@@ a12-kasus
+level: A1.2
+title: جمع‌بندی حالت‌ها و کلمه‌های پرسشی wer, wen, wem
+de: Überblick: Nominativ, Akkusativ, Dativ
+tags: حالت, Kasus, Nominativ, Akkusativ, Dativ, wer, wen, wem, was, جدول حرف تعریف, der-Wörter, ein-Wörter, جمع‌بندی, را, به
+summary: یک صفحهٔ مرجع: همهٔ حرف تعریف‌ها و ضمیرها در سه حالت، و روش قدم‌به‌قدم برای پیدا کردن حالت درست هر اسم.
+---
+## جدول اصلی {#tabelle}
+
+:::rule حرف تعریف معین و «کلمه‌های der» (dieser، welcher، jeder)
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | {m|der} | {f|die} | {n|das} | {p|die} |
+| Akkusativ | {m|**den**} | {f|die} | {n|das} | {p|die} |
+| Dativ | {m|**dem**} | {f|**der**} | {n|**dem**} | {p|**den** …n} |
+:::
+
+:::rule حرف تعریف نامعین و «کلمه‌های ein» (kein، mein، dein…)
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | {m|ein} | {f|eine} | {n|ein} | {p|keine} |
+| Akkusativ | {m|**einen**} | {f|eine} | {n|ein} | {p|keine} |
+| Dativ | {m|**einem**} | {f|**einer**} | {n|**einem**} | {p|**keinen** …n} |
+:::
+
+| ضمیر | ich | du | er | sie | es | wir | ihr | sie | Sie |
+|---|---|---|---|---|---|---|---|---|---|
+| Nominativ | ich | du | er | sie | es | wir | ihr | sie | Sie |
+| Akkusativ | mich | dich | ihn | sie | es | uns | euch | sie | Sie |
+| Dativ | mir | dir | ihm | ihr | ihm | uns | euch | ihnen | Ihnen |
+
+(حالت چهارم، Genitiv، در [[b11-genitiv]] می‌آید. جدول کامل هر چهار حالت: [[x-deklination]].)
+
+## الگوهایی که حفظ را آسان می‌کنند {#muster}
+
+:::tip
+1. **مؤنث و جمع** در Nominativ و Akkusativ هیچ تغییری ندارند.
+2. **خنثی** در Nominativ و Akkusativ یکسان است.
+3. فقط **مذکر** در Akkusativ عوض می‌شود: n (`den`، `einen`، `ihn`).
+4. **Dativ**: مذکر/خنثی ‎-m‎، مؤنث ‎-r‎، جمع ‎-n‎ (+ n روی اسم).
+5. ضمیرهای سوم‌شخص همان حرف آخر حرف تعریف را دارند: `den → ihn`، `dem → ihm`، `der → ihr`، `den → ihnen`.
+:::
+
+## کلمه‌های پرسشی {#fragen}
+
+| حالت | شخص | چیز | فارسی |
+|---|---|---|---|
+| Nominativ | **wer?** | **was?** | چه کسی؟ / چه چیزی؟ |
+| Akkusativ | **wen?** | **was?** | چه کسی را؟ / چه چیزی را؟ |
+| Dativ | **wem?** | (mit was / womit) | به چه کسی؟ |
+
+> **Wer** kommt heute? – Mein Bruder. = چه کسی امروز می‌آید؟ – برادرم.
+> **Wen** besuchst du? – Meinen Bruder. = به دیدن چه کسی می‌روی؟ – برادرم.
+> **Wem** hilfst du? – Meinem Bruder. = به چه کسی کمک می‌کنی؟ – به برادرم.
+> Mit **wem** fährst du? – Mit meinem Bruder. = با چه کسی می‌روی؟ – با برادرم.
+
+## چطور حالت را پیدا کنیم؟ {#methode}
+
+:::rule روش چهار قدمی
+1. **آیا قبل از اسم حرف اضافه هست؟** ← حالت را حرف اضافه تعیین می‌کند (Akk: [[a12-praep-akk]]، Dat: [[a12-praep-dativ]]، دوحالته: [[a21-wechselpraep]]).
+2. **آیا فاعل جمله است** (کسی که کار را انجام می‌دهد؛ فعل با او صرف می‌شود)؟ ← **Nominativ**.
+3. **آیا بعد از sein/werden/bleiben/heißen است؟** ← **Nominativ**.
+4. **مفعول است؟** فعل را نگاه کنید: معمولاً **Akkusativ** (چیزی که مستقیماً تحت تأثیر است)؛ گیرنده/شخصِ «به» ← **Dativ**؛ چند فعل خاص فقط Dativ می‌گیرند ([[a12-dativ#nur-dat]]).
+:::
+
+مثال تحلیلی:
+> Am Sonntag **gibt** **der Vater** (Nom.) **seiner Tochter** (Dat.) **einen Hund** (Akk.). = یکشنبه پدر به دخترش یک سگ می‌دهد.
+
+## مقایسه با فارسی {#fa}
+
+:::fa نقشه‌ای ساده برای ذهن فارسی‌زبان
+| حالت آلمانی | نشانهٔ فارسی | مثال فارسی |
+|---|---|---|
+| Nominativ | (بدون نشانه، فاعل) | **پدر** می‌دهد |
+| Akkusativ | «**را**» (برای معرفه) | سگ **را** می‌دهد |
+| Dativ | «**به**» | **به** دخترش |
+| Genitiv | کسرهٔ اضافه «ـِ» | سگِ **دختر** |
+
+فارسی همین نقش‌ها را با «را»، «به» و کسرهٔ اضافه نشان می‌دهد؛ آلمانی با تغییر **حرف تعریف**. اگر جمله را اول در ذهن به فارسی بگویید و ببینید «را» یا «به» دارد، حالت آلمانی را تقریباً همیشه درست حدس می‌زنید. استثناها همان فعل‌های خاص‌اند (مثل `danken` که در فارسی «از» دارد).
+:::
+
+## خودآزمایی {#quiz}
+
+?? حالت هر اسم را بگویید: `Der Lehrer erklärt den Schülern die Grammatik.` => `der Lehrer` Nom.، `den Schülern` Dat.، `die Grammatik` Akk.
+?? `___ hast du gesehen?` – `Den Chef.` => `Wen`
+?? `___ gehört der Schlüssel?` – `Mir.` => `Wem`
+?? `Ich schreibe ___ Freundin ___ Brief.` (meine / ein) => `meiner` / `einen`
+?? `Das ist ___ Mann von Sara.` => `der` (بعد از sein: Nominativ)
+
+@@ a12-komposita
+level: A1.2
+title: اسم‌های مرکب (Komposita)
+de: Zusammengesetzte Nomen (Komposita)
+tags: اسم مرکب, Komposita, کلمه مرکب, Fugen-s, Fugenelement, جنس اسم مرکب, Haustür, Kindergarten, کلمه‌های طولانی
+summary: آلمانی کلمه‌ها را پشت هم می‌چسباند و کلمهٔ تازه می‌سازد: `Haus + Tür = Haustür`. **آخرین جزء** معنی اصلی، جنس و جمع را تعیین می‌کند.
+---
+## ساختار {#struktur}
+
+:::rule
+**جزء تعیین‌کننده (Bestimmungswort) + جزء اصلی (Grundwort)**
+- جزء **آخر** اصلی است: معنی پایه، **جنس** و **جمع** را تعیین می‌کند.
+- جزء **اول** نوع/ویژگی را مشخص می‌کند.
+- **تکیه** روی جزء اول است.
+:::
+
+| اول | آخر | ترکیب | معنی |
+|---|---|---|---|
+| {n|das Haus} | {f|die Tür} | {f|die Haustür} | درِ خانه |
+| {f|die Tür} | {n|das Haus} | — | (معنی ندارد) |
+| {m|der Kaffee} | {f|die Tasse} | {f|die Kaffeetasse} | فنجان قهوه |
+| {f|die Tasse} | {m|der Kaffee} | {m|der Tassenkaffee} | قهوهٔ فنجانی |
+| {n|das Kind} | {m|der Garten} | {m|der Kindergarten} | مهدکودک |
+| {n|das Brot} | {n|das Messer} | {n|das Brotmesser} | چاقوی نان |
+
+:::tip
+ترتیب را با «چه نوع … ای؟» بفهمید: `Kaffeetasse` چه نوع **فنجانی**؟ فنجانِ قهوه. پس اصلش «فنجان» است.
+:::
+
+## ترکیب‌های مختلف {#arten}
+
+| ترکیب | مثال | معنی |
+|---|---|---|
+| اسم + اسم | das Wörterbuch (Wörter + Buch) | فرهنگ لغت |
+| صفت + اسم | die Großstadt (groß + Stadt) | کلان‌شهر |
+| فعل (ریشه) + اسم | der Schreibtisch (schreib- + Tisch) | میز تحریر |
+| حرف اضافه + اسم | der Nachname (nach + Name) | نام خانوادگی |
+| سه‌تایی و بیشتر | der Kühlschrankmagnet | آهنربای یخچال |
+
+## حروف اتصال (Fugenelemente) {#fugen}
+
+گاهی بین دو جزء یک حرف یا هجا اضافه می‌شود:
+
+| اتصال | مثال |
+|---|---|
+| ‎-s-‎ | die Arbeit**s**zeit، der Geburt**s**tag، das Liebe**s**lied |
+| ‎-n- / -en-‎ | die Straße**n**bahn، der Student**en**ausweis |
+| ‎-es-‎ | der Tag**es**plan |
+| ‎-er-‎ | das Kind**er**zimmer، der Bild**er**rahmen |
+| ‎-e‎ حذف می‌شود | die Schul**e** + das Buch ← das Schulbuch |
+
+:::tip ‎-s-‎ بعد از پسوندهای خاص
+بعد از `-ung`، `-heit`، `-keit`، `-schaft`، `-ion`، `-tät` تقریباً همیشه `-s-` می‌آید: `Wohnung**s**suche`، `Gesundheit**s**amt`، `Information**s**blatt`، `Universität**s**klinik`.
+:::
+
+## کلمه‌های طولانی را بخوانید {#lesen}
+
+کلمه‌های بلند آلمانی ترسناک به نظر می‌رسند اما فقط چند کلمهٔ ساده‌اند. از **آخر** شروع کنید:
+
+> die Krankenversicherungskarte = کارت بیمهٔ درمانی
+> Kranken + Versicherung + s + Karte = «کارتِ بیمهٔ بیماران»
+
+> die Haltestelle = ایستگاه (halten «ایستادن» + Stelle «جا»)
+> der Führerschein = گواهی‌نامه (Führer «راننده» + Schein «برگه»)
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی دو راه برای این ترکیب‌ها دارد:
+1. **اضافه** (کسره): «درِ خانه»، «فنجانِ قهوه» ← اصل **اول** می‌آید.
+2. **کلمهٔ مرکب**: «کتاب‌خانه»، «گل‌فروشی»، «آشپزخانه» ← اصل **آخر** می‌آید!
+
+ساختار آلمانی دقیقاً مثل راه دوم فارسی است. گاهی حتی اجزا یکی‌اند: «گل‌**خانه**» (گیاه + خانه) = `Gewächs**haus**`، «دست‌**کش**» = `Hand**schuh**` (دست + کفش)، «سیب‌**زمینی**» ≈ `Erd**apfel**` (در اتریش؛ لفظاً «زمین‌سیب»: اینجا ترتیب برعکس است!). پس ترتیب را از کلمه‌های مرکب فارسی الهام بگیرید، نه از اضافه. وقتی می‌خواهید «درِ خانه» را بسازید، برعکسش کنید: «خانه‌در» → `Haustür`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? جنس `die Hand + der Schuh`؟ => {m|der Handschuh} (دستکش)
+?? جنس `der Zahn + die Bürste`؟ => {f|die Zahnbürste} (مسواک)
+?? جمع `der Kindergarten`؟ => `die Kindergärten` (جمع Garten)
+?? «اتاق خواب» (schlafen + das Zimmer) => {n|das Schlafzimmer}
+?? معنی `das Hochzeitsgeschenk`؟ (die Hochzeit + Geschenk) => هدیهٔ عروسی
+
+@@ a12-ordinal
+level: A1.2
+title: اعداد ترتیبی و تاریخ
+de: Ordinalzahlen und Datum
+tags: عدد ترتیبی, Ordinalzahlen, اول, دوم, سوم, erste, zweite, dritte, تاریخ, Datum, am ersten Mai, تولد, Geburtstag, Wann, der wievielte
+summary: «اول، دوم، سوم» در آلمانی با `-te` و `-ste` ساخته می‌شود. تاریخ همیشه با عدد ترتیبی گفته می‌شود: `am 3. Mai` (am dritten Mai).
+---
+## ساختن عدد ترتیبی {#bildung}
+
+:::rule
+- ۱ تا ۱۹: عدد + **‎-te‎**
+- ۲۰ به بالا: عدد + **‎-ste‎**
+- در نوشتن: عدد + **نقطه** (`1.`، `2.`، `20.`)
+:::
+
+| عدد | ترتیبی | فارسی |
+|---|---|---|
+| 1. | der **erste** | اول |
+| 2. | der zweite | دوم |
+| 3. | der **dritte** | سوم |
+| 4. | der vierte | چهارم |
+| 5. | der fünfte | پنجم |
+| 6. | der sechste | ششم |
+| 7. | der **siebte** | هفتم |
+| 8. | der **achte** | هشتم (فقط یک t) |
+| 10. | der zehnte | دهم |
+| 19. | der neunzehnte | نوزدهم |
+| 20. | der zwanzig**ste** | بیستم |
+| 21. | der einundzwanzig**ste** | بیست‌ویکم |
+| 100. | der hundert**ste** | صدم |
+
+:::warn چهار استثنا
+`erste` (نه ~~einte~~)، `dritte` (نه ~~dreite~~)، `siebte` (نه ~~siebente~~، هرچند قدیمی‌اش هست)، `achte` (نه ~~achtte~~).
+:::
+
+## عدد ترتیبی مثل صفت صرف می‌شود {#endung}
+
+عدد ترتیبی صفت است و پسوندش با حرف تعریف عوض می‌شود ([[a21-adj-best]]):
+
+> **der** erst**e** Tag = روز اول
+> **am** erst**en** Tag = در روز اول
+> **zum** zweit**en** Mal = برای بار دوم
+> Ich wohne im dritt**en** Stock. = در طبقهٔ سوم زندگی می‌کنم.
+> Das ist mein erst**es** Auto. = این اولین ماشین من است.
+
+## تاریخ {#datum}
+
+### پرسیدن تاریخ
+> Der Wievielte ist heute? / Welches Datum ist heute? = امروز چندم است؟
+> Heute ist **der dritte** Oktober (der 3. Oktober). = امروز سوم اکتبر است.
+
+### «در» تاریخ: am + ‎-en‎
+> **Am** zwölf**ten** März habe ich Geburtstag. = دوازدهم مارس تولدم است.
+> Wann bist du geboren? – **Am** 5. Juni 1995. (am fünften Juni) = کِی به دنیا آمدی؟
+
+| کاربرد | ساختار | مثال |
+|---|---|---|
+| امروز … است | der …te | Heute ist der 1. Mai. |
+| در تاریخ … | am …ten | am 1. Mai |
+| از … تا … | vom …ten bis zum …ten | vom 3. bis zum 7. Juli |
+| تا تاریخ … | bis zum …ten | bis zum 15. Januar |
+
+### نوشتن تاریخ
+آلمانی تاریخ را به ترتیب **روز.ماه.سال** با نقطه می‌نویسد: `19.10.2026`. خوانده می‌شود: `der neunzehnte Zehnte zweitausendsechsundzwanzig` (یا `der neunzehnte Oktober…`). در نامه‌ها: `Berlin, den 19. Oktober 2026` یا `Berlin, 19.10.2026`.
+
+:::fa مقایسه با فارسی
+- فارسی هم عدد ترتیبی را با پسوند می‌سازد: «دوم، سوم، چهارم» ← `-te` آلمانی دقیقاً همین کار را می‌کند. حتی «اول» و «سوم» در فارسی هم کمی بی‌قاعده‌اند، مثل `erste` و `dritte`!
+- در فارسی تاریخ را با عدد **اصلی** می‌گوییم: «دوازده اسفند». آلمانی **همیشه ترتیبی** می‌گوید: «دوازدهمِ مارس» ← `der zwölfte März`. نگویید ~~zwölf März~~.
+- ترتیب روز/ماه/سال در هر دو یکسان است (۱۹ مهر ۱۴۰۵ ← `19. Oktober`).
+:::
+
+## کاربردهای دیگر {#mehr}
+
+> Erstens …, zweitens …, drittens … = اولاً …، ثانیاً …، ثالثاً …
+> Ludwig **der** Vierzehnte (Ludwig XIV.) = لویی چهاردهم
+> Ich bin **zum ersten Mal** hier. = اولین بار است که اینجا هستم.
+
+## خودآزمایی {#quiz}
+
+?? `der ___ Stock` (۳.) => `dritte`
+?? «اول ژانویه» (در تاریخ) => `am ersten Januar`
+?? «امروز بیست‌وچهارم دسامبر است.» => `Heute ist der vierundzwanzigste Dezember.`
+?? `7.` به‌صورت کلمه => `siebte`
+?? «از دهم تا پانزدهم ژوئیه در تعطیلات هستم.» => `Vom zehnten bis zum fünfzehnten Juli bin ich im Urlaub.`

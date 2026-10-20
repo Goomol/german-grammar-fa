@@ -1,0 +1,433 @@
+@@ b22-nominalstil
+level: B2.2
+title: سبک اسمی و سبک فعلی: تبدیل جمله‌واره به گروه اسمی
+de: Nominalstil und Verbalstil
+tags: Nominalstil, Verbalstil, سبک اسمی, تبدیل جمله, Nominalisierung, wegen, trotz, bei, nach, vor, durch, zur, متن رسمی, نامه اداری, اسم‌سازی, Umformung
+summary: «**چون** قیمت‌ها **به‌شدت افزایش یافته‌اند**» ← «**به دلیل افزایش شدید** قیمت‌ها»: متن‌های رسمی آلمانی (مثل فارسی اداری) جمله‌ها را به گروه‌های اسمی فشرده می‌کنند.
+---
+## دو سبک {#zwei}
+
+| سبک فعلی (Verbalstil) | سبک اسمی (Nominalstil) |
+|---|---|
+| Weil die Preise stark **gestiegen sind**, … | **Wegen des starken Anstiegs** der Preise … |
+| Nachdem er das Studium **abgeschlossen hatte**, … | **Nach dem Abschluss** seines Studiums … |
+| Wenn man den Vertrag **unterschreibt**, … | **Bei der Unterschrift** des Vertrags … |
+| گفتار، نامهٔ شخصی، متن ساده | متن علمی، اداری، حقوقی، خبری |
+
+## جدول تبدیل حرف ربط ← حرف اضافه {#tabelle}
+
+:::rule
+| جملهٔ پیرو | حرف اضافه | حالت |
+|---|---|---|
+| weil، da | wegen، aufgrund | G |
+| obwohl | trotz | G |
+| wenn، falls (شرط) | bei، im Falle | D / G |
+| wenn، als (زمان) | bei | D |
+| während (زمان) | während | G |
+| nachdem | nach | D |
+| bevor | vor | D |
+| seit(dem) | seit | D |
+| bis | bis zu | D |
+| damit، um … zu | zu، für، zwecks | D / A / G |
+| indem | durch | A |
+| ohne dass / ohne … zu | ohne | A |
+| statt dass / statt … zu | statt | G |
+| sodass | infolge | G |
+:::
+
+(این حروف اضافه را در [[b11-genitiv#praep]]، [[a12-praep-dativ]] و [[b22-praep-b2]] دیدید. جدول حروف ربط: [[b12-konnektoren#tabelle]].)
+
+## گام‌های تبدیل {#schritte}
+
+:::rule
+1. **فعل** ← **اسم** (`steigen → der Anstieg`، `abschließen → der Abschluss`، `ankommen → die Ankunft`، `reisen → die Reise`، `lernen → das Lernen`)
+2. **فاعل** ← **Genitiv** (یا `von` + D): `die Preise steigen → der Anstieg **der Preise**`
+3. **مفعول Akkusativ** ← **Genitiv**: `das Haus bauen → der Bau **des Hauses**`
+4. **قید** ← **صفت** (با پسوند): `stark steigen → der **starke** Anstieg`
+5. **ضمیر شخصی** ← **صفت ملکی**: `als er ankam → bei **seiner** Ankunft`
+6. حرف ربط ← حرف اضافه (جدول بالا)
+:::
+
+### مثال‌ها
+> Als **wir ankamen**, regnete es. → **Bei unserer Ankunft** regnete es. = هنگام رسیدن ما باران می‌آمد.
+> Weil **er krank war**, … → **Wegen seiner Krankheit** … = به دلیل بیماری‌اش…
+> Bevor **man das Gerät benutzt**, … → **Vor der Benutzung** des Geräts … = پیش از استفاده از دستگاه…
+> Obwohl **das Wetter schlecht war**, … → **Trotz des schlechten Wetters** … = با وجود هوای بد…
+> Damit **die Umwelt geschützt wird**, … → **Zum Schutz** der Umwelt … = برای حفاظت از محیط زیست…
+
+## فعل ← اسم: الگوهای رایج {#nominalisierung}
+
+| الگو | مثال |
+|---|---|
+| ‎-ung‎ | entwickeln → die Entwicklung، erklären → die Erklärung |
+| ریشه (اغلب با تغییر واکه) | ankommen → die Ankunft، abfahren → die Abfahrt، beginnen → der Beginn، schließen → der Schluss، fliegen → der Flug |
+| مصدر | lesen → das Lesen، rauchen → das Rauchen |
+| ‎-e‎ | suchen → die Suche، reisen → die Reise، helfen → die Hilfe |
+| ‎-heit/-keit‎ (از صفت) | krank → die Krankheit، möglich → die Möglichkeit |
+
+(واژه‌سازی: [[b12-wortbildung]].)
+
+## برعکس: سبک اسمی ← فعلی {#umgekehrt}
+
+برای **فهمیدن** متن‌های سخت، گروه اسمی را در ذهن به جمله تبدیل کنید:
+> **Nach Erhalt** Ihrer Zahlung … → Nachdem wir Ihre Zahlung erhalten haben, … = پس از دریافت پرداخت شما…
+> **Bei Nichtbeachtung** der Regeln … → Wenn man die Regeln nicht beachtet, … = در صورت عدم رعایت قوانین…
+
+## مقایسه با فارسی {#fa}
+
+:::fa فارسی اداری هم «اسمی» است!
+این مبحث برای فارسی‌زبان‌ها بسیار آشناست، چون فارسی رسمی و اداری دقیقاً همین کار را می‌کند:
+| فارسی ساده (فعلی) | فارسی اداری (اسمی) | آلمانی (اسمی) |
+|---|---|---|
+| چون قیمت‌ها زیاد بالا رفته | **به دلیل افزایش شدید** قیمت‌ها | **wegen des starken Anstiegs** der Preise |
+| وقتی رسیدیم | **هنگام ورود** ما | **bei unserer Ankunft** |
+| قبل از اینکه دستگاه را روشن کنید | **پیش از روشن کردن** دستگاه | **vor dem Einschalten** des Geräts |
+| اگر قوانین را رعایت نکنید | **در صورت عدم رعایت** قوانین | **bei Nichtbeachtung** der Regeln |
+
+حتی ساختار «اسم + اضافه + اسم» فارسی («افزایش**ِ** قیمت‌ها») همان «اسم + Genitiv» آلمانی است (`Anstieg **der Preise**`). پس اگر با فارسی اداری آشنایید، سبک اسمی آلمانی را سریع یاد می‌گیرید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? اسمی کنید: `Weil es stark regnete, …` => `Wegen des starken Regens …`
+?? اسمی کنید: `Nachdem er angekommen war, …` => `Nach seiner Ankunft …`
+?? اسمی کنید: `Obwohl sie krank war, …` => `Trotz ihrer Krankheit …`
+?? اسمی کنید: `Während wir gegessen haben, …` => `Während des Essens …`
+?? فعلی کنید: `Vor Beginn des Kurses …` => `Bevor der Kurs beginnt, …`
+?? فعلی کنید: `Durch regelmäßiges Üben …` => `Indem man regelmäßig übt, …`
+
+@@ b22-praep-b2
+level: B2.2
+title: حروف اضافهٔ سطح پیشرفته (اغلب Genitiv)
+de: Präpositionen auf B2-Niveau
+tags: Präpositionen B2, حروف اضافه پیشرفته, Genitiv, anlässlich, angesichts, aufgrund, bezüglich, dank, infolge, mangels, mithilfe, seitens, ungeachtet, zugunsten, zwecks, hinsichtlich, laut, zufolge, gemäß, entsprechend, entgegen, binnen, به مناسبت, با توجه به
+summary: حروف اضافهٔ رسمی که در متن‌های خبری، اداری و علمی پیدا می‌شوند: `angesichts`، `infolge`، `zwecks`، `laut`، `zufolge` و…
+---
+## با Genitiv {#genitiv}
+
+| حرف اضافه | معنی | مثال | فارسی |
+|---|---|---|---|
+| anlässlich | به مناسبتِ | **anlässlich** seines Geburtstags | به مناسبت تولدش |
+| angesichts | با توجه به، در برابرِ | **angesichts** der Lage | با توجه به وضعیت |
+| aufgrund | به دلیلِ | **aufgrund** des Wetters | به دلیل هوا |
+| außerhalb / innerhalb | خارج از / در داخلِ، ظرفِ | **innerhalb** einer Woche | ظرف یک هفته |
+| bezüglich / hinsichtlich | دربارهٔ، در خصوصِ | **bezüglich** Ihrer Anfrage | در خصوص درخواست شما |
+| dank (G/D) | به لطفِ، به‌خاطرِ (مثبت) | **dank** seiner Hilfe | به لطف کمکش |
+| infolge | در اثرِ، در نتیجهٔ | **infolge** des Unfalls | در اثر تصادف |
+| mangels | به دلیل نبودِ | **mangels** Beweisen | به دلیل فقدان مدرک |
+| mithilfe | به کمکِ | **mithilfe** eines Wörterbuchs | به کمک فرهنگ لغت |
+| seitens | از طرفِ، از سویِ | **seitens** der Regierung | از سوی دولت |
+| (an)statt / anstelle | به جایِ | **anstelle** des Chefs | به جای رئیس |
+| trotz | با وجودِ | **trotz** des Regens | با وجود باران |
+| ungeachtet | صرف‌نظر از | **ungeachtet** der Kritik | صرف‌نظر از انتقادها |
+| während | در طولِ | **während** der Sitzung | در طول جلسه |
+| wegen | به خاطرِ | **wegen** des Staus | به خاطر ترافیک |
+| zugunsten | به نفعِ | **zugunsten** der Kinder | به نفع بچه‌ها |
+| zwecks | به منظورِ | **zwecks** Klärung | به منظور روشن شدن |
+
+## با Dativ (اغلب پس‌اضافه) {#dativ}
+
+| حرف اضافه | معنی | مثال | توجه |
+|---|---|---|---|
+| laut | به گفتهٔ، طبقِ | **laut** Polizei / **laut** dem Bericht | (G هم ممکن) |
+| zufolge | به گفتهٔ، طبقِ | dem Bericht **zufolge** | **بعد** از اسم |
+| gemäß | مطابقِ | **gemäß** dem Vertrag / dem Vertrag **gemäß** | |
+| entsprechend | مطابقِ، متناسب با | Ihren Wünschen **entsprechend** | معمولاً بعد |
+| entgegen | برخلافِ | **entgegen** meinem Rat | |
+| gegenüber | نسبت به، در برابرِ | mir **gegenüber** | با ضمیر بعد |
+| samt / nebst | همراه با | das Haus **samt** Garten | |
+| binnen (D/G) | ظرفِ | **binnen** einer Woche | رسمی |
+
+:::tip پس‌اضافه‌ها
+چند حرف اضافه **بعد از** اسم می‌آیند: `dem Bericht **zufolge**`، `die Straße **entlang**`، `der Kirche **gegenüber**`، `meiner Meinung **nach**`، `des Geldes **wegen**` (کهنه). این‌ها را همان‌طور که هستند حفظ کنید.
+:::
+
+## nach در معنای «به نظرِ/طبقِ» {#nach}
+
+> **Meiner Meinung nach** ist das falsch. = به نظر من این اشتباه است.
+> **Nach** Angaben der Polizei … = طبق اظهارات پلیس…
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+تقریباً همهٔ این حروف اضافه در فارسی رسمی معادل «اسم + اضافه» دارند (به دلیلِ، به مناسبتِ، به منظورِ، از سویِ، به نفعِ، در اثرِ، در خصوصِ). همان‌طور که فارسی بعد از این‌ها کسرهٔ اضافه می‌گذارد، آلمانی **Genitiv** می‌آورد:
+«به دلیل**ِ** هوا» ← `aufgrund **des** Wetters`
+
+پس‌اضافه‌ها هم در فارسی معادل دارند: «**به نظر من**» ← `meiner Meinung **nach**`؛ «**به گفتهٔ** پلیس» → `**laut** Polizei` / `der Polizei **zufolge**`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «به دلیل اعتصاب» (der Streik) => `aufgrund des Streiks`
+?? «به مناسبت سالگرد» (das Jubiläum) => `anlässlich des Jubiläums`
+?? «طبق گزارش» (zufolge) => `dem Bericht zufolge`
+?? «به کمک یک دوست» => `mithilfe eines Freundes`
+?? «ظرف دو روز» => `innerhalb von zwei Tagen` / `innerhalb zweier Tage`
+?? «صرف‌نظر از هزینه‌ها» (die Kosten) => `ungeachtet der Kosten`
+
+@@ b22-es
+level: B2.2
+title: کاربردهای es
+de: Die Funktionen von „es“
+tags: es, کاربردهای es, Platzhalter, Korrelat, unpersönliches es, es gibt, es regnet, Es kommen viele Gäste, Ich finde es gut dass, es handelt sich um, es geht um, es kommt darauf an, فاعل ظاهری
+summary: `es` فقط «آن» نیست: فاعل ظاهری، جای‌نگه‌دار اول جمله، اشاره به جملهٔ بعدی و جزء عبارت‌های ثابت.
+---
+## ۱. ضمیر شخصی {#pronomen}
+
+جانشین اسم خنثی یا یک جملهٔ قبلی ([[a11-genus#pronomen]]):
+> Wo ist das Kind? – **Es** spielt im Garten.
+> Er hat gelogen. Ich weiß **es**. = دروغ گفت. این را می‌دانم.
+
+## ۲. فاعل بی‌شخص (همیشه لازم) {#unpersoenlich}
+
+([[a11-esgibt-man#es]]) آب‌وهوا، زمان، حال، حس‌ها، `es gibt`:
+> **Es** regnet. / **Es** ist spät. / Wie geht **es** dir? / **Es** gibt Probleme.
+
+در این‌ها `es` **هرگز حذف نمی‌شود**، حتی اگر جایگاه ۱ را چیز دیگری بگیرد: `Heute regnet **es**.`
+
+## ۳. جای‌نگه‌دار جایگاه ۱ (Platzhalter) {#platzhalter}
+
+برای اینکه فاعل اصلی را **بعد از فعل** (و برجسته) بیاوریم، `es` جایگاه ۱ را پر می‌کند. اگر چیز دیگری اول بیاید، `es` **حذف** می‌شود:
+> **Es** kommen heute viele Gäste. = امروز مهمان‌های زیادی می‌آیند.
+> Heute kommen viele Gäste. (بدون es)
+> **Es** war einmal ein König. = روزی روزگاری پادشاهی بود.
+
+:::warn فعل با فاعل واقعی صرف می‌شود
+`Es **kommen** viele Gäste` (جمع، چون Gäste فاعل است)، نه ~~Es kommt viele Gäste~~.
+:::
+
+با مجهول بدون فاعل هم همین‌طور: `**Es** wird getanzt.` / `Hier wird getanzt.` ([[a22-passiv-praesens#unpersoenlich]])
+
+## ۴. اشاره به جملهٔ بعدی (Korrelat) {#korrelat}
+
+`es` به یک جملهٔ `dass` یا مصدر با `zu` که **بعداً** می‌آید اشاره می‌کند:
+> **Es** ist wichtig, **dass** du kommst. = مهم است که بیایی.
+> Ich finde **es** gut, **dass** du hilfst. = به نظرم خوب است که کمک می‌کنی.
+> Ich hasse **es**, früh auf**zu**stehen. = از زود بیدار شدن متنفرم.
+> **Es** freut mich, **dass** du da bist. = خوشحالم که اینجایی.
+
+اگر جملهٔ dass اول بیاید، `es` حذف می‌شود: `**Dass** du kommst, ist wichtig.`
+
+:::note اجباری یا اختیاری؟
+با بعضی فعل‌ها `es` اجباری است (`Ich finde es…`، `Ich hasse es…`، `Ich lehne es ab…`)، با بعضی اختیاری (`Ich bedauere (es), dass…`)، با بعضی نمی‌آید (`Ich weiß, dass…`، `Ich glaube, dass…`). با فعل‌های حرف‌اضافه‌دار به‌جای es از `da(r)-` استفاده می‌شود: `Ich freue mich **darauf**, dass…` ([[a22-wo-da#nebensatz]]).
+:::
+
+## ۵. عبارت‌های ثابت {#ausdruecke}
+
+| عبارت | معنی |
+|---|---|
+| es geht um + A | موضوع … است، صحبت از … است |
+| es handelt sich um + A | مسئله … است، … مطرح است |
+| es kommt auf + A an | بستگی دارد به |
+| es eilig haben | عجله داشتن |
+| es gut / schwer haben | زندگی راحت / سختی داشتن |
+| es satt haben | از … خسته شدن، به ستوه آمدن |
+| es schaffen | از پسش برآمدن |
+| es ernst meinen | جدی گفتن |
+| es gibt | وجود داشتن |
+| es tut mir leid | متأسفم |
+| es geht (so) | بد نیست، می‌گذرد |
+
+> In dem Film **geht es um** eine Familie. = فیلم دربارهٔ یک خانواده است.
+> **Es kommt darauf an**, wie viel Zeit wir haben. = بستگی دارد چقدر وقت داشته باشیم.
+> Ich **habe es satt**! = خسته شدم! / دیگه بسه!
+> Wir **haben es** geschafft! = از پسش برآمدیم!
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی فاعل ظاهری ندارد و جای خالی را تحمل می‌کند: «باران می‌آید»، «دیر است»، «امروز مهمان زیادی می‌آید». برای اشاره به جملهٔ بعدی، فارسی گاهی «**این**» یا «**آن**» به کار می‌برد: «**این** مهم است که بیایی» / «از **این** متنفرم که…»؛ این دقیقاً کار Korrelat آلمانی است.
+
+| آلمانی | فارسی |
+|---|---|
+| Es geht um … | صحبت از … است / موضوعِ … |
+| Es kommt darauf an | بستگی دارد |
+| Ich habe es satt | خسته شدم / دیگه بسمه |
+| Ich finde es gut, dass … | به نظرم خوب است که … |
+:::
+
+## خودآزمایی {#quiz}
+
+?? کدام es حذف‌شدنی است؟ `Es warten viele Leute vor der Tür.` => بله (جای‌نگه‌دار): `Vor der Tür warten viele Leute.`
+?? کدام es حذف‌شدنی است؟ `Morgen schneit es.` => خیر (فاعل بی‌شخص).
+?? «در این کتاب صحبت از عشق است.» => `In diesem Buch geht es um Liebe.`
+?? «به نظرم عالی است که آمدی.» => `Ich finde es toll, dass du gekommen bist.`
+?? «از ترافیک خسته شدم!» (den Stau) => `Ich habe den Stau satt!`
+
+@@ b22-partikeln
+level: B2.2
+title: ادات گفتاری (Modalpartikeln): doch، ja، mal، denn، halt …
+de: Modalpartikeln: doch, ja, mal, denn, eben, halt, eigentlich, wohl, schon, bloß, etwa
+tags: Modalpartikeln, ادات گفتاری, doch, ja, mal, denn, eben, halt, eigentlich, wohl, schon, bloß, nur, etwa, ruhig, einfach, دیگه, که, ها, مگه, حالا, خب, لحن
+summary: کلمه‌های کوچکی که معنای «دستوری» ندارند اما **لحن** و **احساس** جمله را می‌سازند؛ مثل «دیگه»، «که»، «ها»، «مگه» در فارسی محاوره.
+---
+## چرا مهم‌اند؟ {#warum}
+
+بدون این ادات، آلمانی شما درست ولی **خشک و رسمی** است. آلمانی‌ها در گفتار مدام از آن‌ها استفاده می‌کنند. خبر خوب: فارسی محاوره هم پر از همین ادات است، پس منطقش آشناست.
+
+:::rule
+- ادات گفتاری **تکیه ندارند** و معمولاً در **میانهٔ** جمله، بعد از فعل و ضمیرها می‌آیند.
+- نمی‌توانند اول جمله بیایند.
+- حذفشان معنای «واقعی» جمله را عوض نمی‌کند؛ فقط لحن را.
+:::
+
+## جدول اصلی {#tabelle}
+
+| ادات | کاربرد | مثال | معادل فارسی |
+|---|---|---|---|
+| **doch** | یادآوری چیزی که مخاطب باید بداند | Das weißt du **doch**! | تو **که** می‌دونی! |
+| | تشویق در امر | Komm **doch** mit! | بیا **دیگه**! |
+| | مخالفت، تعجب | Das ist **doch** nicht möglich! | **آخه** این ممکن نیست! |
+| **ja** | چیز بدیهی/مشترک | Du bist **ja** ganz nass! | خیس خیسی **ها**! |
+| | تعجب | Das ist **ja** toll! | **وای** چه عالی! |
+| **mal** | نرم کردن امر/درخواست | Komm **mal** her! | **یه** لحظه بیا! |
+| | | Kannst du **mal** helfen? | **یه** کمک می‌کنی؟ |
+| **denn** | علاقه یا تعجب در سؤال | Was ist **denn** los? | **حالا** چی شده؟ |
+| | | Wo warst du **denn**? | **پس** کجا بودی؟ |
+| **eben / halt** | پذیرفتن واقعیت تغییرناپذیر | Das ist **halt** so. | همینه **دیگه**. |
+| | | Dann nimm **eben** den Bus. | خب **دیگه** اتوبوس بگیر. |
+| **eigentlich** | تغییر موضوع مؤدبانه در سؤال | Wie alt bist du **eigentlich**? | **راستی** چند سالته؟ |
+| | «در واقع» | Das ist **eigentlich** einfach. | **در اصل** ساده‌ست. |
+| **wohl** | حدس | Er ist **wohl** krank. | **لابد** مریضه. |
+| **schon** | اطمینان دادن | Das wird **schon** klappen. | **بالاخره** درست می‌شه. |
+| | پذیرش جزئی | Das ist **schon** gut, aber… | خوبه **ها**، ولی… |
+| **bloß / nur** | هشدار در امر | Mach das **bloß** nicht! | **مبادا** این کار رو بکنی! |
+| | آرزو | Wenn ich **nur** Zeit hätte! | **فقط** اگه وقت داشتم! / کاش! |
+| **etwa** | سؤال با انتظار جواب منفی | Bist du **etwa** krank? | **نکنه** مریضی؟ / **مگه** مریضی؟ |
+| **ruhig** | اجازه دادن، دلگرمی | Frag **ruhig**! | **راحت** بپرس! |
+| **einfach** | سادگی، بی‌تعارفی | Mach es **einfach**! | **فقط** انجامش بده! |
+| **überhaupt** | تأکید منفی، سؤال بنیادی | Hast du **überhaupt** Zeit? | **اصلاً** وقت داری؟ |
+
+## ترکیب‌ها {#kombi}
+
+ادات اغلب با هم می‌آیند (ترتیب معمول: `ja – denn – doch – eben/halt – wohl – mal`):
+> Komm **doch mal** vorbei! = یه سر بزن **دیگه**!
+> Das ist **ja wohl** klar! = **دیگه** این که معلومه!
+> Hör **doch mal** zu! = یه لحظه گوش کن **دیگه**!
+
+## نکته‌ها {#hinweise}
+
+:::warn doch با تکیه ≠ doch بی‌تکیه
+- **DOCH** (با تکیه، جواب): «چرا!» ([[a11-janein#antwort]])
+- doch (بی‌تکیه، وسط جمله): ادات لحنی
+:::
+
+:::warn denn در سؤال ≠ denn «چون»
+`Was machst du **denn**?` (ادات) در برابر `…, **denn** ich bin müde` (حرف ربط: [[a12-konnektoren]]).
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa فارسی محاوره هم «ادات» دارد!
+| فارسی | آلمانی |
+|---|---|
+| تو **که** می‌دونی | Du weißt es **doch**. |
+| بیا **دیگه** | Komm **doch**! |
+| **یه** نگاه بنداز | Schau **mal**! |
+| **حالا** چی شده؟ | Was ist **denn** los? |
+| همینه **دیگه** | Das ist **halt/eben** so. |
+| **مگه** / **نکنه** مریضی؟ | Bist du **etwa** krank? |
+| **مبادا** فراموش کنی! | Vergiss es **bloß** nicht! |
+| **راستی**، … | … **eigentlich** …? |
+| **اصلاً** … | **überhaupt** |
+| **لابد** | **wohl** |
+
+همان‌طور که «دیگه» و «که» در فارسی معنای مستقل ندارند اما بدونشان حرف زدن مصنوعی به نظر می‌رسد، ادات آلمانی هم همین‌اند. بهترین راه یادگیری: گوش دادن به گفت‌وگوهای واقعی و تقلید لحن.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «یه لحظه کمکم کن!» => `Hilf mir mal!`
+?? «حالا کجا می‌ری؟» => `Wo gehst du denn hin?`
+?? «تو که می‌دونی من وقت ندارم!» => `Du weißt doch, dass ich keine Zeit habe!`
+?? «نکنه هنوز غذا نخوردی؟» => `Hast du etwa noch nicht gegessen?`
+?? «راستی، اسمت چی بود؟» => `Wie heißt du eigentlich?`
+?? «همینه که هست.» => `Das ist halt so.` / `Das ist eben so.`
+
+@@ b22-adj-rektion
+level: B2.2
+title: صفت‌های حرف‌اضافه‌دار و صفت‌های با حالت خاص
+de: Adjektive mit Präpositionen und Kasus
+tags: Adjektive mit Präpositionen, صفت با حرف اضافه, stolz auf, zufrieden mit, interessiert an, abhängig von, bekannt für, verantwortlich für, bereit zu, Adjektive mit Dativ, Adjektive mit Genitiv, sich bewusst, ähnlich, dankbar
+summary: «**به** … افتخار کردن»، «**از** … راضی بودن»، «**به** … علاقه‌مند»: مثل فعل‌ها، بسیاری از صفت‌ها هم حرف اضافه یا حالت ثابت دارند.
+---
+## صفت + حرف اضافه {#praep}
+
+(مثل [[a22-verb-praep]]: باید با حرف اضافه و حالتش حفظ شود.)
+
+| صفت | حرف اضافه | مثال | فارسی |
+|---|---|---|---|
+| stolz | auf + A | Ich bin stolz **auf** dich. | به تو افتخار می‌کنم. |
+| gespannt | auf + A | Ich bin gespannt **auf** den Film. | برای فیلم کنجکاوم. |
+| neidisch | auf + A | Er ist neidisch **auf** seinen Bruder. | به برادرش حسادت می‌کند. |
+| wütend / böse | auf + A (شخص) / über + A (چیز) | Sie ist böse **auf** mich. | از دستم عصبانی است. |
+| angewiesen | auf + A | Ich bin **auf** Hilfe angewiesen. | به کمک نیاز دارم (وابسته‌ام). |
+| froh / glücklich / traurig | über + A | Ich bin froh **über** die Nachricht. | از این خبر خوشحالم. |
+| erstaunt / überrascht | über + A | | |
+| zufrieden | mit + D | Ich bin zufrieden **mit** dem Ergebnis. | از نتیجه راضی‌ام. |
+| einverstanden | mit + D | Bist du **damit** einverstanden? | با این موافقی؟ |
+| verheiratet / befreundet | mit + D | Sie ist **mit** einem Arzt verheiratet. | با یک پزشک ازدواج کرده. |
+| fertig | mit + D | Ich bin **mit** der Arbeit fertig. | کار را تمام کرده‌ام. |
+| interessiert | an + D | Ich bin **an** Kunst interessiert. | به هنر علاقه‌مندم. |
+| beteiligt | an + D | | در … سهیم/دخیل |
+| reich / arm | an + D | reich **an** Vitaminen | سرشار از ویتامین |
+| gewöhnt | an + A | Ich bin **an** das Klima gewöhnt. | به این آب‌وهوا عادت دارم. |
+| abhängig / unabhängig | von + D | Das ist abhängig **vom** Wetter. | به هوا بستگی دارد. |
+| überzeugt | von + D | Ich bin **davon** überzeugt. | به آن اطمینان دارم. |
+| begeistert / enttäuscht | von + D | Wir sind begeistert **von** der Stadt. | شیفتهٔ این شهر شده‌ایم. |
+| müde | von + D | | خسته از … |
+| bekannt / berühmt | für + A | Paris ist bekannt **für** Mode. | پاریس به مد معروف است. |
+| verantwortlich / zuständig | für + A | Wer ist **dafür** zuständig? | چه کسی مسئول این است؟ |
+| typisch | für + A | Das ist typisch **für** ihn! | این کار مخصوص خودش است! |
+| dankbar | für + A (چیز) + D (شخص) | Ich bin dir dankbar **für** deine Hilfe. | از تو بابت کمکت ممنونم. |
+| bereit / fähig | zu + D | Ich bin **zu** allem bereit. | برای هر کاری آماده‌ام. |
+| besorgt | um + A | Sie ist besorgt **um** ihr Kind. | نگران بچه‌اش است. |
+| verliebt | in + A | Er ist **in** sie verliebt. | عاشق اوست. |
+
+## صفت + Dativ {#dativ}
+
+> Er ist **seinem Vater** sehr ähnlich. = خیلی شبیه پدرش است.
+> Das ist **mir** egal / peinlich / wichtig. = برایم فرقی نمی‌کند / خجالت‌آور است / مهم است.
+> Ich bin **Ihnen** sehr dankbar. = خیلی از شما ممنونم.
+
+صفت‌های رایج با Dativ: `ähnlich`، `bekannt` (آشنا برای)، `dankbar`، `egal`، `fremd`، `nah`، `peinlich`، `recht`، `treu`، `wichtig`، `schwer/leicht` (für jdn)، `zu kalt/warm` (`Mir ist zu kalt.`)
+
+## صفت + Genitiv (رسمی) {#genitiv}
+
+> Ich bin **mir** **der Gefahr** bewusst. = از خطر آگاهم.
+> Er ist **sich seiner Sache** sicher. = از کار خودش مطمئن است.
+> Sie ist **des Mordes** schuldig. = گناهکارِ قتل است.
+
+## صفت + Akkusativ (اندازه و مقدار) {#akk}
+
+> Das Brett ist **einen Meter** lang. = تخته یک متر طول دارد.
+> Das Baby ist **einen Monat** alt. = بچه یک ماهه است.
+> Ich bin **es** gewohnt. / Ich bin **das** leid / satt. = عادت دارم. / خسته شده‌ام.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی هم صفت‌های حرف‌اضافه‌دار زیادی دارد و گاهی حرف اضافه‌ها جور درمی‌آیند:
+| فارسی | آلمانی | |
+|---|---|---|
+| راضی **از** | zufrieden **mit** | ✗ |
+| علاقه‌مند **به** | interessiert **an** | ✗ |
+| وابسته **به** | abhängig **von** | ✗ |
+| معروف **به** | bekannt **für** | ✗ |
+| عاشقِ | verliebt **in** | ✗ |
+| آماده **برای** | bereit **zu** | ✗ |
+| متأهل **با** | verheiratet **mit** | ✓ |
+| موافق **با** | einverstanden **mit** | ✓ |
+| شبیهِ | ähnlich + Dativ | |
+
+همان پیام همیشگی: حرف اضافهٔ فارسی را ترجمه نکنید؛ صفت آلمانی را با حرف اضافه‌اش حفظ کنید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Ich bin stolz ___ meine Kinder.` => `auf`
+?? `Bist du zufrieden ___ deinem Job?` => `mit`
+?? `Er ist sehr interessiert ___ Geschichte.` => `an`
+?? `Heidelberg ist bekannt ___ seine Universität.` => `für`
+?? «دخترش خیلی شبیه مادرش است.» => `Ihre Tochter ist ihrer Mutter sehr ähnlich.`
+?? «برای امتحان آماده‌ای؟» (bereit) => `Bist du bereit für die Prüfung?` (یا `zur Prüfung`)

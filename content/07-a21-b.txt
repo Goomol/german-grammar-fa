@@ -1,0 +1,601 @@
+@@ a21-adj-best
+level: A2.1
+title: صرف صفت پس از حرف تعریف معین
+de: Adjektivdeklination nach dem bestimmten Artikel
+tags: صرف صفت, Adjektivdeklination, پسوند صفت, schwache Deklination, der neue, die neue, den neuen, -e, -en, صفت قبل از اسم, Adjektivendungen
+summary: وقتی صفت **قبل از اسم** می‌آید، پسوند می‌گیرد. بعد از `der/die/das` فقط دو پسوند داریم: `-e` و `-en`.
+---
+## صفت کجا پسوند می‌گیرد؟ {#wann}
+
+:::rule
+- صفت **بعد از** `sein`، `werden`، `bleiben` (مسند): **بی‌پسوند**: `Das Auto ist **neu**.`
+- صفت **قبل از اسم** (صفت وابسته): **با پسوند**: `das neu**e** Auto`
+- قید (توصیف فعل): **بی‌پسوند**: `Er fährt **schnell**.`
+:::
+
+(این را در [[a11-sein#gebrauch]] اشاره کردیم.)
+
+## جدول پسوندها بعد از حرف تعریف معین {#tabelle}
+
+:::rule صرف ضعیف (schwache Deklination)
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | der neu**e** Tisch | die neu**e** Lampe | das neu**e** Bett | die neu**en** Stühle |
+| Akkusativ | den neu**en** Tisch | die neu**e** Lampe | das neu**e** Bett | die neu**en** Stühle |
+| Dativ | dem neu**en** Tisch | der neu**en** Lampe | dem neu**en** Bett | den neu**en** Stühlen |
+| Genitiv | des neu**en** Tisches | der neu**en** Lampe | des neu**en** Bettes | der neu**en** Stühle |
+:::
+
+:::tip قاعدهٔ «پنج -e»
+فقط **پنج خانه** پسوند `-e` دارند: هر سه جنس در **Nominativ مفرد** + مؤنث و خنثی در **Akkusativ**. بقیهٔ خانه‌ها **همه** `-en` هستند.
+
+شکل این پنج خانه در جدول مثل یک «L» یا شبیه یک «اتو» است. همین تصویر را به خاطر بسپارید:
+| | m | f | n | pl |
+|---|---|---|---|---|
+| Nom | -e | -e | -e | -en |
+| Akk | -en | -e | -e | -en |
+| Dat | -en | -en | -en | -en |
+:::
+
+> **Der** alt**e** Mann wohnt hier. = پیرمرد اینجا زندگی می‌کند.
+> Ich kaufe **den** rot**en** Pullover. = پلیور قرمز را می‌خرم.
+> Wie findest du **die** neu**e** Wohnung? = آپارتمان جدید را چطور می‌بینی؟
+> Er spricht mit **dem** jung**en** Mädchen. = با دختر جوان صحبت می‌کند.
+> **Die** klein**en** Kinder spielen im Garten. = بچه‌های کوچک در باغ بازی می‌کنند.
+
+## «کلمه‌های der» {#derwoerter}
+
+همین پسوندها بعد از همهٔ کلمه‌هایی می‌آید که مثل `der/die/das` صرف می‌شوند ([[a12-welch-dies]]):
+`dieser`، `jener`، `jeder`، `welcher`، `mancher`، `alle` (جمع)، `beide`
+
+> **Dieses** schön**e** Kleid gefällt mir. = این لباس زیبا را دوست دارم.
+> **Welchen** neu**en** Film hast du gesehen? = کدام فیلم جدید را دیدی؟
+> **Alle** neu**en** Studenten sind hier. = همهٔ دانشجوهای جدید اینجا هستند.
+
+## منطق پشت این صرف {#logik}
+
+:::note چرا این‌قدر ساده است؟
+بعد از `der/die/das` خود حرف تعریف همهٔ اطلاعات (جنس، حالت، تعداد) را نشان می‌دهد. پس صفت «کار سختی» ندارد و فقط پسوند ساده (`-e` یا `-en`) می‌گیرد. به همین دلیل اسمش «صرف **ضعیف**» است. در درس بعد ([[a21-adj-unbest]]) می‌بینید وقتی حرف تعریف اطلاعات کافی ندهد، صفت «قوی‌تر» می‌شود.
+:::
+
+## نکته‌های املایی {#orthografie}
+
+| حالت | مثال |
+|---|---|
+| صفت‌های ختم به ‎-e‎ فقط ‎-n‎ می‌گیرند | leise ← der leis**e** Ton، den leise**n** Ton |
+| ‎-el‎ و ‎-er‎: e می‌افتد | dunkel ← das dunk**le** Zimmer؛ teuer ← das teu**re** Auto |
+| hoch ← hoh- | hoch ← der ho**he** Berg |
+| صفت‌های رنگ خارجی (lila، rosa، beige) | بی‌پسوند (رسمی): das lila Kleid |
+| اسم شهر + ‎-er‎ | بی‌پسوند: der Kölner Dom، die Berliner Mauer |
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+۱. **جایگاه**: در فارسی صفت **بعد** از اسم می‌آید و با کسرهٔ اضافه وصل می‌شود: «میزِ **نو**». در آلمانی صفت **قبل** از اسم است: `der **neue** Tisch`.
+
+۲. **تغییر**: صفت فارسی هیچ‌وقت عوض نمی‌شود («میز نو، میز نو را، به میز نو»). صفت آلمانی با جنس، حالت و تعداد عوض می‌شود.
+
+۳. **شباهت جالب**: در فارسی هم وقتی صفت مسند است، کسرهٔ اضافه ندارد: «میز **نو** است» در برابر «میزِ نو». آلمانی هم همین‌طور: `Der Tisch ist neu` (بی‌پسوند) در برابر `der neu**e** Tisch`. یعنی پسوند صفت آلمانی تقریباً نقش «کسرهٔ اضافه»ی فارسی را بازی می‌کند!
+:::
+
+## خودآزمایی {#quiz}
+
+?? `der ___ Mann` (alt, Nom.) => `alte`
+?? `Ich sehe den ___ Hund.` (groß) => `großen`
+?? `das ___ Haus` (schön, Akk.) => `schöne`
+?? `mit der ___ Freundin` (neu) => `neuen`
+?? `die ___ Schuhe` (teuer, Nom. Pl.) => `teuren`
+?? `Ich möchte dieses ___ Hemd.` (blau) => `blaue`
+?? `Der Kaffee ist ___.` (heiß) => `heiß` (مسند، بی‌پسوند)
+
+@@ a21-adj-unbest
+level: A2.1
+title: صرف صفت پس از ein، kein و صفت‌های ملکی
+de: Adjektivdeklination nach dem unbestimmten Artikel und Possessivartikeln
+tags: صرف صفت, gemischte Deklination, صرف مختلط, ein neuer, ein neues, eine neue, mein neuer, kein guter, -er, -es, پسوند صفت
+summary: بعد از `ein`، `kein` و `mein` صفت در سه خانه «قوی» می‌شود و جنس را نشان می‌دهد: `ein neu**er** Tisch`، `ein neu**es** Bett`.
+---
+## اصل ماجرا: «یک نفر باید جنس را نشان دهد» {#prinzip}
+
+در درس قبل دیدیم که بعد از `der/die/das` صفت فقط `-e` یا `-en` می‌گیرد، چون حرف تعریف جنس را نشان داده ([[a21-adj-best#logik]]). اما `ein` در سه جا **هیچ پسوندی** ندارد و جنس را نشان نمی‌دهد:
+
+- Nominativ مذکر: `ein` (مذکر یا خنثی؟)
+- Nominativ خنثی: `ein`
+- Akkusativ خنثی: `ein`
+
+:::rule
+در همین سه خانه، صفت **خودش** پسوندِ حرف تعریف معین را می‌گیرد:
+- مذکر: `der` → صفت `-er`: `ein neu**er** Tisch`
+- خنثی: `das` → صفت `-es`: `ein neu**es** Bett`
+
+در بقیهٔ خانه‌ها پسوندها **همان** صرف ضعیف‌اند.
+:::
+
+## جدول {#tabelle}
+
+:::rule صرف مختلط (gemischte Deklination)
+| | مذکر | مؤنث | خنثی | جمع (kein/mein) |
+|---|---|---|---|---|
+| Nominativ | ein neu**er** Tisch | eine neu**e** Lampe | ein neu**es** Bett | meine neu**en** Stühle |
+| Akkusativ | einen neu**en** Tisch | eine neu**e** Lampe | ein neu**es** Bett | meine neu**en** Stühle |
+| Dativ | einem neu**en** Tisch | einer neu**en** Lampe | einem neu**en** Bett | meinen neu**en** Stühlen |
+| Genitiv | eines neu**en** Tisches | einer neu**en** Lampe | eines neu**en** Bettes | meiner neu**en** Stühle |
+:::
+
+:::tip مقایسه با صرف ضعیف
+فقط سه خانه فرق دارند (با رنگ پررنگ در جدول): `-er` (Nom. m) و `-es` (Nom./Akk. n). بقیه درست مثل جدول [[a21-adj-best#tabelle]].
+:::
+
+> Das ist **ein** gut**er** Film. = این فیلم خوبی است.
+> Ich habe **ein** neu**es** Handy. = یک گوشی جدید دارم.
+> Sie hat **eine** klein**e** Tochter. = یک دختر کوچک دارد.
+> Wir wohnen in **einem** alt**en** Haus. = در یک خانهٔ قدیمی زندگی می‌کنیم.
+> **Mein** neu**er** Kollege ist nett. = همکار جدیدم مهربان است.
+> Ich habe **keine** frisch**en** Eier. = تخم‌مرغ تازه ندارم.
+
+## «کلمه‌های ein» {#einwoerter}
+
+همین قاعده بعد از همهٔ این‌ها: `ein`، `kein`، `mein`، `dein`، `sein`، `ihr`، `unser`، `euer`، `Ihr` ([[a11-possessiv]]).
+
+## روش گام‌به‌گام برای هر صفت {#methode}
+
+:::rule
+1. ببینید قبل از صفت **چه** آمده (der-کلمه، ein-کلمه، یا هیچ).
+2. اگر **der-کلمه**: پنج خانه `-e`، بقیه `-en`.
+3. اگر **ein-کلمه** بدون پسوند (`ein`، `mein`، `kein` بی‌پسوند): مذکر → `-er`، خنثی → `-es`.
+4. اگر ein-کلمه **با پسوند** (`einen`، `einem`، `meine`…): مثل der-کلمه.
+5. اگر **هیچ** حرف تعریفی نیست: درس [[a22-adj-null]].
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+«یک فیلم خوب» / «فیلم خوبی» در فارسی تغییری نمی‌کند. در آلمانی:
+- «یک فیلم خوب است» ← `ein gut**er** Film` (Nom.)
+- «یک فیلم خوب می‌بینم» ← `einen gut**en** Film` (Akk.)
+- «در یک فیلم خوب» ← `in einem gut**en** Film` (Dat.)
+
+نگران نباشید: حتی آلمانی‌زبان‌ها گاهی در پسوند صفت شک می‌کنند و اشتباه کوچک در پسوند صفت معمولاً مانع فهم نمی‌شود. با شنیدن و خواندن زیاد، «حس» درستش خودبه‌خود می‌آید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? `ein ___ Mann` (alt, Nom.) => `alter`
+?? `ein ___ Auto` (schnell, Akk.) => `schnelles`
+?? `eine ___ Frage` (wichtig, Nom.) => `wichtige`
+?? `Ich suche einen ___ Job.` (gut) => `guten`
+?? `mit meinem ___ Freund` (best-) => `besten`
+?? `Das ist kein ___ Wetter.` (schön, das Wetter) => `schönes`
+?? `unsere ___ Nachbarn` (neu, Nom. Pl.) => `neuen`
+
+@@ a21-komparativ
+level: A2.1
+title: صفت برتر و برترین (Komparativ und Superlativ)
+de: Komparativ und Superlativ
+tags: مقایسه, صفت تفضیلی, برتر, برترین, Komparativ, Superlativ, -er, am -sten, als, wie, so wie, besser, am besten, mehr, am meisten, lieber, تر, ترین, immer besser
+summary: «بزرگ‌**تر**» و «بزرگ‌**ترین**» در آلمانی تقریباً به همان شکل فارسی ساخته می‌شود: `groß – größ**er** – am größ**ten**`.
+---
+## ساختن {#bildung}
+
+:::rule
+| | قاعده | مثال |
+|---|---|---|
+| ساده (Positiv) | — | klein |
+| برتر (Komparativ) | صفت + **‎-er‎** | klein**er** |
+| برترین (Superlativ) | **am** + صفت + **‎-sten‎** | **am** klein**sten** |
+:::
+
+> Berlin ist groß. Hamburg ist klein**er**. Bremen ist **am** klein**sten**.
+
+:::fa تقریباً مثل فارسی!
+| فارسی | آلمانی |
+|---|---|
+| کوچک | klein |
+| کوچک‌**تر** | klein**er** |
+| کوچک‌**ترین** | am klein**sten** / der klein**ste** |
+| کوچک‌تر **از** | klein**er als** |
+| **به** کوچکیِ / **مثلِ** | **so** klein **wie** |
+
+فارسی و آلمانی (و انگلیسی) هر سه از یک ریشهٔ هندواروپایی‌اند و پسوند «‌تر» فارسی با `-er` آلمانی هم‌خانواده است. پس این درس برای شما یکی از آسان‌ترین‌هاست. فقط نگویید ~~mehr klein~~ (درست مثل اینکه در فارسی نمی‌گوییم «بیشتر کوچک»).
+:::
+
+## اوملاوت در صفت‌های کوتاه {#umlaut}
+
+بیشتر صفت‌های **یک‌هجایی** با `a`، `o`، `u` در برتر و برترین **اوملاوت** می‌گیرند:
+
+| ساده | برتر | برترین |
+|---|---|---|
+| alt | **ä**lter | am **ä**ltesten |
+| jung | j**ü**nger | am j**ü**ngsten |
+| groß | gr**ö**ßer | am gr**ö**ßten |
+| kurz | k**ü**rzer | am k**ü**rzesten |
+| lang | l**ä**nger | am l**ä**ngsten |
+| warm | w**ä**rmer | am w**ä**rmsten |
+| kalt | k**ä**lter | am k**ä**ltesten |
+| stark | st**ä**rker | am st**ä**rksten |
+| arm | **ä**rmer | am **ä**rmsten |
+| oft | **ö**fter | am **ö**ftesten |
+| gesund | ges**ü**nder | am ges**ü**ndesten |
+
+(بدون اوملاوت: `klar`، `voll`, `froh`، `schlank`، `bunt`… مثلاً `klarer`.)
+
+## ‎-esten‎ برای راحتی تلفظ {#esten}
+
+اگر صفت به ‎-d، ‎-t، ‎-s، ‎-ß، ‎-sch، ‎-z‎ ختم شود، برترین `-esten` می‌گیرد:
+`alt → am ält**esten**`، `heiß → am heiß**esten**`، `kurz → am kürz**esten**`، `hübsch → am hübsch**esten**`، `interessant → am interessant**esten**`
+
+## بی‌قاعده‌ها {#unregelmaessig}
+
+:::rule حفظ کنید
+| ساده | برتر | برترین | معنی |
+|---|---|---|---|
+| gut | **besser** | am **besten** | خوب |
+| viel | **mehr** | am **meisten** | زیاد |
+| gern | **lieber** | am **liebsten** | با میل ([[a11-gern]]) |
+| hoch | **höher** | am **höchsten** | بلند، مرتفع |
+| nah | **näher** | am **nächsten** | نزدیک |
+| groß | größer | am **größten** | بزرگ (فقط ‎-ten‎) |
+:::
+
+نکته‌های املایی: صفت‌های ‎-el‎ و ‎-er‎ در برتر `e` را می‌اندازند: `dunkel → dunk**ler**`، `teuer → teu**rer**`.
+
+## مقایسه با als و wie {#als-wie}
+
+:::rule
+- نابرابری (بیشتر/کمتر) ← **Komparativ + als**: «…تر **از**»
+- برابری ← **so + صفت ساده + wie**: «به اندازهٔ / مثلِ»
+:::
+
+> Mein Bruder ist **größer als** ich. = برادرم از من بلندتر است.
+> Tee ist **gesünder als** Cola. = چای از نوشابه سالم‌تر است.
+> Sie ist **so alt wie** ich. = او هم‌سن من است. (به اندازهٔ من پیر است)
+> Das Hotel ist **nicht so teuer wie** das andere. = این هتل به گرانیِ آن یکی نیست.
+> Er läuft **genauso schnell wie** du. = او دقیقاً به سرعت تو می‌دود.
+
+:::warn als یا wie؟
+بعد از Komparativ همیشه `als`: ~~größer wie~~ در گفتار جنوبی شنیده می‌شود اما در زبان معیار غلط است. ترفند: «‌تر» → `als`؛ «همان‌قدر» → `wie`.
+:::
+
+## برترین: am … sten یا der … ste؟ {#superlativ}
+
+| ساختار | کاربرد | مثال |
+|---|---|---|
+| am …sten | بعد از فعل (مسند)، یا قید | Dieser Weg ist **am kürzesten**. / Er läuft **am schnellsten**. |
+| der/die/das …ste | قبل از اسم (یا با اسم حذف‌شده) | **der kürzeste** Weg / Dieser Weg ist **der kürzeste**. |
+
+صفت برتر و برترین قبل از اسم مثل هر صفت دیگری **پسوند** می‌گیرند ([[a21-adj-best]]):
+> Ich suche eine **größere** Wohnung. = دنبال آپارتمان بزرگ‌تری می‌گردم.
+> Das ist **der beste** Kaffee der Stadt. = این بهترین قهوهٔ شهر است.
+> Sie ist meine **älteste** Freundin. = او قدیمی‌ترین دوست من است.
+
+## ساختارهای کاربردی {#extras}
+
+| ساختار | معنی | مثال |
+|---|---|---|
+| immer + Komparativ | روزبه‌روز …تر | Es wird **immer kälter**. = هوا هی سردتر می‌شود. |
+| je … desto | هرچه … ‌تر، …‌تر | **Je** mehr ich lerne, **desto** besser spreche ich. ([[b11-zweiteilig]]) |
+| viel / noch + Komparativ | خیلی/حتی …تر | Das ist **viel besser**. / Er ist **noch größer**. |
+| einer der + Superlativ | یکی از …ترین‌ها | Er ist **einer der besten** Spieler. |
+
+## خودآزمایی {#quiz}
+
+?? برتر و برترین `schnell` => `schneller – am schnellsten`
+?? برتر و برترین `alt` => `älter – am ältesten`
+?? برتر `gut` => `besser`
+?? «تهران از برلین بزرگ‌تر است.» => `Teheran ist größer als Berlin.`
+?? «من به بلندی تو نیستم.» => `Ich bin nicht so groß wie du.`
+?? «این گران‌ترین ماشین است.» => `Das ist das teuerste Auto.`
+?? «زمستان‌ها بیشتر از همه چای می‌نوشم.» (gern) => `Im Winter trinke ich am liebsten Tee.`
+
+@@ a21-zeitpraep
+level: A2.1
+title: حروف اضافهٔ زمان: vor، seit، in، nach، für، ab …
+de: Temporale Präpositionen: vor, seit, in, nach, für, ab, bei
+tags: حرف اضافه زمان, temporal, vor, seit, in, nach, für, ab, bei, während, über, پیش, دیگر, بعد از, از, برای, مدت, ago, vor zwei Jahren, in zwei Tagen
+summary: «دو سال **پیش**»، «دو روز **دیگر**»، «**از** سه ماه پیش»، «**برای** یک هفته»: حروف اضافهٔ زمانی و حالت‌هایشان.
+---
+## جدول کلی {#tabelle}
+
+| حرف اضافه | حالت | معنی | مثال | فارسی |
+|---|---|---|---|---|
+| **vor** | Dat | پیش، قبل از | vor zwei Jahr**en** | دو سال **پیش** |
+| | | | vor dem Essen | قبل از غذا |
+| **nach** | Dat | بعد از | nach dem Kurs | بعد از کلاس |
+| **seit** | Dat | از … (تا حالا)، … است که | seit drei Monat**en** | سه ماه **است** که |
+| **in** | Dat | … دیگر (از حالا) | in zwei Tag**en** | دو روز **دیگر** |
+| | | در (فصل، ماه) | im Sommer | در تابستان |
+| **für** | Akk | به مدتِ (برنامه‌ریزی‌شده) | für eine Woche | برای یک هفته |
+| **ab** | Dat | از … به بعد | ab nächster Woche | از هفتهٔ بعد |
+| **bei** | Dat | هنگامِ، موقعِ | beim Essen | موقع غذا خوردن |
+| **während** | Gen | در طولِ | während des Urlaubs | در طول تعطیلات ([[b11-genitiv]]) |
+| **über** | Akk | در طولِ (تعطیلات خاص) | über Weihnachten | در کریسمس |
+| **zwischen** | Dat | بین | zwischen 8 und 9 | بین ۸ و ۹ |
+| **um / am / im** | — | ساعت / روز / ماه | | [[a11-zeit#praepositionen]] |
+
+## vor: «پیش» {#vor}
+
+> Ich bin **vor** zwei Jahr**en** nach Deutschland gekommen. = دو سال پیش به آلمان آمدم.
+> **Vor** einer Woche war ich krank. = یک هفته پیش مریض بودم.
+> Bitte kommen Sie zehn Minuten **vor** dem Termin. = لطفاً ده دقیقه قبل از وقت ملاقات بیایید.
+
+:::fa جایگاه «پیش»
+فارسی «پیش» را **بعد** از مدت می‌گذارد: «دو سال **پیش**». آلمانی `vor` را **قبل** از آن: `**vor** zwei Jahren`. انگلیسی هم «two years **ago**» دارد. پس در آلمانی جای «پیش» را عوض کنید.
+
+یادتان باشد بعد از `vor` حالت Dativ است: `vor zwei Jahr**en**` (جمع Dativ ‎-n‎)، `vor ein**em** Monat`، `vor ein**er** Woche`.
+:::
+
+## seit: از گذشته تا حالا {#seit}
+
+:::rule
+`seit` + Dativ برای کاری که **در گذشته شروع شده و هنوز ادامه دارد**. فعل در **زمان حال** است!
+:::
+
+> Ich lerne **seit** sechs Monat**en** Deutsch. = شش ماه است که آلمانی یاد می‌گیرم.
+> Wir wohnen **seit** 2020 in Köln. = از سال ۲۰۲۰ در کلن زندگی می‌کنیم.
+> **Seit** wann bist du hier? = از کِی اینجایی؟
+
+:::warn seit + زمان حال
+~~Ich habe seit drei Jahren hier gewohnt.~~ (یعنی دیگر اینجا نیستم؟ متناقض است.) درست: `Ich **wohne** seit drei Jahren hier.` درست مثل فارسی که می‌گوید «سه سال **است** که اینجا **زندگی می‌کنم**» (حال). ([[a11-praesens#gebrauch]])
+:::
+
+## in و nach: «دیگر» یا «بعد از»؟ {#in-nach}
+
+| | نقطهٔ مرجع | مثال | فارسی |
+|---|---|---|---|
+| in + Dat | **حالا** (آینده) | Der Zug kommt **in** zehn Minuten. | قطار ده دقیقهٔ دیگر می‌آید. |
+| nach + Dat | یک رویداد (معمولاً گذشته یا روایت) | **Nach** zehn Minuten kam der Zug. | بعد از ده دقیقه قطار آمد. |
+| nach + Dat | یک رویداد مشخص | **Nach** dem Frühstück gehe ich los. | بعد از صبحانه راه می‌افتم. |
+
+:::warn in zwei Wochen ≠ در دو هفته
+`in zwei Wochen` یعنی «دو هفته **بعد** از حالا»، نه «ظرف دو هفته». برای «ظرف/در عرض» از `innerhalb von` استفاده کنید: `innerhalb von zwei Wochen` ([[b11-genitiv]]).
+:::
+
+## für: مدت برنامه‌ریزی‌شده {#fuer}
+
+> Ich fahre **für** zwei Wochen nach Spanien. = برای دو هفته به اسپانیا می‌روم.
+> Er hat das Auto **für** einen Tag gemietet. = ماشین را برای یک روز اجاره کرد.
+
+:::note مدت بدون حرف اضافه
+برای مدتی که کاری **واقعاً طول کشید/می‌کشد** معمولاً حرف اضافه نمی‌آید (Akkusativ ساده):
+> Ich habe **zwei Stunden** gewartet. = دو ساعت منتظر ماندم.
+> Er war **einen Monat** in Rom. = یک ماه در رم بود.
+اما `für` برای **قصد و برنامه** است: `Ich bleibe für einen Monat.`
+:::
+
+## مقایسهٔ seit، vor، für {#vergleich}
+
+| | پرسش | مثال |
+|---|---|---|
+| seit | Seit wann? | Ich bin **seit** einem Jahr hier. (هنوز هستم) |
+| vor | Wann? | Ich bin **vor** einem Jahr gekommen. (لحظهٔ آمدن) |
+| für | Wie lange? (برنامه) | Ich bin **für** ein Jahr hier. (قرار است یک سال بمانم) |
+| — (Akk) | Wie lange? (واقعی) | Ich war **ein Jahr** hier. |
+
+## قیدهای زمانی هم‌خانواده {#adverbien}
+
+| حرف اضافه | قید | معنی |
+|---|---|---|
+| vor dem Essen | vorher / davor | قبلاً، قبل از آن |
+| nach dem Essen | nachher / danach | بعداً، بعد از آن |
+| seit dem Unfall | seitdem | از آن موقع |
+| während des Films | währenddessen | در همان حین |
+
+جملهٔ پیرو هم‌معنی: `bevor`، `nachdem`، `seit(dem)`، `während` ([[b11-temporal]]).
+
+## خودآزمایی {#quiz}
+
+?? «سه روز پیش» => `vor drei Tagen`
+?? «یک ساعت دیگر» => `in einer Stunde`
+?? «پنج سال است که در آلمان زندگی می‌کنم.» => `Ich wohne seit fünf Jahren in Deutschland.`
+?? «برای یک هفته به وین می‌روم.» => `Ich fahre für eine Woche nach Wien.`
+?? «بعد از کار به باشگاه می‌روم.» (die Arbeit, ins Fitnessstudio) => `Nach der Arbeit gehe ich ins Fitnessstudio.`
+?? «موقع رانندگی تلفن نزن!» (beim Fahren) => `Telefonier nicht beim Fahren!`
+?? «از ماه بعد کار جدیدی دارم.» => `Ab nächstem Monat habe ich eine neue Arbeit.`
+
+@@ a21-indefinit
+level: A2.1
+title: ضمایر نامعین: jemand، niemand، etwas، einer، welche …
+de: Indefinitpronomen: jemand, niemand, etwas, nichts, einer, keiner, welche, irgend-
+tags: ضمیر نامعین, Indefinitpronomen, jemand, niemand, etwas, nichts, alles, einer, keiner, welche, meiner, irgendwo, irgendwann, irgendwer, کسی, هیچ‌کس, چیزی, یکی, هیچ‌کدام, viele, einige
+summary: «کسی»، «چیزی»، «یکی‌اش»، «هیچ‌کدام»: کلمه‌هایی که به آدم یا چیزِ نامشخص اشاره می‌کنند، و ساختار بسیار پرکاربرد «einer/welche».
+---
+## آدم‌ها و چیزها {#personen}
+
+| مثبت | منفی | کلی |
+|---|---|---|
+| jemand (کسی) | niemand (هیچ‌کس) | alle (همه) / jeder (هر کس) |
+| etwas (چیزی) | nichts (هیچ‌چیز) | alles (همه‌چیز) |
+| irgendwo (جایی) | nirgendwo (هیچ‌جا) | überall (همه‌جا) |
+| irgendwann (زمانی) | nie (هیچ‌وقت) | immer (همیشه) |
+
+> Hat **jemand** meinen Schlüssel gesehen? = کسی کلیدم را دیده؟
+> **Niemand** war zu Hause. = هیچ‌کس خانه نبود.
+> Möchtest du **etwas** trinken? = چیزی می‌نوشی؟
+> Ich habe **nichts** gekauft. = هیچ‌چیز نخریدم.
+> **Alles** ist gut. = همه‌چیز خوب است.
+
+:::note صرف jemand و niemand
+در گفتار اغلب بی‌پسوند‌اند، اما در زبان دقیق: Akk `jemand**en**`، Dat `jemand**em**`:
+> Ich kenne hier **niemanden**. = اینجا هیچ‌کس را نمی‌شناسم.
+> Ich habe mit **jemandem** gesprochen. = با کسی صحبت کردم.
+:::
+
+:::note etwas/nichts + صفت
+صفت بعد از `etwas`، `nichts`، `viel`، `wenig` با حرف بزرگ و پسوند `-es` می‌آید: `etwas **Neues**` (چیز تازه‌ای)، `nichts **Besonderes**` (چیز خاصی نیست)، `viel **Gutes**` ([[b12-adj-nomen]]).
+:::
+
+:::warn یادآوری: بدون منفی مضاعف
+`Niemand **kommt**.` (نه ~~Niemand kommt nicht~~). در فارسی می‌گوییم «هیچ‌کس **ن**یامد»؛ در آلمانی کلمهٔ منفی یک بار کافی است. ([[a11-negation#andere]])
+:::
+
+## einer / keiner / meiner: «یکی» به جای اسم {#einer}
+
+وقتی اسم قبلاً گفته شده، به‌جای تکرارش از `ein-`/`kein-`/`mein-` به‌عنوان **ضمیر** استفاده می‌کنیم. این ضمیرها پسوند کامل حرف تعریف معین را می‌گیرند:
+
+:::rule
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | ein**er** | ein**e** | ein**s** | welch**e** |
+| Akkusativ | ein**en** | ein**e** | ein**s** | welch**e** |
+| Dativ | ein**em** | ein**er** | ein**em** | welch**en** |
+| منفی (Nom.) | kein**er** | kein**e** | kein**s** | kein**e** |
+:::
+
+> Ich brauche einen Stift. Hast du **einen**? = یک خودکار لازم دارم. داری (یکی)؟
+> Ist hier eine Apotheke? – Ja, da ist **eine**. = اینجا داروخانه هست؟ – آره، آنجا یکی هست.
+> Hast du ein Handy? – Nein, ich habe **keins**. = گوشی داری؟ – نه، ندارم (هیچ‌کدام).
+> Ist das dein Schlüssel? – Ja, das ist **meiner**. = این کلید توست؟ – آره، مال من است.
+
+:::warn einer در Nominativ مذکر، eins در خنثی
+تفاوت با حرف تعریف: حرف تعریف می‌گوید `ein Stift` اما ضمیر می‌گوید `einer` (چون اسمی بعدش نیست و باید خودش جنس را نشان دهد). خنثی: `ein Auto` → `eins` (یا `eines`).
+:::
+
+## welche: «چندتایی/مقداری» برای جمع و غیرشمارشی {#welche}
+
+جمعِ `einer` وجود ندارد؛ به‌جایش `welche` (یعنی «چندتا/کمی از آن») می‌آید:
+
+> Ich brauche Eier. Haben wir noch **welche**? = تخم‌مرغ لازم دارم. هنوز داریم (چندتا)؟
+> Möchtest du Milch? – Danke, ich habe schon **welche**. = شیر می‌خواهی؟ – ممنون، دارم.
+> Hast du Fragen? – Nein, ich habe **keine**. = سؤالی داری؟ – نه، ندارم.
+
+:::fa
+فارسی این‌ها را خیلی ساده‌تر می‌گوید: «داری؟ – آره، **دارم**» (بدون مفعول). آلمانی معمولاً مفعول را خالی نمی‌گذارد و یک ضمیر نامعین می‌آورد:
+- «خودکار داری؟ – آره، **دارم**.» ← `Ja, ich habe **einen**.`
+- «سؤال داری؟ – **نه**.» ← `Nein, ich habe **keine**.`
+
+ترفند: هر وقت در فارسی جواب کوتاه «دارم/ندارم» دادید، در آلمانی `einen/eine/eins/welche` یا `keinen/keine/keins` اضافه کنید.
+:::
+
+## irgend-: «یک … ای، هر … که باشد» {#irgend}
+
+| کلمه | معنی | مثال |
+|---|---|---|
+| irgendwo | یه جایی | Mein Handy ist **irgendwo** hier. |
+| irgendwann | یه وقتی | Ich besuche dich **irgendwann**. |
+| irgendwie | یه جوری | Das schaffen wir **irgendwie**. |
+| irgendwer / irgendjemand | یه کسی | **Irgendjemand** hat angerufen. |
+| irgendwas / irgendetwas | یه چیزی | Sag doch **irgendwas**! |
+| irgendein- | یه … ای (هر کدام) | Gib mir **irgendein** Buch. |
+| irgendwelche | یه چندتایی (هرکدام) | Hast du **irgendwelche** Fragen? |
+
+## کمیت‌ها {#mengen}
+
+| کلمه | معنی | مثال |
+|---|---|---|
+| viele | خیلی‌ها | **Viele** kommen zu spät. |
+| wenige | کمی‌ها | Nur **wenige** wissen das. |
+| einige / ein paar | چند نفر/تا | **Einige** Studenten fehlen. / **ein paar** Minuten |
+| manche | بعضی | **Manche** Leute mögen das nicht. |
+| mehrere | چندین | Ich habe **mehrere** Fehler gemacht. |
+| beide | هر دو | **Beide** sind nett. |
+
+## خودآزمایی {#quiz}
+
+?? «کسی زنگ زد.» => `Jemand hat angerufen.`
+?? «هیچ‌چیز نمی‌فهمم.» => `Ich verstehe nichts.`
+?? `Ich brauche einen Regenschirm. Hast du ___?` => `einen`
+?? `Gibt es hier ein Café? – Nein, hier gibt es ___.` => `keins`
+?? `Wir haben keine Äpfel mehr. Kaufst du ___?` => `welche`
+?? «این کیف مال توست؟ – آره، مال من است.» (die Tasche) => `Ist das deine Tasche? – Ja, das ist meine.`
+?? «یه روزی به ایران سفر می‌کنم.» => `Irgendwann reise ich in den Iran.`
+
+@@ a21-werden
+level: A2.1
+title: فعل werden: «شدن» و زمان آینده (Futur I)
+de: Das Verb „werden“ und das Futur I
+tags: werden, شدن, آینده, Futur I, wird, wirst, wurde, خواهم رفت, پیش‌بینی, قول, حدس, wohl, Passiv, würde
+summary: `werden` یعنی «شدن» و با آن زمان آینده هم ساخته می‌شود. نکتهٔ طلایی برای فارسی‌زبان‌ها: `werden` در بیشتر کاربردهایش همان «شدن» فارسی است!
+---
+## صرف werden {#konjugation}
+
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| werde | **wirst** | **wird** | werden | werdet | werden |
+
+:::warn
+`du wirst` (بدون d!) و `er wird` (بدون t اضافه). (تغییر واکهٔ e ← i را در [[a11-vokalwechsel#vokalwechsel]] دیدید.)
+:::
+
+گذشته: `wurde` (Präteritum)، `ist geworden` (Perfekt).
+
+## ۱. werden به معنی «شدن» {#werden}
+
+> Ich **werde** Ärztin. = پزشک می‌شوم.
+> Es **wird** dunkel. = هوا تاریک می‌شود.
+> Er **wird** morgen 30. = فردا ۳۰ ساله می‌شود.
+> Mein Bruder ist Lehrer **geworden**. = برادرم معلم شد.
+> Was willst du **werden**? = می‌خواهی چه‌کاره شوی؟
+
+:::note شغل بدون حرف تعریف
+مثل `sein`، بعد از `werden` هم شغل بدون حرف تعریف می‌آید و حالت Nominativ است ([[a11-sein#gebrauch]]).
+:::
+
+## ۲. آینده: werden + مصدر (Futur I) {#futur}
+
+:::rule
+**werden (صرف‌شده) در جایگاه ۲ + … + مصدر در آخر** (باز هم قاب جمله!)
+:::
+
+> Ich **werde** dich morgen **anrufen**. = فردا به تو زنگ خواهم زد.
+> Es **wird** morgen **regnen**. = فردا باران خواهد آمد.
+> Wir **werden** das Problem **lösen**. = این مشکل را حل خواهیم کرد.
+> …, weil er nächstes Jahr heiraten **wird**. = …، چون سال بعد ازدواج خواهد کرد.
+
+### چه وقت Futur I، چه وقت زمان حال؟
+
+:::rule
+در آلمانی برای آینده معمولاً **زمان حال + قید زمان** کافی است ([[a11-praesens#gebrauch]]). Futur I برای این موارد است:
+:::
+
+| کاربرد | مثال | فارسی |
+|---|---|---|
+| پیش‌بینی | Morgen **wird** es **schneien**. | فردا برف خواهد بارید. |
+| قول و تصمیم قاطع | Ich **werde** das nie wieder **machen**! | دیگر هیچ‌وقت این کار را نمی‌کنم! |
+| برنامه‌های دور یا رسمی | Die Firma **wird** 100 Mitarbeiter **einstellen**. | شرکت ۱۰۰ کارمند استخدام خواهد کرد. |
+| حدس دربارهٔ **حال** (+ wohl) | Er **wird** (wohl) krank **sein**. | لابد مریض است. |
+| دستور قاطع | Du **wirst** jetzt ins Bett **gehen**! | همین الان می‌روی می‌خوابی! |
+
+> Wo ist Ali? – Er **wird wohl** noch im Büro **sein**. = علی کجاست؟ – لابد هنوز در دفتر است.
+
+(حدس دربارهٔ گذشته با Futur II: `Er wird es vergessen haben` ← [[b21-futur2]].)
+
+## ۳. werden در Passiv (پیش‌نمایش) {#passiv}
+
+> Das Haus **wird** gebaut. = خانه ساخته **می‌شود**.
+
+`werden` + اسم مفعول = مجهول. درس کامل: [[a22-passiv-praesens]].
+
+## ۴. würde (پیش‌نمایش) {#wuerde}
+
+> Ich **würde** gern kommen. = دوست داشتم بیایم / می‌آمدم.
+
+`würde` شکل Konjunktiv II از `werden` است ([[a22-konj2-hoeflich]]).
+
+## مقایسه با فارسی: werden = «شدن» {#fa}
+
+:::fa کلید طلایی: werden ≈ «شدن»
+`werden` در بیشتر کاربردهایش دقیقاً همان «شدن» فارسی است:
+
+| کاربرد | فارسی | آلمانی |
+|---|---|---|
+| تغییر حالت | پزشک **شد** | Er **wurde** Arzt. |
+| مجهول | ساخته **می‌شود** | Es **wird** gebaut. |
+| مجهول گذشته | نوشته **شد** | Es **wurde** geschrieben. |
+
+فقط در **آینده** فرق دارند: فارسی آینده را با «**خواستن**» می‌سازد («خواهم رفت»)، اما آلمانی با «شدن» (`ich werde gehen`). مراقب باشید `ich will gehen` (= «می‌خواهم بروم») را با آینده قاطی نکنید ([[a12-modal2#wollen]]).
+
+| فارسی | آلمانی | معنی |
+|---|---|---|
+| خواهم رفت | ich **werde** gehen | آینده |
+| می‌خواهم بروم | ich **will** gehen | قصد |
+:::
+
+## خودآزمایی {#quiz}
+
+?? `du` + `werden` => `du wirst`
+?? «او (زن) معلم می‌شود.» => `Sie wird Lehrerin.`
+?? «هوا سرد می‌شود.» => `Es wird kalt.`
+?? «فردا برف خواهد آمد.» (schneien) => `Morgen wird es schneien.`
+?? «به تو قول می‌دهم که کمکت خواهم کرد.» (versprechen) => `Ich verspreche dir, dass ich dir helfen werde.`
+?? «لابد خسته است.» => `Er wird (wohl) müde sein.`
+?? تفاوت `Ich will arbeiten` و `Ich werde arbeiten`؟ => اولی: «می‌خواهم کار کنم» (قصد)؛ دومی: «کار خواهم کرد» (آینده).

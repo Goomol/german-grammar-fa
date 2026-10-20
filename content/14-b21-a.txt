@@ -1,0 +1,427 @@
+@@ b21-konj1
+level: B2.1
+title: نقل قول غیرمستقیم و Konjunktiv I
+de: Indirekte Rede und Konjunktiv I
+tags: Konjunktiv I, نقل قول غیرمستقیم, indirekte Rede, er sei, er habe, er komme, er könne, er werde, خبر, روزنامه, به گفتهٔ, ادعا, sie hätten, er solle
+summary: در خبر و متن رسمی، حرف دیگران با وجه خاصی نقل می‌شود: `Der Minister sagte, er **sei** zufrieden.` این وجه نشان می‌دهد گوینده فقط **نقل** می‌کند.
+---
+## کاربرد {#gebrauch}
+
+:::rule
+Konjunktiv I برای نقل قول غیرمستقیم در **متن رسمی، خبر، گزارش و مقاله** است. پیامش این است: «**این حرفِ او است، نه ادعای من**».
+در گفتار روزمره معمولاً **Indikativ** یا **Konjunktiv II** به کار می‌رود.
+:::
+
+| مستقیم | غیرمستقیم (رسمی) | غیرمستقیم (گفتار) |
+|---|---|---|
+| Er sagt: „Ich **bin** krank.“ | Er sagt, er **sei** krank. | Er sagt, er **ist** krank. / dass er krank ist. |
+| Sie sagt: „Ich **habe** keine Zeit.“ | Sie sagt, sie **habe** keine Zeit. | Sie sagt, sie **hat/hätte** keine Zeit. |
+
+## ساختن Konjunktiv I {#formen}
+
+:::rule
+**ریشهٔ مصدر + ‎-e، ‎-est، ‎-e، ‎-en، ‎-et، ‎-en**
+عملاً فقط شکل **er/sie/es** پرکاربرد است (چون بقیه اغلب با زمان حال یکی‌اند).
+:::
+
+| | kommen | haben | können | werden | **sein** |
+|---|---|---|---|---|---|
+| ich | komme | habe | könne | werde | **sei** |
+| du | kommest | habest | könnest | werdest | **sei(e)st** |
+| er/sie/es | **komme** | **habe** | **könne** | **werde** | **sei** |
+| wir | kommen | haben | können | werden | **seien** |
+| ihr | kommet | habet | könnet | werdet | **seiet** |
+| sie/Sie | kommen | haben | können | werden | **seien** |
+
+## قاعدهٔ جایگزینی {#ersatz}
+
+:::rule
+اگر Konjunktiv I با Indikativ **یکسان** باشد (مثلاً `sie haben`، `wir kommen`)، از **Konjunktiv II** استفاده کنید. اگر Konjunktiv II هم با Präteritum یکسان باشد، از **würde + مصدر**.
+:::
+
+| مستقیم | Konj. I | یکسان با Indikativ؟ | جایگزین |
+|---|---|---|---|
+| „Wir haben Zeit.“ | sie haben | بله | sie **hätten** Zeit |
+| „Sie kommen morgen.“ | sie kommen | بله | sie **kämen** / **würden kommen** |
+| „Er kommt morgen.“ | er komme | نه | er **komme** |
+
+## زمان‌ها در نقل قول {#zeiten}
+
+:::rule
+زمان نقل قول به زمانِ **جملهٔ اصلی** ربطی ندارد؛ فقط به زمانِ **حرف اصلی** بستگی دارد:
+| حرف اصلی | Konjunktiv I |
+|---|---|
+| حال: „Ich arbeite.“ | er **arbeite** |
+| گذشته (هر نوع): „Ich arbeitete / habe gearbeitet.“ | er **habe gearbeitet** |
+| گذشته با sein: „Ich bin gekommen.“ | er **sei gekommen** |
+| آینده: „Ich werde arbeiten.“ | er **werde arbeiten** |
+:::
+
+> Die Polizei teilte mit, der Täter **sei** gestern **festgenommen worden**. = پلیس اعلام کرد که متهم دیروز دستگیر شده است.
+> Der Sprecher sagte, die Firma **werde** 200 Stellen **abbauen**. = سخنگو گفت شرکت ۲۰۰ شغل را حذف خواهد کرد.
+> Sie behauptete, sie **habe** nichts **gewusst**. = او مدعی شد که از چیزی خبر نداشته است.
+
+## سؤال و امر در نقل قول {#frage}
+
+| نوع | مستقیم | غیرمستقیم |
+|---|---|---|
+| W-Frage | „Wo wohnst du?“ | Er fragte, **wo** ich **wohne**. |
+| Ja/Nein | „Kommst du?“ | Er fragte, **ob** ich **komme**. |
+| امر | „Warte!“ | Er sagte, ich **solle** warten. |
+| خواهش مؤدبانه | „Bitte warten Sie!“ | Er bat, ich **möge** warten. |
+
+(سؤال غیرمستقیم را در [[a22-indirekte-frage]] دیدید.)
+
+## تغییر ضمیرها و قیدها {#pronomen}
+
+مثل هر زبانی، ضمیرها و گاهی قیدهای زمان و مکان باید با دیدگاه گوینده تطبیق داده شوند:
+> Er sagte: „**Ich** komme **morgen** zu **dir**.“ → Er sagte, **er** komme **am nächsten Tag** zu **mir**.
+
+## نشانه‌های دیگر نقل قول {#andere}
+
+بدون فعل گفتن، فقط Konjunktiv I نشان می‌دهد حرف از کسی دیگر است:
+> Der Minister trat zurück. Er **habe** keine andere Wahl gehabt. = وزیر استعفا داد. (به گفتهٔ خودش) چارهٔ دیگری نداشته است.
+
+همین‌طور: `laut + Dat / Gen` (به گفتهٔ)، `zufolge` (طبق)، `nach Angaben + Gen`، `wie er sagte` ← [[b22-praep-b2]].
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی برای نقل قول وجه مخصوصی ندارد. معمولاً همان فعل را با «که» می‌آوریم و زمانش را هم اغلب **عوض نمی‌کنیم**: «گفت که مریض **است**» (حتی وقتی گفتن در گذشته بوده).
+
+آلمانیِ گفتاری دقیقاً همین کار را می‌کند: `Er sagte, dass er krank **ist**.` اما آلمانیِ رسمی با Konjunktiv I فاصلهٔ گوینده را نشان می‌دهد؛ چیزی شبیه این‌ها در فارسیِ خبری:
+- «به گفتهٔ او، …»
+- «او **مدعی شد** که …»
+- «**گفته می‌شود** که …»
+- «**ظاهراً** / **گویا** …»
+
+| آلمانی | فارسی خبری |
+|---|---|
+| Er sagte, er **sei** krank. | او گفت که بیمار است. / به گفتهٔ خودش بیمار است. |
+| Sie habe nichts gewusst. | (به گفتهٔ او) از چیزی خبر نداشته است. |
+:::
+
+## خودآزمایی {#quiz}
+
+?? Konj. I از `er hat` => `er habe`
+?? Konj. I از `sie ist` => `sie sei`
+?? غیرمستقیم: `Er sagt: „Ich kann nicht kommen.“` => `Er sagt, er könne nicht kommen.`
+?? غیرمستقیم: `Sie sagte: „Ich habe den Zug verpasst.“` => `Sie sagte, sie habe den Zug verpasst.`
+?? غیرمستقیم: `Die Kinder sagen: „Wir haben Hunger.“` => `Die Kinder sagen, sie hätten Hunger.` (Konj. I = Indikativ)
+?? غیرمستقیم: `Der Arzt sagte: „Bleiben Sie im Bett!“` => `Der Arzt sagte, ich solle im Bett bleiben.`
+
+@@ b21-passiversatz
+level: B2.1
+title: جایگزین‌های مجهول (Passiversatzformen)
+de: Passiversatzformen
+tags: Passiversatz, جایگزین مجهول, man, sich lassen, sein zu, -bar, -lich, bekommen Passiv, kriegen, قابل, شدنی, پذیر, lässt sich, ist zu machen, reparierbar
+summary: پنج راه برای گفتن معنای مجهول بدون `werden`: `man`، `sich lassen`، `sein + zu`، صفت‌های `-bar`/`-lich` و «مجهولِ bekommen».
+---
+## چرا جایگزین؟ {#warum}
+
+مجهول با `werden` (به‌خصوص با افعال وجهی) گاهی سنگین است. آلمانی چند ساختار کوتاه‌تر دارد که معمولاً معنای **können** (امکان) یا **müssen** (ضرورت) را هم در خود دارند.
+
+## جدول {#tabelle}
+
+:::rule
+| جایگزین | معنی | مثال | = مجهول |
+|---|---|---|---|
+| man | (کلی) | Man repariert das Auto. | Das Auto wird repariert. |
+| sich lassen + Inf | **können** | Das Auto **lässt sich** reparieren. | … kann repariert werden. |
+| sein + zu + Inf | **können** یا **müssen** | Das Auto **ist** leicht **zu** reparieren. | … kann leicht repariert werden. |
+| | | Der Antrag **ist** bis Montag ab**zu**geben. | … muss abgegeben werden. |
+| ‎-bar / ‎-lich‎ | **können** | Das Auto **ist reparierbar**. | … kann repariert werden. |
+| | | Die Schrift ist **unleserlich**. | … kann nicht gelesen werden. |
+| bekommen/kriegen + P II | Dativ-مجهول | Ich **bekomme** das Paket **geschickt**. | Mir wird das Paket geschickt. |
+:::
+
+## sich lassen {#sichlassen}
+
+> Das Fenster **lässt sich** nicht **öffnen**. = پنجره باز نمی‌شود (قابل باز شدن نیست).
+> Das **lässt sich** leicht **erklären**. = به‌راحتی می‌شود توضیحش داد.
+> Darüber **lässt sich** streiten. = می‌شود سر این بحث کرد (محل بحث است).
+
+(معانی دیگر `lassen` در [[a22-lassen]].)
+
+## sein + zu {#seinzu}
+
+> Diese Aufgabe **ist** in 10 Minuten **zu** schaffen. = این تمرین در ۱۰ دقیقه شدنی است.
+> Die Medikamente **sind** kühl **zu** lagern. = داروها باید در جای خنک نگهداری شوند.
+> Er **war** nicht **zu** überzeugen. = نمی‌شد قانعش کرد.
+
+(این را در [[b12-brauchen#sein]] دیدید.)
+
+## صفت‌های ‎-bar‎ و ‎-lich‎ {#bar}
+
+| صفت | = | فارسی |
+|---|---|---|
+| machbar | kann gemacht werden | شدنی |
+| essbar / trinkbar | kann gegessen / getrunken werden | خوردنی / نوشیدنی |
+| lösbar / unlösbar | kann (nicht) gelöst werden | قابل حل / غیرقابل حل |
+| erreichbar | kann erreicht werden | در دسترس |
+| verständlich | kann verstanden werden | قابل فهم |
+| unvermeidlich | kann nicht vermieden werden | اجتناب‌ناپذیر |
+| unglaublich | kann nicht geglaubt werden | باورنکردنی |
+
+(واژه‌سازی با این پسوندها در [[b12-wortbildung#adjektiv]].)
+
+## مجهولِ bekommen {#bekommen}
+
+وقتی کسی **گیرندهٔ** کاری است (Dativ)، می‌توان او را فاعل کرد:
+> Man schenkt **mir** Blumen. → **Ich bekomme** Blumen **geschenkt**. = به من گل هدیه داده می‌شود.
+> Er **hat** den Führerschein **entzogen bekommen**. = گواهی‌نامه‌اش را از او گرفتند.
+
+(در گفتار `kriegen`: `Ich krieg das erklärt.`)
+
+## Funktionsverbgefüge با معنای مجهول {#fvg}
+
+برخی ترکیب‌های اسم-فعل معنای مجهول دارند ([[b21-nomen-verb]]):
+> Das Thema **kommt zur Sprache**. (= wird besprochen) = موضوع مطرح می‌شود.
+> Die Regel **findet Anwendung**. (= wird angewendet) = قاعده به کار گرفته می‌شود.
+> Das Projekt **steht zur Diskussion**. (= wird diskutiert)
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی هم برای «امکان + مجهول» ابزارهای مشابهی دارد:
+| آلمانی | فارسی |
+|---|---|
+| lässt sich reparieren | **قابل** تعمیر است / تعمیر**‌شدنی** است / **می‌شود** تعمیرش کرد |
+| ist zu reparieren | **قابل** تعمیر است / **باید** تعمیر شود |
+| reparier**bar** | تعمیر**پذیر** / قابل تعمیر |
+| **un**lös**bar** | **غیر**قابل حل / **لا**ینحل |
+| man repariert | تعمیر **می‌کنند** (فاعل نامعین) |
+
+ترکیب «**قابل**/**غیرقابل** + اسم» و پسوند «**‌پذیر**/**‌ناپذیر**» فارسی دقیقاً معادل `-bar` / `un-…-bar` است: `vermeid**bar**` = اجتناب**‌پذیر**، `un**vermeidlich**` = اجتناب**‌ناپذیر**.
+:::
+
+## خودآزمایی {#quiz}
+
+?? با sich lassen: `Das Problem kann gelöst werden.` => `Das Problem lässt sich lösen.`
+?? با sein + zu: `Die Tür kann nicht geöffnet werden.` => `Die Tür ist nicht zu öffnen.`
+?? با ‎-bar‎: `Das Wasser kann getrunken werden.` => `Das Wasser ist trinkbar.`
+?? با sein + zu (ضرورت): `Das Formular muss unterschrieben werden.` => `Das Formular ist zu unterschreiben.`
+?? با bekommen: `Man hat mir das Geld zurückgezahlt.` => `Ich habe das Geld zurückgezahlt bekommen.`
+
+@@ b21-partizipialattribut
+level: B2.1
+title: صفت‌های فعلی گسترده (erweiterte Partizipialattribute)
+de: Erweiterte Partizipialattribute
+tags: Partizipialattribut, صفت فعلی گسترده, erweitertes Attribut, die vor zwei Jahren gebaute Brücke, das zu lösende Problem, zu + Partizip I, سبک نوشتاری, متن علمی, خواندن متن سخت
+summary: «پلی که دو سال پیش ساخته شد» در زبان نوشتاری می‌شود: `die vor zwei Jahren gebaute Brücke`. یک جملهٔ موصولی کامل که **قبل از اسم** فشرده شده است.
+---
+## ساختار {#struktur}
+
+:::rule
+**حرف تعریف + [توضیحات + Partizip I/II با پسوند صفت] + اسم**
+همهٔ اطلاعاتی که در جملهٔ موصولی بعد از اسم می‌آمد، بین حرف تعریف و اسم قرار می‌گیرد.
+:::
+
+| جملهٔ موصولی | صفت فعلی گسترده |
+|---|---|
+| die Brücke, **die** vor zwei Jahren **gebaut wurde** | die **vor zwei Jahren gebaute** Brücke |
+| das Kind, **das** im Garten **spielt** | das **im Garten spielende** Kind |
+| der Zug, **der** aus München **kommt** | der **aus München kommende** Zug |
+| die Gäste, **die** gestern **angekommen sind** | die **gestern angekommenen** Gäste |
+| das Problem, **das gelöst werden muss** | das **zu lösende** Problem |
+
+(صفت فعلی ساده را در [[b12-partizip-adj]] دیدید.)
+
+## کدام Partizip؟ {#welches}
+
+| جملهٔ موصولی | Partizip | مثال |
+|---|---|---|
+| فعال، هم‌زمان (حال) | **I** (‎-end‎) | die **steigenden** Preise (die steigen) |
+| مجهول (werden) | **II** | das **reparierte** Auto (das repariert wurde) |
+| فعال، گذشته با sein | **II** | der **angekommene** Zug (der angekommen ist) |
+| مجهول + können/müssen | **zu + I** | die **zu erledigenden** Aufgaben (die erledigt werden müssen) |
+
+:::note zu + Partizip I
+`das zu lösende Problem` = مسئله‌ای که **باید/می‌شود** حل شود. با فعل جداشدنی `zu` وسط می‌آید: `die **auszufüllenden** Formulare` (فرم‌هایی که باید پر شوند).
+:::
+
+## چطور بخوانیم؟ {#lesen}
+
+:::tip روش خواندن جمله‌های سخت
+1. حرف تعریف را پیدا کنید (`die`).
+2. **بپرید** و اسمی را پیدا کنید که حرف تعریف به آن تعلق دارد (`Brücke`). (اولین اسمی که با جنس و حالت جور است.)
+3. Partizip درست قبل از اسم را پیدا کنید (`gebaute`).
+4. بقیهٔ بین این دو را بخوانید (`vor zwei Jahren`).
+5. در ذهن به جملهٔ موصولی تبدیل کنید: `die Brücke, die vor zwei Jahren gebaut wurde`.
+:::
+
+> Die **von der Regierung im letzten Jahr beschlossenen** Maßnahmen zeigen Wirkung. = اقداماتی که دولت سال گذشته تصویب کرد، اثر خود را نشان می‌دهند.
+> Wir suchen eine **in der Gastronomie erfahrene** Mitarbeiterin. = به دنبال همکاری (زن) با تجربه در رستوران‌داری هستیم.
+
+## کجا به کار می‌رود؟ {#wo}
+
+متن‌های علمی، حقوقی، اداری، روزنامه‌ها. در گفتار تقریباً به کار نمی‌رود (جملهٔ موصولی طبیعی‌تر است). در سطح B2 و C1 باید بتوانید **بخوانید** و چند ساختار کوتاه را **بنویسید**.
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی رسمی هم صفت‌های فعلی گسترده دارد، اما **بعد از اسم**:
+- «پلِ **ساخته‌شده در دو سال پیش**»
+- «اقداماتِ **تصویب‌شده توسط دولت در سال گذشته**»
+- «فرم‌هایِ **قابل تکمیل**»
+
+آلمانی همهٔ این‌ها را **قبل از اسم** می‌گذارد، که برای ذهن فارسی‌زبان سنگین است. تمرین: هر جملهٔ این‌چنینی را اول به «اسم + که + …» در فارسی ترجمه کنید.
+
+`zu + Partizip I` معادل «**قابلِ** …» یا «**…‌شدنی**» یا «**که باید** …» است: `die zu klärenden Fragen` = «سؤال‌هایی که باید روشن شوند / سؤال‌های قابل بررسی».
+:::
+
+## خودآزمایی {#quiz}
+
+?? تبدیل کنید: `das Auto, das letzte Woche verkauft wurde` => `das letzte Woche verkaufte Auto`
+?? تبدیل کنید: `die Frau, die am Fenster sitzt` => `die am Fenster sitzende Frau`
+?? تبدیل کنید: `die Briefe, die beantwortet werden müssen` => `die zu beantwortenden Briefe`
+?? به جملهٔ موصولی: `der seit Jahren in Berlin lebende Künstler` => `der Künstler, der seit Jahren in Berlin lebt`
+?? معنی: `die gestern im Park gefundene Tasche` => کیفی که دیروز در پارک پیدا شد
+
+@@ b21-modal-subj
+level: B2.1
+title: کاربرد ذهنی افعال وجهی: حدس و ادعا
+de: Subjektiver Gebrauch der Modalverben
+tags: subjektive Modalverben, حدس, Vermutung, muss, dürfte, könnte, kann, soll, will, باید باشد, شاید, گویا, ادعا, muss gewesen sein, soll gesagt haben, will gesehen haben, احتمال
+summary: «**باید** خسته **باشد**» (حدس)، «**گویا** پولدار است» (به نقل از دیگران)، «**ادعا می‌کند** دیده»: افعال وجهی برای بیان میزان اطمینان.
+---
+## دو کاربرد افعال وجهی {#zwei}
+
+| کاربرد | معنی | مثال |
+|---|---|---|
+| عینی (objektiv) | اجبار، اجازه، توانایی واقعی | Er **muss** arbeiten. = باید کار کند. (مجبور است) |
+| ذهنی (subjektiv) | **حدس** یا **نقل ادعا** دربارهٔ واقعیت | Er **muss** krank sein. = **حتماً** مریض است. (حدس من) |
+
+## درجه‌های اطمینان {#grad}
+
+:::rule
+| فعل | میزان اطمینان | مثال | فارسی |
+|---|---|---|---|
+| muss | ~۹۵٪ | Er **muss** krank sein. | حتماً / باید مریض باشد. |
+| müsste | ~۸۵٪ | Er **müsste** schon zu Hause sein. | دیگر باید خانه باشد (طبق انتظار). |
+| wird (wohl) | ~۸۰٪ | Er **wird** wohl krank sein. | لابد مریض است. |
+| dürfte | ~۷۵٪ | Er **dürfte** etwa 50 sein. | احتمالاً حدود ۵۰ سالش است. |
+| kann | ~۵۰٪ | Das **kann** stimmen. | ممکن است درست باشد. |
+| könnte | ~۴۰٪ | Er **könnte** im Büro sein. | شاید در دفتر باشد. |
+| kann nicht | ~۰٪ | Das **kann nicht** sein! | امکان ندارد! |
+:::
+
+:::warn dürfte اینجا ≠ اجازه
+`Er dürfte krank sein` هیچ ربطی به «اجازه» ندارد؛ یعنی «احتمالاً مریض است».
+:::
+
+## نقل ادعا: soll و will {#sollwill}
+
+| فعل | معنی | مثال | فارسی |
+|---|---|---|---|
+| soll | دیگران می‌گویند | Er **soll** sehr reich sein. | **می‌گویند** / **گویا** خیلی پولدار است. |
+| will | خودش ادعا می‌کند | Er **will** den Täter gesehen haben. | **ادعا می‌کند** که مجرم را دیده. |
+
+> Das Restaurant **soll** sehr gut sein. = می‌گویند رستوران خیلی خوبی است.
+> Sie **will** nichts davon gewusst haben. = ادعا می‌کند از آن خبر نداشته.
+
+## حدس دربارهٔ گذشته {#vergangenheit}
+
+:::rule
+**فعل وجهی + Partizip II + haben/sein (مصدر گذشته)**
+:::
+
+> Er **muss** den Bus **verpasst haben**. = حتماً اتوبوس را از دست داده.
+> Sie **könnte** schon **gegangen sein**. = شاید رفته باشد.
+> Der Täter **soll** durch das Fenster **gekommen sein**. = گفته می‌شود متهم از پنجره وارد شده است.
+> Er **will** nichts **gesehen haben**. = ادعا می‌کند چیزی ندیده.
+
+(مصدر گذشته: [[b22-inf-perfekt]].)
+
+:::warn عینی گذشته در برابر ذهنی گذشته
+- `Er **musste** arbeiten.` = (واقعاً) مجبور بود کار کند. (عینی، Präteritum)
+- `Er **muss** gearbeitet **haben**.` = حتماً کار کرده است. (حدس امروز دربارهٔ گذشته)
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa «باید» فارسی هم دو کاربرد دارد!
+فارسی هم دقیقاً همین تمایز را دارد:
+- «علی **باید** کار کند» (اجبار) ← `Ali muss arbeiten.`
+- «علی **باید** خسته **باشد**» (حدس) ← `Ali muss müde sein.`
+- «علی **باید** رفته **باشد**» (حدس دربارهٔ گذشته) ← `Ali muss gegangen sein.`
+
+ساختار «باید + ماضی التزامی» (رفته باشد) فارسی **دقیقاً** معادل «`muss` + مصدر گذشته» (`gegangen sein`) است!
+
+معادل‌های دیگر:
+| آلمانی | فارسی |
+|---|---|
+| könnte | **شاید** / **ممکن است** … باشد |
+| dürfte | **احتمالاً** |
+| wird wohl | **لابد** |
+| soll | **گویا** / **می‌گویند** / **ظاهراً** |
+| will | **ادعا می‌کند** |
+| kann nicht | **امکان ندارد** / **محال است** |
+:::
+
+## خودآزمایی {#quiz}
+
+?? «حتماً مریض است.» => `Er muss krank sein.`
+?? «شاید در خانه باشد.» => `Er könnte zu Hause sein.`
+?? «می‌گویند فیلم خیلی خوبی است.» => `Der Film soll sehr gut sein.`
+?? «حتماً کلید را گم کرده.» => `Er muss den Schlüssel verloren haben.`
+?? «ادعا می‌کند که دیروز در خانه بوده.» => `Er will gestern zu Hause gewesen sein.`
+?? معنی: `Sie dürfte schon angekommen sein.` => احتمالاً تا حالا رسیده است.
+
+@@ b21-futur2
+level: B2.1
+title: آیندهٔ کامل (Futur II)
+de: Das Futur II
+tags: Futur II, آینده کامل, werden gemacht haben, wird gegangen sein, تا فردا تمام کرده‌ام, حدس گذشته, لابد, wird wohl vergessen haben, Vermutung Vergangenheit
+summary: «تا دوشنبه کتاب را **خوانده‌ام**» و «**لابد** فراموش **کرده**»: Futur II برای کاری که تا زمانی در آینده تمام شده، و بیشتر برای **حدس دربارهٔ گذشته**.
+---
+## ساختار {#struktur}
+
+:::rule
+**werden (صرف‌شده) + … + Partizip II + haben/sein**
+:::
+
+| | با haben | با sein |
+|---|---|---|
+| ich | werde gemacht haben | werde gegangen sein |
+| du | wirst gemacht haben | wirst gegangen sein |
+| er/sie/es | wird gemacht haben | wird gegangen sein |
+| wir | werden gemacht haben | werden gegangen sein |
+
+## کاربرد ۱: کارِ تمام‌شده در آینده {#zukunft}
+
+> Bis Montag **werde** ich das Buch **gelesen haben**. = تا دوشنبه کتاب را خوانده‌ام.
+> In zehn Jahren **werden** wir das Haus **abbezahlt haben**. = ده سال دیگر قرض خانه را پرداخت کرده‌ایم.
+
+:::note در گفتار
+در گفتار معمولاً Perfekt + قید زمان کافی است:
+`Bis Montag **habe** ich das Buch **gelesen**.` (همان معنی، ساده‌تر)
+:::
+
+## کاربرد ۲: حدس دربارهٔ گذشته (رایج‌تر) {#vermutung}
+
+با `wohl`، `sicher`، `bestimmt`، `schon`:
+> Er ist noch nicht da. Er **wird** (wohl) den Zug **verpasst haben**. = هنوز نیامده. لابد قطار را از دست داده.
+> Sie **wird** es (sicher) **vergessen haben**. = حتماً یادش رفته.
+> Das **wird** schon seinen Grund **gehabt haben**. = لابد دلیلی داشته.
+
+(همان معنی با `muss` / `dürfte`: [[b21-modal-subj#vergangenheit]]؛ حدس دربارهٔ حال با Futur I: [[a21-werden#futur]].)
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| آلمانی | فارسی |
+|---|---|
+| Bis morgen **werde** ich es **gemacht haben**. | تا فردا انجامش **داده‌ام** / **خواهم داد**. |
+| Er **wird** es **vergessen haben**. | **لابد** فراموش **کرده** (است). |
+| Sie **wird** schon **angekommen sein**. | **حتماً** تا حالا **رسیده**. |
+
+فارسی برای این معنا معمولاً **ماضی نقلی + قید** (لابد، حتماً، احتمالاً) به کار می‌برد. آلمانی هم در گفتار همین کار را می‌کند (`Er hat es wohl vergessen`)؛ Futur II بیشتر در نوشتار و برای تأکید است.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «تا ساعت ۸ کار را تمام کرده‌ام.» (beenden) => `Bis 8 Uhr werde ich die Arbeit beendet haben.`
+?? «لابد خوابش برده.» (einschlafen) => `Er wird (wohl) eingeschlafen sein.`
+?? «حتماً کلید را جا گذاشته.» => `Sie wird den Schlüssel vergessen haben.`
+?? همان جملهٔ آخر با muss => `Sie muss den Schlüssel vergessen haben.`

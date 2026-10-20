@@ -1,0 +1,457 @@
+@@ x-zeiten
+level: X
+title: جدول همهٔ زمان‌ها و وجه‌ها با معادل فارسی
+de: Übersicht: Zeitformen und Modi
+tags: زمان‌ها, Zeitformen, Tempus, جدول زمان‌ها, Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur, Konjunktiv, Imperativ, Passiv, ماضی استمراری, التزامی, مضارع مستمر, معادل فارسی
+summary: همهٔ زمان‌ها و وجه‌های آلمانی در یک صفحه، کنار زمان‌های فارسی؛ و اینکه زمان‌هایی که آلمانی ندارد (مثل ماضی استمراری و التزامی) را چطور بگوییم.
+---
+## زمان‌های اخباری (Indikativ) {#indikativ}
+
+| زمان | ساختار | مثال (machen / gehen) | معادل فارسی | درس |
+|---|---|---|---|---|
+| Präsens | ریشه + شناسه | ich mache / ich gehe | مضارع اخباری: می‌کنم / می‌روم | [[a11-praesens]] |
+| Präteritum | ریشه + te / واکهٔ تغییرکرده | ich machte / ich ging | ماضی ساده: کردم / رفتم | [[a22-praeteritum]] |
+| Perfekt | haben/sein + P II | ich habe gemacht / ich bin gegangen | ماضی نقلی (ساختار) / ماضی ساده (کاربرد) | [[a12-perfekt-haben]] |
+| Plusquamperfekt | hatte/war + P II | ich hatte gemacht / ich war gegangen | ماضی بعید: کرده بودم / رفته بودم | [[b11-plusquam]] |
+| Futur I | werden + مصدر | ich werde machen / gehen | آینده: خواهم کرد / خواهم رفت | [[a21-werden]] |
+| Futur II | werden + P II + haben/sein | ich werde gemacht haben | آینده کامل: کرده‌ام (تا آن موقع) / لابد کرده | [[b21-futur2]] |
+
+## وجه‌های دیگر {#modi}
+
+| وجه | ساختار | مثال | معادل فارسی | درس |
+|---|---|---|---|---|
+| Imperativ | ریشه (+e) / ‎-t‎ / + Sie | Mach! Macht! Machen Sie! | امر: بکن! بکنید! | [[a12-imperativ]] |
+| Konjunktiv II حال | würde + مصدر / wäre / hätte | ich würde machen، ich wäre | می‌کردم (غیرواقعی)، کاش… | [[b11-konj2]] |
+| Konjunktiv II گذشته | hätte/wäre + P II | ich hätte gemacht | کرده بودم (غیرواقعی)، باید می‌کردم | [[b12-konj2-verg]] |
+| Konjunktiv I | ریشه + e | er mache، er sei | (نقل قول) به گفتهٔ او … | [[b21-konj1]] |
+
+## مجهول {#passiv}
+
+| زمان | Vorgangspassiv (werden) | Zustandspassiv (sein) | فارسی |
+|---|---|---|---|
+| Präsens | es wird gemacht | es ist gemacht | انجام می‌شود / انجام شده (حالت) |
+| Präteritum | es wurde gemacht | es war gemacht | انجام شد / انجام شده بود (حالت) |
+| Perfekt | es ist gemacht worden | — | انجام شده است |
+| Plusquamperfekt | es war gemacht worden | — | انجام شده بود |
+| + Modalverb | es muss gemacht werden | es muss gemacht sein | باید انجام شود |
+
+درس‌ها: [[a22-passiv-praesens]]، [[b11-passiv]]، [[b12-zustandspassiv]].
+
+## زمان‌های فارسی ← آلمانی {#fa-de}
+
+:::fa زمان‌هایی که آلمانی ندارد
+فارسی چند زمان دارد که آلمانی معادل مستقیم برایشان ندارد. این جدول نشان می‌دهد هر کدام را چطور بگویید:
+
+| زمان فارسی | مثال فارسی | آلمانی |
+|---|---|---|
+| مضارع مستمر | **دارم** می‌خورم | Ich esse **gerade**. / Ich bin **beim** Essen. |
+| ماضی مستمر | **داشتم** می‌خوردم (که…) | Ich **aß gerade**, als … / Ich **war dabei** zu essen. |
+| ماضی استمراری (عادت) | هر روز **می‌رفتم** | Ich **ging** jeden Tag. / Früher **bin** ich jeden Tag **gegangen**. |
+| ماضی استمراری (شرطی) | اگر وقت داشتم **می‌رفتم** | Ich **würde gehen**. ([[b11-konj2]]) |
+| مضارع التزامی (بعد از خواستن، باید، توانستن) | می‌خواهم **بروم** | Ich will **gehen**. (مصدر) ([[a11-modal1]]) |
+| مضارع التزامی (بعد از «که» با فاعل متفاوت) | می‌خواهم **که بیایی** | Ich möchte, **dass du kommst**. ([[a21-dass]]) |
+| مضارع التزامی (هدف) | آمدم **تا ببینمت** | …, **um** dich **zu sehen**. ([[b11-umzu-damit]]) |
+| مضارع التزامی (پیشنهاد) | **بریم**؟ / پنجره را **باز کنم**؟ | **Sollen** wir gehen? / **Soll** ich …? ([[a12-modal2#sollen]]) |
+| مضارع التزامی (شرط) | اگر **بیاید** | wenn er **kommt** (حال ساده) ([[a21-wenn]]) |
+| ماضی التزامی | **باید رفته باشد** | Er **muss gegangen sein**. ([[b21-modal-subj]]) |
+| ماضی نقلی (تجربه) | تا حالا ایران **رفته‌ای**؟ | **Warst** du schon mal im Iran? / Bist du schon mal … gewesen? |
+| ماضی نقلی (ادامه‌دار) | سه سال است اینجا **زندگی می‌کنم** | Ich **wohne** seit drei Jahren hier. (حال!) ([[a21-zeitpraep#seit]]) |
+:::
+
+## کدام گذشته؟ (خلاصه) {#vergangenheit}
+
+| موقعیت | زمان آلمانی |
+|---|---|
+| گفت‌وگو، پیام، ایمیل شخصی | Perfekt |
+| `sein`، `haben`، افعال وجهی، `es gibt`، `wissen` | Präteritum (حتی در گفتار) |
+| داستان، خبر، گزارش نوشتاری | Präteritum |
+| کاری قبل از کار دیگر در گذشته | Plusquamperfekt |
+
+@@ x-deklination
+level: X
+title: جدول کامل صرف: حرف تعریف، ضمیر و صفت
+de: Übersicht: Deklination von Artikeln, Pronomen und Adjektiven
+tags: جدول صرف, Deklination, حرف تعریف, ضمیر, صفت, Nominativ, Akkusativ, Dativ, Genitiv, der die das, ein, mein, mich mir, Adjektivendungen, Relativpronomen, مرجع
+summary: همهٔ جدول‌های صرف در یک صفحه برای مراجعهٔ سریع.
+---
+## حرف تعریف معین (و dieser، jeder، welcher) {#bestimmt}
+
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nom. | der | die | das | die |
+| Akk. | **den** | die | das | die |
+| Dat. | **dem** | **der** | **dem** | **den** + n |
+| Gen. | **des** + s | **der** | **des** + s | **der** |
+
+`dieser`: dieser, diese, dieses, diese / diesen / diesem, dieser, diesem, diesen / dieses, dieser, dieses, dieser
+
+## حرف تعریف نامعین، kein و صفت‌های ملکی {#unbestimmt}
+
+| | مذکر | مؤنث | خنثی | جمع (kein/mein) |
+|---|---|---|---|---|
+| Nom. | ein | eine | ein | keine |
+| Akk. | **einen** | eine | ein | keine |
+| Dat. | **einem** | **einer** | **einem** | **keinen** + n |
+| Gen. | **eines** + s | **einer** | **eines** + s | **keiner** |
+
+صفت‌های ملکی: mein، dein، sein، ihr، unser، euer (eur-)، ihr، Ihr ← همین پسوندها ([[a11-possessiv]]).
+
+## ضمایر شخصی {#pronomen}
+
+| Nom. | ich | du | er | sie | es | wir | ihr | sie | Sie |
+|---|---|---|---|---|---|---|---|---|---|
+| Akk. | mich | dich | ihn | sie | es | uns | euch | sie | Sie |
+| Dat. | mir | dir | ihm | ihr | ihm | uns | euch | ihnen | Ihnen |
+| Gen. (نادر) | meiner | deiner | seiner | ihrer | seiner | unser | euer | ihrer | Ihrer |
+| انعکاسی Akk. | mich | dich | sich | sich | sich | uns | euch | sich | sich |
+| انعکاسی Dat. | mir | dir | sich | sich | sich | uns | euch | sich | sich |
+
+## ضمایر موصولی {#relativ}
+
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nom. | der | die | das | die |
+| Akk. | den | die | das | die |
+| Dat. | dem | der | dem | **denen** |
+| Gen. | **dessen** | **deren** | **dessen** | **deren** |
+
+## کلمه‌های پرسشی {#fragen}
+
+| Nom. | Akk. | Dat. | Gen. |
+|---|---|---|---|
+| wer? | wen? | wem? | wessen? |
+| was? | was? | (wo + Präp.) | — |
+
+## صرف صفت ۱: بعد از der (ضعیف) {#schwach}
+
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nom. | der gut**e** | die gut**e** | das gut**e** | die gut**en** |
+| Akk. | den gut**en** | die gut**e** | das gut**e** | die gut**en** |
+| Dat. | dem gut**en** | der gut**en** | dem gut**en** | den gut**en** |
+| Gen. | des gut**en** | der gut**en** | des gut**en** | der gut**en** |
+
+## صرف صفت ۲: بعد از ein (مختلط) {#gemischt}
+
+| | مذکر | مؤنث | خنثی | جمع (kein/mein) |
+|---|---|---|---|---|
+| Nom. | ein gut**er** | eine gut**e** | ein gut**es** | keine gut**en** |
+| Akk. | einen gut**en** | eine gut**e** | ein gut**es** | keine gut**en** |
+| Dat. | einem gut**en** | einer gut**en** | einem gut**en** | keinen gut**en** |
+| Gen. | eines gut**en** | einer gut**en** | eines gut**en** | keiner gut**en** |
+
+## صرف صفت ۳: بدون حرف تعریف (قوی) {#stark}
+
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nom. | gut**er** | gut**e** | gut**es** | gut**e** |
+| Akk. | gut**en** | gut**e** | gut**es** | gut**e** |
+| Dat. | gut**em** | gut**er** | gut**em** | gut**en** |
+| Gen. | gut**en** | gut**er** | gut**en** | gut**er** |
+
+درس‌ها: [[a21-adj-best]]، [[a21-adj-unbest]]، [[a22-adj-null]].
+
+## n-Deklination {#n}
+
+| | مفرد | جمع |
+|---|---|---|
+| Nom. | der Kollege | die Kollegen |
+| Akk. | den Kolleg**en** | die Kollegen |
+| Dat. | dem Kolleg**en** | den Kollegen |
+| Gen. | des Kolleg**en** | der Kollegen |
+
+درس: [[b11-n-dekl]].
+
+## حروف اضافه و حالت‌ها {#praep}
+
+| حالت | حروف اضافه |
+|---|---|
+| همیشه Akkusativ | durch، für، gegen، ohne، um، bis، entlang |
+| همیشه Dativ | aus، bei، mit، nach، seit، von، zu، gegenüber، ab |
+| دوحالته (wo? D / wohin? A) | an، auf، hinter، in، neben، über، unter، vor، zwischen |
+| Genitiv | wegen، trotz، während، statt، innerhalb، außerhalb، aufgrund، … |
+
+درس‌ها: [[a12-praep-akk]]، [[a12-praep-dativ]]، [[a21-wechselpraep]]، [[b11-genitiv]]، [[b22-praep-b2]].
+
+@@ x-verben
+level: X
+title: جدول فعل‌های بی‌قاعده
+de: Liste der unregelmäßigen Verben
+tags: افعال بی‌قاعده, unregelmäßige Verben, starke Verben, Stammformen, سه شکل, Präteritum, Partizip II, ging gegangen, فهرست فعل, جدول فعل
+summary: پرکاربردترین فعل‌های بی‌قاعده با سه شکل اصلی، شکل سوم‌شخص زمان حال (اگر تغییر دارد) و فعل کمکی Perfekt.
+---
+## راهنما {#hinweis}
+
+- ستون «er» فقط وقتی پر شده که زمان حال تغییر واکه دارد ([[a11-vokalwechsel]]).
+- «ist» یعنی Perfekt با `sein` ([[a12-perfekt-sein]])؛ «hat/ist» یعنی بسته به معنی (با مفعول ← hat، حرکت ← ist).
+- فعل‌های پیشوندی مثل فعل پایه صرف می‌شوند: `ankommen` مثل `kommen`، `verstehen` مثل `stehen`.
+- الگوهای تغییر واکه: [[a22-praeteritum#ablaut]].
+
+## جدول {#liste}
+
+| مصدر | er (حال) | Präteritum | Perfekt | معنی |
+|---|---|---|---|---|
+| backen | bäckt / backt | backte | hat gebacken | پختن (نان، کیک) |
+| befehlen | befiehlt | befahl | hat befohlen | فرمان دادن |
+| beginnen | | begann | hat begonnen | شروع کردن |
+| beißen | | biss | hat gebissen | گاز گرفتن |
+| bekommen | | bekam | hat bekommen | دریافت کردن |
+| bewerben (sich) | bewirbt | bewarb | hat beworben | درخواست دادن |
+| biegen | | bog | hat/ist gebogen | خم کردن / پیچیدن |
+| bieten | | bot | hat geboten | پیشنهاد دادن |
+| binden | | band | hat gebunden | بستن |
+| bitten | | bat | hat gebeten | خواهش کردن |
+| blasen | bläst | blies | hat geblasen | فوت کردن |
+| bleiben | | blieb | ist geblieben | ماندن |
+| braten | brät | briet | hat gebraten | سرخ کردن |
+| brechen | bricht | brach | hat/ist gebrochen | شکستن |
+| brennen | | brannte | hat gebrannt | سوختن |
+| bringen | | brachte | hat gebracht | آوردن |
+| denken | | dachte | hat gedacht | فکر کردن |
+| dürfen | darf | durfte | hat gedurft | اجازه داشتن |
+| empfehlen | empfiehlt | empfahl | hat empfohlen | توصیه کردن |
+| entscheiden | | entschied | hat entschieden | تصمیم گرفتن |
+| erschrecken | erschrickt | erschrak | ist erschrocken | ترسیدن، جا خوردن |
+| essen | isst | aß | hat gegessen | خوردن |
+| fahren | fährt | fuhr | ist/hat gefahren | رفتن با وسیله، راندن |
+| fallen | fällt | fiel | ist gefallen | افتادن |
+| fangen | fängt | fing | hat gefangen | گرفتن (شکار) |
+| finden | | fand | hat gefunden | پیدا کردن |
+| fliegen | | flog | ist/hat geflogen | پرواز کردن |
+| fliehen | | floh | ist geflohen | فرار کردن |
+| fließen | | floss | ist geflossen | جاری شدن |
+| fressen | frisst | fraß | hat gefressen | خوردن (حیوان) |
+| frieren | | fror | hat gefroren | سردی کشیدن، یخ زدن |
+| geben | gibt | gab | hat gegeben | دادن |
+| gefallen | gefällt | gefiel | hat gefallen | خوش آمدن |
+| gehen | | ging | ist gegangen | رفتن |
+| gelingen | | gelang | ist gelungen | موفق شدن (es gelingt mir) |
+| gelten | gilt | galt | hat gegolten | معتبر بودن |
+| genießen | | genoss | hat genossen | لذت بردن |
+| geschehen | geschieht | geschah | ist geschehen | اتفاق افتادن |
+| gewinnen | | gewann | hat gewonnen | بردن |
+| gießen | | goss | hat gegossen | ریختن (مایع)، آب دادن |
+| gleichen | | glich | hat geglichen | شبیه بودن |
+| graben | gräbt | grub | hat gegraben | کندن |
+| greifen | | griff | hat gegriffen | چنگ زدن، گرفتن |
+| haben | hat | hatte | hat gehabt | داشتن |
+| halten | hält | hielt | hat gehalten | نگه داشتن، ایستادن |
+| hängen (حالت) | | hing | hat gehangen | آویزان بودن |
+| heben | | hob | hat gehoben | بلند کردن |
+| heißen | | hieß | hat geheißen | نامیده شدن |
+| helfen | hilft | half | hat geholfen | کمک کردن |
+| kennen | | kannte | hat gekannt | شناختن |
+| klingen | | klang | hat geklungen | به نظر رسیدن (صدا) |
+| kommen | | kam | ist gekommen | آمدن |
+| können | kann | konnte | hat gekonnt | توانستن |
+| kriechen | | kroch | ist gekrochen | خزیدن |
+| laden | lädt | lud | hat geladen | بار زدن، شارژ کردن |
+| lassen | lässt | ließ | hat gelassen | گذاشتن، اجازه دادن |
+| laufen | läuft | lief | ist gelaufen | دویدن، راه رفتن |
+| leiden | | litt | hat gelitten | رنج بردن |
+| leihen | | lieh | hat geliehen | قرض دادن/گرفتن |
+| lesen | liest | las | hat gelesen | خواندن |
+| liegen | | lag | hat gelegen | دراز کشیده بودن |
+| lügen | | log | hat gelogen | دروغ گفتن |
+| messen | misst | maß | hat gemessen | اندازه گرفتن |
+| mögen | mag | mochte | hat gemocht | دوست داشتن |
+| müssen | muss | musste | hat gemusst | مجبور بودن |
+| nehmen | nimmt | nahm | hat genommen | برداشتن، گرفتن |
+| nennen | | nannte | hat genannt | نامیدن |
+| pfeifen | | pfiff | hat gepfiffen | سوت زدن |
+| raten | rät | riet | hat geraten | توصیه کردن، حدس زدن |
+| reißen | | riss | hat/ist gerissen | پاره کردن / پاره شدن |
+| reiten | | ritt | ist/hat geritten | سوارکاری کردن |
+| rennen | | rannte | ist gerannt | دویدن |
+| riechen | | roch | hat gerochen | بو کردن، بو دادن |
+| rufen | | rief | hat gerufen | صدا زدن |
+| schaffen (خلق کردن) | | schuf | hat geschaffen | آفریدن (در معنی «از پس برآمدن» باقاعده) |
+| scheinen | | schien | hat geschienen | تابیدن، به نظر رسیدن |
+| schieben | | schob | hat geschoben | هل دادن |
+| schießen | | schoss | hat geschossen | شلیک کردن |
+| schlafen | schläft | schlief | hat geschlafen | خوابیدن |
+| schlagen | schlägt | schlug | hat geschlagen | زدن |
+| schließen | | schloss | hat geschlossen | بستن |
+| schmelzen | schmilzt | schmolz | ist geschmolzen | ذوب شدن |
+| schneiden | | schnitt | hat geschnitten | بریدن |
+| schreiben | | schrieb | hat geschrieben | نوشتن |
+| schreien | | schrie | hat geschrien | فریاد زدن |
+| schweigen | | schwieg | hat geschwiegen | ساکت ماندن |
+| schwimmen | | schwamm | ist/hat geschwommen | شنا کردن |
+| sehen | sieht | sah | hat gesehen | دیدن |
+| sein | ist | war | ist gewesen | بودن |
+| singen | | sang | hat gesungen | آواز خواندن |
+| sinken | | sank | ist gesunken | فرو رفتن، کاهش یافتن |
+| sitzen | | saß | hat gesessen | نشسته بودن |
+| sollen | soll | sollte | hat gesollt | باید (خواست دیگری) |
+| sprechen | spricht | sprach | hat gesprochen | صحبت کردن |
+| springen | | sprang | ist gesprungen | پریدن |
+| stechen | sticht | stach | hat gestochen | نیش زدن |
+| stehen | | stand | hat gestanden | ایستاده بودن |
+| stehlen | stiehlt | stahl | hat gestohlen | دزدیدن |
+| steigen | | stieg | ist gestiegen | بالا رفتن |
+| sterben | stirbt | starb | ist gestorben | مردن |
+| stoßen | stößt | stieß | hat/ist gestoßen | هل دادن، برخورد کردن |
+| streiten | | stritt | hat gestritten | دعوا کردن |
+| tragen | trägt | trug | hat getragen | حمل کردن، پوشیدن |
+| treffen | trifft | traf | hat getroffen | ملاقات کردن، زدن به هدف |
+| treiben | | trieb | hat getrieben | راندن، (ورزش) کردن |
+| treten | tritt | trat | hat/ist getreten | لگد زدن / قدم گذاشتن |
+| trinken | | trank | hat getrunken | نوشیدن |
+| tun | | tat | hat getan | انجام دادن |
+| verbieten | | verbot | hat verboten | ممنوع کردن |
+| vergessen | vergisst | vergaß | hat vergessen | فراموش کردن |
+| verlieren | | verlor | hat verloren | گم کردن، باختن |
+| verschwinden | | verschwand | ist verschwunden | ناپدید شدن |
+| verzeihen | | verzieh | hat verziehen | بخشیدن |
+| wachsen | wächst | wuchs | ist gewachsen | رشد کردن |
+| waschen | wäscht | wusch | hat gewaschen | شستن |
+| wenden | | wandte / wendete | hat gewandt / gewendet | برگرداندن |
+| werben | wirbt | warb | hat geworben | تبلیغ کردن |
+| werden | wird | wurde | ist geworden | شدن |
+| werfen | wirft | warf | hat geworfen | انداختن |
+| wiegen | | wog | hat gewogen | وزن کردن / وزن داشتن |
+| wissen | weiß | wusste | hat gewusst | دانستن |
+| wollen | will | wollte | hat gewollt | خواستن |
+| ziehen | | zog | hat/ist gezogen | کشیدن / نقل مکان کردن |
+| zwingen | | zwang | hat gezwungen | مجبور کردن |
+
+@@ x-verb-praep
+level: X
+title: فهرست فعل‌ها و صفت‌های حرف‌اضافه‌دار
+de: Liste: Verben und Adjektive mit Präpositionen
+tags: فعل با حرف اضافه, Verben mit Präpositionen, Rektion, warten auf, denken an, sich interessieren für, Angst vor, حرف اضافه ثابت, فهرست, مرجع, Präpositionalobjekt
+summary: فهرست مرجع فعل‌ها و صفت‌هایی که حرف اضافهٔ ثابت دارند، مرتب‌شده بر اساس حرف اضافه.
+---
+## راهنما {#hinweis}
+
+A = Akkusativ، D = Dativ. توضیح و ترفندها: [[a22-verb-praep]]، [[a22-wo-da]]، [[b22-adj-rektion]].
+
+## an {#an}
+
+| فعل/صفت | حالت | معنی |
+|---|---|---|
+| denken an | A | فکر کردن به |
+| sich erinnern an | A | به یاد آوردن |
+| sich gewöhnen an | A | عادت کردن به |
+| glauben an | A | ایمان داشتن به |
+| sich wenden an | A | مراجعه کردن به |
+| schreiben an | A | نوشتن به (کسی) |
+| teilnehmen an | D | شرکت کردن در |
+| arbeiten an | D | کار کردن روی |
+| leiden an | D | مبتلا بودن به (بیماری) |
+| sterben an | D | مردن از (بیماری) |
+| zweifeln an | D | شک داشتن به |
+| interessiert an | D | علاقه‌مند به |
+| (sich) beteiligen an | D | مشارکت کردن در |
+
+## auf {#auf}
+
+| فعل/صفت | حالت | معنی |
+|---|---|---|
+| warten auf | A | منتظر بودن |
+| sich freuen auf | A | مشتاق (آینده) بودن |
+| achten / aufpassen auf | A | مراقب بودن، توجه کردن |
+| sich verlassen auf | A | اعتماد کردن به |
+| sich vorbereiten auf | A | آماده شدن برای |
+| sich konzentrieren auf | A | تمرکز کردن بر |
+| antworten auf | A | جواب دادن به (سؤال) |
+| hoffen auf | A | امید داشتن به |
+| reagieren auf | A | واکنش نشان دادن به |
+| verzichten auf | A | صرف‌نظر کردن از |
+| ankommen auf (es kommt … an) | A | بستگی داشتن به |
+| stolz / neidisch / gespannt / angewiesen auf | A | مفتخر / حسود / کنجکاو / نیازمند |
+| böse / wütend auf | A | عصبانی از (کسی) |
+
+## aus، bei، gegen {#aus}
+
+| فعل | حالت | معنی |
+|---|---|---|
+| bestehen aus | D | تشکیل شدن از |
+| sich bedanken bei | D | تشکر کردن از (کسی) |
+| sich entschuldigen bei | D | عذرخواهی کردن از (کسی) |
+| sich bewerben bei | D | درخواست دادن به (شرکت) |
+| sich beschweren bei | D | شکایت کردن به (کسی) |
+| helfen bei | D | کمک کردن در |
+| protestieren / kämpfen gegen | A | اعتراض / مبارزه کردن با |
+
+## für {#fuer}
+
+| فعل/صفت | حالت | معنی |
+|---|---|---|
+| sich interessieren für | A | علاقه داشتن به |
+| sich entscheiden für | A | انتخاب کردن |
+| sich bedanken für | A | تشکر کردن بابت |
+| sich entschuldigen für | A | عذرخواهی بابت |
+| sorgen für | A | مراقبت کردن از، فراهم کردن |
+| halten für | A | … دانستن (Ich halte ihn für klug) |
+| sich engagieren für | A | فعالیت کردن برای |
+| ausgeben für | A | خرج کردن برای |
+| bekannt / verantwortlich / zuständig / typisch für | A | معروف / مسئول / مسئول / مخصوص |
+| dankbar für | A | سپاسگزار بابت |
+
+## in، mit {#mit}
+
+| فعل/صفت | حالت | معنی |
+|---|---|---|
+| sich verlieben in | A | عاشق شدن |
+| einziehen in | A | اسباب‌کشی کردن به |
+| geraten in | A | گرفتار شدن در |
+| sprechen / reden mit | D | صحبت کردن با |
+| telefonieren mit | D | تلفنی صحبت کردن با |
+| sich treffen / verabreden mit | D | قرار گذاشتن با |
+| sich beschäftigen mit | D | مشغول بودن با |
+| anfangen / beginnen / aufhören mit | D | شروع کردن / تمام کردن |
+| rechnen mit | D | حساب کردن روی، انتظار داشتن |
+| sich streiten mit | D | دعوا کردن با |
+| vergleichen mit | D | مقایسه کردن با |
+| zufrieden / einverstanden / verheiratet / befreundet / fertig mit | D | راضی / موافق / متأهل / دوست / تمام‌شده |
+
+## nach، über {#ueber}
+
+| فعل/صفت | حالت | معنی |
+|---|---|---|
+| fragen nach | D | سراغ … را گرفتن |
+| suchen nach | D | دنبال … گشتن |
+| riechen / schmecken nach | D | بوی / مزهٔ … دادن |
+| sich sehnen nach | D | دلتنگ … بودن |
+| sprechen / reden über | A | صحبت کردن دربارهٔ |
+| sich freuen über | A | خوشحال شدن از (حال/گذشته) |
+| sich ärgern über | A | عصبانی شدن از |
+| sich beschweren über | A | شکایت کردن از (چیزی) |
+| nachdenken über | A | فکر کردن دربارهٔ |
+| diskutieren über | A | بحث کردن دربارهٔ |
+| informieren über | A | اطلاع دادن دربارهٔ |
+| lachen über | A | خندیدن به |
+| sich wundern über | A | تعجب کردن از |
+| froh / traurig / glücklich / erstaunt über | A | خوشحال / غمگین / … از |
+
+## um، unter، von، vor، zu {#von}
+
+| فعل/صفت | حالت | معنی |
+|---|---|---|
+| sich kümmern um | A | رسیدگی کردن به |
+| bitten um | A | خواهش کردن (چیزی) |
+| sich bewerben um | A | درخواست دادن برای (شغل) |
+| es geht um | A | موضوع … است |
+| sich handeln um | A | مربوط بودن به |
+| besorgt um | A | نگرانِ |
+| leiden unter | D | رنج بردن از |
+| träumen von | D | رؤیای … را دیدن |
+| erzählen / berichten von | D | تعریف کردن / گزارش دادن از |
+| abhängen von | D | بستگی داشتن به |
+| halten von | D | نظر داشتن دربارهٔ |
+| sich erholen von | D | بهبود یافتن از |
+| sich verabschieden von | D | خداحافظی کردن از |
+| überzeugt / begeistert / enttäuscht / abhängig von | D | متقاعد / شیفته / ناامید / وابسته |
+| Angst haben vor | D | ترسیدن از |
+| sich fürchten vor | D | ترسیدن از |
+| warnen vor | D | هشدار دادن دربارهٔ |
+| schützen vor | D | محافظت کردن در برابر |
+| gehören zu | D | جزوِ … بودن |
+| gratulieren zu | D | تبریک گفتن برای |
+| einladen zu | D | دعوت کردن به |
+| passen zu | D | جور بودن با |
+| führen zu | D | منجر شدن به |
+| beitragen zu | D | کمک کردن به |
+| bereit / fähig zu | D | آماده / توانا برای |

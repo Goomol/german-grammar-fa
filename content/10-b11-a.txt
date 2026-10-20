@@ -1,0 +1,507 @@
+@@ b11-plusquam
+level: B1.1
+title: ماضی بعید (Plusquamperfekt) و nachdem
+de: Das Plusquamperfekt und Nebensätze mit „nachdem“
+tags: Plusquamperfekt, ماضی بعید, hatte gemacht, war gegangen, رفته بودم, nachdem, بعد از اینکه, گذشتهٔ گذشته, Vorvergangenheit, توالی زمان‌ها
+summary: «رفته **بودم**»، «خورده **بودیم**»: برای کاری که **قبل از** یک کار دیگرِ گذشته انجام شده. ساختارش دقیقاً مثل ماضی بعید فارسی است.
+---
+## ساختار {#struktur}
+
+:::rule
+**hatte / war (Präteritum) + Partizip II**
+همان قاعدهٔ انتخاب `haben`/`sein` در Perfekt ([[a12-perfekt-sein#regel]])، فقط فعل کمکی در گذشته است.
+:::
+
+| | با haben | با sein |
+|---|---|---|
+| ich | hatte gegessen | war gegangen |
+| du | hattest gegessen | warst gegangen |
+| er/sie/es | hatte gegessen | war gegangen |
+| wir | hatten gegessen | waren gegangen |
+| ihr | hattet gegessen | wart gegangen |
+| sie/Sie | hatten gegessen | waren gegangen |
+
+> Als ich ankam, **war** der Zug schon **abgefahren**. = وقتی رسیدم، قطار رفته بود.
+> Ich **hatte** den Film schon **gesehen**, deshalb bin ich nicht mitgegangen. = فیلم را قبلاً دیده بودم، برای همین همراهشان نرفتم.
+> Sie war müde, weil sie schlecht **geschlafen hatte**. = خسته بود، چون بد خوابیده بود.
+
+## چه وقت؟ {#gebrauch}
+
+:::rule
+وقتی دربارهٔ گذشته حرف می‌زنیم و می‌خواهیم بگوییم کاری **پیش از** آن نقطهٔ گذشته تمام شده بود («گذشتهٔ گذشته»).
+:::
+
+| ترتیب واقعی | زمان دستوری |
+|---|---|
+| ۱. اول اتفاق افتاد | **Plusquamperfekt** |
+| ۲. بعد اتفاق افتاد | Präteritum / Perfekt |
+
+> (۱) Ich **hatte** meinen Schlüssel **vergessen**. (۲) Deshalb **konnte** ich nicht ins Haus. = کلیدم را جا گذاشته بودم، برای همین نتوانستم وارد خانه شوم.
+
+## nachdem: «بعد از اینکه» {#nachdem}
+
+:::rule توالی زمان‌ها با nachdem
+| جملهٔ اصلی | جملهٔ nachdem |
+|---|---|
+| حال یا آینده | **Perfekt** |
+| Präteritum یا Perfekt | **Plusquamperfekt** |
+:::
+
+> **Nachdem** ich **gegessen habe**, **mache** ich die Hausaufgaben. = بعد از اینکه غذا بخورم، تکالیف را انجام می‌دهم.
+> **Nachdem** ich **gegessen hatte**, **machte** ich die Hausaufgaben. = بعد از اینکه غذا خوردم، تکالیف را انجام دادم.
+> **Nachdem** er das Studium **beendet hatte**, **ist** er nach Berlin **gezogen**. = بعد از تمام کردن دانشگاه به برلین نقل مکان کرد.
+
+:::warn
+بعد از `nachdem` همان زمانِ جملهٔ اصلی را نیاورید؛ یک «پله» به گذشته بروید. ~~Nachdem ich aß, ging ich.~~ → `Nachdem ich gegessen hatte, ging ich.`
+:::
+
+جایگزین کوتاه‌تر با حرف اضافه: `**Nach dem** Essen machte ich die Hausaufgaben.` ([[a21-zeitpraep]]). جمله‌های زمانی دیگر (`bevor`، `sobald`…) در [[b11-temporal]].
+
+## مقایسه با فارسی {#fa}
+
+:::fa Plusquamperfekt = ماضی بعید
+اینجا شباهت کامل است:
+| فارسی | آلمانی |
+|---|---|
+| رفته **بودم** | ich **war** gegangen |
+| خورده **بودم** | ich **hatte** gegessen |
+| دیده **بودی** | du **hattest** gesehen |
+
+فارسی همیشه از «بودن» استفاده می‌کند؛ آلمانی بسته به فعل `war` یا `hatte`. کاربرد هم یکسان است: کاری که قبل از کار دیگری در گذشته تمام شده.
+
+فقط یک فرق: فارسی بعد از «بعد از اینکه» معمولاً **ماضی ساده** می‌آورد («بعد از اینکه غذا **خوردم**»)، اما آلمانی Plusquamperfekt را لازم دارد (`nachdem ich gegessen **hatte**`).
+:::
+
+## خودآزمایی {#quiz}
+
+?? «او قبلاً رفته بود.» (er, gehen) => `Er war schon gegangen.`
+?? «ما شام خورده بودیم.» => `Wir hatten (schon) zu Abend gegessen.`
+?? با nachdem: `Ich duschte. Dann frühstückte ich.` => `Nachdem ich geduscht hatte, frühstückte ich.`
+?? با nachdem: `Er macht das Abitur. Dann studiert er.` => `Nachdem er das Abitur gemacht hat, studiert er.`
+?? «وقتی به سینما رسیدیم، فیلم شروع شده بود.» => `Als wir ins Kino kamen, hatte der Film schon angefangen.`
+
+@@ b11-temporal
+level: B1.1
+title: جمله‌واره‌های زمانی: bevor، während، bis، seit، sobald، solange
+de: Temporale Nebensätze: bevor, während, bis, seit(dem), sobald, solange
+tags: جمله زمانی, Temporalsatz, bevor, während, bis, seit, seitdem, sobald, solange, sooft, nachdem, قبل از اینکه, در حالی که, تا, از وقتی که, به محض اینکه, تا زمانی که
+summary: «قبل از اینکه»، «در حالی که»، «تا وقتی که»، «به محض اینکه»: همهٔ حروف ربط زمانی که جملهٔ پیرو (فعل آخر) می‌سازند.
+---
+## جدول کامل {#tabelle}
+
+| حرف ربط | معنی | مثال | حرف اضافهٔ هم‌معنی |
+|---|---|---|---|
+| als | وقتی (یک‌بار، گذشته) | **Als** ich klein war, … | — ([[a22-als-wenn]]) |
+| wenn | وقتی/هر وقت | **Wenn** ich komme, … | bei |
+| bevor / ehe | قبل از اینکه | **Bevor** ich gehe, … | vor + D |
+| nachdem | بعد از اینکه | **Nachdem** ich gegessen hatte, … | nach + D ([[b11-plusquam]]) |
+| während | در حالی که، در طولِ | **Während** ich koche, … | während + G |
+| bis | تا (وقتی که) | Warte, **bis** ich komme! | bis zu + D |
+| seit / seitdem | از وقتی که | **Seit** ich hier wohne, … | seit + D |
+| sobald | به محض اینکه | **Sobald** ich Zeit habe, … | — |
+| solange | تا وقتی که، مادامی که | **Solange** du hier bist, … | — |
+| sooft | هر بار که | **Sooft** ich ihn sehe, … | — |
+
+## bevor: «قبل از اینکه» {#bevor}
+
+> **Bevor** ich ins Bett **gehe**, **lese** ich ein bisschen. = قبل از اینکه بخوابم، کمی کتاب می‌خوانم.
+> Ich rufe dich an, **bevor** ich **losfahre**. = قبل از اینکه راه بیفتم، بهت زنگ می‌زنم.
+
+:::fa
+فارسی بعد از «قبل از اینکه» **التزامی** می‌آورد («قبل از اینکه **بروم**»)، حتی در گذشته («قبل از اینکه **برود**، زنگ زد»). آلمانی زمان **واقعی** را می‌آورد:
+- «قبل از اینکه برود، زنگ زد.» ← `Bevor er **ging**, rief er an.`
+:::
+
+## während: «در حالی که / در طولِ» {#waehrend}
+
+> **Während** ich **koche**, **hört** mein Mann Musik. = در حالی که آشپزی می‌کنم، شوهرم موسیقی گوش می‌دهد.
+> **Während** des Essens (Genitiv) sprechen wir nicht. = هنگام غذا خوردن حرف نمی‌زنیم.
+
+`während` معنای «در حالی که» به معنی **تضاد** هم دارد (`Er ist reich, während sie arm ist.`) ← [[b21-adversativ]].
+
+## bis: «تا (وقتی که)» {#bis}
+
+> Ich warte hier, **bis** du **zurückkommst**. = اینجا منتظر می‌مانم تا برگردی.
+> Es dauert noch zwei Stunden, **bis** der Film **beginnt**. = هنوز دو ساعت مانده تا فیلم شروع شود.
+
+## seit / seitdem: «از وقتی که» {#seit}
+
+> **Seit** ich in Deutschland **wohne**, **spreche** ich besser Deutsch. = از وقتی در آلمان زندگی می‌کنم، آلمانی را بهتر صحبت می‌کنم.
+> **Seitdem** er Sport **macht**, **fühlt** er sich besser. = از وقتی ورزش می‌کند، حالش بهتر است.
+
+مثل حرف اضافهٔ `seit`، وقتی وضعیت هنوز ادامه دارد از **زمان حال** استفاده کنید ([[a21-zeitpraep#seit]]).
+
+## sobald و solange {#sobald}
+
+> **Sobald** ich das Ergebnis **habe**, **melde** ich mich. = به محض اینکه نتیجه را بگیرم، خبر می‌دهم.
+> **Solange** du Fieber **hast**, **musst** du im Bett bleiben. = تا وقتی تب داری، باید در رختخواب بمانی.
+
+:::warn bis یا solange؟
+- `bis` = تا **لحظهٔ** پایان (بعدش وضعیت عوض می‌شود): `Ich warte, bis du kommst.`
+- `solange` = **در طول مدتی** که چیزی برقرار است: `Ich warte, solange du telefonierst.`
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| فارسی | آلمانی |
+|---|---|
+| قبل از اینکه | bevor |
+| بعد از اینکه | nachdem |
+| در حالی که / وقتی که (هم‌زمان) | während |
+| **تا** (وقتی که) | bis |
+| از وقتی که | seit(dem) |
+| به محض اینکه / همین که | sobald |
+| تا زمانی که / مادامی که | solange |
+| هر بار که | sooft / (immer) wenn |
+
+دقت کنید: «**تا**» فارسی چند معنی دارد: «تا برگردی» (`bis`)، «آمدم **تا** ببینمت» (`um … zu` / `damit` ← [[b11-umzu-damit]]). اول معنی را مشخص کنید.
+
+ترتیب کلمات در همهٔ این جمله‌ها مثل فارسی است (فعل آخر)؛ فقط مراقب «فعل، فعل» باشید ([[a21-weil#vorne]]).
+:::
+
+## خودآزمایی {#quiz}
+
+?? «قبل از اینکه غذا بخوری، دست‌هایت را بشوی!» => `Bevor du isst, wasch dir die Hände!`
+?? «در حالی که او می‌خوابید، من کتاب خواندم.» => `Während er schlief, habe ich gelesen.` / `…, las ich.`
+?? «صبر کن تا باران بند بیاید!» (aufhören) => `Warte, bis der Regen aufhört!`
+?? «به محض اینکه به خانه برسم، بهت پیام می‌دهم.» => `Sobald ich zu Hause bin, schreibe ich dir.`
+?? «از وقتی بچه داریم، کمتر می‌خوابیم.» => `Seit(dem) wir Kinder haben, schlafen wir weniger.`
+
+@@ b11-umzu-damit
+level: B1.1
+title: بیان هدف: um … zu و damit
+de: Finalsätze: „um … zu“ und „damit“
+tags: um zu, damit, برای اینکه, تا, هدف, Finalsatz, wozu, Zweck, um zu Infinitiv, فاعل یکسان, فاعل متفاوت, zum
+summary: «آمدم **تا** آلمانی یاد بگیرم»: اگر فاعل دو بخش یکی است ← `um … zu`؛ اگر متفاوت است → `damit`.
+---
+## دو ساختار {#zwei}
+
+:::rule
+| | شرط | ساختار |
+|---|---|---|
+| um … zu + مصدر | فاعل هر دو بخش **یکی** است | Ich lerne Deutsch, **um** in Deutschland **zu** studieren. |
+| damit + جملهٔ پیرو | فاعل‌ها **متفاوت**‌اند (یا یکی) | Ich spreche langsam, **damit** du mich **verstehst**. |
+:::
+
+> Ich gehe in die Stadt, **um** eine Jacke **zu kaufen**. = به شهر می‌روم تا یک کت بخرم.
+> Er spart Geld, **um** ein Auto **zu kaufen**. = پول جمع می‌کند تا ماشین بخرد.
+> Ich erkläre es dir noch einmal, **damit** du es **verstehst**. = یک بار دیگر توضیح می‌دهم تا بفهمی.
+> Die Eltern arbeiten viel, **damit** ihre Kinder studieren **können**. = والدین زیاد کار می‌کنند تا بچه‌هایشان بتوانند درس بخوانند.
+
+## ساختار um … zu {#umzu}
+
+:::rule
+- `um` اول جملهٔ هدف، `zu` درست **قبل از مصدر** در آخر
+- **بدون فاعل** (فاعل همان فاعل جملهٔ اصلی است)
+- با فعل جداشدنی: `zu` **وسط**: `auf**zu**stehen`، `an**zu**rufen`
+- با ویرگول جدا می‌شود
+:::
+
+> Ich stelle den Wecker, **um** früh **aufzustehen**. = ساعت را کوک می‌کنم تا زود بیدار شوم.
+> **Um** gesund **zu bleiben**, **mache** ich Sport. = برای اینکه سالم بمانم، ورزش می‌کنم.
+
+## نکته‌های damit {#damit}
+
+- اگر فاعل یکی باشد هم می‌شود `damit` گفت، اما `um … zu` طبیعی‌تر است.
+- در جملهٔ `damit` معمولاً `wollen`/`sollen` نمی‌آید (خود `damit` معنی هدف را دارد): ~~damit du es verstehen sollst~~ → `damit du es verstehst`.
+- `damit` همچنین قید «با آن» است: `Ich habe einen Stift. Ich schreibe **damit**.` ([[a22-wo-da]])
+
+## سؤال: Wozu? {#wozu}
+
+> **Wozu** brauchst du das Geld? – **Um** ein Ticket **zu kaufen**. = پول را برای چه لازم داری؟ – برای خرید بلیت.
+در گفتار `Wofür?` و `Warum?` هم رایج است.
+
+## راه کوتاه: zum / für {#kurz}
+
+> Ich brauche Geld **für** ein Ticket. = برای بلیت پول لازم دارم.
+> Ich brauche eine Brille **zum Lesen**. = برای خواندن عینک لازم دارم. (zum + فعل اسم‌شده)
+
+## مقایسه با فارسی {#fa}
+
+:::fa «تا» و «برای اینکه»
+فارسی هدف را با «**تا**» یا «**برای اینکه**» + **التزامی** می‌گوید و تفاوتی بین فاعل یکسان و متفاوت نمی‌گذارد:
+- «آمدم **تا** (من) **ببینمت**» ← فاعل یکی ← `Ich bin gekommen, **um** dich **zu sehen**.`
+- «آمدم **تا** (تو) مرا **ببینی**» ← فاعل متفاوت ← `Ich bin gekommen, **damit** du mich **siehst**.`
+
+ترفند: اگر فاعل فعلِ التزامیِ فارسی همان فاعل جملهٔ اصلی است، `um … zu`؛ اگر نه، `damit`.
+
+ساختار `um … zu` شبیه گفتن «برای دیدنِ تو آمدم» (با مصدر) در فارسی است.
+:::
+
+## خودآزمایی {#quiz}
+
+?? با um … zu: `Ich lerne viel. Ich will die Prüfung bestehen.` => `Ich lerne viel, um die Prüfung zu bestehen.`
+?? با damit: `Ich gebe dir Geld. Du kannst ein Eis kaufen.` => `Ich gebe dir Geld, damit du ein Eis kaufen kannst.`
+?? با um … zu (فعل جداشدنی): `Er geht früh ins Bett. Er will früh aufstehen.` => `Er geht früh ins Bett, um früh aufzustehen.`
+?? «پنجره را باز می‌کنم تا هوای تازه بیاید.» (frische Luft hereinkommen) => `Ich öffne das Fenster, damit frische Luft hereinkommt.`
+?? «برای خرید نان به نانوایی می‌روم.» => `Ich gehe zur Bäckerei, um Brot zu kaufen.`
+
+@@ b11-zu-inf
+level: B1.1
+title: مصدر با zu (Infinitiv mit zu)
+de: Infinitivsätze mit „zu“
+tags: zu, مصدر با zu, Infinitiv mit zu, Infinitivsatz, versuchen zu, vergessen zu, anfangen zu, Lust haben zu, es ist wichtig zu, anzurufen, dass یا zu, فاعل یکسان
+summary: «سعی می‌کنم **بیایم**»، «یادم رفت **زنگ بزنم**»، «مهم است **که** ورزش **کنیم**»: بعد از بسیاری از فعل‌ها، صفت‌ها و اسم‌ها، مصدر با `zu` در آخر جمله می‌آید.
+---
+## ساختار {#struktur}
+
+:::rule
+**جملهٔ اصلی + , + … + zu + مصدر (آخر)**
+در بخش مصدری **فاعل** نمی‌آید.
+:::
+
+> Ich **versuche**, pünktlich **zu kommen**. = سعی می‌کنم سر وقت بیایم.
+> Er **hat vergessen**, mich **anzurufen**. = یادش رفت به من زنگ بزند.
+> **Es ist wichtig**, jeden Tag Deutsch **zu sprechen**. = مهم است هر روز آلمانی صحبت کنیم.
+> Ich **habe keine Lust**, heute **auszugehen**. = حوصله ندارم امروز بیرون بروم.
+
+:::note جایگاه zu
+- فعل ساده: `zu` + مصدر: `zu lernen`
+- فعل جداشدنی: `zu` **وسط**: `ein**zu**kaufen`، `auf**zu**räumen` ([[a11-trennbar#andere]])
+- فعل جدانشدنی: قبل از فعل: `zu verstehen`، `zu besuchen`
+- با فعل کمکی/وجهی، `zu` قبل از **آخرین** مصدر: `gelernt **zu** haben` ([[b22-inf-perfekt]])
+:::
+
+## بعد از چه کلمه‌هایی؟ {#wann}
+
+| گروه | مثال‌ها |
+|---|---|
+| فعل‌ها | anfangen، aufhören، beginnen، versuchen، vergessen، vorhaben، beschließen، planen، hoffen، sich freuen، bitten، erlauben، verbieten، empfehlen، vorschlagen، helfen، drohen، versprechen، scheinen |
+| اسم + haben | Lust haben، Zeit haben، Angst haben، die Möglichkeit haben، keine Ahnung haben، Probleme haben |
+| es ist + صفت | Es ist wichtig / schwer / leicht / schön / verboten / möglich / nötig … |
+| صفت + sein | Ich bin bereit / froh / es gewohnt … |
+
+> Ich **habe vor**, nächstes Jahr nach Kanada **zu fliegen**. = قصد دارم سال بعد به کانادا پرواز کنم.
+> Der Arzt **hat mir empfohlen**, weniger Kaffee **zu trinken**. = دکتر توصیه کرد کمتر قهوه بنوشم.
+> **Es ist verboten**, hier **zu parken**. = پارک کردن اینجا ممنوع است.
+> Ich **habe Angst**, Fehler **zu machen**. = می‌ترسم اشتباه کنم.
+
+## بدون zu {#ohne}
+
+:::warn این‌ها مصدرِ **بدون** zu می‌گیرند
+- افعال وجهی: `Ich **kann** schwimmen.` ([[a11-modal1]])
+- `werden` (آینده): `Ich **werde** kommen.`
+- `lassen`: `Ich **lasse** das Auto reparieren.` ([[a22-lassen]])
+- فعل‌های حرکت و حس و چند فعل دیگر: `gehen`، `sehen`، `hören`، `bleiben`، `lernen`: `Ich **gehe** schwimmen.` ([[b12-inf-ohne-zu]])
+:::
+
+## zu-Infinitiv یا dass؟ {#dass}
+
+:::rule
+- فاعل هر دو بخش **یکی** است (یا فاعل کلی است) ← معمولاً **zu-Infinitiv**
+- فاعل‌ها **متفاوت**‌اند ← **dass**
+:::
+
+| | |
+|---|---|
+| Ich hoffe, **dass ich** dich bald **sehe**. | Ich hoffe, dich bald **zu sehen**. (بهتر) |
+| Ich hoffe, **dass du** bald **kommst**. | — (فاعل‌ها فرق دارند؛ فقط dass) |
+
+استثنا: فعل‌هایی مثل `bitten`، `empfehlen`، `erlauben` که مفعولشان فاعل منطقی مصدر است: `Ich bitte **dich**, leise **zu sein**.` (= تو ساکت باشی)
+
+## ویرگول {#komma}
+
+ویرگول قبل از بخش مصدری در بسیاری موارد **اختیاری** است، اما توصیه می‌شود (و بعد از اسم یا ضمیرِ مرجع مثل `es`، `daran` اجباری است): `Ich freue mich **darauf**, dich zu sehen.` ([[a22-wo-da#nebensatz]])
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی برای این ساختار سه راه دارد:
+1. «**که** + التزامی»: «سعی می‌کنم (**که**) **بیایم**»
+2. **مصدر**: «شروع کردم **به نوشتن**»، «از **رانندگی** می‌ترسم»
+3. التزامی بدون «که»: «یادم رفت **زنگ بزنم**»
+
+آلمانی همه را با `zu` + مصدر می‌گوید، **به شرطی که** فاعل یکی باشد:
+| فارسی | آلمانی |
+|---|---|
+| سعی می‌کنم **بیایم**. | Ich versuche **zu kommen**. |
+| شروع کرد **به گریه کردن**. | Er fing an **zu weinen**. |
+| مهم است که **بخوابیم**. | Es ist wichtig **zu schlafen**. |
+| حوصله ندارم **بیرون بروم**. | Ich habe keine Lust **auszugehen**. |
+
+اشتباه رایج: در فارسی فعل التزامی شناسه دارد («بیای**م**»)، اما مصدر آلمانی هرگز صرف نمی‌شود: ~~Ich versuche zu komme~~.
+:::
+
+## ساختارهای خاص با zu {#spezial}
+
+- هدف: `um … zu` ([[b11-umzu-damit]])
+- `ohne … zu`، `(an)statt … zu` ([[b11-statt-ohne]])
+- `haben/sein + zu` (باید / می‌شود)، `brauchen + zu` ([[b12-brauchen]])
+- `scheinen … zu` (به نظر رسیدن): `Er scheint krank **zu sein**.`
+
+## خودآزمایی {#quiz}
+
+?? `Ich habe keine Zeit, ___.` (einkaufen) => `einzukaufen`
+?? «سعی می‌کنم کمتر قند بخورم.» => `Ich versuche, weniger Zucker zu essen.`
+?? «فراموش نکن چراغ را خاموش کنی!» (ausmachen) => `Vergiss nicht, das Licht auszumachen!`
+?? «یاد گرفتن آلمانی سخت است.» (es ist schwer) => `Es ist schwer, Deutsch zu lernen.`
+?? با zu-Inf بازنویسی کنید: `Ich hoffe, dass ich die Prüfung bestehe.` => `Ich hoffe, die Prüfung zu bestehen.`
+?? چرا نمی‌شود با zu گفت: `Ich hoffe, dass du kommst.`؟ => چون فاعل‌ها متفاوت‌اند (ich / du).
+
+@@ b11-statt-ohne
+level: B1.1
+title: (an)statt … zu و ohne … zu
+de: „(an)statt … zu“ und „ohne … zu“
+tags: statt zu, anstatt zu, ohne zu, به جای اینکه, بدون اینکه, ohne dass, statt dass, Infinitivkonstruktion
+summary: «**به جای اینکه** درس بخواند، بازی می‌کند»، «**بدون اینکه** خداحافظی کند، رفت»: دو ساختار مصدری مثل `um … zu`.
+---
+## ساختار {#struktur}
+
+:::rule
+| ساختار | معنی | مثال |
+|---|---|---|
+| (an)statt … zu + مصدر | به جای اینکه | **Statt** zu lernen, spielt er. |
+| ohne … zu + مصدر | بدون اینکه | Er ging, **ohne** sich **zu verabschieden**. |
+مثل `um … zu` ([[b11-umzu-damit#umzu]]): فاعل همان فاعل جملهٔ اصلی است و جملهٔ مصدری فاعل ندارد.
+:::
+
+> **Anstatt** zu arbeiten, **sieht** er fern. = به جای اینکه کار کند، تلویزیون نگاه می‌کند.
+> Sie hat das Handy gekauft, **ohne** den Preis **zu fragen**. = گوشی را خرید بدون اینکه قیمت را بپرسد.
+> **Ohne** ein Wort **zu sagen**, **verließ** er den Raum. = بدون اینکه کلمه‌ای بگوید، اتاق را ترک کرد.
+> Du solltest mehr schlafen, **statt** jede Nacht **auszugehen**. = به جای اینکه هر شب بیرون بروی، بهتر است بیشتر بخوابی.
+
+## با فاعل متفاوت: ohne dass / statt dass {#dass}
+
+اگر فاعل‌ها فرق داشته باشند، از جملهٔ پیرو با `dass` استفاده می‌کنیم:
+> Er hat das Auto genommen, **ohne dass** sein Vater es **wusste**. = ماشین را برداشت بدون اینکه پدرش خبر داشته باشد.
+> **Statt dass** du mir **hilfst**, sitzt du nur herum. = به جای اینکه کمکم کنی، فقط نشسته‌ای.
+
+(جزئیات بیشتر در [[b21-modalsatz]].)
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| فارسی | آلمانی (فاعل یکی) | آلمانی (فاعل متفاوت) |
+|---|---|---|
+| **به جای اینکه** … | (an)statt … zu | (an)statt dass |
+| **بدون اینکه** … | ohne … zu | ohne dass |
+
+باز هم فارسی بعد از «بدون اینکه» و «به جای اینکه» **التزامی** می‌آورد («بدون اینکه **بپرسد**»)، اما آلمانی یا مصدرِ بی‌شناسه (`zu fragen`) یا زمان واقعی (`ohne dass er **fragte**`).
+:::
+
+:::warn منفی دوبار نه!
+`ohne` خودش منفی است: «بدون اینکه بپرسد» → `ohne zu fragen` (نه ~~ohne nicht zu fragen~~).
+:::
+
+## خودآزمایی {#quiz}
+
+?? «بدون اینکه در بزند وارد شد.» (klopfen, hereinkommen) => `Er kam herein, ohne zu klopfen.`
+?? «به جای اینکه غر بزنی، کمک کن!» (meckern) => `Statt zu meckern, hilf mit!`
+?? «بدون اینکه کسی ببیند، رفت.» (فاعل متفاوت) => `Er ging, ohne dass jemand es sah.`
+?? «به جای اینکه با ماشین بروی، با دوچرخه برو!» => `Statt mit dem Auto zu fahren, fahr mit dem Fahrrad!`
+
+@@ b11-genitiv
+level: B1.1
+title: حالت Genitiv (مالکیت)
+de: Der Genitiv
+tags: Genitiv, مالکیت, اضافه, کسره اضافه, des, der, eines, einer, -s, -es, wessen, wegen, trotz, während, statt, innerhalb, außerhalb, von + Dativ, Peters Auto
+summary: «ماشینِ **پدرم**»، «پایانِ **فیلم**»: حالت چهارم آلمانی که مالکیت و وابستگی را نشان می‌دهد. ترتیبش دقیقاً مثل «اضافه» در فارسی است.
+---
+## صرف حرف تعریف {#tabelle}
+
+:::rule
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| معین | {m|**des** Mann**es**} | {f|**der** Frau} | {n|**des** Kind**es**} | {p|**der** Kinder} |
+| نامعین | {m|**eines** Mann**es**} | {f|**einer** Frau} | {n|**eines** Kind**es**} | — |
+| ملکی | {m|meines Vaters} | {f|meiner Mutter} | {n|meines Kindes} | {p|meiner Eltern} |
+:::
+
+:::tip دو نکته
+1. مذکر و خنثی: حرف تعریف `des`/`eines` **و** اسم هم `-s` یا `-es` می‌گیرد.
+2. مؤنث و جمع: `der`/`einer`/`meiner` و اسم **بدون تغییر**.
+:::
+
+### ‎-s‎ یا ‎-es‎؟
+| | پسوند | مثال |
+|---|---|---|
+| بیشتر اسم‌های چندهجایی | ‎-s‎ | des Vater**s**، des Computer**s**، des Lehrer**s** |
+| اسم‌های تک‌هجایی (معمولاً) | ‎-es‎ (یا ‎-s‎) | des Mann**es**، des Kind**es**، des Tag**es** |
+| اسم‌های ختم به ‎-s، ‎-ß، ‎-z، ‎-x، ‎-sch‎ | **حتماً** ‎-es‎ | des Haus**es**، des Fuß**es**، des Platz**es** |
+| n-Deklination | ‎-(e)n‎ | des Student**en**، des Herr**n** ([[b11-n-dekl]]) |
+
+## کاربرد ۱: مالکیت و وابستگی {#besitz}
+
+اسم در Genitiv **بعد از** اسمی می‌آید که توصیفش می‌کند:
+> das Auto **meines Vaters** = ماشینِ پدرم
+> die Farbe **des Hauses** = رنگِ خانه
+> das Ende **des Films** = پایانِ فیلم
+> die Wohnung **meiner Eltern** = آپارتمانِ والدینم
+> der Name **der Straße** = اسمِ خیابان
+
+سؤال: `**Wessen** Auto ist das? – Das ist das Auto meines Vaters.` = این ماشینِ کیست؟
+
+### اسم خاص: ‎-s‎ و قبل از اسم
+> **Peters** Auto = ماشینِ پیتر
+> **Annas** Bruder = برادرِ آنا
+> **Deutschlands** Hauptstadt = پایتختِ آلمان
+
+:::warn آپوستروف نه!
+برخلاف انگلیسی ~~Peter's~~ را ننویسید؛ فقط `Peters`. آپوستروف فقط وقتی اسم به s، ß، x، z ختم شود: `Klaus' Auto` / `Max' Hund`.
+:::
+
+## von + Dativ در گفتار {#von}
+
+در گفتار روزمره، Genitiv اغلب با **von + Dativ** جایگزین می‌شود:
+| نوشتار (Genitiv) | گفتار (von + Dativ) |
+|---|---|
+| das Auto meines Vaters | das Auto **von** meinem Vater |
+| die Freundin meines Bruders | die Freundin **von** meinem Bruder |
+
+با اسم‌های بدون حرف تعریف، `von` اجباری است: `der Preis **von** Häusern`، `die Mutter **von** Peter` (یا `Peters Mutter`).
+
+## کاربرد ۲: حروف اضافهٔ Genitiv {#praep}
+
+| حرف اضافه | معنی | مثال |
+|---|---|---|
+| wegen | به خاطرِ | **Wegen des** Regens bleiben wir hier. |
+| trotz | با وجودِ | **Trotz des** Regens gehen wir raus. |
+| während | در طولِ | **Während des** Films war es still. |
+| (an)statt | به جای | **Statt eines** Autos kaufe ich ein Fahrrad. |
+| innerhalb | در داخلِ / ظرفِ | **innerhalb einer** Woche |
+| außerhalb | بیرونِ / خارج از | **außerhalb der** Stadt |
+| aufgrund | به دلیلِ (رسمی) | **aufgrund der** Situation |
+| dank | به لطفِ (Gen/Dat) | **dank deiner** Hilfe |
+
+:::note در گفتار
+در گفتار `wegen`، `trotz` و `statt` اغلب با **Dativ** می‌آیند: `wegen **dem** Regen`. در نوشتار و امتحان از Genitiv استفاده کنید. حروف اضافهٔ Genitiv بیشتر در سطح B2: [[b22-praep-b2]].
+:::
+
+> **Wegen des** Streiks fährt heute kein Zug. = به خاطر اعتصاب امروز هیچ قطاری حرکت نمی‌کند.
+> **Trotz** seiner Krankheit ist er zur Arbeit gekommen. = با وجود بیماری‌اش سر کار آمد.
+
+(جفت `wegen` ↔ `trotz` را با `weil` ↔ `obwohl` مقایسه کنید: [[a22-obwohl#drei]].)
+
+## صفت در Genitiv {#adjektiv}
+
+پسوند صفت در Genitiv همیشه `-en` است (جز در صرف قوی مؤنث و جمع):
+> der Preis **des neuen** Autos، die Meinung **meiner besten** Freundin، trotz **schlechten** Wetters
+
+## مقایسه با فارسی {#fa}
+
+:::fa Genitiv = کسرهٔ اضافهٔ فارسی
+Genitiv آلمانی و «اضافه» در فارسی **یک ترتیب** دارند: اول چیزِ تملک‌شده، بعد مالک:
+| فارسی | آلمانی |
+|---|---|
+| ماشین**ِ** پدرم | das Auto **meines Vaters** |
+| رنگ**ِ** خانه | die Farbe **des Hauses** |
+| پایان**ِ** فیلم | das Ende **des Films** |
+
+فارسی این را با یک کسره («ـِ») نشان می‌دهد و آلمانی با تغییر حرف تعریف مالک (`des`، `der`). پس هرجا در فارسی «اسم + ـِ + اسم» گفتید (و رابطه مالکیت/وابستگی است، نه صفت)، احتمالاً Genitiv لازم دارید.
+
+حروف اضافهٔ Genitiv هم در فارسی اغلب با اضافه می‌آیند: «به خاطر**ِ** باران» ← `wegen **des** Regens`، «با وجود**ِ** بیماری» → `trotz **der** Krankheit`.
+
+فقط برای اسم خاص، آلمانی می‌تواند مالک را **قبل** بگذارد (`Peters Auto`) که در فارسی نداریم.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «خانهٔ دوستم (مرد)» => `das Haus meines Freundes`
+?? «اسم شهر» => `der Name der Stadt`
+?? «اتاق بچه‌ها» => `das Zimmer der Kinder`
+?? «ماشین مریم» => `Maryams Auto` / `das Auto von Maryam`
+?? «به خاطر سرما» (die Kälte) => `wegen der Kälte`
+?? «در طول تعطیلات» (die Ferien, Pl.) => `während der Ferien`
+?? «ظرف یک ماه» => `innerhalb eines Monats`
+?? «پایان روز» (der Tag) => `das Ende des Tages`

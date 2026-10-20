@@ -1,0 +1,653 @@
+@@ a21-weil
+level: A2.1
+title: جمله‌وارهٔ علت با weil (فعل در آخر)
+de: Nebensätze mit „weil“
+tags: weil, چون, جمله پیرو, Nebensatz, فعل آخر, Verbletztstellung, علت, Grund, warum, ویرگول, Verb Komma Verb, denn
+summary: اولین «جملهٔ پیرو» (Nebensatz): بعد از `weil` فعل صرف‌شده به **آخر** جمله می‌رود؛ درست مثل جملهٔ فارسی!
+---
+## جملهٔ پایه و جملهٔ پیرو {#haupt-neben}
+
+تا اینجا فقط **جملهٔ پایه** (Hauptsatz) دیدیم که در آن فعل در جایگاه دوم است ([[a11-satzbau#v2]]). **جملهٔ پیرو** (Nebensatz) جمله‌ای است که به‌تنهایی کامل نیست و با یک «حرف ربط پیرو» مثل `weil`، `dass`، `wenn`، `ob` شروع می‌شود. در جملهٔ پیرو:
+
+:::rule
+**حرف ربط پیرو + فاعل + … + فعل صرف‌شده (آخرین کلمه)**
+و جملهٔ پیرو همیشه با **ویرگول** از جملهٔ پایه جدا می‌شود.
+:::
+
+| جملهٔ پایه | , | حرف ربط | میانه | فعل (آخر) |
+|---|---|---|---|---|
+| Ich bleibe zu Hause, | | **weil** | ich krank | **bin**. |
+| Er lernt Deutsch, | | **weil** | er in Berlin studieren | **möchte**. |
+| Wir sind müde, | | **weil** | wir lange gearbeitet | **haben**. |
+
+> Ich komme nicht, **weil** ich keine Zeit **habe**. = نمی‌آیم، چون وقت ندارم.
+> Sie ist glücklich, **weil** sie eine neue Wohnung **gefunden hat**. = خوشحال است، چون آپارتمان جدیدی پیدا کرده.
+> Warum lernst du Deutsch? – **Weil** ich in Deutschland **arbeiten will**. = چرا آلمانی یاد می‌گیری؟ – چون می‌خواهم در آلمان کار کنم.
+
+:::fa خبر بسیار خوب: جملهٔ پیرو آلمانی = ترتیب فارسی!
+در فارسی فعل همیشه آخر است: «چون وقت **ندارم**»، «چون آپارتمان جدیدی پیدا **کرده است**». جملهٔ پیرو آلمانی **دقیقاً همین ترتیب** را دارد:
+
+| فارسی | آلمانی |
+|---|---|
+| چون من امروز وقت **ندارم** | weil ich heute keine Zeit **habe** |
+| چون او کار پیدا **کرده است** | weil er Arbeit gefunden **hat** |
+| چون باید کار **کنم** | weil ich arbeiten **muss** |
+
+حتی ترتیب «کرده **است**» (اسم مفعول + فعل کمکی) با `gefunden **hat**` یکی است. پس در جملهٔ پیرو کافی است مثل فارسی فکر کنید!
+:::
+
+## فعل‌های چندبخشی در جملهٔ پیرو {#mehrteilig}
+
+:::rule
+**فعل صرف‌شده آخرین کلمه** است؛ بقیهٔ بخش‌ها (مصدر، اسم مفعول) درست قبل از آن.
+:::
+
+| جملهٔ پایه | جملهٔ پیرو |
+|---|---|
+| Ich **muss** arbeiten. | …, weil ich arbeiten **muss**. |
+| Ich **habe** gegessen. | …, weil ich gegessen **habe**. |
+| Ich **stehe** früh **auf**. | …, weil ich früh **aufstehe**. (پیشوند دوباره می‌چسبد!) |
+| Ich **rufe** dich **an**. | …, weil ich dich **anrufe**. |
+| Ich **bin** gestern **angekommen**. | …, weil ich gestern angekommen **bin**. |
+
+:::warn فعل جداشدنی دوباره یکی می‌شود
+در جملهٔ پیرو فعل جداشدنی جدا **نمی‌شود**: `…, weil der Zug um 8 Uhr **ankommt**.` (نه ~~kommt … an~~). ([[a11-trennbar#andere]])
+:::
+
+## جملهٔ پیرو در اول: «فعل، فعل» {#vorne}
+
+جملهٔ پیرو می‌تواند **قبل** از جملهٔ پایه بیاید. در این صورت کل جملهٔ پیرو **جایگاه ۱** جملهٔ پایه را می‌گیرد؛ پس جملهٔ پایه با **فعل** شروع می‌شود:
+
+:::rule
+| جایگاه ۱ (کل جملهٔ پیرو) | ۲ (فعل) | بقیه |
+|---|---|---|
+| Weil ich krank **bin**, | **bleibe** | ich zu Hause. |
+:::
+
+نتیجه: دو فعل کنار ویرگول به هم می‌رسند: «**bin, bleibe**». به این الگو «فعل، فعل» می‌گویند.
+
+> Weil es **regnet**, **nehmen** wir den Bus. = چون باران می‌آید، اتوبوس می‌گیریم.
+> Weil er keine Zeit **hatte**, **ist** er nicht **gekommen**. = چون وقت نداشت، نیامد.
+
+:::warn
+~~Weil ich krank bin, ich bleibe zu Hause.~~ غلط است (فعل باید در جایگاه ۲ باشد). این از رایج‌ترین خطاهاست، چون در فارسی بعد از جملهٔ «چون…» فاعل می‌آید: «چون مریضم، **من** خانه می‌مانم».
+:::
+
+## weil، denn، deshalb {#vergleich}
+
+سه راه برای بیان علت/نتیجه، با سه ترتیب متفاوت:
+
+| کلمه | نوع | جایگاه فعل | مثال |
+|---|---|---|---|
+| weil | پیرو | آخر | Ich bleibe hier, **weil** ich müde **bin**. |
+| denn | هم‌پایه (جایگاه ۰) | ۲ | Ich bleibe hier, **denn** ich **bin** müde. ([[a12-konnektoren]]) |
+| deshalb | قید (جایگاه ۱) | ۲ (وارونگی) | Ich bin müde, **deshalb bleibe** ich hier. ([[a22-deshalb-trotzdem]]) |
+
+توجه کنید: با `weil` و `denn` بعدش **علت** می‌آید؛ با `deshalb` بعدش **نتیجه**.
+
+:::note weil در گفتار
+در گفتار روزمره بعضی آلمانی‌زبان‌ها بعد از `weil` مکث می‌کنند و فعل را در جایگاه ۲ می‌گذارند (`…, weil – ich hab keine Zeit.`). این در امتحان و نوشتار **غلط** محسوب می‌شود؛ همیشه فعل را آخر بگذارید.
+:::
+
+## da: «چون» رسمی‌تر {#da}
+
+`da` هم مثل `weil` جملهٔ پیرو می‌سازد و بیشتر در نوشتار و وقتی علت **معلوم** است، معمولاً **اول جمله** می‌آید:
+> **Da** das Wetter schlecht **war**, **haben** wir zu Hause **gegessen**. = چون هوا بد بود، در خانه غذا خوردیم.
+
+## خودآزمایی {#quiz}
+
+?? وصل کنید با weil: `Ich gehe ins Bett. Ich bin müde.` => `Ich gehe ins Bett, weil ich müde bin.`
+?? با weil: `Sie lernt viel. Sie hat morgen eine Prüfung.` => `Sie lernt viel, weil sie morgen eine Prüfung hat.`
+?? با weil: `Er kommt zu spät. Er hat den Bus verpasst.` => `Er kommt zu spät, weil er den Bus verpasst hat.`
+?? با weil: `Ich bin glücklich. Meine Familie kommt morgen an.` => `Ich bin glücklich, weil meine Familie morgen ankommt.`
+?? جملهٔ پیرو را اول بیاورید: `Ich trinke Kaffee, weil ich müde bin.` => `Weil ich müde bin, trinke ich Kaffee.`
+?? غلط را درست کنید: `Weil es kalt ist, ich trage eine Jacke.` => `Weil es kalt ist, trage ich eine Jacke.`
+
+@@ a21-dass
+level: A2.1
+title: جمله‌واره با dass («که»)
+de: Nebensätze mit „dass“
+tags: dass, که, جمله پیرو, Nebensatz, ich glaube dass, ich denke, ich weiß, es ist wichtig dass, das یا dass, نقل قول, نظر
+summary: «فکر می‌کنم **که**…»، «می‌دانم **که**…»: `dass` همان «که»ی فارسی است و جمله‌واره‌ای با فعل در آخر می‌سازد.
+---
+## ساختار {#struktur}
+
+:::rule
+**جملهٔ پایه + , + dass + فاعل + … + فعل صرف‌شده**
+:::
+
+> Ich glaube, **dass** er morgen **kommt**. = فکر می‌کنم (که) فردا می‌آید.
+> Ich weiß, **dass** du recht **hast**. = می‌دانم (که) حق با توست.
+> Sie sagt, **dass** sie keine Zeit **hat**. = می‌گوید (که) وقت ندارد.
+> Es ist wichtig, **dass** du regelmäßig **lernst**. = مهم است (که) مرتب درس بخوانی.
+> Ich hoffe, **dass** es dir bald besser **geht**. = امیدوارم (که) به‌زودی حالت بهتر شود.
+
+قاعدهٔ فعل در آخر و «فعل، فعل» همان است که در [[a21-weil]] دیدید.
+
+## بعد از چه فعل‌ها و عبارت‌هایی؟ {#nach}
+
+| گروه | مثال‌ها |
+|---|---|
+| گفتن | sagen، erzählen، berichten، antworten، schreiben |
+| فکر و نظر | denken، glauben، meinen، finden، vermuten |
+| دانستن و فهمیدن | wissen، hören، lesen، sehen، merken، verstehen |
+| احساس | hoffen، sich freuen، fürchten، Angst haben |
+| عبارت‌های es ist + صفت | Es ist wichtig / schön / schade / klar / möglich, dass … |
+| صفت + sein | Ich bin sicher / froh / traurig, dass … |
+| عبارت‌های اسمی | Ich habe gehört, dass … / Das Problem ist, dass … |
+
+> Ich finde es **schade, dass** du nicht kommen kannst. = حیف است که نمی‌توانی بیایی.
+> Ich bin **froh, dass** alles gut gegangen ist. = خوشحالم که همه‌چیز خوب پیش رفت.
+
+:::fa dass = «که»
+`dass` دقیقاً همان «که»ی ربط فارسی است و ترتیب کلمات هم مثل فارسی است (فعل آخر):
+| فارسی | آلمانی |
+|---|---|
+| می‌دانم **که** او خسته **است**. | Ich weiß, **dass** er müde **ist**. |
+| امیدوارم **که** بیایی. | Ich hoffe, **dass** du **kommst**. |
+
+یک تفاوت: بعد از «امیدوارم»، «مهم است»، «می‌خواهم» فارسی **التزامی** می‌آورد («که بیایی»)؛ آلمانی **زمان حال ساده** («dass du kommst»).
+:::
+
+## حذف dass {#ohne}
+
+مثل فارسی («فکر کنم **∅** فردا می‌آید»)، در گفتار بعد از فعل‌های گفتن و فکر کردن می‌شود `dass` را انداخت. اما آن‌وقت جمله **جملهٔ پایه** می‌شود و فعل به **جایگاه ۲** برمی‌گردد:
+
+| با dass | بدون dass |
+|---|---|
+| Ich glaube, dass er morgen **kommt**. | Ich glaube, er **kommt** morgen. |
+| Sie sagt, dass sie krank **ist**. | Sie sagt, sie **ist** krank. |
+
+(این کار بعد از `es ist wichtig`، `ich bin froh` و مانند آن ممکن نیست.)
+
+## dass یا das؟ {#das-dass}
+
+:::warn اشتباه املایی رایج (حتی بین آلمانی‌ها!)
+| کلمه | نقش | مثال |
+|---|---|---|
+| das | حرف تعریف / ضمیر اشاره / ضمیر موصولی | **Das** Buch, **das** ich lese, ist gut. |
+| dass | حرف ربط «که» | Ich weiß, **dass** das Buch gut ist. |
+
+آزمون: اگر بتوانید به‌جایش `dieses` یا `welches` بگذارید، `das` است؛ وگرنه `dass`. (ضمیر موصولی `das` را در [[a22-relativ]] می‌بینید.)
+:::
+
+## جملهٔ dass در اول جمله {#vorne}
+
+> **Dass** du mir hilfst, **finde** ich toll. = اینکه کمکم می‌کنی، به نظرم عالی است.
+
+در این حالت جملهٔ dass در نقش فاعل یا مفعول جملهٔ اصلی است. این ساختار رسمی‌تر است.
+
+## dass در نقل قول غیرمستقیم {#indirekt}
+
+`dass` برای نقل حرف دیگران خیلی رایج است. در گفتار با زمان عادی؛ در خبر و نوشتار رسمی با Konjunktiv I: `Er sagt, dass er krank **sei**.` ([[b21-konj1]])
+
+## خودآزمایی {#quiz}
+
+?? وصل کنید: `Ich weiß. Du bist müde.` => `Ich weiß, dass du müde bist.`
+?? وصل کنید: `Er sagt. Er kommt heute nicht.` => `Er sagt, dass er heute nicht kommt.`
+?? وصل کنید: `Es ist wichtig. Man trinkt viel Wasser.` => `Es ist wichtig, dass man viel Wasser trinkt.`
+?? وصل کنید: `Ich hoffe. Du hast den Test bestanden.` => `Ich hoffe, dass du den Test bestanden hast.`
+?? `Ich glaube, ___ ___ Wetter morgen schön ist.` (das/dass) => `dass das`
+?? بدون dass بگویید: `Ich denke, dass sie recht hat.` => `Ich denke, sie hat recht.`
+
+@@ a21-wenn
+level: A2.1
+title: جملهٔ شرطی با wenn (اگر / هر وقت)
+de: Nebensätze mit „wenn“ (Bedingung)
+tags: wenn, اگر, هر وقت, شرط, Bedingung, Konditionalsatz, Nebensatz, dann, ob, falls, شرطی واقعی
+summary: «**اگر** وقت داشته باشم، می‌آیم» ← `Wenn ich Zeit habe, komme ich.` شرط واقعی در آلمانی با زمان حال ساده (نه التزامی) گفته می‌شود.
+---
+## ساختار {#struktur}
+
+:::rule
+**wenn** + فاعل + … + فعل (آخر)، و معمولاً جملهٔ wenn **اول** می‌آید ← «فعل، فعل»
+:::
+
+> **Wenn** ich Zeit **habe**, **komme** ich. = اگر وقت داشته باشم، می‌آیم.
+> **Wenn** es morgen **regnet**, **bleiben** wir zu Hause. = اگر فردا باران بیاید، خانه می‌مانیم.
+> Ich helfe dir, **wenn** du **willst**. = اگر بخواهی، کمکت می‌کنم.
+> **Wenn** du Hunger **hast**, (**dann**) **iss** doch etwas! = اگر گرسنه‌ای، خب یه چیزی بخور!
+
+:::note dann
+می‌توانید بعد از جملهٔ wenn کلمهٔ `dann` (آن‌وقت) را بگذارید؛ این `dann` جایگاه ۱ جملهٔ پایه را می‌گیرد: `Wenn ich Zeit habe, **dann komme** ich.`
+:::
+
+## دو معنی wenn {#bedeutung}
+
+| معنی | مثال | فارسی |
+|---|---|---|
+| شرط (اگر) | **Wenn** ich Geld habe, kaufe ich ein Auto. | اگر پول داشته باشم، ماشین می‌خرم. |
+| زمان تکراری (هر وقت، وقتی که) | **Wenn** ich nach Hause komme, trinke ich Tee. | هر وقت به خانه می‌آیم، چای می‌نوشم. |
+
+برای کاربرد زمانی `wenn` در برابر `als` (گذشته) به [[a22-als-wenn]] نگاه کنید.
+
+## مقایسه با فارسی {#fa}
+
+:::fa «اگر» + التزامی ← wenn + زمان حال
+در فارسی بعد از «اگر» برای آینده معمولاً **التزامی** می‌آوریم: «اگر **بیاید**»، «اگر وقت **داشته باشم**». آلمانی التزامی ندارد و از **زمان حال ساده** استفاده می‌کند:
+
+| فارسی | آلمانی |
+|---|---|
+| اگر **بیاید** | wenn er **kommt** |
+| اگر وقت **داشته باشم** | wenn ich Zeit **habe** |
+| اگر باران **بیاید** | wenn es **regnet** |
+
+ترتیب کلمات در جملهٔ wenn هم مثل فارسی است (فعل آخر). فقط بعد از ویرگول، فعل جملهٔ پایه را **اول** بیاورید: «اگر وقت داشته باشم، **می‌آیم**» ← `…, **komme** ich.`
+:::
+
+## wenn یا ob؟ (دام بزرگ) {#ob}
+
+:::warn
+هر دو در انگلیسی «if» ترجمه می‌شوند، اما:
+- `wenn` = «**اگر**» (شرط) یا «وقتی»
+- `ob` = «**آیا** / که آیا» (سؤال غیرمستقیم)
+
+> Ich weiß nicht, **ob** er kommt. = نمی‌دانم (آیا) می‌آید یا نه.
+> **Wenn** er kommt, freue ich mich. = اگر بیاید، خوشحال می‌شوم.
+
+برای فارسی‌زبان‌ها کار راحت‌تر است: هر جا «**آیا**» گفتید ← `ob`؛ هر جا «**اگر**» گفتید → `wenn`. درس کامل: [[a22-indirekte-frage]].
+:::
+
+## شرط‌های دیگر {#andere}
+
+| ساختار | معنی | درس |
+|---|---|---|
+| Wenn ich reich **wäre**, … | اگر پولدار **بودم** (غیرواقعی) | [[b11-konj2]] |
+| **falls** du Zeit hast | در صورتی که / اگر احیاناً | [[b21-konditional]] |
+| **Hast** du Zeit, (dann) … | شرط بدون wenn (فعل اول) | [[b21-konditional]] |
+| **Wenn** … **nicht**, … = **sonst** | وگرنه | [[a22-deshalb-trotzdem]] |
+
+## خودآزمایی {#quiz}
+
+?? وصل کنید (wenn اول): `Das Wetter ist schön. Wir gehen schwimmen.` => `Wenn das Wetter schön ist, gehen wir schwimmen.`
+?? «اگر خسته‌ای، بخواب!» => `Wenn du müde bist, schlaf!`
+?? «اگر بخواهی، می‌توانیم بعداً حرف بزنیم.» => `Wenn du willst, können wir später sprechen.`
+?? `Ich frage ihn, ___ er Zeit hat.` (wenn/ob) => `ob`
+?? «هر وقت مادرم زنگ می‌زند، خوشحال می‌شوم.» (anrufen, sich freuen) => `Wenn meine Mutter anruft, freue ich mich.`
+
+@@ a21-praet-modal
+level: A2.1
+title: گذشتهٔ ساده (Präteritum) افعال وجهی
+de: Präteritum der Modalverben
+tags: Präteritum, konnte, musste, durfte, wollte, sollte, mochte, گذشته افعال وجهی, می‌توانستم, مجبور بودم, باید, Modalverben Vergangenheit
+summary: «می‌توانستم»، «باید می‌رفتم»، «می‌خواستم»: افعال وجهی در گذشته تقریباً همیشه Präteritum‌اند: `konnte`، `musste`، `wollte`.
+---
+## صرف {#tabelle}
+
+:::rule ساختن
+**ریشه بدون اوملاوت + ‎-te‎ + شناسهٔ گذشته**
+:::
+
+| | können | müssen | dürfen | wollen | sollen | mögen |
+|---|---|---|---|---|---|---|
+| ich | konn**te** | muss**te** | durf**te** | woll**te** | soll**te** | moch**te** |
+| du | konntest | musstest | durftest | wolltest | solltest | mochtest |
+| er/sie/es | konn**te** | muss**te** | durf**te** | woll**te** | soll**te** | moch**te** |
+| wir | konnten | mussten | durften | wollten | sollten | mochten |
+| ihr | konntet | musstet | durftet | wolltet | solltet | mochtet |
+| sie/Sie | konnten | mussten | durften | wollten | sollten | mochten |
+
+:::tip سه نکته
+1. **اوملاوت حذف می‌شود**: ~~könnte~~ ← `konnte`، ~~müsste~~ → `musste`. (شکل‌های با اوملاوت `könnte`، `müsste` وجود دارند اما معنی‌شان «می‌توانستم/باید می‌…» در Konjunktiv II است! [[a22-konj2-hoeflich]])
+2. `mögen` → `mochte` (g به ch تبدیل می‌شود).
+3. مثل همهٔ Präteritum‌ها، `ich` = `er/sie/es` ([[a12-praet-sein-haben#tabelle]]).
+:::
+
+## möchten در گذشته؟ {#moechten}
+
+:::warn
+`möchten` شکل گذشته ندارد. برای «می‌خواستم» از `wollte` استفاده کنید:
+> Heute **möchte** ich ins Kino gehen. → Gestern **wollte** ich ins Kino gehen.
+:::
+
+## مثال‌ها {#beispiele}
+
+> Als Kind **konnte** ich nicht schwimmen. = بچه که بودم نمی‌توانستم شنا کنم.
+> Gestern **musste** ich lange arbeiten. = دیروز مجبور بودم تا دیروقت کار کنم.
+> Früher **durften** wir nicht allein ausgehen. = قبلاً اجازه نداشتیم تنها بیرون برویم.
+> Ich **wollte** dich anrufen, aber ich hatte keine Zeit. = می‌خواستم بهت زنگ بزنم، اما وقت نداشتم.
+> Du **solltest** doch um 8 Uhr hier sein! = تو قرار بود ساعت ۸ اینجا باشی!
+> Als Kind **mochte** ich keinen Spinat. = بچه که بودم اسفناج دوست نداشتم.
+
+## چرا Präteritum و نه Perfekt؟ {#warum}
+
+Perfekt افعال وجهی (`Ich habe arbeiten müssen`) ساختار پیچیده‌ای با «دو مصدر» دارد ([[b22-ersatzinf]]). برای همین در گفتار هم تقریباً همیشه Präteritum به کار می‌رود، مثل `war` و `hatte` ([[a12-praet-sein-haben#warum]]).
+
+## مقایسه با فارسی {#fa}
+
+:::fa دام «باید می‌رفتم»
+| آلمانی | معنی | فارسی |
+|---|---|---|
+| Ich **musste** gehen. | مجبور بودم بروم (و رفتم) | **مجبور شدم** بروم / باید می‌رفتم |
+| Ich **hätte** gehen **müssen**. | باید می‌رفتم (اما نرفتم) | باید می‌رفتم (و نرفتم!) |
+
+در فارسی «باید می‌رفتم» دو معنی دارد. در آلمانی این دو کاملاً جدا هستند. شکل دوم (پشیمانی، کار انجام‌نشده) را در [[b12-konj2-verg]] می‌خوانید.
+
+همین‌طور «می‌توانستم»:
+- `Ich **konnte** schwimmen.` = توانایی‌اش را داشتم (واقعیت گذشته).
+- `Ich **hätte** schwimmen **können**.` = می‌توانستم شنا کنم (اما نکردم).
+:::
+
+## خودآزمایی {#quiz}
+
+?? `ich` + `können` (گذشته) => `ich konnte`
+?? `wir` + `müssen` (گذشته) => `wir mussten`
+?? «دیروز می‌خواستم بیایم.» => `Gestern wollte ich kommen.`
+?? «بچه که بودم اجازه نداشتم تلویزیون ببینم.» (als Kind) => `Als Kind durfte ich nicht fernsehen.`
+?? `Er ___ (sollen) mich anrufen, aber er hat es vergessen.` => `sollte`
+
+@@ a21-reflexiv
+level: A2.1
+title: فعل‌های انعکاسی (sich)
+de: Reflexive Verben
+tags: sich, انعکاسی, بازتابی, reflexiv, Reflexivpronomen, mich, dich, sich freuen, sich waschen, sich setzen, sich beeilen, خود, خودم, sich interessieren, einander, mir die Hände
+summary: «خودم را می‌شویم»، «خوشحال می‌شوم»، «عجله می‌کنم»: بسیاری از فعل‌های آلمانی با ضمیر انعکاسی `sich` می‌آیند، حتی وقتی در فارسی «خود» نداریم.
+---
+## ضمایر انعکاسی {#pronomen}
+
+| | Akkusativ | Dativ |
+|---|---|---|
+| ich | mich | mir |
+| du | dich | dir |
+| er/sie/es | **sich** | **sich** |
+| wir | uns | uns |
+| ihr | euch | euch |
+| sie/Sie | **sich** | **sich** |
+
+:::tip
+فقط سوم‌شخص (مفرد و جمع) و `Sie` شکل تازه دارند: **sich** (همیشه با حرف کوچک، حتی برای Sie). بقیه همان ضمایر مفعولی‌اند که بلدید ([[a12-akk-pronomen]]، [[a12-dativ-pronomen]]).
+:::
+
+## دو نوع فعل انعکاسی {#arten}
+
+### ۱. انعکاسی «واقعی»: کار به خود فاعل برمی‌گردد
+فعل می‌تواند مفعول دیگری هم داشته باشد:
+> Ich wasche **mich**. = خودم را می‌شویم. / Ich wasche **das Auto**. = ماشین را می‌شویم.
+> Er rasiert **sich**. = (صورتش را) اصلاح می‌کند. / Er rasiert **seinen Vater**.
+> Sie zieht **sich** an. = لباس می‌پوشد. / Sie zieht **das Kind** an.
+
+### ۲. انعکاسی «ذاتی»: sich جزء فعل است
+در این فعل‌ها `sich` معنی «خود» ندارد و نمی‌شود جایش مفعول دیگری گذاشت:
+
+| فعل | معنی | مثال |
+|---|---|---|
+| sich freuen | خوشحال شدن | Ich **freue mich**. |
+| sich beeilen | عجله کردن | **Beeil dich**! |
+| sich erholen | استراحت کردن، بهبود یافتن | Wir **erholen uns** im Urlaub. |
+| sich fühlen | احساس کردن | Ich **fühle mich** gut. |
+| sich setzen | نشستن (عمل) | **Setzen Sie sich**! |
+| sich hinlegen | دراز کشیدن | Ich **lege mich** kurz hin. |
+| sich ausruhen | استراحت کردن | |
+| sich verspäten | دیر کردن | Der Zug **verspätet sich**. |
+| sich ärgern (über) | عصبانی شدن (از) | Er **ärgert sich** über den Lärm. |
+| sich interessieren (für) | علاقه داشتن (به) | Ich **interessiere mich** für Musik. |
+| sich erinnern (an) | به یاد آوردن | **Erinnerst du dich** an mich? |
+| sich kümmern (um) | رسیدگی کردن (به) | Sie **kümmert sich** um die Kinder. |
+| sich verlieben (in) | عاشق شدن | Er hat **sich** in sie **verliebt**. |
+| sich entschuldigen | عذرخواهی کردن | Ich **entschuldige mich**. |
+| sich bedanken (bei) | تشکر کردن (از) | |
+| sich anmelden | ثبت‌نام کردن | Ich **melde mich** für den Kurs **an**. |
+| sich vorstellen | خود را معرفی کردن | Darf ich **mich vorstellen**? |
+| sich treffen | همدیگر را دیدن | Wir **treffen uns** um 8. |
+| sich streiten | دعوا کردن | |
+| sich gewöhnen (an) | عادت کردن (به) | Ich **gewöhne mich** an das Wetter. |
+
+(بسیاری از این‌ها حرف اضافهٔ ثابت دارند؛ [[a22-verb-praep]].)
+
+## انعکاسی با Dativ {#dativ}
+
+:::rule
+اگر جمله **مفعول مستقیم دیگری** (Akkusativ) هم داشته باشد، ضمیر انعکاسی به **Dativ** می‌رود (فقط در ich و du فرق دیده می‌شود):
+:::
+
+| فقط sich | sich + مفعول دیگر |
+|---|---|
+| Ich wasche **mich**. | Ich wasche **mir** die Hände. |
+| Du ziehst **dich** an. | Du ziehst **dir** eine Jacke an. |
+| Ich kämme **mich**. | Ich kämme **mir** die Haare. |
+
+فعل‌هایی که همیشه Dativ-انعکاسی‌اند:
+> Ich **kaufe mir** ein neues Handy. = برای خودم گوشی نو می‌خرم.
+> **Stell dir** vor! = تصور کن! (`sich etwas vorstellen` = تصور کردن)
+> Ich **merke mir** die Nummer. = شماره را به خاطر می‌سپارم.
+> Ich **wünsche mir** ein Fahrrad. = آرزو دارم یک دوچرخه داشته باشم.
+> **Nimm dir** Zeit! = وقت بگذار!
+
+:::warn sich vorstellen دو معنی دارد
+- `Ich stelle **mich** vor.` (Akk) = خودم را معرفی می‌کنم.
+- `Ich stelle **mir** das vor.` (Dat) = آن را تصور می‌کنم.
+:::
+
+## جایگاه sich {#position}
+
+`sich` مثل بقیهٔ ضمایر، زود در جمله می‌آید (بلافاصله بعد از فعل، یا بعد از فاعلِ ضمیری):
+> Ich freue **mich** sehr auf den Urlaub.
+> Heute freue ich **mich** besonders.
+> Morgen treffen **sich** die Kollegen. / Morgen treffen die Kollegen **sich**. (هر دو ممکن)
+> …, weil ich **mich** nicht gut fühle.
+
+در Perfekt همهٔ فعل‌های انعکاسی با `haben` می‌آیند: `Ich habe mich gefreut.`
+
+## «همدیگر» (رابطهٔ متقابل) {#reziprok}
+
+در جمع، `sich/uns/euch` می‌تواند «همدیگر» معنی بدهد:
+> Wir **kennen uns** seit Jahren. = سال‌هاست همدیگر را می‌شناسیم.
+> Sie **lieben sich**. = همدیگر را دوست دارند.
+
+برای وضوح بیشتر (یا بعد از حرف اضافه): `einander`: `Sie helfen **einander**`، `Wir denken **aneinander**`.
+
+## مقایسه با فارسی {#fa}
+
+:::fa «خود» فارسی و sich آلمانی
+فارسی هم ضمیر انعکاسی دارد: «**خود**م را شستم»، «او **خود**ش را معرفی کرد». این‌ها با نوع اول (واقعی) یکی‌اند.
+
+اما بیشتر فعل‌های انعکاسی ذاتیِ آلمانی در فارسی **لازم** (ناگذر) هستند و «خود» ندارند:
+| آلمانی | فارسی |
+|---|---|
+| sich freuen | خوشحال **شدن** |
+| sich setzen | **نشستن** |
+| sich beeilen | عجله **کردن** |
+| sich verspäten | دیر **کردن** |
+| sich erholen | استراحت **کردن** |
+| sich ärgern | عصبانی **شدن** |
+
+پس قاعدهٔ ذهنی: بسیاری از فعل‌های فارسی با «**شدن**» (خوشحال شدن، عصبانی شدن، آماده شدن) در آلمانی **انعکاسی**‌اند. ترفند: به «شدن» که رسیدید، به `sich` فکر کنید.
+:::
+
+:::warn فراموش کردن sich
+`Ich freue.` جملهٔ ناقصی است. `Ich **freue mich**.` و `**Setz dich**!` (نه ~~Setz!~~).
+:::
+
+## خودآزمایی {#quiz}
+
+?? «خوشحالم.» => `Ich freue mich.`
+?? `Er ___ (sich setzen) auf das Sofa.` => `setzt sich`
+?? «دندان‌هایم را مسواک می‌زنم.» (sich die Zähne putzen) => `Ich putze mir die Zähne.`
+?? «عجله کن!» (du) => `Beeil dich!`
+?? «به موسیقی علاقه دارید؟» (Sie) => `Interessieren Sie sich für Musik?`
+?? «ما ساعت ۷ همدیگر را می‌بینیم.» => `Wir treffen uns um 7 Uhr.`
+?? `Ich wasche ___ die Hände.` => `mir`
+
+@@ a21-wechselpraep
+level: A2.1
+title: حروف اضافهٔ دوحالته (Wechselpräpositionen)
+de: Wechselpräpositionen: wo? (Dativ) – wohin? (Akkusativ)
+tags: حروف اضافه دوحالته, Wechselpräpositionen, in, an, auf, hinter, neben, über, unter, vor, zwischen, wo, wohin, Dativ, Akkusativ, im, ins, am, ans, روی, زیر, کنار, پشت, جلو, بین, بالای
+summary: نُه حرف اضافه که هم Dativ می‌گیرند و هم Akkusativ: `wo?` (مکان ثابت) → **Dativ**، `wohin?` (حرکت به سمت مقصد) ← **Akkusativ**.
+---
+## نُه حرف اضافه {#liste}
+
+| حرف اضافه | معنی | Dativ (wo?) | Akkusativ (wohin?) |
+|---|---|---|---|
+| in | در، داخلِ | Ich bin **im** Zimmer. | Ich gehe **ins** Zimmer. |
+| an | کنارِ، به (سطح عمودی، لبه) | Das Bild hängt **an der** Wand. | Ich hänge das Bild **an die** Wand. |
+| auf | روی (سطح افقی) | Das Buch liegt **auf dem** Tisch. | Ich lege das Buch **auf den** Tisch. |
+| über | بالای (بدون تماس) | Die Lampe hängt **über dem** Tisch. | Ich hänge die Lampe **über den** Tisch. |
+| unter | زیرِ | Die Katze schläft **unter dem** Bett. | Die Katze läuft **unter das** Bett. |
+| vor | جلوی | Das Auto steht **vor dem** Haus. | Ich stelle das Auto **vor das** Haus. |
+| hinter | پشتِ | Der Garten ist **hinter dem** Haus. | Er geht **hinter das** Haus. |
+| neben | کنارِ | Sie sitzt **neben mir**. | Sie setzt sich **neben mich**. |
+| zwischen | بینِ | Die Bank ist **zwischen der** Post **und dem** Café. | Stell den Stuhl **zwischen den** Tisch **und das** Fenster. |
+
+## قاعده {#regel}
+
+:::rule
+- **wo?** (کجا؟ مکان ثابت، یا حرکت **درون** یک محدوده) ← **Dativ**
+- **wohin?** (به کجا؟ تغییر مکان به سمت مقصد) ← **Akkusativ**
+:::
+
+> **Wo** bist du? – **Im** (in dem) Garten. = کجایی؟ – در باغ.
+> **Wohin** gehst du? – **In den** Garten. = کجا می‌روی؟ – به باغ.
+> Wir schwimmen **im** See. (Dat: حرکت درون دریاچه) = در دریاچه شنا می‌کنیم.
+> Wir springen **in den** See. (Akk: از بیرون به داخل) = به داخل دریاچه می‌پریم.
+
+:::tip ترفند
+حرکت **از نقطهٔ A به نقطهٔ B** ← Akkusativ. اگر فقط «جایی هستید» یا «جایی کاری می‌کنید» (حتی اگر حرکت کنید، مثل دویدن در پارک) ← Dativ.
+`Ich laufe **im** Park.` (در پارک می‌دوم: Dat) / `Ich laufe **in den** Park.` (به پارک می‌دوم: Akk)
+:::
+
+## ادغام‌ها {#verschmelzung}
+
+| Dativ | Akkusativ |
+|---|---|
+| in dem ← **im** | in das ← **ins** |
+| an dem ← **am** | an das ← **ans** |
+| | auf das ← **aufs** (گفتاری) |
+
+## an یا auf؟ {#an-auf}
+
+:::rule
+- **auf**: روی سطح **افقی** (میز، زمین، کف، تخت) یا فضای باز (بازار، میدان، مهمانی)
+- **an**: تماس با سطح **عمودی** (دیوار، در، تخته) یا **کنارِ** لبه/آب (پنجره، دریا، رودخانه، مرز)
+:::
+
+> Das Glas steht **auf dem** Tisch. / Das Plakat hängt **an der** Tür.
+> Wir sitzen **am** Fenster. = کنار پنجره نشسته‌ایم.
+> Wir fahren **ans** Meer. = به (کنار) دریا می‌رویم.
+> Er ist **auf dem** Markt / **auf der** Party. = در بازار / در مهمانی است.
+
+## کاربردهای غیرمکانی {#andere}
+
+این حروف در کاربردهای **زمانی** همیشه **Dativ** می‌گیرند:
+> **im** Sommer، **am** Montag، **vor** einer Woche، **in** zwei Tagen، **zwischen** den Jahren
+
+(جزئیات در [[a21-zeitpraep]].)
+
+در فعل‌های با حرف اضافهٔ ثابت، حالت را باید با فعل حفظ کرد (معمولاً `über` و `auf` → Akk): `warten **auf den** Bus`، `sprechen **über das** Wetter`، `Angst haben **vor dem** Hund` ([[a22-verb-praep]]).
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی بین «مکان» و «مقصد» با **عوض کردن حرف اضافه** فرق می‌گذارد: «**در** باغ هستم» / «**به** باغ می‌روم». آلمانی **همان حرف اضافه** را نگه می‌دارد و **حالت** را عوض می‌کند: `**in dem** Garten` / `**in den** Garten`.
+
+حروف اضافهٔ مکانی فارسی:
+| فارسی | آلمانی |
+|---|---|
+| در / داخلِ | in |
+| روی | auf (افقی) / an (عمودی) |
+| زیرِ | unter |
+| بالای | über |
+| جلوی | vor |
+| پشتِ | hinter |
+| کنارِ | neben / an |
+| بینِ | zwischen |
+
+نکته: فارسی برای «روی میز» و «روی دیوار» یک کلمه دارد؛ آلمانی دو تا (`auf dem Tisch`، `an der Wand`).
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Die Katze sitzt auf ___ Sofa.` (das) => `dem`
+?? `Ich lege das Handy auf ___ Tisch.` (der) => `den`
+?? `Wir gehen heute ___ Kino.` (in das) => `ins`
+?? `Das Bild hängt ___ Wand.` (an + die) => `an der`
+?? `Er hängt die Uhr ___ Wand.` => `an die`
+?? «کیف زیر میز است.» => `Die Tasche ist unter dem Tisch.`
+?? «تابستان به کنار دریا می‌رویم.» => `Im Sommer fahren wir ans Meer.`
+
+@@ a21-positionsverben
+level: A2.1
+title: stellen/stehen، legen/liegen، setzen/sitzen، hängen
+de: Positionsverben: stellen – stehen, legen – liegen, setzen – sitzen, hängen
+tags: stellen, stehen, legen, liegen, setzen, sitzen, hängen, stecken, گذاشتن, قرار دادن, ایستاده, خوابیده, wohin, wo, Wechselpräpositionen, gestellt, gestanden, gelegen
+summary: فارسی برای همه‌چیز می‌گوید «گذاشتن» و «هست». آلمانی دقیق می‌گوید شیء **ایستاده** است یا **خوابیده**، و فعل «گذاشتن» با فعل «بودن» فرق دارد.
+---
+## دو گروه فعل {#gruppen}
+
+| عمل (wohin? + Akk.) | حالت (wo? + Dat.) | شکل شیء |
+|---|---|---|
+| **stellen** (عمودی گذاشتن) | **stehen** (ایستاده بودن) | عمودی، روی پایه |
+| **legen** (خواباندن، گذاشتن) | **liegen** (خوابیده بودن) | افقی، پهن |
+| **setzen** (نشاندن) | **sitzen** (نشسته بودن) | نشسته |
+| **hängen** (آویختن) | **hängen** (آویزان بودن) | آویزان |
+| **stecken** (فرو کردن) | **stecken** (فرو رفته بودن) | داخل چیزی تنگ |
+
+:::rule
+- فعل‌های **عمل** (`stellen`، `legen`، `setzen`، `hängen`): **مفعول Akkusativ** دارند، **باقاعده‌اند**، و بعدشان حرف اضافهٔ دوحالته با **Akkusativ** (wohin?) می‌آید.
+- فعل‌های **حالت** (`stehen`، `liegen`، `sitzen`، `hängen`): **مفعول ندارند**، **بی‌قاعده‌اند**، و بعدشان حرف اضافه با **Dativ** (wo?) می‌آید.
+:::
+
+> Ich **stelle** die Flasche **auf den** Tisch. → Die Flasche **steht auf dem** Tisch.
+> Ich **lege** das Buch **auf den** Tisch. → Das Buch **liegt auf dem** Tisch.
+> Die Mutter **setzt** das Kind **auf den** Stuhl. → Das Kind **sitzt auf dem** Stuhl.
+> Ich **hänge** die Jacke **in den** Schrank. → Die Jacke **hängt im** Schrank.
+> Ich **stecke** den Schlüssel **ins** Schloss. → Der Schlüssel **steckt im** Schloss.
+
+## stehen یا liegen؟ {#welches}
+
+| stehen | liegen |
+|---|---|
+| بطری، لیوان (ایستاده) | کتاب، بشقاب، کاغذ، گوشی (پهن) |
+| کمد، مبل، صندلی، میز | فرش، بالش |
+| ماشین (پارک‌شده) | آدمی که دراز کشیده |
+| کتاب در قفسه (عمودی) | کتاب روی میز (خوابیده) |
+| ساختمان‌ها: Das Haus steht… | شهرها: Berlin liegt an der Spree. |
+
+:::note
+چیزهای «جغرافیایی» `liegen` دارند: `Hamburg **liegt** im Norden.` (هامبورگ در شمال قرار دارد). نوشته در روزنامه: `Was **steht** in der Zeitung?` (در روزنامه چه نوشته؟)
+:::
+
+## Perfekt {#perfekt}
+
+| عمل (باقاعده) | حالت (بی‌قاعده) |
+|---|---|
+| hat gestellt | hat gestanden |
+| hat gelegt | hat gelegen |
+| hat gesetzt | hat gesessen |
+| hat gehängt | hat gehangen |
+| hat gesteckt | hat gesteckt |
+
+(در جنوب: `ist gestanden/gelegen/gesessen`؛ [[a12-perfekt-sein#test]].)
+
+> Wohin **hast** du meine Brille **gelegt**? – Sie **hat** doch auf dem Tisch **gelegen**! = عینکم را کجا گذاشتی؟ – روی میز بود که!
+
+## «نشستن» و «گذاشتن خود» {#sich}
+
+برای خودِ شخص از شکل انعکاسی استفاده می‌شود ([[a21-reflexiv]]):
+| عمل (sich + Akk) | حالت (Dat) |
+|---|---|
+| Ich **setze mich** auf das Sofa. (می‌نشینم) | Ich **sitze** auf dem Sofa. (نشسته‌ام) |
+| Ich **lege mich** ins Bett. (دراز می‌کشم) | Ich **liege** im Bett. (دراز کشیده‌ام) |
+| Ich **stelle mich** neben dich. (کنارت می‌ایستم) | Ich **stehe** neben dir. (کنارت ایستاده‌ام) |
+
+## مقایسه با فارسی {#fa}
+
+:::fa «گذاشتن» یک کلمه، آلمانی چهار کلمه!
+فارسی فقط می‌گوید «کتاب را روی میز **گذاشتم**»، «بطری را روی میز **گذاشتم**»، «بچه را روی صندلی **گذاشتم/نشاندم**». آلمانی بسته به **شکل** شیء انتخاب می‌کند: `legen` (کتاب)، `stellen` (بطری)، `setzen` (بچه).
+
+همین‌طور برای «هست/قرار دارد»: «کتاب روی میز **است**» ← `liegt`، «بطری روی میز **است**» → `steht`. آلمانی‌ها برای این‌ها کمتر از `ist` استفاده می‌کنند.
+
+ترفند: قبل از گفتن، تصور کنید شیء **سرپاست** (`stehen/stellen`) یا **خوابیده** (`liegen/legen`).
+
+جالب اینکه فارسی هم برای انسان این تمایز را دارد: «**نشاندن**/**نشستن**»، «**خواباندن**/**خوابیدن**»، «**ایستاندن**/**ایستادن**». آلمانی همین منطق را برای **اشیا** هم به کار می‌برد.
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Ich ___ das Glas auf den Tisch.` (عمودی گذاشتن) => `stelle`
+?? `Das Handy ___ auf dem Sofa.` => `liegt`
+?? `Wohin hast du den Mantel ___?` (hängen) => `gehängt`
+?? `Der Mantel hat im Flur ___.` (hängen، حالت) => `gehangen`
+?? `Wir ___ uns an den Tisch.` (نشستن) => `setzen`
+?? «مونیخ در جنوب آلمان قرار دارد.» => `München liegt im Süden von Deutschland.`
+?? `Die Vase steht ___ Fenster.` (an + das، wo?) => `am`

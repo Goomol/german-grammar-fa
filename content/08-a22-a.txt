@@ -1,0 +1,705 @@
+@@ a22-praeteritum
+level: A2.2
+title: گذشتهٔ ساده (Präteritum) همهٔ فعل‌ها
+de: Das Präteritum
+tags: Präteritum, گذشته ساده, ماضی ساده, Imperfekt, machte, ging, kam, sah, فعل قوی, فعل ضعیف, Stammformen, سه شکل اصلی, روایت, داستان, نوشتار
+summary: زمان گذشتهٔ **نوشتار** و **روایت**: داستان، خبر، گزارش. فعل‌های باقاعده `-te` می‌گیرند و بی‌قاعده‌ها واکه‌شان را عوض می‌کنند.
+---
+## چه وقت Präteritum؟ {#gebrauch}
+
+:::rule
+| | گفتار (حرف زدن، پیام) | نوشتار (داستان، خبر، گزارش، کتاب) |
+|---|---|---|
+| بیشتر فعل‌ها | **Perfekt** | **Präteritum** |
+| sein، haben، افعال وجهی، es gibt | **Präteritum** | **Präteritum** |
+:::
+
+> **Perfekt (گفتار):** Gestern habe ich einen tollen Film gesehen.
+> **Präteritum (داستان):** Es **war** einmal ein König. Er **hatte** drei Töchter. Eines Tages **ging** er in den Wald… = روزی روزگاری پادشاهی بود. سه دختر داشت. روزی به جنگل رفت…
+
+:::note تفاوت شمال و جنوب
+در شمال آلمان Präteritum در گفتار هم کمی رایج‌تر است؛ در جنوب آلمان، اتریش و سوئیس تقریباً فقط Perfekt. معنی دو زمان یکی است.
+:::
+
+## فعل‌های باقاعده (ضعیف) {#schwach}
+
+:::rule
+**ریشه + ‎-te‎ + شناسهٔ گذشته**
+:::
+
+| | machen | arbeiten (‎-t‎) | شناسه |
+|---|---|---|---|
+| ich | mach**te** | arbeit**ete** | — |
+| du | mach**test** | arbeit**etest** | -st |
+| er/sie/es | mach**te** | arbeit**ete** | — |
+| wir | mach**ten** | arbeit**eten** | -n |
+| ihr | mach**tet** | arbeit**etet** | -t |
+| sie/Sie | mach**ten** | arbeit**eten** | -n |
+
+:::tip شناسه‌های گذشته
+در Präteritum **همهٔ** فعل‌ها `ich` و `er/sie/es` **بدون شناسه** و یکسان‌اند. همان الگوی `war` و `hatte` و افعال وجهی ([[a12-praet-sein-haben#tabelle]]، [[a21-praet-modal]]).
+:::
+
+ریشه‌های ‎-t، ‎-d، ‎-chn، ‎-ffn‎ یک `e` اضافه می‌گیرند (`arbeitete`، `redete`، `öffnete`)، درست مثل زمان حال ([[a11-praesens#stamm-t]]).
+
+## فعل‌های بی‌قاعده (قوی) {#stark}
+
+:::rule
+**ریشه با واکهٔ تغییرکرده + شناسهٔ گذشته** (بدون ‎-te‎)
+:::
+
+| | gehen | kommen | sehen | fahren |
+|---|---|---|---|---|
+| ich | **ging** | **kam** | **sah** | **fuhr** |
+| du | gingst | kamst | sahst | fuhrst |
+| er/sie/es | **ging** | **kam** | **sah** | **fuhr** |
+| wir | gingen | kamen | sahen | fuhren |
+| ihr | gingt | kamt | saht | fuhrt |
+| sie/Sie | gingen | kamen | sahen | fuhren |
+
+### فعل‌های بی‌قاعدهٔ پرکاربرد
+
+| مصدر | Präteritum | Perfekt | معنی |
+|---|---|---|---|
+| beginnen | begann | hat begonnen | شروع کردن |
+| bitten | bat | hat gebeten | خواهش کردن |
+| bleiben | blieb | ist geblieben | ماندن |
+| essen | aß | hat gegessen | خوردن |
+| fahren | fuhr | ist gefahren | رفتن (با وسیله) |
+| finden | fand | hat gefunden | پیدا کردن |
+| fliegen | flog | ist geflogen | پرواز کردن |
+| geben | gab | hat gegeben | دادن |
+| gehen | ging | ist gegangen | رفتن |
+| halten | hielt | hat gehalten | نگه داشتن |
+| helfen | half | hat geholfen | کمک کردن |
+| kommen | kam | ist gekommen | آمدن |
+| laufen | lief | ist gelaufen | دویدن |
+| lesen | las | hat gelesen | خواندن |
+| liegen | lag | hat gelegen | دراز کشیده بودن |
+| nehmen | nahm | hat genommen | گرفتن |
+| rufen | rief | hat gerufen | صدا زدن |
+| schlafen | schlief | hat geschlafen | خوابیدن |
+| schreiben | schrieb | hat geschrieben | نوشتن |
+| sehen | sah | hat gesehen | دیدن |
+| sitzen | saß | hat gesessen | نشسته بودن |
+| sprechen | sprach | hat gesprochen | صحبت کردن |
+| stehen | stand | hat gestanden | ایستاده بودن |
+| sterben | starb | ist gestorben | مردن |
+| treffen | traf | hat getroffen | ملاقات کردن |
+| trinken | trank | hat getrunken | نوشیدن |
+| tun | tat | hat getan | انجام دادن |
+| vergessen | vergaß | hat vergessen | فراموش کردن |
+| verlieren | verlor | hat verloren | گم کردن |
+| werden | wurde | ist geworden | شدن |
+| ziehen | zog | hat/ist gezogen | کشیدن / نقل مکان کردن |
+
+### فعل‌های مختلط
+`ich` شکل: `brachte` (bringen)، `dachte` (denken)، `kannte` (kennen)، `wusste` (wissen)، `nannte` (nennen)، `rannte` (rennen)
+
+فهرست کامل حدود ۱۵۰ فعل: ضمیمهٔ [[x-verben]].
+
+## الگوهای تغییر واکه {#ablaut}
+
+فعل‌های قوی چند الگوی تکرارشونده دارند که حفظ کردن را آسان می‌کنند:
+
+| الگو (حال – گذشته – اسم مفعول) | مثال‌ها |
+|---|---|
+| ei – ie – ie | bleiben – blieb – geblieben، schreiben – schrieb – geschrieben |
+| ei – i – i | reiten – ritt – geritten، schneiden – schnitt – geschnitten |
+| ie – o – o | fliegen – flog – geflogen، verlieren – verlor – verloren |
+| i – a – u | finden – fand – gefunden، trinken – trank – getrunken، singen – sang – gesungen |
+| i – a – o | beginnen – begann – begonnen، schwimmen – schwamm – geschwommen |
+| e – a – o | helfen – half – geholfen، sprechen – sprach – gesprochen |
+| e – a – e | geben – gab – gegeben، lesen – las – gelesen، sehen – sah – gesehen |
+| a – u – a | fahren – fuhr – gefahren، tragen – trug – getragen |
+| a – ie – a | schlafen – schlief – geschlafen، fallen – fiel – gefallen |
+
+:::tip سه شکل را با هم حفظ کنید
+هر فعل بی‌قاعده را به شکل «سه‌تایی» یاد بگیرید: **مصدر – Präteritum – Partizip II**: `gehen – ging – gegangen`. آلمانی‌ها به این می‌گویند «Stammformen».
+:::
+
+## فعل جداشدنی در Präteritum {#trennbar}
+
+مثل زمان حال، پیشوند به آخر می‌رود:
+> Ich **stand** um 6 Uhr **auf**. = ساعت ۶ بیدار شدم.
+> Der Zug **kam** pünktlich **an**. = قطار سر وقت رسید.
+> …, als der Film **anfing**. (جملهٔ پیرو: چسبیده)
+
+## مقایسه با فارسی {#fa}
+
+:::fa Präteritum = ماضی ساده
+Präteritum از نظر ساختار دقیقاً **ماضی ساده** فارسی است: بنِ گذشته + شناسه:
+| فارسی | آلمانی |
+|---|---|
+| رفت**م** | ich ging |
+| رفت**ی** | du ging**st** |
+| رفت | er ging |
+| رفت**یم** | wir ging**en** |
+
+شباهت جالب: بنِ گذشتهٔ بیشتر فعل‌های فارسی به «‌د» یا «‌ت» ختم می‌شود (خور**د**، رف**ت**، کر**د**) و فعل‌های باقاعدهٔ آلمانی هم در گذشته «‎-t‎» می‌گیرند (`mach**t**e`، `kauf**t**e`). در هر دو زبان، فعل‌های پرکاربرد بی‌قاعده‌اند (رفتن/رو، دیدن/بین ↔ gehen/ging، sehen/sah).
+
+تفاوت در **کاربرد** است: فارسی ماضی ساده را در گفتار هم به کار می‌برد («دیروز رفتم»)، اما آلمانی گفتاری Perfekt را ترجیح می‌دهد ([[a12-perfekt-haben#gebrauch]]).
+:::
+
+## خودآزمایی {#quiz}
+
+?? Präteritum `ich` از `kaufen` => `ich kaufte`
+?? Präteritum `er` از `gehen` => `er ging`
+?? Präteritum `wir` از `sprechen` => `wir sprachen`
+?? Präteritum `sie` (او زن) از `fahren` => `sie fuhr`
+?? Präteritum `du` از `arbeiten` => `du arbeitetest`
+?? به Präteritum: `Er kommt um 8 Uhr an.` => `Er kam um 8 Uhr an.`
+?? سه شکل `trinken`؟ => `trinken – trank – getrunken`
+
+@@ a22-als-wenn
+level: A2.2
+title: als و wenn برای زمان (وقتی که)
+de: Temporale Nebensätze mit „als“ und „wenn“
+tags: als, wenn, وقتی, وقتی که, هر وقت, زمانی که, گذشته, یک‌بار, تکرار, wann, Nebensatz, temporal
+summary: هر دو «وقتی» ترجمه می‌شوند: `als` برای اتفاقِ **یک‌باره در گذشته**، `wenn` برای **تکرار** یا **حال و آینده**.
+---
+## قاعده {#regel}
+
+:::rule
+| | گذشته | حال / آینده |
+|---|---|---|
+| **یک‌بار** (یک موقعیت، یک دوره) | **als** | **wenn** |
+| **تکراری** (هر بار که) | **(immer) wenn** | **(immer) wenn** |
+:::
+
+> **Als** ich ein Kind **war**, **wohnten** wir in Shiraz. = وقتی بچه بودم، در شیراز زندگی می‌کردیم. (یک دورهٔ مشخص)
+> **Als** ich in Berlin **ankam**, **regnete** es. = وقتی به برلین رسیدم، باران می‌آمد. (یک بار)
+> **Immer wenn** ich meine Oma **besuchte**, **backte** sie Kuchen. = هر وقت به مادربزرگم سر می‌زدم، کیک می‌پخت. (تکرار در گذشته)
+> **Wenn** ich nach Hause **komme**, **rufe** ich dich **an**. = وقتی به خانه رسیدم، بهت زنگ می‌زنم. (آینده)
+> **Wenn** es **regnet**, **nehme** ich den Bus. = وقتی (هر وقت) باران می‌آید، اتوبوس سوار می‌شوم. (تکرار در حال)
+
+هر دو جملهٔ پیرو با فعل در آخر می‌سازند ([[a21-weil#haupt-neben]]).
+
+:::tip آزمون ساده
+از خودتان بپرسید: «آیا می‌توانم بگویم **هر بار که**…؟»
+- اگر بله ← `wenn`
+- اگر نه و گذشته است ← `als`
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa «وقتی» = دو کلمه
+فارسی برای هر دو یک کلمه دارد: «**وقتی**» (یا «**زمانی که**»). آلمانی بین یک‌بار در گذشته (`als`) و بقیه (`wenn`) فرق می‌گذارد. فارسی فقط برای تکرار گاهی «**هر وقت**» یا «**هر بار که**» می‌گوید؛ این دقیقاً `(immer) wenn` است.
+
+| فارسی | آلمانی |
+|---|---|
+| وقتی بچه بودم | **als** ich Kind war |
+| وقتی به خانه برسم | **wenn** ich nach Hause komme |
+| هر وقت می‌آمد | **(immer) wenn** er kam |
+:::
+
+## wann، wenn، als: سه کلمهٔ گیج‌کننده {#wann}
+
+:::warn
+| کلمه | نقش | مثال |
+|---|---|---|
+| wann | کلمهٔ پرسشی: «کِی؟» (مستقیم یا غیرمستقیم) | **Wann** kommst du? / Ich weiß nicht, **wann** er kommt. |
+| wenn | «وقتی (حال/آینده/تکرار)» یا «اگر» | **Wenn** du kommst, … |
+| als | «وقتی (یک‌بار، گذشته)» | **Als** du kamst, … |
+
+«کِی» ← همیشه `wann`. «وقتی/اگر» → هرگز `wann`.
+:::
+
+## کاربردهای دیگر als {#als-andere}
+
+| کاربرد | مثال | درس |
+|---|---|---|
+| مقایسه («از») | größer **als** ich | [[a21-komparativ#als-wie]] |
+| نقش و سمت («به‌عنوان») | Ich arbeite **als** Kellner. | — |
+| als ob («انگار که») | Er tut so, **als ob** er krank wäre. | [[b21-als-ob]] |
+
+## خودآزمایی {#quiz}
+
+?? `___ ich 18 war, habe ich den Führerschein gemacht.` => `Als`
+?? `___ ich Zeit habe, lese ich.` => `Wenn`
+?? `Immer ___ er nach Hause kam, war er müde.` => `wenn`
+?? `Ich weiß nicht, ___ der Kurs beginnt.` => `wann`
+?? «وقتی به آلمان آمدم، هیچ آلمانی بلد نبودم.» => `Als ich nach Deutschland kam, konnte ich kein Deutsch.`
+?? «وقتی تابستان بیاید، به ایتالیا می‌رویم.» => `Wenn der Sommer kommt, fahren wir nach Italien.`
+
+@@ a22-indirekte-frage
+level: A2.2
+title: سؤال غیرمستقیم با ob و کلمه‌های پرسشی
+de: Indirekte Fragen mit „ob“ und W-Wort
+tags: سؤال غیرمستقیم, indirekte Frage, ob, آیا, که آیا, Wissen Sie, Können Sie mir sagen, wo, wann, wie, مؤدبانه, Nebensatz
+summary: «می‌دانید ایستگاه **کجاست**؟»، «نمی‌دانم **آیا** می‌آید»: سؤالِ داخل جمله دیگر ترتیب سؤال را ندارد؛ فعل به آخر می‌رود.
+---
+## دو نوع سؤال غیرمستقیم {#zwei}
+
+:::rule
+| سؤال مستقیم | سؤال غیرمستقیم | کلمهٔ ربط |
+|---|---|---|
+| W-Frage: **Wo wohnt** er? | Ich weiß nicht, **wo** er **wohnt**. | همان W-Wort |
+| Ja/Nein-Frage: **Kommt** er? | Ich weiß nicht, **ob** er **kommt**. | **ob** |
+در هر دو، فعل صرف‌شده **آخر** می‌آید (جملهٔ پیرو).
+:::
+
+> Weißt du, **wann** der Film **beginnt**? = می‌دانی فیلم کِی شروع می‌شود؟
+> Ich frage mich, **warum** sie nicht **angerufen hat**. = از خودم می‌پرسم چرا زنگ نزده.
+> Er möchte wissen, **ob** wir morgen Zeit **haben**. = می‌خواهد بداند آیا فردا وقت داریم.
+> Ich bin nicht sicher, **ob** das richtig **ist**. = مطمئن نیستم که آیا این درست است.
+
+## سؤال مؤدبانه {#hoeflich}
+
+سؤال غیرمستقیم **مؤدبانه‌تر** از سؤال مستقیم است؛ در موقعیت‌های رسمی خیلی به کار می‌رود:
+
+| مستقیم | مؤدبانه (غیرمستقیم) |
+|---|---|
+| Wo ist der Bahnhof? | **Können Sie mir sagen, wo** der Bahnhof **ist**? |
+| Wann fährt der Zug? | **Wissen Sie, wann** der Zug **fährt**? |
+| Gibt es hier ein WLAN? | **Darf ich fragen, ob** es hier WLAN **gibt**? |
+| Wie viel kostet das? | **Könnten Sie mir sagen, wie viel** das **kostet**? |
+
+## ob یا wenn؟ {#ob-wenn}
+
+یادآوری از [[a21-wenn#ob]]:
+:::warn
+- `ob` = «**آیا** / که آیا» (بعد از wissen، fragen، nicht sicher sein…)
+- `wenn` = «**اگر**» (شرط)
+
+> Ich weiß nicht, **ob** ich komme. = نمی‌دانم (آیا) می‌آیم یا نه.
+> ~~Ich weiß nicht, wenn ich komme.~~ (غلط؛ یعنی «نمی‌دانم اگر بیایم» که بی‌معنی است)
+:::
+
+## علامت سؤال {#zeichen}
+
+اگر جملهٔ اصلی خبری است، علامت سؤال نمی‌آید: `Ich weiß nicht, wo er wohnt.` اگر جملهٔ اصلی سؤال است، علامت سؤال می‌آید: `Weißt du, wo er wohnt?`
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی در سؤال غیرمستقیم ترتیب کلمات را تغییر نمی‌دهد: «می‌دانی **کجا زندگی می‌کند**؟». خوشبختانه جملهٔ پیرو آلمانی هم فعل را آخر می‌گذارد، پس ترتیبش به فارسی نزدیک است:
+| فارسی | آلمانی |
+|---|---|
+| نمی‌دانم **کجا** زندگی **می‌کند**. | Ich weiß nicht, **wo** er **wohnt**. |
+| نمی‌دانم **(که) آیا** فردا **می‌آید**. | Ich weiß nicht, **ob** er morgen **kommt**. |
+
+«آیا» در فارسی اختیاری است («نمی‌دانم فردا می‌آید یا نه»)، اما `ob` در آلمانی **اجباری** است. ترفند: در سؤال غیرمستقیمِ بله/خیر، اگر در فارسی می‌توانید «یا نه» را آخرش بگذارید، `ob` لازم دارید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? غیرمستقیم کنید: `Wo ist die Toilette?` (Können Sie mir sagen…) => `Können Sie mir sagen, wo die Toilette ist?`
+?? غیرمستقیم کنید: `Hat er Zeit?` (Ich frage ihn…) => `Ich frage ihn, ob er Zeit hat.`
+?? غیرمستقیم کنید: `Wann kommt der Bus?` (Weißt du…) => `Weißt du, wann der Bus kommt?`
+?? غیرمستقیم کنید: `Ist das Restaurant heute geöffnet?` (Wissen Sie…) => `Wissen Sie, ob das Restaurant heute geöffnet ist?`
+?? «نمی‌دانم چرا گریه می‌کند.» (weinen) => `Ich weiß nicht, warum er/sie weint.`
+
+@@ a22-konj2-hoeflich
+level: A2.2
+title: Konjunktiv II مؤدبانه: würde، hätte، wäre، könnte، sollte
+de: Konjunktiv II: Höflichkeit, Wünsche, Ratschläge
+tags: Konjunktiv II, würde, hätte, wäre, könnte, sollte, müsste, dürfte, مؤدبانه, Höflichkeit, Ratschlag, توصیه, آرزو, Wunsch, Ich hätte gern, Könnten Sie, An deiner Stelle
+summary: «ممکن است…؟»، «دوست داشتم…»، «بهتر است…»: شکل‌های Konjunktiv II برای درخواست مؤدبانه، آرزو و توصیه.
+---
+## شکل‌های پرکاربرد {#formen}
+
+| | werden ← würde | haben ← hätte | sein ← wäre | können ← könnte |
+|---|---|---|---|---|
+| ich | würde | hätte | wäre | könnte |
+| du | würdest | hättest | wär(e)st | könntest |
+| er/sie/es | würde | hätte | wäre | könnte |
+| wir | würden | hätten | wären | könnten |
+| ihr | würdet | hättet | wär(e)t | könntet |
+| sie/Sie | würden | hätten | wären | könnten |
+
+همین‌طور: `sollen → sollte`، `müssen → müsste`، `dürfen → dürfte`، `mögen → möchte` (همان möchte که از اول بلد بودید! [[a11-modal1#moechten]]).
+
+:::tip شکل ساختن
+این‌ها شبیه Präteritum هستند **به‌اضافهٔ اوملاوت** (اگر واکه a/o/u باشد):
+`hatte → h**ä**tte`، `war → w**ä**re`، `konnte → k**ö**nnte`، `wurde → w**ü**rde`، `musste → m**ü**sste`
+(`sollte` و `wollte` اوملاوت ندارند؛ پس Konjunktiv II آن‌ها با Präteritum یکی است.)
+:::
+
+## ۱. درخواست مؤدبانه {#bitte}
+
+| کمتر مؤدب | مؤدبانه (Konjunktiv II) |
+|---|---|
+| Können Sie mir helfen? | **Könnten** Sie mir helfen? |
+| Haben Sie Zeit? | **Hätten** Sie Zeit? |
+| Ist es möglich? | **Wäre** es möglich? |
+| Machen Sie das Fenster zu! | **Würden** Sie bitte das Fenster zumachen? |
+| Darf ich etwas fragen? | **Dürfte** ich etwas fragen? |
+
+> **Könnten** Sie mir bitte sagen, wie spät es ist? = ممکن است بفرمایید ساعت چند است؟
+> **Wären** Sie so nett und **würden** mir helfen? = لطف می‌کنید کمکم کنید؟
+
+## ۲. آرزو و خواسته {#wunsch}
+
+> Ich **hätte** gern ein Glas Wasser. = یک لیوان آب می‌خواستم.
+> Ich **würde** gern mitkommen. = دوست داشتم با شما بیایم.
+> Ich **wäre** jetzt gern am Meer. = کاش الان کنار دریا بودم.
+
+## ۳. توصیه و پیشنهاد {#rat}
+
+| ساختار | مثال | فارسی |
+|---|---|---|
+| du solltest … | Du **solltest** mehr schlafen. | بهتر است بیشتر بخوابی. |
+| An deiner Stelle würde ich … | An deiner Stelle **würde** ich zum Arzt gehen. | جای تو بودم پیش دکتر می‌رفتم. |
+| Wie wäre es mit …? | Wie **wäre** es mit einem Spaziergang? | یه پیاده‌روی چطوره؟ |
+| Wir könnten … | Wir **könnten** ins Kino gehen. | می‌توانیم برویم سینما. |
+| Es wäre besser, wenn … | Es **wäre** besser, wenn du anrufst. | بهتر است زنگ بزنی. |
+
+:::note sollte و müsste
+- `Du **solltest**…` = توصیهٔ دوستانه («بهتره…»)
+- `Du **müsstest**…` = ضرورتِ نرم‌شده («باید (راستش)…»)
+:::
+
+## würde + مصدر {#wuerde}
+
+برای بیشتر فعل‌ها (جز `sein`، `haben` و افعال وجهی) Konjunktiv II را با **würde + مصدر** می‌سازیم:
+
+:::rule
+**würde (صرف‌شده) در جایگاه ۲ + … + مصدر در آخر**
+:::
+
+> Ich **würde** gern Spanisch **lernen**. = دوست داشتم اسپانیایی یاد بگیرم.
+> **Würdest** du mir das Salz **geben**? = نمک را به من می‌دهی؟
+
+کاربرد اصلی Konjunktiv II یعنی شرط و آرزوی **غیرواقعی** («اگر پولدار بودم…») را در [[b11-konj2]] می‌خوانید.
+
+## مقایسه با فارسی {#fa}
+
+:::fa ادب از طریق «گذشته‌نمایی»
+فارسی هم برای ادب از شکل‌های **گذشته** استفاده می‌کند: «**می‌خواستم** بپرسم…» (در حالی که الان می‌خواهید بپرسید)، «یک چای **می‌خواستم**». آلمانی همین کار را با Konjunktiv II می‌کند که ظاهرش شبیه گذشته است: `Ich **hätte** gern…`، `Ich **wollte** fragen…`.
+
+معادل‌ها:
+| فارسی | آلمانی |
+|---|---|
+| **ممکنه / می‌شه** کمکم کنید؟ | **Könnten** Sie mir helfen? |
+| **دوست داشتم** بیام. | Ich **würde** gern kommen. |
+| **بهتره** استراحت کنی. | Du **solltest** dich ausruhen. |
+| **جای تو بودم**… | An deiner Stelle **würde** ich… |
+| **کاش**… | Ich **wünschte**… / Wenn … nur… ([[b11-konj2]]) |
+:::
+
+## خودآزمایی {#quiz}
+
+?? مؤدبانه کنید: `Können Sie das wiederholen?` => `Könnten Sie das (bitte) wiederholen?`
+?? «یک قهوه می‌خواستم.» (haben) => `Ich hätte gern einen Kaffee.`
+?? «بهتر است کمتر کار کنی.» => `Du solltest weniger arbeiten.`
+?? «جای تو بودم، این ماشین را نمی‌خریدم.» => `An deiner Stelle würde ich dieses Auto nicht kaufen.`
+?? «ممکن است پنجره را باز کنید؟» (würden) => `Würden Sie bitte das Fenster öffnen?`
+?? `ich` + `sein` (Konj. II) => `ich wäre`
+
+@@ a22-verb-praep
+level: A2.2
+title: فعل‌های حرف‌اضافه‌دار (Verben mit Präpositionen)
+de: Verben mit Präpositionen
+tags: فعل با حرف اضافه, حرف اضافه ثابت, Verben mit Präpositionen, warten auf, denken an, sich freuen auf, sich freuen über, sich interessieren für, Angst haben vor, träumen von, sprechen über, Präpositionalobjekt
+summary: «منتظرِ …»، «فکر کردن **به** …»، «علاقه داشتن **به** …»: بسیاری از فعل‌ها حرف اضافهٔ **ثابت** دارند که باید با خود فعل حفظ شود.
+---
+## چرا باید حفظ کرد؟ {#warum}
+
+در این فعل‌ها حرف اضافه **معنی مکانی** ندارد؛ بخشی از خود فعل است. حرف اضافه و **حالت** بعد از آن را نمی‌شود حدس زد:
+
+> Ich warte **auf den** Bus. = منتظر اتوبوس هستم. (auf + Akk، نه «روی»!)
+> Ich denke **an dich**. = به تو فکر می‌کنم.
+> Sie hat Angst **vor dem** Hund. = از سگ می‌ترسد. (vor + Dat، نه «جلوی»!)
+
+:::tip روش یادگیری
+هر فعل را به شکل یک «بستهٔ سه‌تایی» یاد بگیرید: **فعل + حرف اضافه + حالت**:
+`warten auf + A`، `träumen von + D`، `sich interessieren für + A`.
+روی فلش‌کارت هم همین‌طور بنویسید، با یک جملهٔ نمونه.
+:::
+
+## پرکاربردترین‌ها {#liste}
+
+### با Akkusativ
+| فعل | معنی | مثال |
+|---|---|---|
+| warten auf | منتظر … بودن | Ich warte **auf** meine Freundin. |
+| sich freuen auf | مشتاقِ (آینده) بودن | Ich freue mich **auf** den Urlaub. |
+| sich freuen über | خوشحال شدن از (حال/گذشته) | Ich freue mich **über** das Geschenk. |
+| denken an | فکر کردن به | Denkst du **an** mich? |
+| sich erinnern an | به یاد آوردن | Ich erinnere mich **an** den Tag. |
+| sich gewöhnen an | عادت کردن به | Ich gewöhne mich **an** das Wetter. |
+| sich interessieren für | علاقه داشتن به | Er interessiert sich **für** Politik. |
+| sich entscheiden für | تصمیم گرفتن به (انتخاب) | Ich habe mich **für** das rote Kleid entschieden. |
+| sich bedanken für | تشکر کردن بابت | Ich bedanke mich **für** die Hilfe. |
+| sich kümmern um | رسیدگی کردن به | Wer kümmert sich **um** den Hund? |
+| sich bewerben um | درخواست دادن برای | Sie bewirbt sich **um** eine Stelle. |
+| bitten um | خواهش کردن (چیزی) | Ich bitte Sie **um** Hilfe. |
+| sprechen über | صحبت کردن دربارهٔ | Wir sprechen **über** das Problem. |
+| sich ärgern über | عصبانی شدن از | Er ärgert sich **über** den Lärm. |
+| sich beschweren über | شکایت کردن از | |
+| lachen über | خندیدن به | Wir lachen **über** den Witz. |
+| achten auf | توجه کردن به | Achte **auf** den Verkehr! |
+| sich verlassen auf | اعتماد کردن به | Ich verlasse mich **auf** dich. |
+| sich vorbereiten auf | آماده شدن برای | Ich bereite mich **auf** die Prüfung vor. |
+| glauben an | ایمان/باور داشتن به | Glaubst du **an** Gott? |
+
+### با Dativ
+| فعل | معنی | مثال |
+|---|---|---|
+| Angst haben vor | ترسیدن از | Ich habe Angst **vor** Spinnen. |
+| träumen von | خواب/رؤیای … را دیدن | Ich träume **von** einem Haus am Meer. |
+| erzählen von | تعریف کردن از | Erzähl mal **von** deiner Reise! |
+| sprechen mit | صحبت کردن با | Ich spreche **mit** dem Chef. |
+| telefonieren mit | تلفنی صحبت کردن با | |
+| sich treffen mit | ملاقات کردن با | |
+| anfangen / beginnen mit | شروع کردن (کاری) | Wir fangen **mit** der Übung an. |
+| aufhören mit | دست کشیدن از | Er hört **mit** dem Rauchen auf. |
+| teilnehmen an | شرکت کردن در | Ich nehme **an** dem Kurs teil. |
+| fragen nach | سراغ … را گرفتن | Er fragt **nach** dem Weg. |
+| suchen nach | دنبال … گشتن | |
+| riechen / schmecken nach | بوی/مزهٔ … دادن | Es riecht **nach** Kaffee. |
+| gehören zu | جزوِ … بودن | Das gehört **zu** meinen Aufgaben. |
+| gratulieren zu | تبریک گفتن برای | Ich gratuliere dir **zum** Geburtstag. |
+| einladen zu | دعوت کردن به | Ich lade dich **zu** meiner Party ein. |
+| abhängen von | بستگی داشتن به | Das hängt **vom** Wetter ab. |
+| halten von | نظر داشتن دربارهٔ | Was hältst du **von** der Idee? |
+| sich verabschieden von | خداحافظی کردن از | |
+| sich erholen von | بهبود یافتن از | |
+
+فهرست کامل‌تر در ضمیمهٔ [[x-verb-praep]].
+
+:::tip قاعدهٔ سرانگشتی برای حالت
+وقتی حرف اضافهٔ دوحالته (`auf`، `über`، `an`، `in`…) جزء ثابت فعل است:
+- `über` ← **تقریباً همیشه Akkusativ**
+- `auf` ← **معمولاً Akkusativ**
+- `an` → هر دو (`denken an` + A، `teilnehmen an` + D)
+- `vor` ← **معمولاً Dativ**
+:::
+
+:::warn sich freuen auf یا über؟
+| | زمان | مثال |
+|---|---|---|
+| sich freuen **auf** + A | چیزی که **می‌آید** | Ich freue mich **auf** das Wochenende. (مشتاقم) |
+| sich freuen **über** + A | چیزی که **اتفاق افتاده** | Ich freue mich **über** deinen Besuch. (خوشحالم که آمدی) |
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی هم فعل‌های حرف‌اضافه‌دار دارد، اما حرف اضافه‌هایش با آلمانی جور نیست:
+
+| فارسی | آلمانی | تطابق |
+|---|---|---|
+| فکر کردن **به** | denken **an** | «به» ← an |
+| علاقه داشتن **به** | sich interessieren **für** | «به» ← für |
+| ترسیدن **از** | Angst haben **vor** | «از» ← vor |
+| منتظرِ … بودن | warten **auf** | «ـِ» ← auf |
+| صحبت کردن **دربارهٔ** | sprechen **über** | ✓ |
+| صحبت کردن **با** | sprechen **mit** | ✓ |
+| بستگی داشتن **به** | abhängen **von** | «به» ← von |
+
+نتیجه: حرف اضافهٔ فارسی را ترجمه نکنید؛ هر فعل آلمانی را با حرف اضافهٔ خودش حفظ کنید.
+:::
+
+## پرسیدن و جایگزینی {#weiter}
+
+«منتظر **چه** هستی؟» ← `**Worauf** wartest du?`؛ «منتظر **آن** هستم» → `Ich warte **darauf**`. درس بعدی: [[a22-wo-da]].
+
+## خودآزمایی {#quiz}
+
+?? `Ich warte ___ den Zug.` => `auf`
+?? `Er hat Angst ___ Hunden.` => `vor`
+?? `Wir sprechen ___ das Wetter.` => `über`
+?? `Ich freue mich ___ die Ferien.` (آینده) => `auf`
+?? `Sie interessiert sich ___ Kunst.` => `für`
+?? «به خانواده‌ام فکر می‌کنم.» => `Ich denke an meine Familie.`
+?? «در کلاس زبان شرکت می‌کنم.» (der Sprachkurs) => `Ich nehme an dem (am) Sprachkurs teil.`
+
+@@ a22-wo-da
+level: A2.2
+title: worauf / darauf: قیدهای حرف‌اضافه‌ای
+de: Präpositionaladverbien: wo(r)- und da(r)-
+tags: wo, da, worauf, darauf, woran, daran, wofür, dafür, worüber, darüber, womit, damit, auf wen, Präpositionaladverb, به چه, به آن, درباره‌اش
+summary: «منتظرِ **چه**؟» ← `Worauf?`؛ «منتظرِ **آن**» → `darauf`. برای اشیا حرف اضافه با `wo-` و `da-` ترکیب می‌شود؛ برای آدم‌ها نه.
+---
+## قاعده {#regel}
+
+:::rule
+| | شیء / مفهوم / موقعیت | شخص |
+|---|---|---|
+| سؤال | **wo(r)** + حرف اضافه | حرف اضافه + **wen/wem** |
+| جواب/ارجاع | **da(r)** + حرف اضافه | حرف اضافه + **ضمیر شخصی** |
+:::
+
+> **Worauf** wartest du? – Auf den Bus. Ich warte schon lange **darauf**. = منتظر چه هستی؟ – اتوبوس. خیلی وقته منتظرشم.
+> **Auf wen** wartest du? – Auf Anna. Ich warte schon lange **auf sie**. = منتظر چه کسی هستی؟ – آنا. خیلی وقته منتظرش هستم.
+
+> **Woran** denkst du? – An die Prüfung. / **An wen** denkst du? – An meine Mutter.
+> Ich interessiere mich **dafür**. / Ich interessiere mich **für ihn**.
+
+## ‎-r-‎ اتصال {#r}
+
+:::rule
+اگر حرف اضافه با **واکه** شروع شود، بین آن‌ها `r` می‌آید:
+`wo + auf → wo**r**auf`، `da + an → da**r**an`، `da + über → da**r**über`، `wo + in → wo**r**in`
+:::
+
+| حرف اضافه | wo- | da- |
+|---|---|---|
+| auf | worauf | darauf |
+| an | woran | daran |
+| über | worüber | darüber |
+| um | worum | darum |
+| in | worin | darin |
+| aus | woraus | daraus |
+| für | wofür | dafür |
+| mit | womit | damit |
+| von | wovon | davon |
+| zu | wozu | dazu |
+| nach | wonach | danach |
+| vor | wovor | davor |
+| bei | wobei | dabei |
+
+:::note
+با حروف اضافهٔ `ohne`، `seit`، `außer`، `gegenüber` و حروف اضافهٔ Genitiv این ترکیب ساخته نمی‌شود.
+:::
+
+## da- با جملهٔ کامل {#nebensatz}
+
+`da(r)-` می‌تواند به یک **جملهٔ dass** یا **مصدر با zu** که بعدش می‌آید اشاره کند. این ساختار بسیار رایج است:
+
+> Ich freue mich **darauf**, **dass** du kommst. = مشتاقم که بیایی.
+> Ich freue mich **darauf**, dich **zu sehen**. = مشتاقم ببینمت. ([[b11-zu-inf]])
+> Er denkt nicht **daran**, sein Zimmer aufzuräumen. = اصلاً به فکر مرتب کردن اتاقش نیست.
+> Es hängt **davon** ab, **ob** wir Zeit haben. = بستگی دارد که آیا وقت داریم یا نه.
+
+## کاربردهای دیگر {#andere}
+
+برخی از این کلمه‌ها معنای مستقل هم دارند:
+- `damit` = «تا اینکه» (حرف ربط هدف: [[b11-umzu-damit]])
+- `dabei` = «در همان حال / با اینکه»
+- `danach` = «بعد از آن» (زمانی)
+- `darum` = «به همین دلیل» ([[a22-deshalb-trotzdem]])
+- `wofür` در گفتار = «برای چی؟»
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی این‌ها را با «**به آن**»، «**از آن**»، «**درباره‌اش**»، «**به چه**»، «**از چه**» می‌گوید و تفاوتی بین آدم و شیء نمی‌گذارد («به او فکر می‌کنم» / «به آن فکر می‌کنم»). آلمانی برای **شیء** یک کلمهٔ ترکیبی می‌سازد (`daran`) و برای **شخص** حرف اضافه + ضمیر (`an ihn`).
+
+| فارسی | آلمانی |
+|---|---|
+| **به چه** فکر می‌کنی؟ | **Woran** denkst du? |
+| **به آن** فکر می‌کنم. | Ich denke **daran**. |
+| **به کی** فکر می‌کنی؟ | **An wen** denkst du? |
+| **به او** فکر می‌کنم. | Ich denke **an ihn/sie**. |
+| **درباره‌اش** صحبت کردیم. | Wir haben **darüber** gesprochen. |
+:::
+
+:::warn برای شیء «حرف اضافه + es» نگویید
+~~Ich warte auf es.~~ یا ~~Ich denke an es.~~ غلط است؛ درست: `Ich warte **darauf**.` / `Ich denke **daran**.`
+:::
+
+## خودآزمایی {#quiz}
+
+?? `___ wartest du?` – `Auf den Zug.` => `Worauf`
+?? `___ sprecht ihr?` – `Über den Film.` => `Worüber`
+?? `Mit ___ sprichst du?` – `Mit meinem Chef.` => `wem`
+?? `Interessierst du dich für Fußball? – Ja, ich interessiere mich sehr ___.` => `dafür`
+?? `Denkst du an deine Eltern? – Ja, ich denke oft ___.` => `an sie`
+?? «مشتاقم که تو را ببینم.» (sich freuen auf) => `Ich freue mich darauf, dich zu sehen.`
+
+@@ a22-relativ
+level: A2.2
+title: جملهٔ موصولی (Relativsatz) با der، die، das
+de: Relativsätze im Nominativ, Akkusativ und Dativ
+tags: جمله موصولی, Relativsatz, Relativpronomen, ضمیر موصولی, که, der die das, den, dem, denen, der Mann der, کسی که, چیزی که, Nebensatz
+summary: «مردی **که** آنجا ایستاده»، «کتابی **که** خریدم»: «که»ی موصولی در آلمانی با جنس اسم و نقشش در جمله تغییر می‌کند.
+---
+## ضمیر موصولی چیست؟ {#was}
+
+جملهٔ موصولی اسمی را توصیف می‌کند. در آلمانی با یک **ضمیر موصولی** شروع می‌شود که شکلش تقریباً همان **حرف تعریف معین** است:
+
+> Das ist der Mann, **der** neben mir wohnt. = این مردی است که کنار من زندگی می‌کند.
+> Das ist die Frau, **die** ich gestern getroffen habe. = این زنی است که دیروز دیدمش.
+> Das ist das Kind, **dem** ich helfe. = این بچه‌ای است که به او کمک می‌کنم.
+
+## جدول ضمایر موصولی {#tabelle}
+
+:::rule
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | der | die | das | die |
+| Akkusativ | den | die | das | die |
+| Dativ | dem | der | dem | **denen** |
+| Genitiv | **dessen** | **deren** | **dessen** | **deren** |
+:::
+
+فقط ‌خانه‌های پررنگ با حرف تعریف فرق دارند. Genitiv را در [[b11-relativ2]] می‌خوانید.
+
+## قاعدهٔ طلایی: دو سؤال {#regel}
+
+:::rule
+۱. **جنس و تعداد** ضمیر را **اسمِ مرجع** (اسمِ قبل از ویرگول) تعیین می‌کند.
+۲. **حالت** ضمیر را **نقشش در خودِ جملهٔ موصولی** تعیین می‌کند.
+:::
+
+مثال: `Der Mann, ___ ich helfe, ist nett.`
+1. مرجع: `der Mann` ← مذکر، مفرد
+2. در جملهٔ موصولی: `ich helfe ___` → `helfen` + Dativ ([[a12-dativ#nur-dat]])
+3. نتیجه: مذکر + Dativ = **dem** ← `Der Mann, **dem** ich helfe, ist nett.`
+
+| جمله | تحلیل | ضمیر |
+|---|---|---|
+| Der Mann, ___ dort steht, … | مذکر + فاعل (Nom.) | **der** |
+| Der Mann, ___ ich kenne, … | مذکر + مفعول (Akk.) | **den** |
+| Der Mann, ___ ich das Buch gebe, … | مذکر + گیرنده (Dat.) | **dem** |
+| Die Kinder, ___ wir helfen, … | جمع + Dat. | **denen** |
+
+## ساختار جمله {#struktur}
+
+:::rule
+- جملهٔ موصولی جملهٔ **پیرو** است: فعل صرف‌شده **آخر** ([[a21-weil#haupt-neben]]).
+- با **ویرگول** جدا می‌شود؛ اگر وسط جمله است، دو ویرگول.
+- معمولاً **بلافاصله بعد از** اسم مرجع می‌آید.
+:::
+
+> Die Wohnung, **die** wir gemietet **haben**, ist sehr hell. = آپارتمانی که اجاره کرده‌ایم خیلی روشن است.
+> Ich kenne einen Arzt, **der** Persisch **spricht**. = دکتری می‌شناسم که فارسی صحبت می‌کند.
+
+## با حرف اضافه {#praep}
+
+اگر فعل جملهٔ موصولی حرف اضافه دارد، حرف اضافه **قبل** از ضمیر موصولی می‌آید و حالت را تعیین می‌کند:
+
+> Das ist der Freund, **mit dem** ich nach Spanien fahre. = این دوستی است که با او به اسپانیا می‌روم.
+> Die Stadt, **in der** ich wohne, ist klein. = شهری که در آن زندگی می‌کنم کوچک است.
+> Das ist die Kollegin, **auf die** ich warte. = این همکاری است که منتظرش هستم.
+
+جزئیات بیشتر و `wo`، `was`، `wer` در [[b11-relativ2]].
+
+## مقایسه با فارسی {#fa}
+
+:::fa «که»ی موصولی و «ضمیر بازگشتی» فارسی
+فارسی برای همهٔ جمله‌های موصولی یک «**که**» ثابت دارد و نقش را با یک **ضمیر اضافی** داخل جمله نشان می‌دهد:
+- «مردی که **∅** آنجا ایستاده» (فاعل)
+- «مردی که دیدم**ش**» یا «… که **او را** دیدم» (مفعول)
+- «مردی که **به او** کمک می‌کنم» (گیرنده)
+- «دوستی که **با او** سفر می‌کنم» (با حرف اضافه)
+
+آلمانی آن ضمیر اضافه را ندارد؛ به‌جایش خودِ «که» (ضمیر موصولی) شکل عوض می‌کند و حرف اضافه **قبل** از آن می‌آید:
+| فارسی | آلمانی |
+|---|---|
+| مردی **که** آنجاست | der Mann, **der** dort ist |
+| مردی که دیدم**ش** | der Mann, **den** ich gesehen habe |
+| مردی که **به او** کمک می‌کنم | der Mann, **dem** ich helfe |
+| دوستی که **با او** سفر می‌کنم | der Freund, **mit dem** ich reise |
+
+ترفند: جملهٔ فارسی را با ضمیر بازگشتی بسازید؛ همان ضمیر (و حرف اضافه‌اش) را به اول جملهٔ موصولی منتقل و به شکل `der/den/dem…` تبدیل کنید.
+
+همچنین در فارسی معمولاً «ـی» به اسم مرجع می‌چسبد («مرد**ی** که»)؛ در آلمانی چنین نشانه‌ای نیست و فقط ویرگول داریم.
+:::
+
+:::warn das یا dass؟
+ضمیر موصولی `das` (با یک s) است: `das Buch, **das** ich lese`. `dass` (حرف ربط) هرگز بعد از اسم برای توصیف نمی‌آید ([[a21-dass#das-dass]]).
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Der Mann, ___ dort steht, ist mein Onkel.` => `der`
+?? `Die Frau, ___ ich liebe, heißt Mina.` => `die`
+?? `Das Auto, ___ ich gekauft habe, ist rot.` => `das`
+?? `Der Kollege, ___ ich helfe, ist neu.` => `dem`
+?? `Die Leute, ___ ich geschrieben habe, haben nicht geantwortet.` (schreiben + Dat) => `denen`
+?? `Das ist die Firma, ___ ___ ich arbeite.` (bei) => `bei der`
+?? وصل کنید: `Ich habe einen Freund. Er wohnt in Wien.` => `Ich habe einen Freund, der in Wien wohnt.`

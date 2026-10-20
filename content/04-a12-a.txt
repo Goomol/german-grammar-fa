@@ -1,0 +1,632 @@
+@@ a12-modal2
+level: A1.2
+title: افعال وجهی ۲: müssen، dürfen، wollen، sollen
+de: Modalverben (2): müssen, dürfen, wollen, sollen
+tags: فعل وجهی, Modalverben, müssen, dürfen, wollen, sollen, باید, نباید, لازم نیست, اجازه, خواستن, قرار است, muss, darf, will, soll, nicht müssen, nicht dürfen
+summary: چهار فعل وجهی دیگر و یک دام بزرگ برای فارسی‌زبان‌ها: `nicht müssen` یعنی «لازم نیست»، نه «نباید»!
+---
+## صرف {#konjugation}
+
+همه از الگوی مشترک افعال وجهی پیروی می‌کنند ([[a11-modal1#muster]]): `ich` = `er/sie/es` و بدون شناسه.
+
+| | müssen | dürfen | wollen | sollen |
+|---|---|---|---|---|
+| ich | **muss** | **darf** | **will** | **soll** |
+| du | musst | darfst | willst | sollst |
+| er/sie/es | **muss** | **darf** | **will** | **soll** |
+| wir | müssen | dürfen | wollen | sollen |
+| ihr | müsst | dürft | wollt | sollt |
+| sie/Sie | müssen | dürfen | wollen | sollen |
+
+ساختار جمله همان «قاب» است: فعل وجهی در جایگاه ۲، مصدر در آخر.
+> Ich **muss** heute lange **arbeiten**. = امروز باید تا دیروقت کار کنم.
+
+## müssen: باید (ضرورت) {#muessen}
+
+> Ich **muss** morgen früh aufstehen. = فردا باید زود بیدار شوم.
+> Du **musst** mehr Wasser trinken. = باید بیشتر آب بنوشی.
+> Wir **müssen** jetzt gehen. = الان باید برویم.
+
+## dürfen: اجازه داشتن {#duerfen}
+
+> **Darf** ich hier sitzen? = اجازه هست اینجا بنشینم؟
+> Hier **darf** man parken. = اینجا پارک کردن مجاز است.
+> Kinder **dürfen** hier nicht spielen. = بچه‌ها اینجا نباید بازی کنند (اجازه ندارند).
+
+:::tip Darf ich …?
+مؤدبانه‌ترین راه برای اجازه گرفتن: `Darf ich …?` (`Kann ich …?` خودمانی‌تر است). در مغازه هم فروشنده می‌پرسد: `Was **darf** es sein?` = «چه میل دارید؟/چی بدم خدمتتون؟»
+:::
+
+## nicht müssen ≠ nicht dürfen {#falle}
+
+:::warn بزرگ‌ترین دام افعال وجهی برای فارسی‌زبان‌ها
+| آلمانی | معنی واقعی | فارسی |
+|---|---|---|
+| Du **musst nicht** kommen. | آمدنت ضروری نیست | **لازم نیست** بیایی. |
+| Du **darfst nicht** kommen. | اجازه نداری بیایی | **نباید** بیایی. |
+
+در فارسی «باید» را با «نباید» منفی می‌کنیم و معنی **ممنوعیت** می‌دهد. اما در آلمانی `müssen` منفی‌شده فقط ضرورت را برمی‌دارد. برای «نباید» (ممنوع) از `nicht dürfen` استفاده کنید.
+
+> Am Sonntag **muss** ich **nicht** arbeiten. = یکشنبه‌ها لازم نیست کار کنم. (خوشحالم!)
+> Hier **darf** man **nicht** rauchen. = اینجا نباید سیگار کشید. (ممنوع)
+:::
+
+:::tip راه دیگر برای «لازم نیست»
+`nicht brauchen … zu`: `Du **brauchst nicht zu** kommen.` = لازم نیست بیایی. (درس [[b12-brauchen]])
+:::
+
+## wollen: خواستن (قصد، اراده) {#wollen}
+
+> Ich **will** Ärztin werden. = می‌خواهم پزشک بشوم.
+> Was **willst** du? = چی می‌خواهی؟
+> Wir **wollen** im Sommer ein Haus kaufen. = می‌خواهیم تابستان یک خانه بخریم.
+
+:::warn wollen یا möchten؟
+هر دو یعنی «خواستن»، اما:
+- `wollen`: قاطع، مستقیم، قصد جدی. در درخواست از دیگران گاهی **بی‌ادبانه** به نظر می‌رسد: `Ich will einen Kaffee!` ≈ «قهوه می‌خوام!» (مثل بچه‌ها)
+- `möchten`: مؤدبانه. در مغازه و رستوران همیشه: `Ich möchte einen Kaffee.`
+
+برای برنامه‌ها و آرزوها هر دو رایج‌اند: `Ich will/möchte Deutsch lernen.`
+:::
+
+:::warn will ≠ آینده
+انگلیسی‌زبان‌ها `Ich will` را با will (آینده) قاطی می‌کنند. در آلمانی `will` فقط یعنی «می‌خواهم». آینده با `werden` ساخته می‌شود ([[a21-werden]]).
+:::
+
+## sollen: خواستهٔ دیگری، توصیه، وظیفه {#sollen}
+
+`sollen` یعنی «باید»، اما بایدی که از **خواست کس دیگری** (یا قانون، پزشک، عرف) می‌آید، نه از ضرورت.
+
+> Der Arzt sagt, ich **soll** weniger Zucker essen. = دکتر می‌گوید باید (بهتر است) شکر کمتر بخورم.
+> Du **sollst** deine Mutter anrufen. = (به من گفتند بگویم) به مادرت زنگ بزنی.
+> Was **soll** ich machen? = چه کار کنم؟
+
+### پیشنهاد و سؤال: Soll ich …?
+> **Soll** ich das Fenster öffnen? = پنجره را باز کنم؟
+> **Sollen** wir ins Kino gehen? = برویم سینما؟
+
+:::fa sollen و التزامی فارسی
+فارسی برای این سؤال‌ها از **التزامی** استفاده می‌کند بدون هیچ فعل کمکی: «پنجره را **باز کنم**؟»، «**برویم** سینما؟». آلمانی التزامی ندارد و این معنی را با `sollen` می‌سازد: `Soll ich…?` = «…ـم؟». پس هر وقت خواستید به آلمانی بپرسید «بیام؟ بخرم؟ زنگ بزنم؟» از `Soll ich …?` استفاده کنید.
+:::
+
+### müssen یا sollen؟
+| | منبع «باید» | مثال |
+|---|---|---|
+| müssen | ضرورت، چاره‌ای نیست | Ich **muss** zum Arzt. (مریضم) |
+| sollen | خواستهٔ دیگری، توصیه | Ich **soll** zum Arzt gehen. (مادرم گفت) |
+
+شکل مؤدبانه‌تر توصیه (`du solltest`) را در [[a22-konj2-hoeflich]] می‌بینید.
+
+## جدول جمع‌بندی همهٔ افعال وجهی {#uebersicht}
+
+| فعل | معنی اصلی | فارسی | منفی | فارسیِ منفی |
+|---|---|---|---|---|
+| können | توانایی، امکان | می‌توانم | nicht können | نمی‌توانم |
+| dürfen | اجازه | اجازه دارم | nicht dürfen | **نباید** (ممنوع) |
+| müssen | ضرورت | باید | nicht müssen | **لازم نیست** |
+| sollen | خواست دیگری، توصیه | (قرار است/گفته‌اند) باید | nicht sollen | (گفته‌اند) نباید |
+| wollen | اراده، قصد | می‌خواهم | nicht wollen | نمی‌خواهم |
+| möchten | خواستن مؤدبانه | مایلم | nicht möchten | مایل نیستم |
+| mögen | دوست داشتن | دوست دارم | nicht mögen | دوست ندارم |
+
+## فعل وجهی بدون مصدر {#ohne}
+
+وقتی فعل حرکت یا «انجام دادن» از بافت روشن است، مصدر می‌افتد:
+> Ich **muss** nach Hause. (gehen) = باید بروم خانه.
+> **Darf** ich ins Kino? (gehen) = اجازه هست بروم سینما؟
+> Ich **will** das nicht. (machen/haben) = این را نمی‌خواهم.
+> Er **kann** gut Englisch. (sprechen) = انگلیسی‌اش خوب است.
+
+## کاربردهای دیگر {#mehr}
+
+افعال وجهی در گذشته: [[a21-praet-modal]]. در Perfekt (با «دو مصدر»: `Ich habe kommen müssen`): [[b22-ersatzinf]]. کاربرد «حدسی» (`Er muss krank sein` = حتماً مریض است): [[b21-modal-subj]].
+
+## خودآزمایی {#quiz}
+
+?? «لازم نیست امروز بیایی.» => `Du musst heute nicht kommen.`
+?? «اینجا نباید عکس گرفت.» (fotografieren) => `Hier darf man nicht fotografieren.`
+?? «برایت چای بیاورم؟» (bringen) => `Soll ich dir einen Tee bringen?`
+?? «او (زن) می‌خواهد مهندس شود.» => `Sie will Ingenieurin werden.`
+?? `ich` + `dürfen` => `ich darf`
+?? `Du ___ jetzt schlafen, sagt Mama.` (wollen/sollen?) => `sollst` (خواستهٔ مامان)
+
+@@ a12-imperativ
+level: A1.2
+title: وجه امری (Imperativ)
+de: Der Imperativ
+tags: امر, امری, دستور, Imperativ, Befehl, komm, kommt, kommen Sie, sei, seid, seien Sie, bitte, mal, دستور دادن, خواهش, درخواست
+summary: «بیا!»، «بنشینید!»، «برویم!»: آلمانی برای هر یک از du، ihr، Sie و wir شکل امری جداگانه دارد.
+---
+## چهار شکل امری {#formen}
+
+| مخاطب | ساختن | kommen | machen | warten |
+|---|---|---|---|---|
+| du | ریشه (+ ‎-e‎ اختیاری) | **Komm!** | **Mach!** | **Warte!** |
+| ihr | شکل ihr **بدون** ضمیر | **Kommt!** | **Macht!** | **Wartet!** |
+| Sie | فعل + **Sie** | **Kommen Sie!** | **Machen Sie!** | **Warten Sie!** |
+| wir (پیشنهاد) | فعل + **wir** | **Kommen wir!** | **Machen wir!** | **Warten wir!** |
+
+> **Komm** bitte her! = لطفاً بیا اینجا!
+> **Kinder, seid** leise! = بچه‌ها، ساکت باشید!
+> **Nehmen Sie** bitte Platz. = لطفاً بنشینید.
+> **Gehen wir!** = برویم!
+
+## شکل du با دقت {#du}
+
+:::rule ساختن امرِ du
+از شکل `du` در زمان حال شروع کنید، **ضمیر** و شناسهٔ `-st` را بردارید:
+`du kommst → Komm!`، `du schreibst → Schreib!`
+:::
+
+| قاعده | مثال |
+|---|---|
+| تغییر واکهٔ e ← i/ie **می‌ماند** | du nimmst → **Nimm!**، du isst → **Iss!**، du liest → **Lies!**، du gibst → **Gib!**، du sprichst → **Sprich!** |
+| تغییر واکهٔ a ← ä **نمی‌ماند** | du fährst → **Fahr!**، du schläfst → **Schlaf!** |
+| ریشه با ‎-t/-d‎ و … ← ‎-e‎ لازم | **Warte!**، **Arbeite!**، **Öffne!**، **Rechne!** |
+| فعل‌های ‎-eln/-ern‎ ← ‎-e‎ | **Lächle!**، **Wandere!** |
+| در زبان رسمی/ادبی ‎-e‎ گاهی اضافه | Komme!، Sage! (کهنه به نظر می‌رسد) |
+
+:::warn
+`Fahr!` (نه ~~Fähr!~~) اما `Nimm!` (نه ~~Nehm!~~). قاعدهٔ ساده: اگر واکه در du به **i/ie** تغییر کرده، در امر هم بماند؛ اگر به **ä/äu** تغییر کرده، برگردد.
+:::
+
+## فعل sein در امر {#sein}
+
+| du | ihr | Sie | wir |
+|---|---|---|---|
+| **Sei!** | **Seid!** | **Seien Sie!** | **Seien wir!** |
+
+> **Sei** vorsichtig! = مراقب باش!
+> **Seien Sie** bitte pünktlich. = لطفاً سر وقت باشید.
+
+همین‌طور: `haben → Hab Geduld!`، `werden → Werd(e) nicht böse!`
+
+## فعل جداشدنی در امر {#trennbar}
+
+پیشوند به **آخر** جمله می‌رود ([[a11-trennbar]]):
+> **Mach** bitte die Tür **zu**! = لطفاً در را ببند!
+> **Ruf** mich morgen **an**! = فردا به من زنگ بزن!
+> **Steigen Sie** hier **aus**! = اینجا پیاده شوید!
+
+## مؤدب‌تر کردن امر {#hoeflich}
+
+امرِ خالی در آلمانی می‌تواند تند به نظر برسد. این کلمه‌ها آن را نرم می‌کنند:
+
+| کلمه | اثر | مثال |
+|---|---|---|
+| bitte | لطفاً | Komm **bitte**! |
+| mal | یه‌کم، یه لحظه (خودمانی، نرم) | Hör **mal**! / Komm **mal** her! |
+| doch | خب دیگه، بیا (تشویق یا بی‌صبری) | Komm **doch** mit! |
+| doch mal | ترکیب نرم | Probier **doch mal** den Kuchen! |
+
+:::note
+`doch` و `mal` «ادات گفتاری»اند و معنی دقیق ندارند، فقط لحن را عوض می‌کنند. کامل در [[b22-partikeln]].
+:::
+
+برای درخواست واقعاً مؤدبانه از **سؤال** استفاده کنید، نه امر:
+> **Können Sie** mir bitte helfen? = می‌توانید لطفاً کمکم کنید؟
+> **Könnten Sie** das Fenster schließen? = ممکن است پنجره را ببندید؟ ([[a22-konj2-hoeflich]])
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| فارسی | آلمانی | مخاطب |
+|---|---|---|
+| **بـ**یا! | Komm! | تو |
+| **بـ**یایید! | Kommt! | شما (جمع خودمانی) |
+| **بـ**فرمایید! / **بـ**یایید! | Kommen Sie! | شما (محترمانه) |
+| **بـ**یاییم! / بریم! | Kommen wir! / Gehen wir! | ما |
+| **نـ**یا! | Komm nicht! | منفی |
+
+- فارسی امر را با پیشوند «بـ» می‌سازد؛ آلمانی پیشوند ندارد.
+- امرِ محترمانهٔ فارسی («بیایید») همان شکل جمع است و ضمیر ندارد. در آلمانی ضمیر `Sie` **حتماً** بعد از فعل می‌آید: `Kommen **Sie**!` (بدون `Sie` اشتباه است).
+- منفی: فارسی «نـ» می‌گذارد («نیا»)، آلمانی `nicht` یا `kein`: `Komm **nicht**!`، `Mach **keinen** Lärm!`
+:::
+
+## نکته‌های نگارشی {#zeichen}
+
+- امر معمولاً با علامت تعجب نوشته می‌شود، اما در دستورالعمل‌ها نقطه هم رایج است: `Bitte nehmen Sie Platz.`
+- در دستور پخت‌وپز و تابلوها گاهی **مصدر** به جای امر می‌آید: `Bitte nicht rauchen!`، `Zwiebeln klein schneiden.`
+
+## خودآزمایی {#quiz}
+
+?? امرِ du از `lesen` => `Lies!`
+?? امرِ du از `fahren` => `Fahr!`
+?? امرِ ihr از `kommen` => `Kommt!`
+?? امرِ Sie از `warten` => `Warten Sie!`
+?? امرِ du از `aufstehen` => `Steh auf!`
+?? امرِ du از `sein` + leise => `Sei leise!`
+?? «لطفاً در را باز کنید (محترمانه).» (aufmachen) => `Machen Sie bitte die Tür auf!`
+
+@@ a12-akk-pronomen
+level: A1.2
+title: ضمایر مفعولی (mich, dich, ihn …)
+de: Personalpronomen im Akkusativ
+tags: ضمیر مفعولی, mich, dich, ihn, uns, euch, مرا, تو را, او را, ـَم, ـَت, ـَش, Personalpronomen Akkusativ, ضمیر متصل
+summary: «من را»، «تو را»، «او را»: ضمایر شخصی در نقش مفعول مستقیم شکل خاص خودشان را دارند.
+---
+## جدول ضمایر {#tabelle}
+
+| Nominativ | Akkusativ | فارسی |
+|---|---|---|
+| ich | **mich** | مرا / ـَم |
+| du | **dich** | تو را / ـَت |
+| er | **ihn** | او را (مرد) / ـَش |
+| sie | sie | او را (زن) / ـَش |
+| es | es | آن را / ـَش |
+| wir | **uns** | ما را / ـِمان |
+| ihr | **euch** | شما را / ـِتان |
+| sie | sie | آن‌ها را / ـِشان |
+| Sie | Sie | شما را (محترمانه) |
+
+:::tip
+مثل حرف تعریف ([[a11-akkusativ#tabelle]])، در سوم‌شخص فقط **مذکر** عوض می‌شود: `er → ihn` (درست مثل `der → den`؛ هر دو یک `n` گرفته‌اند!). `sie`، `es` و `Sie` تغییر نمی‌کنند.
+:::
+
+> Ich liebe **dich**. = دوستت دارم.
+> Kennst du **ihn**? = او را می‌شناسی؟
+> Er besucht **uns** morgen. = فردا به دیدن ما می‌آید.
+> Ich rufe **Sie** später an. = بعداً به شما زنگ می‌زنم.
+
+## ضمیر برای اشیا {#sachen}
+
+ضمیر از جنس دستوری اسم پیروی می‌کند ([[a11-genus#pronomen]]):
+
+| اسم (Akk.) | ضمیر | مثال |
+|---|---|---|
+| den Film | ihn | Wie findest du den Film? – Ich finde **ihn** toll. |
+| die Jacke | sie | Ich kaufe die Jacke. Ich nehme **sie**. |
+| das Buch | es | Liest du das Buch? – Ja, ich lese **es**. |
+| die Schuhe | sie | Die Schuhe? Ich trage **sie** nicht. |
+
+:::warn «آن را» برای مذکر = ihn
+`Wo ist mein Schlüssel? – Ich sehe **ihn** nicht.` = کلیدم کجاست؟ – آن را نمی‌بینم. خیلی‌ها برای «آن را» همیشه `es` می‌گویند که فقط برای اسم‌های خنثی درست است.
+:::
+
+## جایگاه ضمیر در جمله {#position}
+
+ضمیر مفعولی معمولاً **زود** در جمله می‌آید: بلافاصله بعد از فعل (و فاعل، اگر فاعل بعد از فعل باشد):
+
+> Ich sehe **dich** morgen. = فردا می‌بینمت.
+> Morgen sehe ich **dich**. = فردا می‌بینمت.
+> Ich kann **dich** nicht hören. = صدایت را نمی‌شنوم.
+
+جزئیات ترتیب ضمایر و اسم‌ها در [[a22-mittelfeld]].
+
+## ضمیر بعد از حرف اضافهٔ Akkusativ {#praep}
+
+بعد از حروف اضافه‌ای مثل `für`، `ohne`، `gegen` ([[a12-praep-akk]]):
+> Das Geschenk ist **für dich**. = هدیه برای توست.
+> Ohne **mich**! = بدون من! (یعنی من نیستم)
+> Was hast du **gegen ihn**? = با او چه مشکلی داری؟
+
+## مقایسه با فارسی {#fa}
+
+:::fa ضمایر متصل فارسی
+فارسی برای مفعول دو راه دارد:
+1. ضمیر جدا + «را»: «**او را** دیدم»
+2. ضمیر متصل به فعل: «دید**مش**»، «دوست**ت** دارم»، «می‌بین**مت**»
+
+آلمانی همیشه ضمیر **جدا** دارد اما جایش، مثل ضمیر متصل فارسی، **نزدیک فعل** است:
+| فارسی | آلمانی |
+|---|---|
+| می‌بینم**ت** | Ich sehe **dich**. |
+| می‌شناسی**ش**؟ | Kennst du **ihn**? |
+| دوست**ت** دارم | Ich liebe **dich**. / Ich hab **dich** gern. |
+
+نکته: در فارسی «ـَش» هم برای مرد است و هم زن و هم شیء؛ در آلمانی باید جنس را مشخص کنید: `ihn` / `sie` / `es`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «او (مرد) را می‌شناسم.» => `Ich kenne ihn.`
+?? «فردا تو را می‌بینم.» => `Ich sehe dich morgen.` / `Morgen sehe ich dich.`
+?? `Wo ist der Kuli? – Ich habe ___ nicht.` => `ihn`
+?? `Die Tasche ist schön. Ich kaufe ___.` => `sie`
+?? «این نامه برای شماست (محترمانه).» => `Der Brief ist für Sie.`
+?? «ما را فراموش نکن!» (vergessen، امرِ du) => `Vergiss uns nicht!`
+
+@@ a12-perfekt-haben
+level: A1.2
+title: زمان گذشته Perfekt با haben
+de: Das Perfekt mit „haben“
+tags: Perfekt, گذشته, ماضی, ماضی نقلی, haben, Partizip II, اسم مفعول, ge, gemacht, gegessen, gesehen, گذشته گفتاری, قاب جمله
+summary: رایج‌ترین زمان گذشته در گفتار آلمانی. از `haben` (صرف‌شده) + اسم مفعول (Partizip II) در آخر جمله ساخته می‌شود و ساختارش شبیه «ماضی نقلی» فارسی است.
+---
+## ساختار Perfekt {#struktur}
+
+:::rule
+**haben (یا sein) صرف‌شده در جایگاه ۲ + … + Partizip II در آخر جمله**
+| ۱ | ۲ (haben) | میانه | آخر (Partizip II) |
+|---|---|---|---|
+| Ich | **habe** | gestern Pizza | **gegessen**. |
+| Gestern | **hat** | Anna lange | **gearbeitet**. |
+| **Hast** | du | den Film | **gesehen**? |
+| Was | **habt** | ihr am Wochenende | **gemacht**? |
+:::
+
+باز هم «قاب جمله» ([[a11-trennbar#was]])! این بار دیوارهٔ دوم **اسم مفعول** است. بیشتر فعل‌ها با `haben` می‌آیند؛ فعل‌هایی که با `sein` می‌آیند در درس بعد هستند: [[a12-perfekt-sein]].
+
+## ساختن Partizip II: فعل‌های باقاعده {#regelmaessig}
+
+:::rule فعل‌های باقاعده (ضعیف)
+**ge- + ریشه + -t**
+`machen → **ge**mach**t**`، `kaufen → **ge**kauf**t**`، `spielen → **ge**spiel**t**`
+:::
+
+| حالت | قاعده | مثال |
+|---|---|---|
+| عادی | ge- + ریشه + -t | lernen → **ge**lern**t**، hören → **ge**hör**t** |
+| ریشه با ‎-t، ‎-d، ‎-chn، ‎-ffn‎ | ge- + ریشه + **-et** | arbeiten → **ge**arbeit**et**، öffnen → **ge**öffn**et** |
+| فعل‌های ‎-ieren‎ | **بدون ge-** + ‎-t‎ | studieren → studier**t**، telefonieren → telefonier**t** |
+| جدانشدنی (be-, ver-, er-…) | **بدون ge-** | besuchen → besuch**t**، verkaufen → verkauf**t**، erzählen → erzähl**t** |
+| جداشدنی | ge **وسط** | einkaufen → ein**ge**kauf**t**، aufmachen → auf**ge**mach**t** |
+
+:::tip قاعدهٔ ge-
+`ge-` فقط وقتی می‌آید که **تکیهٔ فعل روی هجای اول** ریشه باشد. در `stu**die**ren` و `be**su**chen` تکیه روی هجای اول نیست؛ پس `ge-` نمی‌گیرند. (به [[a11-alphabet#betonung]] برگردید.)
+:::
+
+## Partizip II: فعل‌های بی‌قاعده {#unregelmaessig}
+
+:::rule فعل‌های بی‌قاعده (قوی)
+**ge- + ریشه (اغلب با واکهٔ تغییرکرده) + -en**
+:::
+
+پرکاربردترین‌ها با `haben` (این‌ها را حفظ کنید):
+
+| مصدر | Partizip II | معنی |
+|---|---|---|
+| essen | gegessen | خوردن |
+| trinken | getrunken | نوشیدن |
+| sehen | gesehen | دیدن |
+| lesen | gelesen | خواندن |
+| schreiben | geschrieben | نوشتن |
+| sprechen | gesprochen | صحبت کردن |
+| nehmen | genommen | برداشتن |
+| geben | gegeben | دادن |
+| finden | gefunden | پیدا کردن |
+| helfen | geholfen | کمک کردن |
+| treffen | getroffen | ملاقات کردن |
+| schlafen | geschlafen | خوابیدن |
+| singen | gesungen | آواز خواندن |
+| tragen | getragen | پوشیدن، حمل کردن |
+| waschen | gewaschen | شستن |
+| anrufen | angerufen | تلفن زدن |
+| verstehen | verstanden | فهمیدن |
+| vergessen | vergessen | فراموش کردن |
+| bekommen | bekommen | دریافت کردن |
+
+### فعل‌های مختلط (ترکیبی)
+واکه عوض می‌شود **و** با `-t` تمام می‌شوند:
+
+| مصدر | Partizip II | معنی |
+|---|---|---|
+| bringen | gebracht | آوردن |
+| denken | gedacht | فکر کردن |
+| kennen | gekannt | شناختن |
+| wissen | gewusst | دانستن |
+| nennen | genannt | نامیدن |
+| haben | gehabt | داشتن |
+
+فهرست کامل در ضمیمهٔ [[x-verben]].
+
+## چه وقت از Perfekt استفاده کنیم؟ {#gebrauch}
+
+:::rule
+Perfekt زمان گذشتهٔ **گفتار** است: در گفت‌وگو، پیام، ایمیل شخصی. برای کارهای تمام‌شده در گذشته.
+در **نوشتار رسمی و داستان**، Präteritum رایج‌تر است ([[a22-praeteritum]]).
+:::
+
+> Gestern **habe** ich meine Oma **besucht**. = دیروز به دیدن مادربزرگم رفتم.
+> **Hast** du schon **gegessen**? = غذا خوردی؟
+> Wir **haben** zwei Jahre in Köln **gewohnt**. = دو سال در کلن زندگی کردیم.
+
+:::fa Perfekt و ماضی نقلی فارسی
+از نظر **ساختار**، Perfekt دقیقاً مثل ماضی نقلی فارسی است: فعل کمکی + اسم مفعول:
+| فارسی | آلمانی |
+|---|---|
+| خورده‌ام (خورده + ام) | ich habe gegessen (habe + gegessen) |
+| دیده‌ای | du hast gesehen |
+| نوشته است | er hat geschrieben |
+
+اما از نظر **کاربرد**، Perfekt گفتاری معادل **ماضی ساده** فارسی است:
+- «دیروز فیلم **دیدم**» ← `Gestern **habe** ich einen Film **gesehen**.`
+- «پارسال به آلمان **آمدم**» ← `Letztes Jahr **bin** ich nach Deutschland **gekommen**.`
+
+پس در گفتار هر وقت خواستید «رفتم، خوردم، دیدم» بگویید، از Perfekt استفاده کنید.
+:::
+
+:::warn sein و haben و افعال وجهی
+این‌ها در گذشته معمولاً در **Präteritum** گفته می‌شوند، حتی در گفتار: `Ich **war** müde` (نه معمولاً `Ich bin müde gewesen`)، `Ich **hatte** keine Zeit`، `Ich **musste** arbeiten`. درس‌های [[a12-praet-sein-haben]] و [[a21-praet-modal]].
+:::
+
+## Perfekt با افعال وجهی و منفی {#details}
+
+منفی کردن: `nicht` معمولاً قبل از Partizip می‌آید:
+> Ich habe das **nicht** verstanden. = این را نفهمیدم.
+> Er hat **keinen** Kaffee getrunken. = او قهوه ننوشید.
+
+Perfekt در جملهٔ پیرو: فعل کمکی آخرین کلمه می‌شود: `…, weil ich nichts gegessen **habe**.` ([[a21-weil]])
+
+## خودآزمایی {#quiz}
+
+?? Partizip II از `machen` => `gemacht`
+?? Partizip II از `arbeiten` => `gearbeitet`
+?? Partizip II از `reparieren` => `repariert`
+?? Partizip II از `einkaufen` => `eingekauft`
+?? Partizip II از `verkaufen` => `verkauft`
+?? Partizip II از `trinken` => `getrunken`
+?? «دیروز یک نامه نوشتم.» => `Gestern habe ich einen Brief geschrieben.`
+?? «آلمانی را کجا یاد گرفتی؟» => `Wo hast du Deutsch gelernt?`
+
+@@ a12-perfekt-sein
+level: A1.2
+title: Perfekt با sein و جمع‌بندی اسم مفعول
+de: Das Perfekt mit „sein“
+tags: Perfekt, sein, bin gegangen, ist gefahren, حرکت, تغییر حالت, haben oder sein, gegangen, gekommen, geblieben, gewesen, passiert, aufgestanden, ماضی نقلی
+summary: فعل‌های **حرکتی** و **تغییر حالت** (و چند فعل دیگر) Perfekt را با `sein` می‌سازند: `Ich bin nach Hause gegangen.`
+---
+## چه فعل‌هایی با sein؟ {#regel}
+
+:::rule فعل‌هایی که Perfekt را با sein می‌سازند
+1. **حرکت از جایی به جایی** (بدون مفعول مستقیم): `gehen`، `kommen`، `fahren`، `fliegen`، `laufen`، `reisen`، `schwimmen`، `steigen`، `fallen`
+2. **تغییر حالت**: `aufwachen`، `einschlafen`، `aufstehen`، `sterben`، `werden`، `wachsen`، `passieren`
+3. **استثناهای مهم**: `sein` (ist gewesen)، `bleiben` (ist geblieben)، `begegnen`، `gelingen`
+:::
+
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| bin gegangen | bist gegangen | ist gegangen | sind gegangen | seid gegangen | sind gegangen |
+
+> Ich **bin** nach Hause **gegangen**. = به خانه رفتم.
+> Wann **bist** du **aufgestanden**? = کِی بیدار شدی؟
+> Wir **sind** im Sommer nach Italien **geflogen**. = تابستان به ایتالیا پرواز کردیم.
+> Was **ist** **passiert**? = چه اتفاقی افتاد؟
+> Er **ist** zu Hause **geblieben**. = او در خانه ماند.
+> Ich **bin** noch nie in Wien **gewesen**. = تا حالا وین نبوده‌ام.
+
+## آزمون ساده {#test}
+
+:::tip سه سؤال برای انتخاب haben یا sein
+1. آیا فعل **مفعول مستقیم (Akkusativ)** دارد؟ ← معمولاً `haben`.
+2. آیا فاعل از جایی به جایی **جابه‌جا** می‌شود؟ ← `sein`.
+3. آیا فاعل از یک **حالت به حالت دیگر** می‌رود (بیدار ← خواب، زنده ← مرده)؟ ← `sein`.
+در غیر این صورت ← `haben`.
+:::
+
+| haben | sein |
+|---|---|
+| Ich **habe** geschlafen. (حالت ثابت) | Ich **bin** eingeschlafen. (تغییر حالت) |
+| Ich **habe** gearbeitet. | Ich **bin** gefahren. |
+| Er **hat** das Auto gefahren. (مفعول دارد!) | Er **ist** nach Berlin gefahren. |
+| Ich **habe** gesessen / gestanden / gelegen. (شمال) | Ich **bin** gesessen / gestanden / gelegen. (جنوب، اتریش، سوئیس) |
+
+:::note تفاوت منطقه‌ای
+در جنوب آلمان، اتریش و سوئیس فعل‌های «وضعیت» (`sitzen`، `stehen`، `liegen`) هم با `sein` می‌آیند. هر دو درست‌اند.
+:::
+
+## اسم مفعول فعل‌های حرکتی (بی‌قاعده) {#formen}
+
+| مصدر | Partizip II | معنی |
+|---|---|---|
+| gehen | gegangen | رفتن (پیاده) |
+| kommen | gekommen | آمدن |
+| fahren | gefahren | رفتن با وسیله |
+| fliegen | geflogen | پرواز کردن |
+| laufen | gelaufen | دویدن، پیاده رفتن |
+| schwimmen | geschwommen | شنا کردن |
+| steigen | gestiegen | بالا رفتن |
+| fallen | gefallen | افتادن |
+| bleiben | geblieben | ماندن |
+| sein | gewesen | بودن |
+| werden | geworden | شدن |
+| sterben | gestorben | مردن |
+| wachsen | gewachsen | رشد کردن |
+| ankommen | angekommen | رسیدن |
+| aufstehen | aufgestanden | بلند شدن |
+| einschlafen | eingeschlafen | به خواب رفتن |
+| umziehen | umgezogen | اسباب‌کشی کردن |
+
+باقاعده‌ها با sein: `reisen → ist gereist`، `wandern → ist gewandert`، `aufwachen → ist aufgewacht`، `passieren → ist passiert`، `joggen → ist gejoggt`.
+
+## جمع‌بندی اسم مفعول (Partizip II) {#uebersicht}
+
+| نوع فعل | الگو | مثال‌ها |
+|---|---|---|
+| باقاعده | ge- … -t | gemacht، gekauft، gewohnt |
+| باقاعده، ریشه ‎-t/-d‎ | ge- … -et | gearbeitet، geredet |
+| بی‌قاعده | ge- … -en (اغلب تغییر واکه) | gegessen، geschrieben، getrunken |
+| مختلط | ge- … -t با تغییر واکه | gebracht، gedacht، gewusst |
+| ‎-ieren‎ | بدون ge- | studiert، passiert |
+| جدانشدنی | بدون ge- | besucht، verstanden، bekommen |
+| جداشدنی | پیشوند + ge + … | eingekauft، angekommen، mitgebracht |
+
+:::tip چطور بفهمم بی‌قاعده است؟
+فعل‌هایی که در زمان حال تغییر واکه دارند ([[a11-vokalwechsel]]) **همیشه** بی‌قاعده‌اند (`fahren → gefahren`). اما برعکسش درست نیست (`gehen` در حال باقاعده است اما `gegangen`). ضمیمهٔ [[x-verben]] را مرتب مرور کنید؛ حدود ۱۰۰ فعل بی‌قاعدهٔ پرکاربرد وجود دارد.
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa «رفته‌ام» = «رفته + هستم»
+در فارسی ماضی نقلی **همیشه** با «بودن» ساخته می‌شود: «رفته‌**ام**» یعنی در واقع «رفته **هستم**»، «خورده‌**ام**» یعنی «خورده هستم». آلمانی برای بیشتر فعل‌ها `haben` (داشتن) و برای حرکتی‌ها `sein` (بودن) را به کار می‌برد.
+
+پس فعل‌های حرکتی آلمانی کاملاً مثل فارسی‌اند: `Ich **bin** gegangen` ≈ «رفته **ام**» (لفظاً: رفته هستم). برای بقیه فعل‌ها باید `haben` را جایگزین «ام» کنید: «خورده‌ام» → `Ich **habe** gegessen`.
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Ich ___ gestern ins Kino gegangen.` => `bin`
+?? `Wir ___ einen Film gesehen.` => `haben`
+?? `Er ___ um 6 Uhr aufgestanden.` => `ist`
+?? `Sie (او زن) ___ ihren Bruder angerufen.` => `hat`
+?? «کجا بودی؟» => `Wo bist du gewesen?` (در گفتار رایج‌تر: `Wo warst du?`)
+?? «او (مرد) با ماشین به هامبورگ رفت.» => `Er ist mit dem Auto nach Hamburg gefahren.`
+?? «چه اتفاقی افتاد؟» => `Was ist passiert?`
+
+@@ a12-praet-sein-haben
+level: A1.2
+title: گذشتهٔ ساده (Präteritum) فعل‌های sein و haben
+de: Präteritum von „sein“ und „haben“
+tags: Präteritum, war, hatte, waren, hatten, بودم, داشتم, گذشته ساده, ماضی ساده, es gab
+summary: `sein` و `haben` در گذشته تقریباً همیشه به شکل Präteritum گفته می‌شوند: `Ich war müde`، `Ich hatte keine Zeit`.
+---
+## صرف war و hatte {#tabelle}
+
+| | sein | haben | فارسی |
+|---|---|---|---|
+| ich | **war** | **hatte** | بودم / داشتم |
+| du | warst | hattest | بودی / داشتی |
+| er/sie/es | **war** | **hatte** | بود / داشت |
+| wir | waren | hatten | بودیم / داشتیم |
+| ihr | wart | hattet | بودید / داشتید |
+| sie/Sie | waren | hatten | بودند / داشتند |
+
+:::tip الگوی Präteritum
+در Präteritum هم (مثل افعال وجهی) `ich` و `er/sie/es` **یکسان**اند: `ich war – er war`، `ich hatte – er hatte`. این قاعده برای **همهٔ** فعل‌ها در Präteritum صادق است ([[a22-praeteritum]]).
+:::
+
+> Gestern **war** ich krank. = دیروز مریض بودم.
+> **Warst** du schon mal in Paris? = تا حالا پاریس بوده‌ای؟
+> Wir **hatten** keine Zeit. = وقت نداشتیم.
+> Das Wetter **war** toll! = هوا عالی بود!
+> Früher **hatte** ich einen Hund. = قبلاً یک سگ داشتم.
+
+## چرا Präteritum و نه Perfekt؟ {#warum}
+
+:::rule
+در گفتار برای اکثر فعل‌ها از Perfekt استفاده می‌شود ([[a12-perfekt-haben#gebrauch]])، **اما** برای این‌ها Präteritum طبیعی‌تر است:
+- `sein` → `war`
+- `haben` → `hatte`
+- افعال وجهی ← `konnte`، `musste`، `wollte`… ([[a21-praet-modal]])
+- `es gibt` → `es gab`
+- چند فعل پرکاربرد دیگر: `wissen → wusste`، `werden → wurde`
+:::
+
+| Perfekt (درست اما سنگین) | Präteritum (طبیعی) |
+|---|---|
+| Ich bin müde gewesen. | Ich **war** müde. |
+| Ich habe Glück gehabt. | Ich **hatte** Glück. (هر دو رایج) |
+| Es hat viele Leute gegeben. | Es **gab** viele Leute. |
+
+## ترکیب در یک گفت‌وگو {#mix}
+
+> Was **hast** du am Wochenende **gemacht**? – Ich **war** in Hamburg. = آخر هفته چه کار کردی؟ – هامبورگ بودم.
+> Wie **war** es? – Toll! Wir **haben** viel **gesehen**, aber wir **hatten** wenig Zeit. = چطور بود؟ – عالی! چیزهای زیادی دیدیم ولی وقت کمی داشتیم.
+
+:::fa
+فارسی برای این‌ها هم ماضی ساده دارد («بودم»، «داشتم») و این دقیقاً معادل `war` و `hatte` است. پس اینجا ترجمه کاملاً مستقیم است.
+
+نکته: «تا حالا … بوده‌ای؟» (ماضی نقلی، تجربه) در آلمانی گفتاری معمولاً `Warst du schon mal …?` است.
+:::
+
+## کاربرد war در زمان‌های دیگر {#weiter}
+
+`war` و `hatte` بعداً به‌عنوان فعل کمکی برای ساختن **ماضی بعید** (Plusquamperfekt) هم به کار می‌روند: `Ich **hatte** schon **gegessen**` = «غذا خورده بودم» ([[b11-plusquam]]).
+
+## خودآزمایی {#quiz}
+
+?? `Wo ___ du gestern?` (sein) => `warst`
+?? `Wir ___ keine Lust.` (haben) => `hatten`
+?? `Das Konzert ___ super.` (sein) => `war`
+?? «دیروز سردرد داشتم.» => `Gestern hatte ich Kopfschmerzen.`
+?? «آنجا هیچ نانوایی نبود.» (es gibt) => `Es gab dort keine Bäckerei.`

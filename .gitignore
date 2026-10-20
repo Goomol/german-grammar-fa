@@ -1,0 +1,4 @@
+vendor/package/
+vendor/*.tgz
+shots/
+__pycache__/

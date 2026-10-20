@@ -1,0 +1,623 @@
+@@ a11-zeit
+level: A1.1
+title: اعداد، ساعت و بیان زمان (um, am, im, von … bis)
+de: Zahlen, Uhrzeit und Zeitangaben
+tags: اعداد, عدد, Zahlen, ساعت, Uhrzeit, Uhr, Stunde, halb, Viertel, um, am, im, von bis, ab, gegen, روزهای هفته, ماه‌ها, فصل‌ها, Wochentage, Monate, حرف اضافه زمان
+summary: شمردن در آلمانی (با ترتیب برعکس یکان و دهگان)، گفتن ساعت به دو شکل رسمی و خودمانی، و حروف اضافهٔ زمانی پایه.
+---
+## اعداد ۰ تا ۲۰ {#bis20}
+
+| | | | |
+|---|---|---|---|
+| 0 null | 1 eins | 2 zwei | 3 drei |
+| 4 vier | 5 fünf | 6 sechs | 7 sieben |
+| 8 acht | 9 neun | 10 zehn | 11 elf |
+| 12 zwölf | 13 dreizehn | 14 vierzehn | 15 fünfzehn |
+| 16 **sech**zehn | 17 **sieb**zehn | 18 achtzehn | 19 neunzehn |
+| 20 zwanzig | | | |
+
+:::warn
+در ۱۶ و ۱۷ بخشی از کلمه می‌افتد: `sech**zehn**` (نه ~~sechszehn~~)، `sieb**zehn**` (نه ~~siebenzehn~~). همین‌طور `sech**zig**` (۶۰) و `sieb**zig**` (۷۰).
+:::
+
+## دهگان‌ها و اعداد بزرگ‌تر {#gross}
+
+| | | | |
+|---|---|---|---|
+| 20 zwanzig | 30 drei**ß**ig | 40 vierzig | 50 fünfzig |
+| 60 sechzig | 70 siebzig | 80 achtzig | 90 neunzig |
+| 100 (ein)hundert | 1000 (ein)tausend | 1.000.000 eine Million | 1.000.000.000 eine Milliarde |
+
+:::warn ۳۰ با ß
+فقط `dreißig` با `ß` است؛ بقیهٔ دهگان‌ها با `-zig`.
+:::
+
+### عددهای ۲۱ تا ۹۹: اول یکان، بعد دهگان!
+
+:::rule
+**یکان + und + دهگان**، همه پیوسته در یک کلمه:
+`21 = ein**und**zwanzig` (یک‌وبیست)، `47 = sieben**und**vierzig`، `99 = neun**und**neunzig`
+:::
+
+:::fa برعکسِ فارسی
+در فارسی می‌گوییم «بیست و یک» (اول دهگان). آلمانی می‌گوید «یک و بیست» (`einundzwanzig`). وقتی کسی شماره تلفن یا قیمت می‌گوید، مغز فارسی‌زبان تمایل دارد عدد را برعکس بنویسد: «۴۷» را `siebenundvierzig` می‌شنوید، پس **اول ۷ را در ذهن نگه دارید**، بعد ۴ را **جلویش** بنویسید. چند روز تمرین کافی است.
+
+(جالب است بدانید فارسی هم در گذشته گاهی همین ترتیب را داشته و عربی هنوز دارد: «واحد و عشرون».)
+:::
+
+### اعداد سه‌رقمی و بیشتر
+> 135 = hundertfünfunddreißig
+> 2026 = zweitausendsechsundzwanzig
+> 1.250 = (ein)tausendzweihundertfünfzig
+> 3,5 = drei Komma fünf
+
+:::note سال‌ها
+سال‌های قبل از ۲۰۰۰ مثل انگلیسی صدتایی خوانده می‌شوند: `1998 = neunzehnhundertachtundneunzig`. از ۲۰۰۰ به بعد: `zweitausend…`. سال را بدون حرف اضافه یا با `im Jahr` می‌گویند: `2010` یا `im Jahr 2010` (نه ~~in 2010~~).
+:::
+
+:::note نقطه و ویرگول
+آلمانی برعکس انگلیسی، هزارگان را با **نقطه** و اعشار را با **ویرگول** می‌نویسد: `1.000` (هزار)، `2,50 €` (دو یورو و پنجاه سنت) خوانده می‌شود: `zwei Euro fünfzig`.
+:::
+
+## ساعت: Uhr یا Stunde؟ {#uhr-stunde}
+
+:::fa «ساعت» در فارسی = دو کلمه در آلمانی
+| معنی فارسی | آلمانی | مثال |
+|---|---|---|
+| ساعتِ چند (زمان روی ساعت) | **Uhr** | Es ist drei **Uhr**. = ساعت سه است. |
+| ساعت (مدت ۶۰ دقیقه) | **Stunde** | Ich arbeite acht **Stunden**. = هشت ساعت کار می‌کنم. |
+| ساعت (وسیله) | die Uhr | Meine Uhr ist kaputt. = ساعتم خراب است. |
+
+پس «دو ساعت منتظر ماندم» می‌شود `zwei Stunden`، نه ~~zwei Uhr~~.
+:::
+
+## گفتن ساعت {#uhrzeit}
+
+دو روش هست: **رسمی** (رادیو، ایستگاه قطار، برنامه‌ها؛ ۲۴ ساعته) و **خودمانی** (گفت‌وگوی روزمره؛ ۱۲ ساعته).
+
+| ساعت | رسمی | خودمانی |
+|---|---|---|
+| 8:00 | acht Uhr | acht (Uhr) |
+| 8:05 | acht Uhr fünf | fünf **nach** acht |
+| 8:15 | acht Uhr fünfzehn | **Viertel nach** acht |
+| 8:20 | acht Uhr zwanzig | zwanzig nach acht / zehn vor halb neun |
+| 8:25 | acht Uhr fünfundzwanzig | fünf **vor halb** neun |
+| 8:30 | acht Uhr dreißig | **halb neun** |
+| 8:35 | acht Uhr fünfunddreißig | fünf **nach halb** neun |
+| 8:45 | acht Uhr fünfundvierzig | **Viertel vor** neun |
+| 8:50 | acht Uhr fünfzig | zehn vor neun |
+| 20:30 | zwanzig Uhr dreißig | halb neun (abends) |
+
+:::warn مهم‌ترین دام: halb
+`halb neun` یعنی «نیمِ راه **به** نُه» = **۸:۳۰**، نه ۹:۳۰! آلمانی نیم ساعت را نسبت به ساعت **بعدی** می‌گوید.
+
+فارسی می‌گوید «هشت و نیم» (نسبت به ساعت قبلی). پس همیشه یک ساعت کم کنید: `halb drei = ۲:۳۰`، `halb zwölf = ۱۱:۳۰`. بسیاری از خارجی‌ها به‌خاطر همین قرارهایشان را یک ساعت دیر می‌روند!
+:::
+
+:::note تفاوت‌های منطقه‌ای
+در جنوب و شرق آلمان و اتریش گاهی `viertel neun` (= ۸:۱۵) و `dreiviertel neun` (= ۸:۴۵) می‌گویند. اگر نفهمیدید، بپرسید: `Wie viel Uhr genau?`
+:::
+
+### پرسیدن ساعت
+> Wie spät ist es? / Wie viel Uhr ist es? = ساعت چند است؟
+> Es ist Viertel vor zwölf. = یک ربع به دوازده است.
+> Um wie viel Uhr beginnt der Film? – **Um** acht. = فیلم ساعت چند شروع می‌شود؟ – ساعت هشت.
+
+## روزها، بخش‌های روز، ماه‌ها و فصل‌ها {#namen}
+
+| روزهای هفته | | بخش‌های روز | |
+|---|---|---|---|
+| der Montag | دوشنبه | der Morgen | صبح زود |
+| der Dienstag | سه‌شنبه | der Vormittag | پیش از ظهر |
+| der Mittwoch | چهارشنبه | der Mittag | ظهر |
+| der Donnerstag | پنجشنبه | der Nachmittag | بعدازظهر |
+| der Freitag | جمعه | der Abend | عصر/شب (اول شب) |
+| der Samstag (Sonnabend) | شنبه | die Nacht | شب (دیروقت) |
+| der Sonntag | یکشنبه | das Wochenende | آخر هفته |
+
+| ماه‌ها | | | | فصل‌ها | |
+|---|---|---|---|---|---|
+| Januar | Februar | März | April | der Frühling | بهار |
+| Mai | Juni | Juli | August | der Sommer | تابستان |
+| September | Oktober | November | Dezember | der Herbst | پاییز |
+| | | | | der Winter | زمستان |
+
+:::note
+همهٔ روزها، ماه‌ها و فصل‌ها **مذکر**اند (`der`). در آلمان هفته از **دوشنبه** شروع می‌شود و آخر هفته شنبه و یکشنبه است.
+:::
+
+## حروف اضافهٔ زمانی پایه {#praepositionen}
+
+:::rule um / am / im
+| حرف اضافه | برای | مثال |
+|---|---|---|
+| **um** | ساعت دقیق | um 8 Uhr، um halb drei، um Mitternacht |
+| **am** | روزها، بخش‌های روز، تاریخ، آخر هفته | am Montag، am Abend، am 3. Mai، am Wochenende |
+| **im** | ماه‌ها، فصل‌ها، (سال با Jahr) | im Juli، im Winter، im Jahr 2020 |
+| **in der** | فقط برای Nacht | in der Nacht |
+:::
+
+> Der Kurs beginnt **um** neun Uhr. = کلاس ساعت نه شروع می‌شود.
+> **Am** Wochenende schlafe ich lange. = آخر هفته‌ها زیاد می‌خوابم.
+> **Im** Sommer fahren wir ans Meer. = تابستان به دریا می‌رویم.
+> **In der** Nacht ist es ruhig. = شب‌ها آرام است.
+
+:::tip ترفند حفظ کردن
+از کوچک به بزرگ: **um** (ساعت، دقیق) ← **am** (روز) ← **im** (ماه/فصل/سال). `am` در واقع `an dem` است و `im` همان `in dem` (ادغام حرف اضافه و حرف تعریف را در [[a12-praep-dativ#verschmelzung]] می‌بینید).
+:::
+
+### بازه‌ها و تقریب
+| حرف اضافه | معنی | مثال |
+|---|---|---|
+| von … bis | از … تا | von 9 bis 17 Uhr، von Montag bis Freitag |
+| ab | از … به بعد | ab 8 Uhr، ab Montag |
+| bis | تا | bis morgen!، bis 18 Uhr |
+| gegen | حدودِ (ساعت) | gegen 10 Uhr |
+| zwischen … und | بین … و | zwischen 2 und 3 Uhr |
+
+### قیدهای زمان بدون حرف اضافه
+`heute` (امروز)، `morgen` (فردا)، `gestern` (دیروز)، `übermorgen` (پس‌فردا)، `vorgestern` (پریروز)، `jetzt` (الان)، `bald` (به‌زودی)، `später` (بعداً)، `heute Abend` (امشب)، `morgen früh` (فردا صبح).
+
+### برای عادت‌ها: ‎-s‎ آخر
+`montags` (دوشنبه‌ها)، `abends` (عصرها)، `morgens` (صبح‌ها)، `sonntags` (یکشنبه‌ها) — با حرف کوچک و بدون حرف اضافه:
+> **Montags** gehe ich ins Fitnessstudio. = دوشنبه‌ها به باشگاه می‌روم.
+
+:::warn morgen یا Morgen؟
+`morgen` (کوچک) = فردا. `der Morgen` (بزرگ) = صبح. `morgen Morgen` = فردا صبح (رایج‌تر: `morgen früh`).
+:::
+
+:::fa
+فارسی برای همهٔ این‌ها اغلب اصلاً حرف اضافه نمی‌گذارد: «ساعت هشت می‌آیم»، «دوشنبه می‌روم»، «تابستان سفر می‌کنیم». آلمانی (جز برای قیدهایی مثل `heute` و شکل‌های ‎-s‎) حرف اضافه لازم دارد. حروف اضافهٔ زمانی دیگر (`vor`، `nach`، `seit`، `in`، `für`) را در [[a21-zeitpraep]] می‌خوانید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? عدد ۶۸ را بنویسید. => `achtundsechzig`
+?? `halb sieben` چه ساعتی است؟ => ۶:۳۰
+?? ۱۰:۴۵ به زبان خودمانی؟ => `Viertel vor elf`
+?? `___ Freitag ___ 20 Uhr` (روز و ساعت) => `Am Freitag um 20 Uhr`
+?? `___ Dezember` => `im Dezember`
+?? «سه ساعت درس می‌خوانم.» => `Ich lerne drei Stunden.`
+?? «جمعه‌ها کار نمی‌کنم.» => `Freitags arbeite ich nicht.`
+
+@@ a11-trennbar
+level: A1.1
+title: فعل‌های جداشدنی (trennbare Verben)
+de: Trennbare und untrennbare Verben
+tags: جداشدنی, trennbar, untrennbar, پیشوند, aufstehen, anrufen, einkaufen, ankommen, mitkommen, fernsehen, Satzklammer, قاب جمله, be-, ver-, er-, ent-
+summary: بسیاری از فعل‌های آلمانی پیشوندی دارند که در جمله از فعل جدا می‌شود و به **آخر جمله** می‌رود: `aufstehen → Ich stehe um 7 Uhr auf.`
+---
+## فعل جداشدنی چیست؟ {#was}
+
+یک فعل ساده مثل `stehen` (ایستادن) با یک پیشوند مثل `auf` (بالا) فعل تازه‌ای می‌سازد: `aufstehen` (بلند شدن، از خواب بیدار شدن و برخاستن). در جملهٔ اصلی، **فعل** صرف می‌شود و در جایگاه دوم می‌نشیند و **پیشوند** به آخر جمله می‌رود:
+
+:::rule
+| ۱ | ۲ (فعل صرف‌شده) | میانهٔ جمله | آخر (پیشوند) |
+|---|---|---|---|
+| Ich | **stehe** | jeden Tag um 7 Uhr | **auf**. |
+| Der Zug | **kommt** | um 10 Uhr | **an**. |
+| **Rufst** | du | mich morgen | **an**? |
+| Wann | **fängt** | der Film | **an**? |
+:::
+
+> Ich **kaufe** im Supermarkt **ein**. (einkaufen) = در سوپرمارکت خرید می‌کنم.
+> **Kommst** du **mit**? (mitkommen) = با ما می‌آیی؟
+> Wir **sehen** abends **fern**. (fernsehen) = عصرها تلویزیون نگاه می‌کنیم.
+> **Mach** bitte das Fenster **zu**! (zumachen) = لطفاً پنجره را ببند!
+
+:::tip قاب جمله (Satzklammer)
+فعل صرف‌شده و پیشوند مثل دو دیوارهٔ یک قاب، بقیهٔ جمله را دربرمی‌گیرند. این ساختار «قاب» یکی از مهم‌ترین مفهوم‌های گرامر آلمانی است و دوباره در افعال وجهی ([[a11-modal1]])، زمان گذشته ([[a12-perfekt-haben]]) و Passiv می‌بینیدش.
+:::
+
+## پیشوندهای جداشدنی پرکاربرد {#praefixe}
+
+| پیشوند | معنی پایه | مثال | معنی |
+|---|---|---|---|
+| ab- | جدا، پایین، دور | abfahren | حرکت کردن (وسیله) |
+| an- | به، روی، شروع | anrufen / anfangen | تلفن زدن / شروع کردن |
+| auf- | بالا، باز | aufstehen / aufmachen | بلند شدن / باز کردن |
+| aus- | بیرون، خاموش | aussteigen / ausmachen | پیاده شدن / خاموش کردن |
+| ein- | داخل | einsteigen / einkaufen | سوار شدن / خرید کردن |
+| mit- | همراه | mitkommen / mitbringen | همراه آمدن / با خود آوردن |
+| vor- | پیش، جلو | vorstellen / vorhaben | معرفی کردن / قصد داشتن |
+| zu- | بسته، به سمت | zumachen / zuhören | بستن / گوش دادن |
+| zurück- | برگشت | zurückkommen | برگشتن |
+| weg- | دور | weggehen | رفتن، ترک کردن |
+| fern- | دور | fernsehen | تلویزیون تماشا کردن |
+| los- | راه افتادن | losgehen | راه افتادن، شروع شدن |
+| nach- | پشت سر، دوباره | nachfragen | دوباره پرسیدن |
+| her- / hin- | به سمت/دور از گوینده | herkommen / hinfahren | آمدن اینجا / رفتن آنجا |
+| statt- | | stattfinden | برگزار شدن |
+| kennen- | | kennenlernen | آشنا شدن |
+
+## تلفظ و تکیه {#betonung}
+
+:::rule
+در فعل‌های جداشدنی **تکیه همیشه روی پیشوند** است: `**auf**stehen`، `**an**rufen`، `**ein**kaufen`. این بهترین راه تشخیص است.
+:::
+
+## فعل‌های جدانشدنی {#untrennbar}
+
+پیشوندهای زیر **هرگز** جدا نمی‌شوند و **تکیه نمی‌گیرند**:
+
+| پیشوند | مثال | معنی | جمله |
+|---|---|---|---|
+| be- | bekommen | گرفتن، دریافت کردن | Ich **bekomme** ein Paket. |
+| ver- | verstehen | فهمیدن | **Verstehst** du das? |
+| er- | erklären | توضیح دادن | Er **erklärt** die Regel. |
+| ent- | entscheiden | تصمیم گرفتن | Sie **entscheidet** schnell. |
+| emp- | empfehlen | توصیه کردن | Ich **empfehle** das Buch. |
+| ge- | gefallen | خوش آمدن | Das **gefällt** mir. |
+| zer- | zerstören | ویران کردن | Der Sturm **zerstört** alles. |
+| miss- | missverstehen | بد فهمیدن | |
+
+:::tip ترفند تشخیص
+هشت پیشوند جدانشدنی را حفظ کنید: `be-, ge-, er-, ver-, zer-, ent-, emp-, miss-`. هیچ‌کدام به‌تنهایی کلمه‌ای در آلمانی نیستند؛ در حالی که بیشتر پیشوندهای جداشدنی (`an`، `auf`، `mit`، `zu`، `weg`، `zurück`…) خودشان حرف اضافه یا قیدی مستقل‌اند. پس: اگر پیشوند به‌تنهایی کلمه است، احتمالاً جدا می‌شود.
+:::
+
+:::warn bekommen ≠ become
+`bekommen` یعنی «گرفتن/دریافت کردن» و هیچ ربطی به become انگلیسی ندارد: `Ich bekomme einen Brief` = نامه‌ای دریافت می‌کنم. «شدن» در آلمانی `werden` است ([[a21-werden]]).
+:::
+
+:::note پیشوندهای دوگانه (برای بعد)
+چند پیشوند (`über-`، `unter-`، `um-`، `durch-`، `wieder-`، `voll-`) گاهی جداشدنی و گاهی جدانشدنی‌اند و معنی هم عوض می‌شود: `**um**fahren` (با ماشین زیر گرفتن، جداشدنی) / `um**fah**ren` (دور زدن، جدانشدنی). در سطح B به آن‌ها می‌رسید ([[b12-wortbildung]]).
+:::
+
+## فعل جداشدنی در ساختارهای دیگر {#andere}
+
+| ساختار | قاعده | مثال | درس |
+|---|---|---|---|
+| با فعل وجهی | پیشوند و فعل **به هم می‌چسبند** و آخر می‌روند | Ich muss früh **aufstehen**. | [[a11-modal1]] |
+| جملهٔ پیرو (weil، dass…) | همه با هم آخر | …, weil ich früh **aufstehe**. | [[a21-weil]] |
+| Perfekt | ge وسط می‌آید | Ich bin früh auf**ge**standen. | [[a12-perfekt-sein]] |
+| zu + مصدر | zu وسط می‌آید | Es ist schwer, früh auf**zu**stehen. | [[b11-zu-inf]] |
+| امری | پیشوند آخر جمله | **Steh** endlich **auf**! | [[a12-imperativ]] |
+
+:::fa مقایسه با فارسی
+فارسی هم فعل‌های پیشوندی دارد: «**بر**گشتن»، «**در**آوردن»، «**باز**کردن»، «**فرو** رفتن». جالب اینکه بعضی‌ها تقریباً لفظ‌به‌لفظ با آلمانی یکی‌اند:
+
+| فارسی | آلمانی |
+|---|---|
+| بازگشتن / برگشتن | zurückkommen |
+| بیرون آمدن | herauskommen |
+| بلند شدن | aufstehen |
+| باز کردن | aufmachen |
+
+در فارسی هم گاهی بین پیشوند و فعل فاصله می‌افتد: «**بر**نمی‌گردم»، «**باز** هم **نمی‌کنم**». آلمانی همین کار را خیلی بیشتر می‌کند: پیشوند را تا آخر جمله می‌فرستد. شاید کمک کند فکر کنید پیشوند آلمانی همان جایی می‌نشیند که فعل فارسی می‌نشیند: **آخر جمله**! `Ich rufe dich morgen **an**` ≈ «من فردا بهت **زنگ می‌زنم**».
+:::
+
+:::warn فراموش کردن پیشوند
+اگر پیشوند را جا بیندازید، معمولاً معنی کاملاً عوض می‌شود: `Ich stehe um 7 Uhr.` (ساعت ۷ می‌ایستم!) به‌جای `Ich stehe um 7 Uhr auf.` (ساعت ۷ بیدار می‌شوم). همیشه آخر جمله را چک کنید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? با `anrufen`: «من مادرم را صدا می‌زنم (تلفن می‌کنم).» => `Ich rufe meine Mutter an.`
+?? با `einkaufen`: «کجا خرید می‌کنی؟» => `Wo kaufst du ein?`
+?? با `ankommen`: «قطار ساعت ۹ می‌رسد.» => `Der Zug kommt um 9 Uhr an.`
+?? `verstehen` جداشدنی است؟ => خیر؛ `ver-` جدانشدنی است: `Ich verstehe das.`
+?? با `fernsehen` (er): => `Er sieht fern.` (sehen تغییر واکه دارد)
+?? با `mitkommen` (ihr، سؤالی) => `Kommt ihr mit?`
+
+@@ a11-modal1
+level: A1.1
+title: افعال وجهی ۱: können، möchten و mögen
+de: Modalverben (1): können, möchten, mögen
+tags: فعل وجهی, Modalverben, können, möchten, mögen, توانستن, خواستن, دوست داشتن, kann, möchte, mag, قاب جمله, Satzklammer, مصدر آخر جمله
+summary: «می‌توانم بیایم»، «می‌خواهم بخورم»: فعل وجهی در جایگاه دوم صرف می‌شود و فعل اصلی به شکل **مصدر** به آخر جمله می‌رود.
+---
+## ساختار جمله با فعل وجهی {#struktur}
+
+:::rule
+**فعل وجهی (صرف‌شده) در جایگاه ۲ + … + مصدرِ فعل اصلی در آخر جمله**
+| ۱ | ۲ (فعل وجهی) | میانه | آخر (مصدر) |
+|---|---|---|---|
+| Ich | **kann** | gut | **schwimmen**. |
+| Morgen | **möchte** | ich ins Kino | **gehen**. |
+| **Kannst** | du | mir | **helfen**? |
+| Was | **möchten** | Sie | **trinken**? |
+:::
+
+این همان «قاب جمله» است که در [[a11-trennbar#was]] دیدید؛ این بار دیوارهٔ دوم **مصدر** است.
+
+:::fa مقایسه با فارسی
+فارسی بعد از «توانستن» و «خواستن» از **التزامی** استفاده می‌کند و هر دو فعل صرف می‌شوند: «می‌**توانم** شنا **کنم**»، «می‌**خواهد** بیای**د**». آلمانی فقط فعل وجهی را صرف می‌کند و فعل دوم **مصدر** (بدون هیچ شناسه) است: `Ich **kann** schwimm**en**`، `Er **möchte** komm**en**`.
+
+اما ترتیب کلی شباهت دارد: در هر دو زبان فعل اصلی در **آخر** جمله است: «من فردا می‌خواهم به سینما **بروم**» ↔ `Ich möchte morgen ins Kino **gehen**.`
+:::
+
+:::warn فعل دوم صرف نمی‌شود
+~~Ich kann kommst~~ یا ~~Er möchte geht~~ غلط است. فعل دوم همیشه مصدر است: `Er möchte gehen.`
+:::
+
+## können (توانستن) {#koennen}
+
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| **kann** | **kannst** | **kann** | können | könnt | können |
+
+کاربردها:
+| معنی | مثال | فارسی |
+|---|---|---|
+| توانایی | Ich **kann** Auto fahren. | می‌توانم رانندگی کنم. |
+| امکان | Hier **kann** man parken. | اینجا می‌شود پارک کرد. |
+| اجازه (خودمانی) | **Kann** ich kurz stören? | می‌توانم یک لحظه مزاحم شوم؟ |
+| درخواست | **Kannst** du mir helfen? | می‌توانی کمکم کنی؟ |
+| بلد بودن زبان | Ich **kann** Deutsch. | آلمانی بلدم. |
+
+## möchten (خواستن، مؤدبانه) {#moechten}
+
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| **möchte** | möchtest | **möchte** | möchten | möchtet | möchten |
+
+`möchten` شکل مؤدبانهٔ «خواستن» است؛ معادل «مایلم» یا «می‌خواستم» در فارسیِ مؤدبانه:
+
+> Ich **möchte** einen Kaffee. = یک قهوه می‌خواهم.
+> **Möchten** Sie etwas trinken? = چیزی میل دارید بنوشید؟
+> Wir **möchten** nächstes Jahr nach Spanien fahren. = سال بعد می‌خواهیم به اسپانیا برویم.
+
+:::note möchten با اسم
+وقتی چیزی را سفارش می‌دهید یا می‌خواهید، `möchte` می‌تواند بدون فعل دوم و مستقیماً با یک اسم (در Akkusativ) بیاید: `Ich möchte **einen** Tee` ([[a11-akkusativ]]).
+:::
+
+:::note اصل möchten
+`möchte` در واقع شکل Konjunktiv II فعل `mögen` است (یعنی «دوست می‌داشتم»)؛ به همین دلیل مؤدبانه است. در گذشته، `möchten` گذشتهٔ خودش را ندارد و از `wollen` استفاده می‌کنیم ([[a21-praet-modal]]). شکل‌های مؤدبانهٔ دیگر را در [[a22-konj2-hoeflich]] می‌خوانید.
+:::
+
+## mögen (دوست داشتن) {#moegen}
+
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| **mag** | **magst** | **mag** | mögen | mögt | mögen |
+
+`mögen` معمولاً **با اسم** می‌آید، نه با فعل دوم:
+
+> Ich **mag** Pizza. = پیتزا دوست دارم.
+> **Magst** du Katzen? = گربه دوست داری؟
+> Sie **mag** ihren Chef nicht. = از رئیسش خوشش نمی‌آید.
+
+:::warn mögen یا möchten؟
+| | معنی | مثال |
+|---|---|---|
+| mögen | دوست داشتن (کلی، همیشگی) | Ich mag Kaffee. (به‌طور کلی قهوه دوست دارم) |
+| möchten | خواستن (همین الان / در آینده) | Ich möchte einen Kaffee. (الان یک قهوه می‌خواهم) |
+
+برای «دوست دارم کاری را انجام دهم» از `gern` استفاده کنید، نه `mögen`: `Ich schwimme gern` ([[a11-gern]]).
+:::
+
+## الگوی مشترک افعال وجهی {#muster}
+
+:::tip سه ویژگی همهٔ افعال وجهی
+1. `ich` و `er/sie/es` **یکسان** و **بدون شناسه**‌اند: `ich kann – er kann`، `ich mag – er mag`.
+2. در مفرد، واکه معمولاً با جمع فرق دارد: `kann/können`، `mag/mögen`، `muss/müssen`.
+3. جمع کاملاً باقاعده است.
+
+(فقط `möchten` شکل `ich möchte / er möchte` با `-e` دارد، اما همچنان ich و er یکسان‌اند.) این الگو را در `wissen` هم دیدید ([[a11-vokalwechsel#wissen]]). بقیهٔ افعال وجهی (`müssen`، `dürfen`، `wollen`، `sollen`) را در [[a12-modal2]] می‌خوانید.
+:::
+
+## نکته‌های ترکیبی {#details}
+
+### منفی
+> Ich kann **nicht** kommen. = نمی‌توانم بیایم.
+> Ich möchte **keinen** Zucker. = شکر نمی‌خواهم.
+
+### با فعل جداشدنی
+فعل جداشدنی به شکل مصدر (یعنی **چسبیده**) آخر جمله می‌آید:
+> Ich möchte morgen **einkaufen**. = فردا می‌خواهم خرید کنم.
+> Kannst du mich **abholen**? = می‌توانی دنبالم بیایی؟
+
+### حذف فعل اصلی
+اگر معنی روشن باشد، فعل اصلی را می‌شود انداخت:
+> Ich **kann** das. = (این کار را) بلدم.
+> Ich **möchte** nach Hause. = می‌خواهم بروم خانه.
+
+## خودآزمایی {#quiz}
+
+?? «من نمی‌توانم برقصم.» (tanzen) => `Ich kann nicht tanzen.`
+?? `du` + `können` + `kochen`، سؤالی => `Kannst du kochen?`
+?? «او (زن) یک چای می‌خواهد.» => `Sie möchte einen Tee.`
+?? «او (مرد) سگ دوست ندارد.» => `Er mag keine Hunde.`
+?? مرتب کنید: `möchte / Ich / anrufen / meine Mutter / heute` => `Ich möchte heute meine Mutter anrufen.`
+?? غلط کجاست؟ `Er kann gut spricht Englisch.` => فعل دوم باید مصدر و آخر باشد: `Er kann gut Englisch sprechen.`
+
+@@ a11-gern
+level: A1.1
+title: gern، lieber و am liebsten: دوست داشتن انجام کاری
+de: gern – lieber – am liebsten
+tags: gern, gerne, lieber, am liebsten, دوست دارم, ترجیح می‌دهم, بیشتر از همه, mögen, Vorlieben, علاقه, hätte gern, gern haben
+summary: «دوست دارم کتاب بخوانم» در آلمانی با یک قید کوچک گفته می‌شود: `Ich lese gern`. مقایسه با `lieber` و `am liebsten`.
+---
+## gern: قید دوست داشتن {#gern}
+
+:::rule
+**فعل (صرف‌شده) + gern** = دوست داشتنِ انجام آن کار
+:::
+
+> Ich lese **gern**. = دوست دارم کتاب بخوانم. (لفظاً: با میل می‌خوانم)
+> Wir kochen **gern** zusammen. = دوست داریم با هم آشپزی کنیم.
+> Spielst du **gern** Fußball? = دوست داری فوتبال بازی کنی؟
+> Er tanzt **nicht gern**. = دوست ندارد برقصد.
+
+`gern` و `gerne` یکی‌اند؛ `gerne` کمی نرم‌تر و گفتاری‌تر است.
+
+:::fa ساختاری کاملاً متفاوت با فارسی
+فارسی می‌گوید «دوست **دارم** کتاب **بخوانم**» (دو فعل: یکی صرف‌شده، یکی التزامی). آلمانی فقط **یک فعل** دارد (همان فعل اصلی) و «دوست داشتن» را با قید `gern` بیان می‌کند. پس:
+
+«دوست دارم شنا کنم» ← `Ich schwimme gern.`
+
+نگویید ~~Ich mag schwimmen~~ (شنیده می‌شود اما ناشیانه است) و هرگز ~~Ich liebe schwimmen~~.
+:::
+
+## مقایسه: gern ← lieber ← am liebsten {#steigerung}
+
+`gern` یک قید است و مثل صفت‌ها درجه دارد (اما بی‌قاعده):
+
+| درجه | قید | فارسی |
+|---|---|---|
+| ساده | gern | دوست دارم |
+| برتر | lieber | بیشتر دوست دارم، ترجیح می‌دهم |
+| برترین | am liebsten | بیشتر از همه دوست دارم |
+
+> Ich trinke **gern** Tee. = چای دوست دارم.
+> Ich trinke **lieber** Kaffee. = قهوه را بیشتر دوست دارم.
+> Ich trinke **am liebsten** Kakao. = از همه بیشتر کاکائو دوست دارم.
+
+> Was machst du **am liebsten** am Wochenende? = آخر هفته از همه بیشتر دوست داری چه کار کنی؟
+> Ich gehe **lieber** zu Fuß **als** mit dem Bus. = پیاده رفتن را به اتوبوس ترجیح می‌دهم.
+
+:::note
+برای مقایسه از `als` (از/تا) استفاده می‌کنیم. ساختار کامل مقایسه را در [[a21-komparativ]] می‌خوانید. `gut → besser → am besten` هم الگوی بی‌قاعدهٔ مشابهی دارد.
+:::
+
+## جایگاه gern در جمله {#position}
+
+معمولاً **بعد از فعل و ضمیرها**، و **قبل از** مفعول‌های نامعین یا مکان:
+> Ich esse **gern** Pizza.
+> Ich esse Pizza **gern**. (هر دو درست؛ اولی رایج‌تر)
+> Ich gehe **gern** ins Kino.
+> Ich mag sie **sehr**. / Ich habe sie **sehr gern**.
+
+با فعل وجهی یا فعل جداشدنی:
+> Ich möchte **gern** einen Tee. = (مؤدبانه) یک چای می‌خواهم.
+> Ich sehe **gern** fern. = دوست دارم تلویزیون ببینم.
+
+## سه راه «دوست داشتن» {#vergleich}
+
+| ساختار | برای | مثال |
+|---|---|---|
+| فعل + gern | انجام کار | Ich koche gern. |
+| mögen + اسم | چیز، شخص، غذا | Ich mag Schokolade. / Ich mag dich. |
+| gern haben + اسم/شخص | دوست داشتن (گرم) | Ich habe dich gern. |
+| lieben | عشق، علاقهٔ خیلی شدید | Ich liebe dich. / Ich liebe Musik. |
+| gefallen + Dativ | خوش آمدن (ظاهر، چیز) | Das Kleid gefällt mir. ([[a12-dativ]]) |
+| schmecken + Dativ | مزه دادن (غذا) | Die Suppe schmeckt mir. |
+
+:::warn Ich liebe dich
+`lieben` برای آدم‌ها فقط عشق رمانتیک یا خانوادگی است. به دوستتان بگویید `Ich mag dich` یا `Ich hab dich gern` (حدود «دوستت دارم» دوستانه). به کسی که تازه آشنا شده‌اید ~~Ich liebe dich~~ نگویید!
+:::
+
+## ich hätte gern: سفارش مؤدبانه {#haette}
+
+در مغازه و رستوران خیلی رایج است:
+> Ich **hätte gern** ein Brötchen. = یک نان (کوچک) می‌خواستم.
+> Wir **hätten gern** die Rechnung. = صورت‌حساب را می‌خواستیم.
+
+این از Konjunktiv II فعل `haben` است ([[a22-konj2-hoeflich]]). فعلاً آن را مثل یک عبارت ثابت حفظ کنید.
+
+## خودآزمایی {#quiz}
+
+?? «دوست دارم سفر کنم.» (reisen) => `Ich reise gern.`
+?? «او (زن) ترجیح می‌دهد چای بنوشد.» => `Sie trinkt lieber Tee.`
+?? «بیشتر از همه دوست دارم بخوابم.» => `Am liebsten schlafe ich.` / `Ich schlafe am liebsten.`
+?? «دوست ندارم آشپزی کنم.» => `Ich koche nicht gern.`
+?? «گربه دوست داری؟» => `Magst du Katzen?`
+
+@@ a11-esgibt-man
+level: A1.1
+title: es gibt، man و es در نقش فاعل ظاهری
+de: „es gibt“, „man“ und das unpersönliche „es“
+tags: es gibt, وجود دارد, هست, داریم, man, آدم, می‌گویند, es regnet, es, فاعل ظاهری, unpersönlich, Wie geht es, ضمیر نامعین
+summary: «اینجا یک پارک **هست**» با `es gibt` گفته می‌شود. `man` فاعلِ کلی است («آدم»، «می‌گویند»). و `es` در جمله‌هایی مثل «باران می‌آید».
+---
+## es gibt: وجود داشتن {#esgibt}
+
+:::rule
+**es gibt + Akkusativ** = «… هست / وجود دارد / داریم»
+فعل همیشه **مفرد** (`gibt`) است، حتی اگر اسم جمع باشد.
+:::
+
+> Hier **gibt es** einen Supermarkt. = اینجا یک سوپرمارکت هست.
+> In Berlin **gibt es** viele Museen. = در برلین موزه‌های زیادی هست.
+> **Gibt es** hier eine Apotheke? = اینجا داروخانه هست؟
+> Was **gibt es** heute zum Essen? = امروز ناهار/شام چی داریم؟
+> Es **gibt** keinen Parkplatz. = جای پارک نیست.
+
+:::warn بعد از es gibt حالت Akkusativ است
+اسمِ بعد از `es gibt` مفعول فعل `geben` است، پس مذکرها عوض می‌شوند: `Es gibt **einen** Park` (نه ~~ein Park~~). منفی‌اش: `Es gibt **keinen** Park.` (درس [[a11-akkusativ]])
+:::
+
+:::warn فعل جمع نمی‌شود
+~~Es geben viele Leute~~ غلط است. همیشه `Es **gibt** viele Leute.` چون فاعل دستوری `es` است.
+:::
+
+### es gibt یا sein؟
+| | کاربرد | مثال |
+|---|---|---|
+| es gibt | وجود کلی، «آیا چنین چیزی هست؟» | Gibt es hier eine Bank? |
+| sein + مکان | جای یک چیز **مشخص** | Wo ist die Bank? – Die Bank ist dort. |
+
+:::fa مقایسه با فارسی
+فارسی برای وجود از «هست» یا «داریم» استفاده می‌کند: «اینجا یک بانک **هست**»، «امروز ماهی **داریم**». آلمانی برای این معنا عبارت ثابت `es gibt` (لفظاً: «آن می‌دهد») را دارد. معادل انگلیسی‌اش there is/are است.
+:::
+
+عبارت‌های ثابت پرکاربرد:
+> Was **gibt's** Neues? = چه خبر؟
+> Das **gibt's** doch nicht! = باورم نمی‌شه! / مگه می‌شه!
+> Was **gibt es** im Fernsehen? = تلویزیون چی نشون می‌ده؟
+
+## man: فاعلِ کلی {#man}
+
+:::rule
+`man` = «آدم / هر کس / مردم / ما (کلی)». فعل همیشه **سوم‌شخص مفرد** است (مثل `er`).
+:::
+
+> In Deutschland **trinkt man** viel Kaffee. = در آلمان (مردم) زیاد قهوه می‌نوشند.
+> Wie **sagt man** das auf Deutsch? = این را به آلمانی چطور می‌گویند؟
+> Hier **darf man** nicht rauchen. = اینجا نباید سیگار کشید.
+> **Man** lernt nie aus. = آدم هیچ‌وقت از یادگیری فارغ نمی‌شود.
+
+:::fa معادل‌های فارسی man
+فارسی برای فاعل کلی چند راه دارد و `man` همه‌شان را پوشش می‌دهد:
+| فارسی | آلمانی |
+|---|---|
+| **می‌گویند** که … (سوم‌شخص جمع) | Man sagt, dass … |
+| **آدم** باید … | Man muss … |
+| این را **چطور می‌نویسند**؟ | Wie schreibt man das? |
+| اینجا **نمی‌شود** پارک کرد. | Hier kann man nicht parken. |
+:::
+
+:::warn man ≠ der Mann
+`man` (با یک n و حرف کوچک) ضمیر است؛ `der Mann` (با دو n و حرف بزرگ) یعنی «مرد». تلفظ تقریباً یکی است.
+:::
+
+:::warn man را با er جایگزین نکنید
+در جملهٔ بعدی هم باید `man` را تکرار کنید: `Wenn **man** müde ist, soll **man** schlafen.` (نه ~~soll er schlafen~~). شکل‌های مفعولی آن (`einen`، `einem`) را بعداً می‌بینید.
+:::
+
+`man` اغلب جایگزین ساده‌ای برای مجهول (Passiv) است: `Man spricht hier Deutsch` ≈ «اینجا آلمانی صحبت می‌شود» ([[a22-passiv-praesens]]، [[b21-passiversatz]]).
+
+## es در نقش فاعل ظاهری {#es}
+
+در آلمانی هر جملهٔ اصلی **فاعل** لازم دارد. وقتی فاعل واقعی وجود ندارد، `es` جای آن را پر می‌کند:
+
+### آب‌وهوا
+> **Es** regnet. = باران می‌آید.
+> **Es** schneit. = برف می‌آید.
+> **Es** ist kalt / warm / windig. = هوا سرد / گرم / بادی است.
+
+### زمان
+> **Es** ist acht Uhr. = ساعت هشت است.
+> **Es** ist spät. = دیر است.
+
+### حال و احوال
+> Wie geht **es** dir? – **Es** geht mir gut. = حالت چطور است؟ – حالم خوب است.
+
+### حس‌ها و موقعیت‌ها
+> **Es** klingelt. = زنگ می‌زنند (زنگ در).
+> **Es** tut mir leid. = متأسفم.
+
+:::fa
+فارسی فاعل را راحت حذف می‌کند: «باران **می‌آید**» (فاعل = باران)، «سرد است»، «دیر شد». آلمانی بدون فاعل نمی‌تواند و `es` را می‌گذارد. مثلاً «سرده» → `**Es** ist kalt`. «حالت چطوره؟» → `Wie geht **es** dir?` که در آن `es` همان «حال» در «حالت» است!
+
+کاربردهای پیشرفته‌تر `es` را در [[b22-es]] می‌خوانید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? «اینجا یک کافه هست.» (das Café) => `Hier gibt es ein Café.`
+?? «در شهر ما یک فرودگاه نیست.» (der Flughafen) => `In unserer Stadt gibt es keinen Flughafen.`
+?? «این را به آلمانی چطور می‌گویند؟» => `Wie sagt man das auf Deutsch?`
+?? «امروز گرم است.» => `Es ist heute warm.` / `Heute ist es warm.`
+?? جای خالی: `Hier ___ es viele Bäume.` => `gibt`
+?? `man ___ hier nicht parken.` (dürfen) => `darf` (سوم‌شخص مفرد)

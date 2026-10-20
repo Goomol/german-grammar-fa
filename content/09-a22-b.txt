@@ -1,0 +1,493 @@
+@@ a22-adj-null
+level: A2.2
+title: صرف صفت بدون حرف تعریف و جمع‌بندی سه نوع صرف
+de: Adjektivdeklination ohne Artikel (starke Deklination)
+tags: صرف صفت, starke Deklination, صرف قوی, بدون حرف تعریف, Nullartikel, frisches Brot, kalte Milch, Lieber, Liebe, viele, einige, جمع‌بندی صرف صفت
+summary: وقتی هیچ حرف تعریفی قبل از صفت نیست، **خود صفت** پسوندِ حرف تعریف را می‌گیرد: `frisch**es** Brot`، `kalt**e** Milch`، `heiß**er** Tee`.
+---
+## اصل: صفت جای حرف تعریف را می‌گیرد {#prinzip}
+
+در درس‌های قبل دیدیم: بعد از `der` صفت ضعیف است ([[a21-adj-best]])، بعد از `ein` در سه خانه قوی ([[a21-adj-unbest]]). وقتی **هیچ** حرف تعریفی نیست، صفت در همهٔ خانه‌ها پسوند **حرف تعریف معین** را می‌گیرد:
+
+:::rule صرف قوی (starke Deklination)
+| | مذکر | مؤنث | خنثی | جمع |
+|---|---|---|---|---|
+| Nominativ | heiß**er** Tee (der) | kalt**e** Milch (die) | frisch**es** Brot (das) | neu**e** Bücher (die) |
+| Akkusativ | heiß**en** Tee (den) | kalt**e** Milch (die) | frisch**es** Brot (das) | neu**e** Bücher (die) |
+| Dativ | heiß**em** Tee (dem) | kalt**er** Milch (der) | frisch**em** Brot (dem) | neu**en** Büchern (den) |
+| Genitiv | heiß**en** Tees ⚠ | kalt**er** Milch (der) | frisch**en** Brotes ⚠ | neu**er** Bücher (der) |
+:::
+
+:::tip
+پسوند صفت = **حرف آخر حرف تعریف معین** (r، e، s، n، m). تنها استثنا: Genitiv مذکر و خنثی ‎-en‎ است (نه ‎-es‎)، چون خود اسم `-s` گرفته و نشان کافی است.
+:::
+
+## چه وقت بدون حرف تعریف؟ {#wann}
+
+| موقعیت | مثال |
+|---|---|
+| مواد غیرقابل‌شمارش | Ich trinke **heißen** Kaffee. / mit **frischer** Milch |
+| جمعِ نامعین | **Neue** Schuhe sind teuer. |
+| بعد از عدد | zwei **kleine** Kinder، drei **große** Pizzen |
+| بعد از viele، wenige، einige، mehrere، ein paar | viele **nette** Leute، mit einigen **alten** Freunden |
+| شروع نامه | **Lieber** Peter، **Liebe** Anna، **Sehr geehrte** Frau Klein |
+| عبارات ثابت | **Herzlichen** Glückwunsch!، **Guten** Tag!، **Schönes** Wochenende! |
+| بعد از ضمیرهای بی‌صرف (etwas، mehr، viel) | etwas **warmes** Wasser |
+
+> **Guten** Morgen! (der Morgen، Akk.) = صبح بخیر!
+> **Gute** Nacht! = شب بخیر!
+> **Schönen** Tag noch! = روز خوبی داشته باشید!
+> Ich wünsche Ihnen **frohe** Weihnachten. = کریسمس شاد!
+
+:::note چرا «Guten Tag» و نه «Guter Tag»؟
+این عبارت‌ها در اصل مفعول فعل `wünschen` هستند (`Ich wünsche dir einen guten Tag`)؛ پس Akkusativ‌اند: `Guten Tag!`، `Guten Abend!`
+:::
+
+## جمع‌بندی سه نوع صرف {#uebersicht}
+
+:::rule روش انتخاب پسوند
+| چه چیزی قبل از صفت است؟ | نوع صرف | قاعدهٔ کوتاه |
+|---|---|---|
+| der، dieser، jeder، welcher، alle | ضعیف | پنج خانه -e، بقیه -en |
+| ein، kein، mein… (بدون پسوند) | مختلط | Nom m -er، Nom/Akk n -es، بقیه مثل ضعیف |
+| ein، kein، mein… (با پسوند: einen، meinem…) | مختلط = ضعیف | -en |
+| هیچ چیز / عدد / viele | قوی | پسوندِ حرف تعریف معین |
+:::
+
+:::tip اصل واحد پشت هر سه صرف
+«**نشانهٔ جنس و حالت باید یک‌بار و فقط یک‌بار نشان داده شود.**» اگر حرف تعریف آن را نشان داده، صفت ضعیف (`-e/-en`) است. اگر حرف تعریف نشان نداده یا نیست، صفت خودش نشانه را می‌گیرد. با این اصل، دیگر لازم نیست سه جدول را جدا حفظ کنید.
+:::
+
+جدول کامل هر سه نوع در ضمیمهٔ [[x-deklination]].
+
+## چند صفت پشت سر هم {#mehrere}
+
+همهٔ صفت‌ها **پسوند یکسان** می‌گیرند:
+> ein **schönes**, **großes**, **helles** Zimmer
+> mit **frischem**, **warmem** Brot
+> die **neuen**, **teuren** Schuhe
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+فارسی هم بدون حرف تعریف می‌گوید: «چای **داغ**»، «نان **تازه**»، «دوستان **قدیمی**». صفت فارسی هرگز تغییر نمی‌کند. در آلمانی صفت در این حالت **بیشترین** کار را دارد، چون باید جای حرف تعریف را هم پر کند.
+
+یک نکتهٔ جالب: شروع نامه‌ها: «**عزیز**م پیتر» یا «پیترِ **عزیز**» ← `**Lieber** Peter` (مذکر)، `**Liebe** Anna` (مؤنث). صفت با جنسِ گیرنده تغییر می‌کند!
+:::
+
+## خودآزمایی {#quiz}
+
+?? `Ich trinke gern ___ Tee.` (grün) => `grünen`
+?? `___ Kaffee schmeckt mir nicht.` (kalt) => `Kalter`
+?? `Wir essen ___ Brot.` (frisch) => `frisches`
+?? `___ Anna,` (lieb، شروع نامه) => `Liebe`
+?? `Er hat zwei ___ Katzen.` (klein) => `kleine`
+?? `mit ___ Wasser` (warm) => `warmem`
+?? `Viele ___ Leute kommen.` (nett) => `nette`
+
+@@ a22-deshalb-trotzdem
+level: A2.2
+title: قیدهای ربطی: deshalb، trotzdem، dann، sonst، außerdem
+de: Konjunktionaladverbien: deshalb, trotzdem, dann, sonst, außerdem
+tags: deshalb, deswegen, darum, daher, trotzdem, dann, danach, sonst, außerdem, also, قید ربطی, Konjunktionaladverb, برای همین, به همین دلیل, با این حال, وگرنه, علاوه بر این, وارونگی, Inversion
+summary: کلمه‌هایی مثل «برای همین» و «با این حال» در آلمانی **جایگاه ۱** را می‌گیرند؛ پس فعل بلافاصله بعدشان و فاعل بعد از فعل می‌آید.
+---
+## قاعدهٔ اصلی: وارونگی {#regel}
+
+:::rule
+این کلمه‌ها **قید** هستند و در جمله جایگاه می‌گیرند. اگر اول جمله بیایند، جایگاه ۱ را گرفته‌اند و **فعل** باید در جایگاه ۲ و **فاعل** بعد از فعل بیاید ([[a11-satzbau#inversion]]).
+| جملهٔ ۱ | ۱ (قید) | ۲ (فعل) | فاعل | بقیه |
+|---|---|---|---|---|
+| Ich bin krank, | **deshalb** | **bleibe** | ich | zu Hause. |
+| Es regnet, | **trotzdem** | **gehen** | wir | spazieren. |
+:::
+
+:::warn
+~~Ich bin krank, deshalb ich bleibe zu Hause.~~ غلط است. فارسی می‌گوید «برای همین **من** خانه می‌مانم» و همین عادت باعث این اشتباه می‌شود.
+:::
+
+این قیدها می‌توانند **وسط** جمله هم بیایند (بعد از فعل/فاعل):
+> Ich bin krank. Ich bleibe **deshalb** zu Hause.
+> Es regnet. Wir gehen **trotzdem** spazieren.
+
+## مهم‌ترین قیدهای ربطی {#liste}
+
+| قید | معنی | مثال |
+|---|---|---|
+| deshalb / deswegen / darum / daher | برای همین، به همین دلیل (نتیجه) | Ich habe keine Zeit, **deshalb** komme ich nicht. |
+| trotzdem | با این حال، باز هم (تضاد) | Er ist müde, **trotzdem** arbeitet er weiter. |
+| dann / danach | بعد، سپس (ترتیب) | Zuerst esse ich, **dann** lerne ich. |
+| sonst | وگرنه | Beeil dich, **sonst** verpassen wir den Zug. |
+| außerdem | علاوه بر این | Die Wohnung ist schön. **Außerdem** ist sie billig. |
+| also | پس، بنابراین | Es ist spät, **also** gehen wir. |
+| stattdessen | به‌جای آن | Ich wollte joggen, **stattdessen** habe ich geschlafen. |
+| allerdings | البته، منتها | Das Hotel ist gut, **allerdings** etwas teuer. |
+| zuerst … dann … zum Schluss | اول … بعد … در آخر | |
+
+:::note آلمانی‌ها برای ترتیب‌گویی
+`Zuerst … Dann … Danach … Anschließend … Zum Schluss / Schließlich …` = «اول … بعد … بعد از آن … سپس … در آخر …». هر کدام اول جمله بیاید، وارونگی دارد: `Danach **gehe ich** einkaufen.`
+:::
+
+## مقایسه با حروف ربط دیگر {#vergleich}
+
+:::rule سه رفتار مختلف برای یک معنا
+| معنا | هم‌پایه (جایگاه ۰) | پیرو (فعل آخر) | قید (جایگاه ۱، وارونگی) |
+|---|---|---|---|
+| علت | denn | weil، da | — |
+| نتیجه | — | sodass | deshalb، deswegen، darum |
+| تضاد | aber | obwohl | trotzdem |
+| شرط منفی | oder | wenn … nicht | sonst |
+| ادامه | und | — | außerdem، dann |
+:::
+
+> Ich gehe nicht, **denn** ich **bin** müde. (جایگاه ۰)
+> Ich gehe nicht, **weil** ich müde **bin**. (فعل آخر)
+> Ich bin müde, **deshalb gehe** ich nicht. (وارونگی)
+
+:::warn جهت معنا را عوض نکنید!
+بعد از `weil`/`denn` **علت** می‌آید؛ بعد از `deshalb` **نتیجه**:
+- `Ich bleibe zu Hause, **weil** ich krank bin.` (چون مریضم)
+- `Ich bin krank, **deshalb** bleibe ich zu Hause.` (مریضم، برای همین…)
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa
+| فارسی | آلمانی |
+|---|---|
+| برای همین / به همین دلیل / پس | deshalb / deswegen / darum / also |
+| با این حال / با وجود این / باز هم | trotzdem |
+| بعد / بعدش | dann / danach |
+| وگرنه | sonst |
+| تازه / علاوه بر این / ضمناً | außerdem |
+
+این کلمه‌ها در فارسی **هیچ** اثری بر ترتیب کلمات ندارند. در آلمانی چون جایگاه ۱ را می‌گیرند، فعل باید بلافاصله بعدشان بیاید. تمرین ذهنی: بعد از هر کدام از این قیدها، **فوراً فعل** را بگویید.
+:::
+
+## خودآزمایی {#quiz}
+
+?? با deshalb: `Ich habe Hunger. Ich esse ein Brot.` => `Ich habe Hunger, deshalb esse ich ein Brot.`
+?? با trotzdem: `Das Wetter ist schlecht. Wir machen einen Ausflug.` => `Das Wetter ist schlecht, trotzdem machen wir einen Ausflug.`
+?? با sonst: «عجله کن، وگرنه دیر می‌رسیم.» => `Beeil dich, sonst kommen wir zu spät.`
+?? غلط کجاست؟ `Es ist kalt, deshalb ich trage eine Mütze.` => `…, deshalb trage ich eine Mütze.`
+?? `Ich bin müde, ___ ich habe schlecht geschlafen.` (denn/deshalb) => `denn`
+
+@@ a22-obwohl
+level: A2.2
+title: جملهٔ تضاد با obwohl («با اینکه»)
+de: Konzessive Nebensätze mit „obwohl“
+tags: obwohl, با اینکه, اگرچه, با وجود اینکه, trotzdem, trotz, تضاد, Konzessivsatz, Nebensatz, ولی, obgleich
+summary: «**با اینکه** باران می‌آید، می‌رویم بیرون»: `obwohl` جملهٔ پیرو می‌سازد. هم‌خانواده‌اش `trotzdem` (قید) و `trotz` (حرف اضافه) است.
+---
+## ساختار {#struktur}
+
+:::rule
+`obwohl` + … + فعل (آخر). معنی: چیزی که انتظار نمی‌رفت اتفاق می‌افتد.
+:::
+
+> **Obwohl** es **regnet**, **gehen** wir spazieren. = با اینکه باران می‌آید، به پیاده‌روی می‌رویم.
+> Er kommt zur Arbeit, **obwohl** er krank **ist**. = با اینکه مریض است، سر کار می‌آید.
+> **Obwohl** ich viel gelernt **habe**, **habe** ich die Prüfung nicht bestanden. = با اینکه زیاد درس خواندم، امتحان را قبول نشدم.
+
+## سه راه برای یک معنا {#drei}
+
+| ساختار | نوع | مثال |
+|---|---|---|
+| obwohl | جملهٔ پیرو، فعل آخر | **Obwohl** es kalt **ist**, trage ich keine Jacke. |
+| trotzdem | قید، جایگاه ۱ (وارونگی) | Es ist kalt, **trotzdem trage** ich keine Jacke. ([[a22-deshalb-trotzdem]]) |
+| trotz + Genitiv | حرف اضافه | **Trotz der** Kälte trage ich keine Jacke. ([[b11-genitiv]]) |
+
+:::tip جفت‌ها
+`weil` ↔ `obwohl` (دلیل ↔ تضاد)، `deshalb` ↔ `trotzdem` (نتیجه ↔ تضاد)، `wegen` ↔ `trotz` (به خاطرِ ↔ با وجودِ). این سه جفت را با هم حفظ کنید.
+:::
+
+## مقایسه با فارسی {#fa}
+
+:::fa دام «ولی» اضافه!
+فارسی اغلب بعد از «با اینکه» در جملهٔ دوم «**ولی/اما**» هم می‌آورد: «با اینکه باران می‌آید، **ولی** می‌رویم.» در آلمانی این کار **غلط** است:
+> ~~Obwohl es regnet, aber wir gehen spazieren.~~
+> Obwohl es regnet, **gehen** wir spazieren. ✓
+
+همین‌طور «اگرچه … ولی …». در آلمانی یکی کافی است: یا `obwohl` یا `aber`، نه هر دو.
+
+| فارسی | آلمانی |
+|---|---|
+| با اینکه / اگرچه / با وجود اینکه | obwohl |
+| با این حال / باز هم | trotzdem |
+| با وجودِ (+ اسم) | trotz |
+:::
+
+## هم‌معنی‌های رسمی‌تر {#andere}
+
+`obgleich`، `obschon` (ادبی)، `wenngleich` (رسمی) = obwohl. و `zwar …, aber …` (درست است که …، اما …) را در [[b11-zweiteilig]] می‌بینید.
+
+## خودآزمایی {#quiz}
+
+?? با obwohl: `Er ist reich. Er ist nicht glücklich.` => `Obwohl er reich ist, ist er nicht glücklich.`
+?? با obwohl (جملهٔ دوم): `Ich gehe zur Party. Ich bin müde.` => `Ich gehe zur Party, obwohl ich müde bin.`
+?? با trotzdem: `Ich bin müde. Ich gehe zur Party.` => `Ich bin müde, trotzdem gehe ich zur Party.`
+?? غلط کجاست؟ `Obwohl ich kein Geld habe, aber ich kaufe das Handy.` => `aber` اضافی است: `Obwohl ich kein Geld habe, kaufe ich das Handy.`
+?? `weil` یا `obwohl`؟ `Sie trägt eine Sonnenbrille, ___ die Sonne nicht scheint.` => `obwohl`
+
+@@ a22-passiv-praesens
+level: A2.2
+title: مجهول (Passiv) در زمان حال
+de: Das Passiv im Präsens
+tags: مجهول, Passiv, Vorgangspassiv, werden, Partizip II, شدن, می‌شود, von, ساخته می‌شود, نوشته می‌شود, man, مجهول حال
+summary: «خانه ساخته **می‌شود**» ← `Das Haus **wird gebaut**.` مجهول آلمانی دقیقاً مثل فارسی با «شدن» (`werden`) + اسم مفعول ساخته می‌شود.
+---
+## ساختار {#struktur}
+
+:::rule
+**werden (صرف‌شده) در جایگاه ۲ + … + Partizip II در آخر**
+:::
+
+| فعال (Aktiv) | مجهول (Passiv) |
+|---|---|
+| Der Bäcker **backt** das Brot. | Das Brot **wird** (vom Bäcker) **gebacken**. |
+| Man **repariert** das Auto. | Das Auto **wird repariert**. |
+| Die Firma **baut** neue Häuser. | Neue Häuser **werden gebaut**. |
+
+> In Deutschland **wird** viel Kaffee **getrunken**. = در آلمان قهوهٔ زیادی نوشیده می‌شود.
+> Die Post **wird** um 10 Uhr **gebracht**. = نامه‌ها ساعت ۱۰ آورده می‌شوند.
+> Wie **wird** das Wort **geschrieben**? = این کلمه چطور نوشته می‌شود؟
+
+(صرف `werden` را در [[a21-werden#konjugation]] دیدید؛ اسم مفعول را در [[a12-perfekt-sein#uebersicht]].)
+
+## از فعال به مجهول {#umformung}
+
+:::rule
+1. **مفعول Akkusativ** جملهٔ فعال ← **فاعل (Nominativ)** جملهٔ مجهول
+2. فعل ← `werden` + Partizip II
+3. فاعل جملهٔ فعال ← حذف می‌شود، یا با `von + Dativ` می‌آید
+:::
+
+> Der Arzt untersucht **den Patienten**. → **Der Patient** wird (vom Arzt) untersucht.
+
+:::note von یا durch؟
+- `von` + Dat: کنندهٔ کار (شخص یا عامل): `vom Arzt`
+- `durch` + Akk: وسیله یا علت: `durch einen Sturm zerstört` ([[b11-passiv]])
+:::
+
+## چه وقت مجهول؟ {#wann}
+
+وقتی **خودِ کار یا فرایند** مهم است، نه کسی که آن را انجام می‌دهد:
+- دستورالعمل و فرایند: `Zuerst **wird** das Wasser **gekocht**.` (اول آب جوشانده می‌شود)
+- خبر و متن رسمی: `Die Straße **wird** morgen **gesperrt**.`
+- قوانین و رسوم: `Hier **wird** nicht **geraucht**.`
+- وقتی کننده معلوم نیست یا مهم نیست.
+
+## مجهول بدون فاعل (Es wird …) {#unpersoenlich}
+
+با فعل‌هایی که مفعول Akkusativ ندارند، مجهول بدون فاعل واقعی ساخته می‌شود:
+> **Es wird** getanzt. / Hier **wird** getanzt. = (اینجا) رقصیده می‌شود / می‌رقصند.
+> Am Sonntag **wird** nicht **gearbeitet**. = یکشنبه‌ها کار نمی‌شود.
+
+(`es` فقط وقتی می‌آید که جایگاه ۱ خالی باشد.)
+
+## مجهول یا man؟ {#man}
+
+`man` جایگزین ساده‌ای برای مجهول است ([[a11-esgibt-man#man]]):
+> **Man** spricht hier Deutsch. = Hier **wird** Deutsch **gesprochen**.
+
+## مقایسه با فارسی {#fa}
+
+:::fa مجهول آلمانی = مجهول فارسی
+این یکی از زیباترین شباهت‌هاست! هر دو زبان مجهول را با فعل «**شدن**» + اسم مفعول می‌سازند:
+| فارسی | آلمانی |
+|---|---|
+| ساخته **می‌شود** | **wird** gebaut |
+| نوشته **می‌شود** | **wird** geschrieben |
+| خورده **می‌شود** | **wird** gegessen |
+| تعمیر **می‌شود** | **wird** repariert |
+
+حتی کنندهٔ کار هم در هر دو با یک حرف اضافه می‌آید: «**توسطِ** پزشک» ← `**vom** Arzt`.
+
+تنها فرق: ترتیب. فارسی: «ماشین **تعمیر می‌شود**»؛ آلمانی: `Das Auto **wird** **repariert**` (فعل کمکی در جایگاه ۲، اسم مفعول آخر).
+
+در فارسی محاوره بیشتر از جملهٔ فعال با فاعل نامعین استفاده می‌کنیم («ماشین را **تعمیر می‌کنند**»)؛ معادل آلمانی‌اش `man` است.
+:::
+
+## ادامه {#weiter}
+
+Passiv در گذشته (`wurde gebaut`، `ist gebaut worden`) و با افعال وجهی (`muss gebaut werden`): [[b11-passiv]]. Passiv حالتی (`ist geöffnet`): [[b12-zustandspassiv]].
+
+## خودآزمایی {#quiz}
+
+?? مجهول کنید: `Man öffnet die Tür.` => `Die Tür wird geöffnet.`
+?? مجهول کنید: `Der Lehrer korrigiert die Tests.` => `Die Tests werden (vom Lehrer) korrigiert.`
+?? «در این رستوران غذای ایرانی پخته می‌شود.» (kochen) => `In diesem Restaurant wird persisches Essen gekocht.`
+?? `Das Paket ___ morgen ___.` (liefern) => `wird … geliefert`
+?? «اینجا انگلیسی صحبت می‌شود.» => `Hier wird Englisch gesprochen.`
+
+@@ a22-mittelfeld
+level: A2.2
+title: ترتیب اجزای جمله: TeKaMoLo و جایگاه مفعول‌ها
+de: Satzbau im Mittelfeld: TeKaMoLo, Dativ und Akkusativ
+tags: ترتیب کلمات, Wortstellung, Mittelfeld, TeKaMoLo, Temporal, Kausal, Modal, Lokal, زمان مکان, ضمیر قبل از اسم, Dativ Akkusativ ترتیب, nicht
+summary: وسط جمله (بین فعل و آخر جمله) چه چیزی اول می‌آید؟ قاعدهٔ TeKaMoLo برای قیدها و قاعدهٔ ترتیب ضمیرها و مفعول‌ها.
+---
+## «میانهٔ جمله» (Mittelfeld) {#mittelfeld}
+
+در قاب جمله ([[a11-trennbar#was]])، بین فعل صرف‌شده و بخش دوم فعل، «میانه» قرار دارد. سؤال این است: اجزا در میانه به چه ترتیبی می‌آیند؟
+
+| ۱ | ۲ (فعل) | **میانه** | آخر |
+|---|---|---|---|
+| Ich | habe | **gestern wegen des Regens mit dem Bus in die Stadt** | gefahren. |
+
+## TeKaMoLo: ترتیب قیدها {#tekamolo}
+
+:::rule
+**Te**mporal (کِی؟) ← **Ka**usal (چرا؟) ← **Mo**dal (چطور؟ با چه؟) ← **Lo**kal (کجا؟ به کجا؟)
+:::
+
+| Te (wann?) | Ka (warum?) | Mo (wie?) | Lo (wo/wohin?) |
+|---|---|---|---|
+| heute | wegen des Staus | mit dem Fahrrad | zur Arbeit |
+
+> Ich fahre **morgen** **wegen der Prüfung** **mit dem Zug** **nach Berlin**. = فردا به‌خاطر امتحان با قطار به برلین می‌روم.
+> Wir sind **gestern** **sehr schnell** **nach Hause** gegangen.
+
+:::tip
+TeKaMoLo ترتیب **معمولی** است، نه قانون آهنین. هر جزئی که تأکید دارد می‌تواند به جایگاه ۱ برود: `**Mit dem Zug** fahre ich morgen nach Berlin.` اما در میانهٔ جمله، این ترتیب طبیعی‌ترین است. ساده‌ترین قاعده: **زمان قبل از مکان**.
+:::
+
+:::fa مقایسه با فارسی
+خوشبختانه ترتیب طبیعی فارسی هم شبیه همین است: «**فردا** **به‌خاطر امتحان** **با قطار** **به برلین** می‌روم.» زمان ← علت ← روش ← مکان. پس اینجا می‌توانید به حس فارسی‌تان اعتماد کنید!
+:::
+
+## ترتیب مفعول‌ها {#objekte}
+
+:::rule
+1. **ضمیرها قبل از اسم‌ها**
+2. دو اسم: **Dativ قبل از Akkusativ**
+3. دو ضمیر: **Akkusativ قبل از Dativ**
+4. ضمیر Akk + اسم Dat: ضمیر اول (قاعدهٔ ۱)
+:::
+
+| | Dativ | Akkusativ | |
+|---|---|---|---|
+| Ich gebe | dem Kind | den Ball. | دو اسم: Dat ← Akk |
+| Ich gebe | ihm | den Ball. | ضمیر اول |
+| Ich gebe | ihn | dem Kind. | ضمیر اول (Akk) |
+| Ich gebe | ihn | ihm. | دو ضمیر: Akk ← Dat |
+
+:::tip ترفند
+ضمیرها کوتاه و «سبک»اند و به سمت فعل کشیده می‌شوند. اسم‌ها «سنگین»اند و به سمت آخر می‌روند. اطلاعات **تازه و مهم** معمولاً آخر می‌آید.
+:::
+
+## جایگاه فاعل در وارونگی {#subjekt}
+
+وقتی چیزی غیر از فاعل در جایگاه ۱ است، فاعل معمولاً **اولِ میانه** است. اما ضمیرِ مفعولی می‌تواند قبل از فاعلِ اسمی بیاید:
+> Gestern hat **mein Bruder** mir geholfen. / Gestern hat **mir** mein Bruder geholfen. (هر دو درست)
+> Gestern hat **er** mir geholfen. (فاعلِ ضمیری همیشه اول)
+
+## جای کامل اجزا در میانه {#gesamt}
+
+ترتیب کلی (طبیعی) در میانه:
+
+| ۱ | ۲ | ۳ | ۴ | ۵ | ۶ |
+|---|---|---|---|---|---|
+| فاعل (اگر بعد از فعل) | ضمایر (Akk ← Dat) | مفعول‌های اسمیِ معین (Dat ← Akk) | قیدها (Te-Ka-Mo) | nicht | مکان/جهت، مسند |
+
+> Ich habe **ihm** **das Buch** **gestern** **nicht** gegeben. = دیروز کتاب را به او ندادم.
+> Wir fahren **morgen** **nicht** **nach Köln**. = فردا به کلن نمی‌رویم.
+
+جایگاه دقیق `nicht`: [[b12-nicht-position]]. ساختار کامل جمله با «میدان‌ها»: [[b22-feldermodell]].
+
+## خودآزمایی {#quiz}
+
+?? مرتب کنید: `fahre / ich / mit dem Auto / morgen / nach Hamburg` => `Ich fahre morgen mit dem Auto nach Hamburg.`
+?? `Ich gebe ___ ___.` (das Geld / meinem Bruder) => `Ich gebe meinem Bruder das Geld.`
+?? همان جمله با دو ضمیر (es / ihm) => `Ich gebe es ihm.`
+?? `Ich zeige ___ ___.` (die Fotos → sie / dir) => `Ich zeige sie dir.`
+?? مرتب کنید: `bin / ich / zu Fuß / gestern / gegangen / zur Uni` => `Ich bin gestern zu Fuß zur Uni gegangen.`
+
+@@ a22-lassen
+level: A2.2
+title: فعل lassen: «گذاشتن»، «اجازه دادن»، «دادن کسی کاری را انجام دهد»
+de: Das Verb „lassen“
+tags: lassen, گذاشتن, اجازه دادن, Lass mich, Lass uns, reparieren lassen, دادن تعمیر کنند, causative, سببی, sich lassen, gelassen, lässt
+summary: `lassen` یکی از پرکاربردترین فعل‌هاست: «بگذار بروم»، «ماشینم را می‌دهم تعمیر کنند»، «کلید را در خانه جا گذاشتم».
+---
+## صرف {#konjugation}
+
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| lasse | **lässt** | **lässt** | lassen | lasst | lassen |
+
+گذشته: `ließ` (Präteritum)، `hat gelassen` / `hat … lassen` (Perfekt؛ پایین‌تر ببینید). امر: `Lass!`، `Lasst!`، `Lassen Sie!`
+
+## چهار معنی اصلی {#bedeutungen}
+
+### ۱. اجازه دادن، گذاشتن («بگذار»)
+> **Lass** mich in Ruhe! = ولم کن! / راحتم بگذار!
+> Meine Eltern **lassen** mich nicht allein reisen. = پدر و مادرم نمی‌گذارند تنها سفر کنم.
+> **Lassen Sie** mich bitte ausreden! = لطفاً بگذارید حرفم را تمام کنم!
+
+### ۲. دادن کاری به دیگری («می‌دهم … کنند»)
+:::rule
+**lassen + مفعول + مصدر** = خودم کار را انجام نمی‌دهم، کسی دیگر برایم انجام می‌دهد.
+:::
+> Ich **lasse** mein Auto **reparieren**. = ماشینم را می‌دهم تعمیر کنند.
+> Sie **lässt** sich die Haare **schneiden**. = موهایش را (در آرایشگاه) کوتاه می‌کند.
+> Wir **lassen** die Pizza **liefern**. = می‌دهیم پیتزا را بیاورند (سفارش می‌دهیم).
+
+:::warn تفاوت معنایی مهم
+- `Ich repariere mein Auto.` = (خودم) ماشینم را تعمیر می‌کنم.
+- `Ich **lasse** mein Auto reparieren.` = ماشینم را می‌دهم (تعمیرکار) تعمیر کند.
+- `Ich schneide mir die Haare.` = خودم موهایم را کوتاه می‌کنم.
+- `Ich **lasse** mir die Haare schneiden.` = موهایم را (آرایشگر) کوتاه می‌کند.
+:::
+
+### ۳. جا گذاشتن، رها کردن، ول کردن
+> Ich habe mein Handy zu Hause **gelassen**. = گوشی‌ام را در خانه جا گذاشتم.
+> **Lass** das! = ولش کن! / این کار را نکن!
+> Er kann das Rauchen nicht **lassen**. = نمی‌تواند سیگار را ترک کند.
+
+### ۴. پیشنهاد: Lass uns … («بیا …»)
+> **Lass uns** ins Kino gehen! = بیا برویم سینما!
+> **Lasst uns** anfangen! = بیایید شروع کنیم!
+
+(هم‌معنی `Gehen wir!` در [[a12-imperativ#formen]].)
+
+## Perfekt: gelassen یا lassen؟ {#perfekt}
+
+:::rule
+- `lassen` **تنها** (معنی ۳) → `hat gelassen`: `Ich habe das Buch zu Hause **gelassen**.`
+- `lassen` **+ مصدر** (معنی ۱ و ۲) → «دو مصدر»: `hat … reparieren **lassen**`
+:::
+
+> Ich **habe** mein Auto **reparieren lassen**. = ماشینم را دادم تعمیر کردند.
+> Sie **hat** mich nicht **gehen lassen**. = نگذاشت بروم.
+
+این ساختار «دو مصدر» (Ersatzinfinitiv) همان است که در افعال وجهی هم هست ([[b22-ersatzinf]]). در جملهٔ پیرو: `…, weil ich mein Auto **habe reparieren lassen**.`
+
+## sich lassen: «قابل … بودن» {#sich}
+
+> Das **lässt sich** leicht **erklären**. = این را به‌راحتی می‌شود توضیح داد.
+> Das Fenster **lässt sich** nicht **öffnen**. = پنجره باز نمی‌شود.
+
+این یکی از جایگزین‌های مجهول است ([[b21-passiversatz]]).
+
+## مقایسه با فارسی {#fa}
+
+:::fa lassen ≈ «گذاشتن» + «دادن»
+| معنی | فارسی | آلمانی |
+|---|---|---|
+| اجازه | **بگذار** بروم. | **Lass** mich gehen. |
+| جا گذاشتن | کلید را خانه **گذاشتم/جا گذاشتم**. | Ich habe den Schlüssel zu Hause **gelassen**. |
+| سببی | ماشین را **دادم** تعمیر کنند. | Ich habe das Auto reparieren **lassen**. |
+| پیشنهاد | **بیا** برویم. | **Lass uns** gehen. |
+
+فارسی برای «سببی» از «**دادن**» استفاده می‌کند («دادم لباسم را دوختند»)؛ آلمانی از `lassen`. اما برای «اجازه» و «جا گذاشتن»، `lassen` تقریباً دقیقاً «گذاشتن» است.
+:::
+
+## خودآزمایی {#quiz}
+
+?? `du` + `lassen` => `du lässt`
+?? «بگذار کمکت کنم!» => `Lass mich dir helfen!`
+?? «کت‌وشلوارم را می‌دهم تمیز کنند.» (den Anzug reinigen) => `Ich lasse meinen Anzug reinigen.`
+?? «چترم را در اتوبوس جا گذاشتم.» => `Ich habe meinen Regenschirm im Bus gelassen.`
+?? «بیا یک قهوه بخوریم!» (trinken) => `Lass uns einen Kaffee trinken!`
+?? Perfekt: `Er lässt sein Fahrrad reparieren.` => `Er hat sein Fahrrad reparieren lassen.`
