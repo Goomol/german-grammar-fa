@@ -2,7 +2,9 @@
 
 A self-contained, offline single-page web app that teaches German grammar from **A1.1 to B2.2** in Persian, lesson by lesson, following the order of common textbooks (Menschen, Momente, Linie 1).
 
-**Open the app:** download [`dist/german-grammar-fa.html`](dist/german-grammar-fa.html) and open it in any browser. No internet connection or installation needed.
+**Open the app online:** https://goomol.github.io/german-grammar-fa/
+
+**Offline:** download [`dist/german-grammar-fa.html`](dist/german-grammar-fa.html) and open it in any browser. No internet connection or installation needed.
 
 ## Features
 
