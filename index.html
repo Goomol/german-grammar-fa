@@ -4,11 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>گرامر آلمانی به فارسی</title>
-<meta http-equiv="refresh" content="0; url=dist/german-grammar-fa.html">
-<link rel="canonical" href="dist/german-grammar-fa.html">
-<script>location.replace('dist/german-grammar-fa.html' + location.hash);</script>
+<link rel="canonical" href="https://lingoping.com/fa/german-grammar/">
+<script>(function(){
+  var base='https://lingoping.com/fa/german-grammar/',path='';
+  var m=decodeURIComponent(location.hash).match(/^#\/(l|v)\/([^\/]+)(?:\/(.+))?$/);
+  if(m&&m[1]==='v')path=(m[2]==='X'?'reference':m[2].toLowerCase().replace('.','-'))+'/';
+  if(m&&m[1]==='l'){
+    var p=m[2].match(/^(?:([ab])(\d)(\d)|x)-(.+)$/);
+    if(p)path=(p[1]?p[1]+p[2]+'-'+p[3]:'reference')+'/'+p[4]+'/'+(m[3]?'#'+m[3]:'');
+  }
+  location.replace(base+path);
+})();</script>
+<noscript><meta http-equiv="refresh" content="0; url=https://lingoping.com/fa/german-grammar/"></noscript>
 </head>
 <body style="font-family:system-ui,sans-serif;text-align:center;padding:3em">
-<a href="dist/german-grammar-fa.html">گرامر آلمانی به فارسی — ورود به برنامه</a>
+<a href="https://lingoping.com/fa/german-grammar/">گرامر آلمانی به فارسی در LingoPing</a>
 </body>
 </html>
